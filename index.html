@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CDG Watch — コムデギャルソン情報トラッカー</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #faf9f7; --fg: #1a1a1a; --muted: #6b6b6b;
+    --card: #ffffff; --line: #e5e2dd; --accent: #b3003c;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #121212; --fg: #ececec; --muted: #9a9a9a;
+            --card: #1c1c1c; --line: #2c2c2c; --accent: #ff4d79; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg);
+         font-family: "Hiragino Sans", "Noto Sans JP", system-ui, sans-serif; }
+  header { padding: 2rem 1.25rem 1rem; max-width: 860px; margin: 0 auto; }
+  h1 { margin: 0; font-size: 1.5rem; letter-spacing: .04em; }
+  h1 span { color: var(--accent); }
+  .meta { color: var(--muted); font-size: .8rem; margin-top: .4rem; }
+  .controls { display: flex; gap: .5rem; flex-wrap: wrap; margin-top: 1rem; }
+  input[type="search"], select {
+    padding: .5rem .75rem; border: 1px solid var(--line); border-radius: 8px;
+    background: var(--card); color: var(--fg); font-size: .9rem;
+  }
+  input[type="search"] { flex: 1; min-width: 200px; }
+  main { max-width: 860px; margin: 0 auto; padding: 0 1.25rem 4rem; }
+  .day { margin-top: 1.5rem; }
+  .day > h2 { font-size: .85rem; color: var(--muted); font-weight: 600;
+              border-bottom: 1px solid var(--line); padding-bottom: .35rem; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+          padding: .9rem 1rem; margin-top: .6rem; }
+  .card a { color: var(--fg); text-decoration: none; font-weight: 600; line-height: 1.5; }
+  .card a:hover { color: var(--accent); }
+  .card .src { color: var(--muted); font-size: .75rem; margin-top: .35rem; }
+  .card .summary { font-size: .85rem; line-height: 1.7; margin-top: .5rem;
+                   color: var(--fg); opacity: .85; }
+  .tags { margin-top: .4rem; }
+  .tag { display: inline-block; font-size: .7rem; color: var(--accent);
+         border: 1px solid var(--accent); border-radius: 999px;
+         padding: .05rem .55rem; margin-right: .3rem; }
+  .empty { color: var(--muted); margin-top: 2rem; }
+</style>
+</head>
+<body>
+<header>
+  <h1>CDG <span>Watch</span></h1>
+  <div class="meta" id="meta">読み込み中…</div>
+  <div class="controls">
+    <input type="search" id="q" placeholder="キーワードで絞り込み…">
+    <select id="feed"><option value="">すべてのソース</option></select>
+  </div>
+</header>
+<main id="list"></main>
+<script>
+const fmtDay = iso => new Date(iso).toLocaleDateString("ja-JP",
+  { year: "numeric", month: "long", day: "numeric", weekday: "short" });
+let items = [];
+
+function render() {
+  const q = document.getElementById("q").value.trim().toLowerCase();
+  const feed = document.getElementById("feed").value;
+  const list = document.getElementById("list");
+  const hit = items.filter(i =>
+    (!feed || i.feed === feed) &&
+    (!q || (i.title + " " + (i.summary ?? "") + " " + (i.publisher ?? ""))
+      .toLowerCase().includes(q)));
+  list.innerHTML = "";
+  if (!hit.length) { list.innerHTML = '<p class="empty">該当する記事がありません。</p>'; return; }
+  let day = null, dayEl = null;
+  for (const i of hit) {
+    const d = i.publishedAt ? fmtDay(i.publishedAt) : "日付不明";
+    if (d !== day) {
+      day = d;
+      dayEl = document.createElement("section");
+      dayEl.className = "day";
+      dayEl.innerHTML = `<h2>${d}</h2>`;
+      list.appendChild(dayEl);
+    }
+    const card = document.createElement("article");
+    card.className = "card";
+    card.innerHTML = `
+      <a href="${i.url}" target="_blank" rel="noopener">${i.title}</a>
+      <div class="src">${i.publisher ?? i.feed}</div>
+      ${i.summary ? `<div class="summary">${i.summary}</div>` : ""}
+      ${i.tags?.length ? `<div class="tags">${i.tags.map(t => `<span class="tag">${t}</span>`).join("")}</div>` : ""}`;
+    dayEl.appendChild(card);
+  }
+}
+
+fetch("data/items.json").then(r => r.json()).then(data => {
+  items = data.items;
+  document.getElementById("meta").textContent =
+    `${items.length}件 · 最終更新 ${new Date(data.updatedAt).toLocaleString("ja-JP")}`;
+  const feeds = [...new Set(items.map(i => i.feed))];
+  const sel = document.getElementById("feed");
+  for (const f of feeds) sel.add(new Option(f, f));
+  render();
+}).catch(() => {
+  document.getElementById("meta").textContent = "データの読み込みに失敗しました。";
+});
+document.getElementById("q").addEventListener("input", render);
+document.getElementById("feed").addEventListener("change", render);
+</script>
+</body>
+</html>

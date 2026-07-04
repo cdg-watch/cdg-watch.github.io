@@ -1,0 +1,6 @@
+{
+  "name": "cdg-watch",
+  "private": true,
+  "type": "module",
+  "scripts": { "collect": "node scripts/collect.js" }
+}
