@@ -52,6 +52,10 @@
   <div class="controls">
     <input type="search" id="q" placeholder="キーワードで絞り込み…">
     <select id="feed"><option value="">すべてのソース</option></select>
+    <select id="tagf">
+      <option value="">すべてのカテゴリ</option>
+      <option value="__official">新品・ニュースのみ(二次流通を除く)</option>
+    </select>
   </div>
 </header>
 <main id="list"></main>
@@ -63,9 +67,13 @@ let items = [];
 function render() {
   const q = document.getElementById("q").value.trim().toLowerCase();
   const feed = document.getElementById("feed").value;
+  const tagf = document.getElementById("tagf").value;
   const list = document.getElementById("list");
   const hit = items.filter(i =>
     (!feed || i.feed === feed) &&
+    (tagf === "" ||
+      (tagf === "__official" ? !(i.tags ?? []).includes("二次流通")
+                             : (i.tags ?? []).includes(tagf))) &&
     (!q || (i.title + " " + (i.summary ?? "") + " " + (i.publisher ?? ""))
       .toLowerCase().includes(q)));
   list.innerHTML = "";
@@ -98,12 +106,16 @@ fetch("data/items.json").then(r => r.json()).then(data => {
   const feeds = [...new Set(items.map(i => i.feed))];
   const sel = document.getElementById("feed");
   for (const f of feeds) sel.add(new Option(f, f));
+  const tags = [...new Set(items.flatMap(i => i.tags ?? []))].sort();
+  const tsel = document.getElementById("tagf");
+  for (const t of tags) tsel.add(new Option(t, t));
   render();
 }).catch(() => {
   document.getElementById("meta").textContent = "データの読み込みに失敗しました。";
 });
 document.getElementById("q").addEventListener("input", render);
 document.getElementById("feed").addEventListener("change", render);
+document.getElementById("tagf").addEventListener("change", render);
 </script>
 </body>
 </html>

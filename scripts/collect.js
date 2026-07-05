@@ -10,6 +10,10 @@ const MAX_ITEMS = 1000;
 
 const SOURCES = [
   {
+    name: "CDG FREAK",
+    url: "https://cdg-freak.com/feed/",
+  },
+  {
     name: "Google News (日本語)",
     url: "https://news.google.com/rss/search?q=%22%E3%82%B3%E3%83%A0%E3%83%87%E3%82%AE%E3%83%A3%E3%83%AB%E3%82%BD%E3%83%B3%22&hl=ja&gl=JP&ceid=JP:ja",
   },
@@ -18,6 +22,10 @@ const SOURCES = [
     url: "https://news.google.com/rss/search?q=%22Comme+des+Gar%C3%A7ons%22&hl=en-US&gl=US&ceid=US:en",
   },
 ];
+
+// 二次流通(リセール・中古・フリマ)系の出典は収集時点で自動タグ付けする
+const RESALE_RE =
+  /SNKRDUNK|スニーカーダンク|スニダン|メルカリ|ラクマ|ヤフオク|Yahoo!オークション|セカンドストリート|2nd STREET|トレファク|StockX|GOAT|Grailed/i;
 
 function decodeEntities(s) {
   return s
@@ -73,13 +81,14 @@ async function main() {
         .slice(0, 16);
       if (known.has(id)) continue;
       known.add(id);
+      const resale = RESALE_RE.test((item.publisher ?? "") + " " + item.title);
       added.push({
         id,
         ...item,
         feed: source.name,
         fetchedAt: new Date().toISOString(),
         summary: null, // 日次エージェントが日本語1〜2文で埋める
-        tags: [],
+        tags: resale ? ["二次流通"] : [],
       });
     }
   }
