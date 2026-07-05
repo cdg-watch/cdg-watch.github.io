@@ -32,7 +32,12 @@
   .day > h2 { font-size: .85rem; color: var(--muted); font-weight: 600;
               border-bottom: 1px solid var(--line); padding-bottom: .35rem; }
   .card { background: var(--card); border: 1px solid var(--line); border-radius: 10px;
-          padding: .9rem 1rem; margin-top: .6rem; }
+          padding: .9rem 1rem; margin-top: .6rem;
+          display: flex; gap: .9rem; align-items: flex-start; }
+  .card .body { flex: 1; min-width: 0; }
+  .card .thumb { width: 96px; height: 96px; object-fit: cover; border-radius: 8px;
+                 flex-shrink: 0; background: var(--line); }
+  @media (max-width: 480px) { .card .thumb { width: 72px; height: 72px; } }
   .card a { color: var(--fg); text-decoration: none; font-weight: 600; line-height: 1.5; }
   .card a:hover { color: var(--accent); }
   .card .src { color: var(--muted); font-size: .75rem; margin-top: .35rem; }
@@ -53,8 +58,8 @@
     <input type="search" id="q" placeholder="キーワードで絞り込み…">
     <select id="feed"><option value="">すべてのソース</option></select>
     <select id="tagf">
+      <option value="__official" selected>新品・ニュースのみ(二次流通を除く)</option>
       <option value="">すべてのカテゴリ</option>
-      <option value="__official">新品・ニュースのみ(二次流通を除く)</option>
     </select>
   </div>
 </header>
@@ -91,10 +96,14 @@ function render() {
     const card = document.createElement("article");
     card.className = "card";
     card.innerHTML = `
-      <a href="${i.url}" target="_blank" rel="noopener">${i.title}</a>
-      <div class="src">${i.publisher ?? i.feed}</div>
-      ${i.summary ? `<div class="summary">${i.summary}</div>` : ""}
-      ${i.tags?.length ? `<div class="tags">${i.tags.map(t => `<span class="tag">${t}</span>`).join("")}</div>` : ""}`;
+      <div class="body">
+        <a href="${i.url}" target="_blank" rel="noopener">${i.title}</a>
+        <div class="src">${i.publisher ?? i.feed}</div>
+        ${i.summary ? `<div class="summary">${i.summary}</div>` : ""}
+        ${i.tags?.length ? `<div class="tags">${i.tags.map(t => `<span class="tag">${t}</span>`).join("")}</div>` : ""}
+      </div>
+      ${i.image ? `<img class="thumb" src="${i.image}" alt="" loading="lazy"
+        referrerpolicy="no-referrer" onerror="this.remove()">` : ""}`;
     dayEl.appendChild(card);
   }
 }

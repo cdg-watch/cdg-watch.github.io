@@ -43,6 +43,17 @@ function tag(block, name) {
   return m ? decodeEntities(m[1]) : "";
 }
 
+// フィード内の画像URLを拾う(URLのみ。画像自体は保存しない)
+function itemImage(block) {
+  const enc = block.match(
+    /<(?:enclosure|media:content|media:thumbnail)[^>]+url="([^"]+)"/
+  );
+  if (enc) return decodeEntities(enc[1]);
+  const html = tag(block, "content:encoded") + tag(block, "description");
+  const img = html.match(/<img[^>]+src="([^"]+)"/i);
+  return img ? decodeEntities(img[1]) : null;
+}
+
 function parseRss(xml) {
   return [...xml.matchAll(/<item>(.*?)<\/item>/gs)].map(([, block]) => ({
     title: tag(block, "title"),
@@ -51,6 +62,7 @@ function parseRss(xml) {
       ? new Date(tag(block, "pubDate")).toISOString()
       : null,
     publisher: tag(block, "source") || null,
+    image: itemImage(block),
   }));
 }
 
