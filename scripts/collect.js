@@ -36,6 +36,23 @@ const SOURCES = [
 const RESALE_RE =
   /SNKRDUNK|スニーカーダンク|スニダン|メルカリ|ラクマ|ヤフオク|Yahoo!オークション|セカンドストリート|2nd STREET|トレファク|StockX|GOAT|Grailed|brute[-.]?(beauty|tokyo|store)?|ブルート/i;
 
+// タイトルからカテゴリタグを機械的に推定(エージェントが後で精緻化する前の初期値)。
+// 記事は複数タグを持ちうる。二次流通は RESALE_RE で別途付与。
+const TAG_RULES = [
+  ["コラボ", /コラボ|collab|\bx\b|×|nike|jordan|new balance|supreme|adidas|ナイキ|ジョーダン|ニューバランス/i],
+  ["ショー/コレクション", /コレクション|collection|20\d\d\s?(春夏|秋冬|ss|fw|aw)|春夏|秋冬|runway|ランウェイ|ファッションウィーク|fashion week|ショー\b/i],
+  ["新作", /新作|新商品|発売|リリース|入荷|登場|new arrival|drop|release|launch|お目見え/i],
+  ["店舗", /オープン|開店|ポップアップ|pop[-\s]?up|期間限定|直営店|旗艦店|store opening|新店/i],
+  ["インタビュー", /インタビュー|interview|語る|川久保玲|rei kawakubo|対談|独占/i],
+  ["再販/セール", /セール|sale|再販|restock|再入荷|値下げ|割引|アウトレット/i],
+];
+
+function autoTags(title) {
+  const tags = [];
+  for (const [tag, re] of TAG_RULES) if (re.test(title)) tags.push(tag);
+  return tags;
+}
+
 function decodeEntities(s) {
   return s
     .replace(/<!\[CDATA\[(.*?)\]\]>/gs, "$1")
@@ -209,13 +226,14 @@ async function main() {
       if (known.has(id)) continue;
       known.add(id);
       const resale = RESALE_RE.test((item.publisher ?? "") + " " + item.title);
+      const tags = resale ? ["二次流通"] : autoTags(item.title);
       added.push({
         id,
         ...item,
         feed: source.name,
         fetchedAt: new Date().toISOString(),
         summary: null, // 日次エージェントが日本語1〜2文で埋める
-        tags: resale ? ["二次流通"] : [],
+        tags,
       });
     }
   }

@@ -25,7 +25,9 @@
       "feed": "WWD JAPAN",
       "fetchedAt": "2026-07-05T01:22:33.904Z",
       "summary": null,
-      "tags": []
+      "tags": [
+        "ショー/コレクション"
+      ]
     },
     {
       "id": "50fa10a5b233df70",
@@ -118,7 +120,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.627Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "インタビュー"
+      ],
       "image": null
     },
     {
@@ -130,7 +134,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ"
+      ],
       "image": null
     },
     {
@@ -142,7 +148,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.627Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ"
+      ],
       "image": "https://www.highsnobiety.com/static-assets/dato/1783078227-nike-dolce-hed.jpg"
     },
     {
@@ -154,7 +162,9 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "インタビュー"
+      ],
       "image": "https://imgopt.asahi.com/ogp/AS20260703004523_comm.jpg"
     },
     {
@@ -166,7 +176,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.627Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ"
+      ],
       "image": "https://images.soleretriever.com/blog/edbab75c2eb72dbd7517d62f0383116ac209ff93-620x380.png?rect=0,27,620,326&w=1200&h=630&fit=fill&auto=format"
     },
     {
@@ -179,7 +191,10 @@
       "feed": "Hypebeast JP",
       "fetchedAt": "2026-07-05T01:22:33.654Z",
       "summary": null,
-      "tags": []
+      "tags": [
+        "コラボ",
+        "新作"
+      ]
     },
     {
       "id": "c80cb84feecbfd4c",
@@ -190,7 +205,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.627Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ"
+      ],
       "image": "https://sneakernews.com/wp-content/uploads/2026/07/comme-des-garcons-cdg-new-balance-1226-1.jpg"
     },
     {
@@ -202,7 +219,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ"
+      ],
       "image": null
     },
     {
@@ -214,7 +233,9 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "再販/セール"
+      ],
       "image": "https://news.walkerplus.com/article/1271335/14764920_615.jpg"
     },
     {
@@ -252,7 +273,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ"
+      ],
       "image": "https://www.highsnobiety.com/static-assets/dato/1782776762-magentanikecage.jpg"
     },
     {
@@ -264,7 +287,9 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "新作"
+      ],
       "image": null
     },
     {
@@ -276,7 +301,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.627Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ"
+      ],
       "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F06&#x25;2F30&#x25;2Fcomme-des-garcons-homme-new-balance-1226-new-silhouette-collaboration-paris-fashion-week-ss27-exclusive-first-look-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
     },
     {
@@ -288,7 +315,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.627Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "インタビュー"
+      ],
       "image": "https://images-prod.anothermag.com/1200/0-300-1995-1330/azure/another-prod/470/5/475032.jpeg"
     },
     {
@@ -314,7 +343,9 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "新作"
+      ],
       "image": null
     },
     {
@@ -326,7 +357,9 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "インタビュー"
+      ],
       "image": "https://senken.co.jp/production/uploads/file_content/file/414779/medium_760570__35_.jpg"
     },
     {
@@ -338,7 +371,9 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "ショー/コレクション"
+      ],
       "image": "https://img-mdpr.freetls.fastly.net/article/GmW4/nm/GmW4MleYJHUrirvCDo-IJETPYypzoSxEnHIldb-A6_s.jpg?width=700&disable=upscale&auto=webp&quality=80"
     },
     {
@@ -386,7 +421,9 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "新作"
+      ],
       "image": "https://uptodate.tokyo/wp-content/uploads/2026/06/IMG_9459-819x1024.jpeg"
     },
     {
@@ -398,7 +435,9 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "インタビュー"
+      ],
       "image": "https://imgopt.asahi.com/ogp/AS20260627003943_comm.jpg"
     },
     {
@@ -422,7 +461,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.627Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "ショー/コレクション"
+      ],
       "image": "https://assets.vogue.com/photos/6a3f9214377daf788c94179e/16:9/pass/00001-comme-des-garcons-shirt-spring-2027-menswear-credit-gorunway.jpg"
     },
     {
@@ -470,7 +511,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "ショー/コレクション"
+      ],
       "image": "https://assets.vogue.com/photos/6a3eb1deed80d4f49171a93e/16:9/pass/00001-comme-des-garcons-homme-plus-spring-2027-menswear-credit-gorunway.jpg"
     },
     {
@@ -482,7 +525,10 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ",
+        "新作"
+      ],
       "image": "https://www.sneakerfiles.com/wp-content/uploads/2026/02/comme-des-garcons-homme-plus-air-jordan-11-white-black-release-info.jpg"
     },
     {
@@ -494,7 +540,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ"
+      ],
       "image": "https://sneakernews.com/wp-content/uploads/2026/06/comme-des-garcons-jordan-11-16.jpg"
     },
     {
@@ -506,7 +554,10 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ",
+        "新作"
+      ],
       "image": "https://justfreshkicks.com/wp-content/uploads/2026/01/Screenshot-2026-06-22-at-9.15.32-AM.jpg"
     },
     {
@@ -636,7 +687,9 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "ショー/コレクション"
+      ],
       "image": "https://www.cfecgc-orange.org/templates/yootheme/cache/56/reponse_courrier_demande_renouvelee_de_demenagement_de_lactivite_tertiaire_du_site_de_marseille_saint-mauront-5606a289.jpeg"
     },
     {
@@ -660,7 +713,9 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ"
+      ],
       "image": "https://www.cfecgc-orange.org/documents/images/do_idf/effectif_et_tps.jpg"
     },
     {
@@ -672,7 +727,9 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "インタビュー"
+      ],
       "image": "https://www.nippon.com/ja/ncommon/contents/japan-topics/3018457/3018457.jpg"
     },
     {
@@ -684,7 +741,9 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "インタビュー"
+      ],
       "image": null
     },
     {
@@ -696,7 +755,9 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "インタビュー"
+      ],
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3JFWzsTLeME_A9paPU19pkYYrgbakBHfMp00uvAtM6ajiwBlIc3aBs6QQlMBqokUUmoBSSK3HbaSukgOl53Cym8hyFkvkIn6W873IpTYCpTB9rZ-X6h8d8Mtj5AzxaF3kqVmAfO7qF_wO8x4w6tLQlg=="
     },
     {
@@ -812,7 +873,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "インタビュー"
+      ],
       "image": "https://hubemag.com/wp-content/uploads/2026/05/Rei-Kawakubo-brings-Comme-des-Garcons-archives-to-the-heart-of-Independent-Art-Fair_01.png"
     },
     {
@@ -836,7 +899,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "インタビュー"
+      ],
       "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F05&#x25;2F14&#x25;2Frei-kawakubo-comme-des-garcons-independent-art-fair-new-york-2026-installation-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
     },
     {
@@ -1008,7 +1073,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ"
+      ],
       "image": "https://www.highsnobiety.com/static-assets/dato/1777537935-comme-des-garcons-bape.jpg"
     },
     {
@@ -1021,7 +1088,11 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-05T07:41:41.492Z",
       "summary": null,
-      "tags": []
+      "tags": [
+        "コラボ",
+        "ショー/コレクション",
+        "新作"
+      ]
     },
     {
       "id": "dc4d167a01bf293c",
@@ -1150,7 +1221,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ"
+      ],
       "image": "https://cdn.sanity.io/images/f8lauh0h/production/623d6428318e686e9d18874a0b6e4372157fb2f3-5500x4278.jpg"
     },
     {
@@ -1224,7 +1297,10 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ",
+        "新作"
+      ],
       "image": "https://www.nicekicks.com/files/2026/03/iq5171-002-5-e1774639375742.jpg"
     },
     {
@@ -1236,7 +1312,9 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ"
+      ],
       "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fjp.hypebeast.com&#x25;2Ffiles&#x25;2F2026&#x25;2F03&#x25;2F23&#x25;2Fcomme-des-garcons-parfums-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
     },
     {
@@ -1248,7 +1326,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ"
+      ],
       "image": "https://www.highsnobiety.com/static-assets/dato/1773913006-comme-des-garcons-homme-abzorb-2010-3.jpg"
     },
     {
@@ -1312,7 +1392,10 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ",
+        "新作"
+      ],
       "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fjp.hypebeast.com&#x25;2Ffiles&#x25;2F2026&#x25;2F03&#x25;2F13&#x25;2Fcomme-des-garcons-homme-new-balance-abzorb-2010-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
     },
     {
@@ -1324,7 +1407,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ"
+      ],
       "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F03&#x25;2F13&#x25;2Fcomme-des-garcons-homme-new-balance-abzorb-2010-release-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
     },
     {
@@ -1336,7 +1421,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "インタビュー"
+      ],
       "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F03&#x25;2F11&#x25;2Ftwcomme-des-garcons-fall-winter-2026-runway-collection-paris-fashion-week.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
     },
     {
@@ -1348,7 +1435,9 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "ショー/コレクション"
+      ],
       "image": "https://imgopt.asahi.com/ogp/AS20260309002271_comm.jpg"
     },
     {
@@ -1434,7 +1523,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "ショー/コレクション"
+      ],
       "image": "https://assets.vogue.com/photos/69ac82ece9b53b64b7568b80/16:9/pass/00001-comme-des-garcons-fall-2026-ready-to-wear-credit-gorunway.jpg"
     },
     {
@@ -1496,7 +1587,9 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "店舗"
+      ],
       "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/02/cdg-kyoto-2026-0227-027-e0c0e149-3cd5-491d-becc-c3335e067b13.jpg"
     },
     {
@@ -1521,7 +1614,10 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-05T07:41:41.492Z",
       "summary": null,
-      "tags": []
+      "tags": [
+        "新作",
+        "インタビュー"
+      ]
     },
     {
       "id": "6656343579e56250",
@@ -1570,7 +1666,11 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ",
+        "ショー/コレクション",
+        "新作"
+      ],
       "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fjp.hypebeast.com&#x25;2Ffiles&#x25;2F2026&#x25;2F02&#x25;2Fjah-jah-studio-comme-des-garcons-shirt-reunite-ss26-capsule-collaboration-release-info-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
     },
     {
@@ -1670,7 +1770,10 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ",
+        "新作"
+      ],
       "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/02/cdg-tnf-collaboration-2026-029-cb207bc0-4d71-4699-8638-a10245a919ef.jpg"
     },
     {
@@ -1694,7 +1797,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ"
+      ],
       "image": "https://www.highsnobiety.com/static-assets/dato/1770050790-nb-cover.png"
     },
     {
@@ -1731,7 +1836,10 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-05T07:41:41.492Z",
       "summary": null,
-      "tags": []
+      "tags": [
+        "コラボ",
+        "新作"
+      ]
     },
     {
       "id": "47b8fd02067166d1",
@@ -1754,7 +1862,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ"
+      ],
       "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F01&#x25;2F27&#x25;2Fcomme-des-garcons-homme-new-balance-u1890a-black-charcoal-beige-orange-exclusive-closer-look-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
     },
     {
@@ -1766,7 +1876,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ"
+      ],
       "image": "https://cdn.sanity.io/images/c1chvb1i/production/ea49987096c5627889df92f40001d73f821350e2-1960x1320.jpg"
     },
     {
@@ -1778,7 +1890,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ"
+      ],
       "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F01&#x25;2F27&#x25;2Fcomme-des-garcons-black-x-nike-ld-1000-spirit-pink-black-white-spirit-pink-iu7936-001-release-info-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
     },
     {
@@ -1791,7 +1905,9 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-05T07:41:41.492Z",
       "summary": null,
-      "tags": []
+      "tags": [
+        "インタビュー"
+      ]
     },
     {
       "id": "b9385e8345e53e80",
@@ -1802,7 +1918,9 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "ショー/コレクション"
+      ],
       "image": "https://senken.co.jp/production/uploads/file_content/file/397663/medium_plus-collage__9_.jpg"
     },
     {
@@ -1814,7 +1932,10 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ",
+        "新作"
+      ],
       "image": "https://cdn.sanity.io/images/c1chvb1i/production/d51730f8bdde51fa91929e3af65a780f1aa0d065-1100x735.jpg"
     },
     {
@@ -1826,7 +1947,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "ショー/コレクション"
+      ],
       "image": "https://www.designscene.net/wp-content/uploads/2026/01/Comme-des-Garcons-Homme-Plus-Fall-Winter-2026-00.webp"
     },
     {
@@ -1888,7 +2011,9 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "インタビュー"
+      ],
       "image": "https://imgopt.asahi.com/ogp/AS20260124001176_comm.jpg"
     },
     {
@@ -1911,7 +2036,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ"
+      ],
       "image": "https://cdn.sanity.io/images/pu5wtzfc/production/da8632bde1f965ae8c5604383866b227b792b7dc-1080x1350.jpg?rect=0,392,1080,567&w=1200&h=630"
     },
     {
@@ -1947,7 +2074,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ"
+      ],
       "image": "https://images.soleretriever.com/blog/ce11b37e3bc4f985389e442d198a6d203f7862db-620x380.png?rect=0,27,620,326&w=1200&h=630&fit=fill&auto=format"
     },
     {
@@ -1959,7 +2088,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "ショー/コレクション"
+      ],
       "image": "https://assets.vogue.com/photos/697494f67d28c9420a33dac2/16:9/pass/00001-comme-des-garcons-shirt-fall-2026-menswear-credit-gorunway.jpg"
     },
     {
@@ -1983,7 +2114,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ"
+      ],
       "image": "https://wwd.com/wp-content/uploads/2026/01/comme-des-garcons-air-jordan-11-10.jpg?w=1000&h=563&crop=1"
     },
     {
@@ -1995,7 +2128,10 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ",
+        "新作"
+      ],
       "image": "https://images.complex.com/complex/image/upload/c_crop,h_969,w_1440,x_0,y_0/g_xy_center,x_720,y_485/v1769271370/sanity-new%2Fimgi_2_621657984_18559905532050859_4688502116497270357_n_omvwwc"
     },
     {
@@ -2007,7 +2143,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ"
+      ],
       "image": "https://www.nicekicks.com/files/2026/01/imgi_22_621657984_18559905532050859_4688502116497270357_n-1-e1769366048451.jpeg"
     },
     {
@@ -2065,7 +2203,10 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "店舗",
+        "インタビュー"
+      ],
       "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2025/04/comme-des-garcons-shop-20250418_049-5019459e-2df6-4d27-874d-0cec1ff0dd12.jpg"
     },
     {
@@ -2102,7 +2243,10 @@
       "feed": "CDG FREAK",
       "fetchedAt": "2026-07-05T00:53:37.337Z",
       "summary": null,
-      "tags": []
+      "tags": [
+        "ショー/コレクション",
+        "再販/セール"
+      ]
     },
     {
       "id": "2231aaa89c412152",
@@ -2176,7 +2320,9 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ"
+      ],
       "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fjp.hypebeast.com&#x25;2Ffiles&#x25;2F2025&#x25;2F12&#x25;2FSingle-Image-562.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
     },
     {
@@ -2188,7 +2334,10 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ",
+        "新作"
+      ],
       "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fbae.hypebeast.com&#x25;2Ffiles&#x25;2F2025&#x25;2F12&#x25;2F23&#x25;2FSingle-Image-562.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
     },
     {
@@ -2200,7 +2349,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "インタビュー"
+      ],
       "image": "https://www.russh.com/wp-content/uploads/2025/12/Untitled-design-2026-01-26T184514.769.jpg"
     },
     {
@@ -2240,7 +2391,11 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ",
+        "ショー/コレクション",
+        "新作"
+      ],
       "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2025&#x25;2F12&#x25;2F14&#x25;2Fcomme-des-garcons-g-dragon-collaboration-collection-release-info-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
     },
     {
@@ -2292,7 +2447,10 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ",
+        "新作"
+      ],
       "image": "https://www.brandinginasia.com/wp-content/uploads/2025/12/Onitsuka-Tiger-COMME-des-GARCONS-Collab-.webp"
     },
     {
@@ -2318,7 +2476,9 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "新作"
+      ],
       "image": "https://www.mensnonno.jp/wp-content/uploads/2025/11/03.jpeg"
     },
     {
@@ -2330,7 +2490,11 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ",
+        "ショー/コレクション",
+        "新作"
+      ],
       "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fjp.hypebeast.com&#x25;2Ffiles&#x25;2F2025&#x25;2F11&#x25;2F28&#x25;2Ftrading-museum-comme-des-garcons-bajowoo-illumination-collection-release-info-01-1.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
     },
     {
@@ -2392,7 +2556,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "ショー/コレクション"
+      ],
       "image": "https://assets.vogue.com/photos/691607107440317fe38e698a/16:9/w_1280,c_limit/0906-VO-WE11.01.jpg"
     },
     {
@@ -2404,7 +2570,9 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "インタビュー"
+      ],
       "image": "https://imgopt.asahi.com/ogp/AS20251106001791_comm.jpg"
     },
     {
@@ -2467,7 +2635,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-05T01:22:35.160Z",
       "summary": null,
-      "tags": []
+      "tags": [
+        "コラボ"
+      ]
     },
     {
       "id": "4af2f6add8fa6735",
@@ -2490,7 +2660,9 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "インタビュー"
+      ],
       "image": "https://imgopt.asahi.com/ogp/AS20251018001833_comm.jpg"
     },
     {
@@ -2502,7 +2674,10 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "ショー/コレクション",
+        "インタビュー"
+      ],
       "image": "https://imgopt.asahi.com/ogp/AS20251017003251_comm.jpg"
     },
     {
@@ -2538,7 +2713,10 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ",
+        "新作"
+      ],
       "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fjp.hypebeast.com&#x25;2Ffiles&#x25;2F2025&#x25;2F10&#x25;2F10&#x25;2Fnew-balance-comme-des-garcons-homme-collabo-shoes-release-info-01-1.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
     },
     {
@@ -2620,7 +2798,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "ショー/コレクション"
+      ],
       "image": "https://assets.vogue.com/photos/68e1683970bf01d0febb4bf0/16:9/pass/00001-comme-des-garcons-spring-2026-ready-to-wear-credit-gorunway.jpg"
     },
     {
@@ -2692,7 +2872,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-05T00:47:55.988Z",
       "summary": null,
-      "tags": []
+      "tags": [
+        "新作"
+      ]
     },
     {
       "id": "d39ec457b36d75e9",
@@ -2703,7 +2885,9 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": []
+      "tags": [
+        "新作"
+      ]
     },
     {
       "id": "3802e53bd0c31a69",
@@ -2714,7 +2898,10 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ",
+        "ショー/コレクション"
+      ],
       "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fjp.hypebeast.com&#x25;2Ffiles&#x25;2F2025&#x25;2F09&#x25;2F17&#x25;2Fbape-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
     },
     {
@@ -2726,7 +2913,10 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "ショー/コレクション",
+        "新作"
+      ],
       "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2025&#x25;2F09&#x25;2F21&#x25;2Fbape-comme-des-garcons-osaka-limited-edition-collaboration-collection-release-info-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
     },
     {
@@ -2738,7 +2928,10 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
-      "tags": [],
+      "tags": [
+        "コラボ",
+        "新作"
+      ],
       "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fjp.hypebeast.com&#x25;2Ffiles&#x25;2F2025&#x25;2F09&#x25;2F17&#x25;2Fcomme-des-garcons-homme-plus-nike-air-rejuven8-00.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
     },
     {
@@ -2791,7 +2984,9 @@
       "feed": "CDG FREAK",
       "fetchedAt": "2026-07-05T00:53:37.337Z",
       "summary": null,
-      "tags": []
+      "tags": [
+        "新作"
+      ]
     },
     {
       "id": "366ed2581b4f1178",
@@ -2803,7 +2998,9 @@
       "feed": "CDG FREAK",
       "fetchedAt": "2026-07-05T00:53:37.337Z",
       "summary": null,
-      "tags": []
+      "tags": [
+        "コラボ"
+      ]
     },
     {
       "id": "a828a93aaa8876c6",
@@ -2827,7 +3024,9 @@
       "feed": "CDG FREAK",
       "fetchedAt": "2026-07-05T00:53:37.337Z",
       "summary": null,
-      "tags": []
+      "tags": [
+        "新作"
+      ]
     },
     {
       "id": "4a4e4f0ffd051442",
@@ -2839,7 +3038,9 @@
       "feed": "CDG FREAK",
       "fetchedAt": "2026-07-05T00:53:37.337Z",
       "summary": null,
-      "tags": []
+      "tags": [
+        "店舗"
+      ]
     },
     {
       "id": "1c7faf85508170a3",
@@ -2851,7 +3052,10 @@
       "feed": "CDG FREAK",
       "fetchedAt": "2026-07-05T00:53:37.337Z",
       "summary": null,
-      "tags": []
+      "tags": [
+        "店舗",
+        "インタビュー"
+      ]
     },
     {
       "id": "d3858831cb8550fa",
@@ -2863,7 +3067,9 @@
       "feed": "CDG FREAK",
       "fetchedAt": "2026-07-05T00:53:37.337Z",
       "summary": null,
-      "tags": []
+      "tags": [
+        "ショー/コレクション"
+      ]
     },
     {
       "id": "cfac794c0bd31b4e",
@@ -2875,7 +3081,9 @@
       "feed": "CDG FREAK",
       "fetchedAt": "2026-07-05T00:53:37.337Z",
       "summary": null,
-      "tags": []
+      "tags": [
+        "新作"
+      ]
     },
     {
       "id": "32d8cce9169702e5",
@@ -2887,7 +3095,10 @@
       "feed": "CDG FREAK",
       "fetchedAt": "2026-07-05T00:53:37.337Z",
       "summary": null,
-      "tags": []
+      "tags": [
+        "新作",
+        "店舗"
+      ]
     },
     {
       "id": "4afd03a1b8598067",
