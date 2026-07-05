@@ -8,11 +8,19 @@ import { createHash } from "node:crypto";
 const DATA_PATH = new URL("../data/items.json", import.meta.url).pathname;
 const MAX_ITEMS = 1000;
 
+// ギャルソン関連判定(直接フィードは全記事が流れてくるためフィルタ必須)
+const CDG_RE = /ギャルソン|Comme des Gar[cç]ons|COMME des GAR[CÇ]ONS/i;
+
 const SOURCES = [
   {
     name: "CDG FREAK",
     url: "https://cdg-freak.com/feed/",
   },
+  // 直接フィード(本物の記事URL+画像付き)。CDG関連記事のみ採用
+  { name: "Hypebeast JP", url: "https://hypebeast.com/jp/feed", filter: CDG_RE },
+  { name: "WWD JAPAN", url: "https://www.wwdjapan.com/feed", filter: CDG_RE },
+  { name: "FASHIONSNAP", url: "https://www.fashionsnap.com/rss.xml", filter: CDG_RE },
+  // Google News(網羅用。中継URLのため画像なし)
   {
     name: "Google News (日本語)",
     url: "https://news.google.com/rss/search?q=%22%E3%82%B3%E3%83%A0%E3%83%87%E3%82%AE%E3%83%A3%E3%83%AB%E3%82%BD%E3%83%B3%22&hl=ja&gl=JP&ceid=JP:ja",
@@ -81,6 +89,10 @@ function parseRss(xml) {
       : null,
     publisher: tag(block, "source") || null,
     image: itemImage(block),
+    _text:
+      tag(block, "title") +
+      " " +
+      tag(block, "description").replace(/<[^>]+>/g, "").slice(0, 500),
   }));
 }
 
@@ -105,6 +117,8 @@ async function main() {
     }
     for (const item of parseRss(xml)) {
       if (!item.url || !item.title) continue;
+      if (source.filter && !source.filter.test(item._text)) continue;
+      delete item._text;
       const id = createHash("sha256")
         .update(item.title + (item.publisher ?? ""))
         .digest("hex")
@@ -123,8 +137,11 @@ async function main() {
     }
   }
 
-  // フィードに画像が無かった新着(Google News等)はページの og:image で補完(最大40件)
-  for (const it of added.filter((i) => !i.image).slice(0, 40)) {
+  // フィードに画像が無かった新着はページの og:image で補完(最大40件)。
+  // Google News の中継ページは og:image がロゴ画像のため対象外
+  for (const it of added
+    .filter((i) => !i.image && !i.url.includes("news.google.com"))
+    .slice(0, 40)) {
     it.image = await fetchOgImage(it.url);
   }
 

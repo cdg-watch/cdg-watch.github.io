@@ -21,6 +21,8 @@
   h1 { margin: 0; font-size: 1.5rem; letter-spacing: .04em; }
   h1 span { color: var(--accent); }
   .meta { color: var(--muted); font-size: .8rem; margin-top: .4rem; }
+  .links { font-size: .8rem; margin-top: .3rem; }
+  .links a { color: var(--accent); text-decoration: none; margin-right: .8rem; }
   .controls { display: flex; gap: .5rem; flex-wrap: wrap; margin-top: 1rem; }
   input[type="search"], select {
     padding: .5rem .75rem; border: 1px solid var(--line); border-radius: 8px;
@@ -54,6 +56,11 @@
 <header>
   <h1>CDG <span>Watch</span></h1>
   <div class="meta" id="meta">読み込み中…</div>
+  <div class="links">CDG FREAK:
+    <a href="https://cdg-freak.com/" target="_blank" rel="noopener">Web</a>
+    <a href="https://www.instagram.com/cdgfreakcom" target="_blank" rel="noopener">Instagram</a>
+    <a href="https://x.com/CDGFREAKcom" target="_blank" rel="noopener">X</a>
+  </div>
   <div class="controls">
     <input type="search" id="q" placeholder="キーワードで絞り込み…">
     <select id="feed"><option value="">すべてのソース</option></select>
