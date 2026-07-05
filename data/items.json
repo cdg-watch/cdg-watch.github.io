@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T07:41:57.552Z",
+  "updatedAt": "2026-07-05T12:00:00.000Z",
   "items": [
     {
       "id": "86f69a7c4d766242",
@@ -10,7 +10,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-05T07:41:41.491Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
       ]
@@ -24,10 +24,11 @@
       "image": "https://media.wwdjapan.com/wp-content/uploads/2026/07/05091033/Comme_des_garcons_Shirt_SS27_og.jpg",
       "feed": "WWD JAPAN",
       "fetchedAt": "2026-07-05T01:22:33.904Z",
-      "summary": null,
+      "summary": "「コム デ ギャルソン・シャツ」の2027年春夏コレクションがパリ・メンズファッションウィークで発表され、46ルックが公開された。ビジュアル中心の発表でテキストによる詳細説明は少ない。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "50fa10a5b233df70",
@@ -37,11 +38,12 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "コムデギャルソン オム デューのTシャツ(DI-T010、オレンジ系Mサイズ)がSNKRDUNKで中古出品されている。状態はやや傷や汚れありのCランク。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/apparel_used_listings/2cb1a2ec-815b-4514-bd65-8bb209f55d5d/8198509.jpeg"
+      "image": "https://cdn.snkrdunk.com/apparel_used_listings/2cb1a2ec-815b-4514-bd65-8bb209f55d5d/8198509.jpeg",
+      "importance": 1
     },
     {
       "id": "47b798daef0142f1",
@@ -52,10 +54,13 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20230331064320-2.webp\",\"imageUrls\":{\"l\":\"https://cdn.snkrdunk.com/upload_bg_removed/20230331064320-2.webp?size=l\",\"m\":\"https://cdn.snkrdunk.com/upload_bg_removed/20230331064320-2.webp?size=m\",\"s\":\"https://cdn.snkrdunk.com/upload_bg_removed/20230331064320-2.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-05T07:41:41.491Z",
-      "summary": null,
+      "summary": "コムデギャルソン オム プリュスとナイキのコラボ「Terminator High」の紹介記事。2023年4月1日に3色展開・税込39,600円で発売され、80年代のバスケットシューズを再解釈した約8年ぶりの復刻だった。",
       "tags": [
-        "二次流通"
-      ]
+        "二次流通",
+        "コラボ"
+      ],
+      "cluster": "cdg-nike-terminator-high",
+      "importance": 2
     },
     {
       "id": "b9c2801197ae6033",
@@ -65,11 +70,12 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "PLAY COMME des GARCONSの2020年製半袖Tシャツ(白・Mサイズ)がSNKRDUNKで中古出品されている。状態はやや傷や汚れありのCランクで価格は6,080円。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/apparel_used_listings/98aaf903-7041-45b1-ac60-7229881086eb/7759489.jpeg"
+      "image": "https://cdn.snkrdunk.com/apparel_used_listings/98aaf903-7041-45b1-ac60-7229881086eb/7759489.jpeg",
+      "importance": 1
     },
     {
       "id": "9b4fcefc0d1009b8",
@@ -79,11 +85,12 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "CDG SHIRTのパッチワークチェック長袖シャツ(ブルー系・XLサイズ)がSNKRDUNKで中古出品されている。状態はやや傷や汚れありのDランク。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/apparel_used_listings/b4703ef1-67f5-4bc4-bb19-4e0ab054d1c8/7810174.jpeg"
+      "image": "https://cdn.snkrdunk.com/apparel_used_listings/b4703ef1-67f5-4bc4-bb19-4e0ab054d1c8/7810174.jpeg",
+      "importance": 1
     },
     {
       "id": "3f527679f280b42c",
@@ -94,8 +101,11 @@
       "image": "https://www.wwdjapan.com/media.wwdjapan.com/wp-content/uploads/2026/07/04115117/syzygy_top_DSC04690-1024x725.jpg",
       "feed": "WWD JAPAN",
       "fetchedAt": "2026-07-05T01:22:33.904Z",
-      "summary": null,
-      "tags": []
+      "summary": "コムデギャルソンで生産管理を25年務めた齊藤宏之さんが53歳でTシャツ専門ブランド「SYZYGY」を立ち上げた。首周りのリブ使いを工夫した9型でデビューし、ぬいぐるみ作家PATとのコラボTシャツも展開する。",
+      "tags": [
+        "インタビュー"
+      ],
+      "importance": 2
     },
     {
       "id": "888e840dcb907327",
@@ -105,25 +115,14 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "コムデギャルソン オムとニューバランスのコラボ「860V2」の紹介記事。2024年10月18日に税込42,900円で発売され、メッシュとスウェード素材のグレー/ブラック2色展開で伊勢丹新宿店などでも販売された。",
       "tags": [
-        "二次流通"
+        "二次流通",
+        "コラボ"
       ],
-      "image": "https://cdn.snkrdunk.com/uploads/media/20241012052505-0.jpeg"
-    },
-    {
-      "id": "b12c6d527928ead6",
-      "title": "Clothing Comme Des Garcons Nyc Store Hours Rei Kawakubo Comme Des Garçons – Art Of The In-between - consumerthai",
-      "url": "https://www.consumerthai.org/?i",
-      "publishedAt": "2026-07-04T00:40:15.000Z",
-      "publisher": "consumerthai",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-04T23:44:37.627Z",
-      "summary": null,
-      "tags": [
-        "インタビュー"
-      ],
-      "image": null
+      "image": "https://cdn.snkrdunk.com/uploads/media/20241012052505-0.jpeg",
+      "cluster": "cdg-nb-860v2",
+      "importance": 2
     },
     {
       "id": "a9828ecdff57701e",
@@ -133,7 +132,7 @@
       "publisher": "Athlon Sports",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
       ],
@@ -147,11 +146,13 @@
       "publisher": "Highsnobiety",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.627Z",
-      "summary": null,
+      "summary": "コムデギャルソン オム プリュスがナイキの1999年の実験的シューズ「Air Max Dolce SP」を復刻。合成素材主体だった原型をレザーとメッシュ主体のモノクロームデザインに変え、舌とレースを覆う大型シュラウドとサイドジッパーを採用している。",
       "tags": [
         "コラボ"
       ],
-      "image": "https://www.highsnobiety.com/static-assets/dato/1783078227-nike-dolce-hed.jpg"
+      "image": "https://www.highsnobiety.com/static-assets/dato/1783078227-nike-dolce-hed.jpg",
+      "cluster": "nike-airmax-dolcesp",
+      "importance": 2
     },
     {
       "id": "bc2a78bfcf39ac2c",
@@ -161,11 +162,12 @@
       "publisher": "朝日新聞",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "インタビュー"
       ],
-      "image": "https://imgopt.asahi.com/ogp/AS20260703004523_comm.jpg"
+      "image": "https://imgopt.asahi.com/ogp/AS20260703004523_comm.jpg",
+      "cluster": "cdg-hp-ss27-show"
     },
     {
       "id": "19210cf48d97d591",
@@ -175,11 +177,13 @@
       "publisher": "Sole Retriever",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.627Z",
-      "summary": null,
+      "summary": "コムデギャルソン オムとニューバランスのコラボモデル「1226」がパリファッションウィークで発表された。メタリック仕様だった原型を茶系のアースカラーへ置き換えたデザインで、発売日・価格は未定。",
       "tags": [
         "コラボ"
       ],
-      "image": "https://images.soleretriever.com/blog/edbab75c2eb72dbd7517d62f0383116ac209ff93-620x380.png?rect=0,27,620,326&w=1200&h=630&fit=fill&auto=format"
+      "image": "https://images.soleretriever.com/blog/edbab75c2eb72dbd7517d62f0383116ac209ff93-620x380.png?rect=0,27,620,326&w=1200&h=630&fit=fill&auto=format",
+      "cluster": "nb-1226-ss27",
+      "importance": 2
     },
     {
       "id": "ad826000162bb499",
@@ -190,10 +194,11 @@
       "image": "https://image-cdn.hypb.st/https%3A%2F%2Fjp.hypebeast.com%2Ffiles%2F2026%2F07%2F03%2Fnike-shox-tl-black-leather-release-info-ft.jpg?w=800&cbr=1&q=90&fit=max",
       "feed": "Hypebeast JP",
       "fetchedAt": "2026-07-05T01:22:33.654Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ",
-        "新作"
+        "新作",
+        "その他"
       ]
     },
     {
@@ -204,11 +209,13 @@
       "publisher": "Sneaker News",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.627Z",
-      "summary": null,
+      "summary": "コムデギャルソン オムとニューバランスのコラボ「1226」がパリファッションウィークSS27で発表された。2011年発表のオリジナルをメタリックからブラウン・タン系のアースカラーへ転換した仕様。",
       "tags": [
         "コラボ"
       ],
-      "image": "https://sneakernews.com/wp-content/uploads/2026/07/comme-des-garcons-cdg-new-balance-1226-1.jpg"
+      "image": "https://sneakernews.com/wp-content/uploads/2026/07/comme-des-garcons-cdg-new-balance-1226-1.jpg",
+      "cluster": "nb-1226-ss27",
+      "importance": 2
     },
     {
       "id": "7b603f549ac94174",
@@ -218,11 +225,13 @@
       "publisher": "The Sole Supplier",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "ニューバランスとコムデギャルソンのコラボ「1226」がゴープコアの流行を背景に紹介されている。メタリックな配色をやめカーキ・ブラウン系のアースカラーへ転換し、異素材使いや露出ステッチでスポーティさとカジュアルさの融合を表現している。",
       "tags": [
         "コラボ"
       ],
-      "image": null
+      "image": null,
+      "cluster": "nb-1226-ss27",
+      "importance": 2
     },
     {
       "id": "ef0bcd0fade0e5be",
@@ -232,11 +241,12 @@
       "publisher": "ウォーカープラス",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "コムデギャルソンのコインケースがAmazonタイムセールで14%OFFになったことを紹介する記事。特殊レザー仕様で使い勝手が良い点がセールスポイントとして挙げられている。",
       "tags": [
         "再販/セール"
       ],
-      "image": "https://news.walkerplus.com/article/1271335/14764920_615.jpg"
+      "image": "https://news.walkerplus.com/article/1271335/14764920_615.jpg",
+      "importance": 1
     },
     {
       "id": "70c55723477301eb",
@@ -246,8 +256,10 @@
       "publisher": "richardajkeys.com",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
-      "tags": [],
+      "summary": "(要約取得不可)",
+      "tags": [
+        "その他"
+      ],
       "image": null
     },
     {
@@ -258,11 +270,12 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "PLAY COMME des GARCONSのハートロゴ長袖Tシャツ(黒・Lサイズ)がSNKRDUNKで中古出品されている。状態はやや傷や汚れありのCランクで価格は8,000円。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/apparel_used_listings/6e27e13f-8d90-4fb2-9246-c94fc1c6ba1e/8071567.jpeg"
+      "image": "https://cdn.snkrdunk.com/apparel_used_listings/6e27e13f-8d90-4fb2-9246-c94fc1c6ba1e/8071567.jpeg",
+      "importance": 1
     },
     {
       "id": "a9ff7047d6492ebc",
@@ -272,11 +285,13 @@
       "publisher": "Highsnobiety",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "コムデギャルソン オム プリュスとナイキのコラボ「Air Max Dolce SP」のローファー仕様が紹介されている。5月の黒白発売、6月のスムースレザー版に続き、新色キャンディピンクでの再展開が伝えられた。",
       "tags": [
         "コラボ"
       ],
-      "image": "https://www.highsnobiety.com/static-assets/dato/1782776762-magentanikecage.jpg"
+      "image": "https://www.highsnobiety.com/static-assets/dato/1782776762-magentanikecage.jpg",
+      "cluster": "nike-airmax-dolcesp",
+      "importance": 2
     },
     {
       "id": "85f192d028bbcc3a",
@@ -286,9 +301,10 @@
       "publisher": "richardajkeys.com",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
-        "新作"
+        "新作",
+        "その他"
       ],
       "image": null
     },
@@ -300,11 +316,12 @@
       "publisher": "Hypebeast",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.627Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
       ],
-      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F06&#x25;2F30&#x25;2Fcomme-des-garcons-homme-new-balance-1226-new-silhouette-collaboration-paris-fashion-week-ss27-exclusive-first-look-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
+      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F06&#x25;2F30&#x25;2Fcomme-des-garcons-homme-new-balance-1226-new-silhouette-collaboration-paris-fashion-week-ss27-exclusive-first-look-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max",
+      "cluster": "nb-1226-ss27"
     },
     {
       "id": "f4242e0105a1d328",
@@ -314,11 +331,14 @@
       "publisher": "AnOther Magazine",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.627Z",
-      "summary": null,
+      "summary": "コムデギャルソン オム プリュスの2027年春夏コレクションのテーマは「If the War Were To End...」。怒りを表現した前シーズン「To Hell With War」から一転し、旗をパッチやパネルに落とし込んで、希望と郷愁が同居する内省的な内容となった。",
       "tags": [
-        "インタビュー"
+        "インタビュー",
+        "ショー/コレクション"
       ],
-      "image": "https://images-prod.anothermag.com/1200/0-300-1995-1330/azure/another-prod/470/5/475032.jpeg"
+      "image": "https://images-prod.anothermag.com/1200/0-300-1995-1330/azure/another-prod/470/5/475032.jpeg",
+      "cluster": "cdg-hp-ss27-show",
+      "importance": 3
     },
     {
       "id": "ba3362fac94a567b",
@@ -328,11 +348,12 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "プレイコムデギャルソンのTシャツ「CDG \"ホワイト\" AX-T088-051」(XSサイズ)がSNKRDUNKで中古出品されている。状態はほぼ新品に近いAランク。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/apparel_used_listings/73352c8a-517e-4361-8435-3543984585eb/8252406.jpeg"
+      "image": "https://cdn.snkrdunk.com/apparel_used_listings/73352c8a-517e-4361-8435-3543984585eb/8252406.jpeg",
+      "importance": 1
     },
     {
       "id": "96b90f05dd0f9213",
@@ -342,9 +363,10 @@
       "publisher": "richardajkeys.com",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
-        "新作"
+        "新作",
+        "その他"
       ],
       "image": null
     },
@@ -356,11 +378,13 @@
       "publisher": "繊研新聞",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "川久保玲によるコム デ ギャルソン オム プリュス2027年春夏コレクション「もし、戦争が終わったら」についてのインタビュー記事。川久保氏は\"戦争\"を軍事衝突に限らず不安定な状況全般と捉え、終結後に何を望むかは人それぞれだと語る(全文は会員限定)。",
       "tags": [
         "インタビュー"
       ],
-      "image": "https://senken.co.jp/production/uploads/file_content/file/414779/medium_760570__35_.jpg"
+      "image": "https://senken.co.jp/production/uploads/file_content/file/414779/medium_760570__35_.jpg",
+      "cluster": "cdg-hp-ss27-show",
+      "importance": 3
     },
     {
       "id": "02a3f6e68e5be933",
@@ -370,11 +394,13 @@
       "publisher": "モデルプレス",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "パリ・メンズファッションウィークSS27で日本ブランドの存在感が際立つ中、コムデギャルソン オム プリュスはエメラルドやピンクなど鮮やかな色使いのコレクションを発表。「もし、戦争が終わったら」がテーマで、迷彩柄を抽象柄に見せる演出やカラフルな装いのモデルが駆け足で登場するフィナーレが伝えられている。",
       "tags": [
         "ショー/コレクション"
       ],
-      "image": "https://img-mdpr.freetls.fastly.net/article/GmW4/nm/GmW4MleYJHUrirvCDo-IJETPYypzoSxEnHIldb-A6_s.jpg?width=700&disable=upscale&auto=webp&quality=80"
+      "image": "https://img-mdpr.freetls.fastly.net/article/GmW4/nm/GmW4MleYJHUrirvCDo-IJETPYypzoSxEnHIldb-A6_s.jpg?width=700&disable=upscale&auto=webp&quality=80",
+      "cluster": "cdg-hp-ss27-show",
+      "importance": 2
     },
     {
       "id": "e6eac29314f4a139",
@@ -384,8 +410,10 @@
       "publisher": "consumerthai",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
+      "summary": "(要約取得不可)",
+      "tags": [
+        "その他"
+      ],
       "image": null
     },
     {
@@ -396,8 +424,10 @@
       "publisher": "consumerthai",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
+      "summary": "(要約取得不可)",
+      "tags": [
+        "その他"
+      ],
       "image": null
     },
     {
@@ -465,6 +495,20 @@
         "ショー/コレクション"
       ],
       "image": "https://assets.vogue.com/photos/6a3f9214377daf788c94179e/16:9/pass/00001-comme-des-garcons-shirt-spring-2027-menswear-credit-gorunway.jpg"
+    },
+    {
+      "id": "1c178151109e1804",
+      "title": "コムデギャルソン 1986 コム デ ギャルソン Tシャツ \"ホワイト\" S 中古 - SNKRDUNK",
+      "url": "https://snkrdunk.com/apparels/26731/used/47381973",
+      "publishedAt": "2026-06-27T05:43:26.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/apparel_used_listings/b3da1e28-d7e0-4dcc-8384-785e254fe6f9/7392464.jpeg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-07-05T07:59:27.850Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
     },
     {
       "id": "88b6026f3d852966",
@@ -813,20 +857,6 @@
       "image": "https://cdn.snkrdunk.com/used_listing/5007045/ac70e784-efb1-46a7-abb8-48f314c8f782.jpeg"
     },
     {
-      "id": "2df951ffe1cedc0c",
-      "title": "コムデギャルソン オム × ニューバランス 1906R \"ブラック\" 26cmの中古スニーカーを買うならスニーカーダンク - SNKRDUNK",
-      "url": "https://snkrdunk.com/products/CDGH-NB-1906R-BK/used/46101231?slide",
-      "publishedAt": "2026-05-29T07:06:00.000Z",
-      "publisher": "SNKRDUNK",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
-      "tags": [
-        "二次流通"
-      ],
-      "image": "https://cdn.snkrdunk.com/used_listing/5007045/ac70e784-efb1-46a7-abb8-48f314c8f782.jpeg"
-    },
-    {
       "id": "a6be2f301134d904",
       "title": "第1回「コム デ ギャルソン」はなぜ「黒」に戻るのか？（前編） - fashionsnap.com",
       "url": "https://www.fashionsnap.com/article/paris-fashion-26aw-column-01/",
@@ -959,20 +989,6 @@
       ]
     },
     {
-      "id": "a420732090a037c0",
-      "title": "コムデギャルソン プレイ プリンテッド ハート Tシャツ ウィズ グリーン x ブルー エンブレм \"ホワイト\" L 中古 - SNKRDUNK",
-      "url": "https://snkrdunk.com/apparels/705262/used/45290115",
-      "publishedAt": "2026-05-11T13:23:23.000Z",
-      "publisher": "SNKRDUNK",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
-      "tags": [
-        "二次流通"
-      ],
-      "image": "https://cdn.snkrdunk.com/apparel_used_listings/3e0d07a6-8d0b-44fc-be05-363d77473d39/5766665.png"
-    },
-    {
       "id": "c37bc78f73800e8a",
       "title": "COMME des GARCONS Shirts \"White\"の新品/中古フリマ(通販)｜スニダン - SNKRDUNK",
       "url": "https://snkrdunk.com/apparels/819008",
@@ -1063,6 +1079,20 @@
       "summary": null,
       "tags": [],
       "image": "https://images.oceans.tokyo.jp/media/snap/11750/images/main_image_b03483cd9bac5d14340270d7db321cb6a274bacc.jpg?h=1200"
+    },
+    {
+      "id": "e5319de13ffbb205",
+      "title": "COMME des GARCONS CDG Oversized T-Shirt3 \"White\"の新品/中古フリマ(通販)｜スニダン - SNKRDUNK",
+      "url": "https://snkrdunk.com/apparels/710103",
+      "publishedAt": "2026-05-01T00:27:38.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGCDG-0013-1.webp",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-07-05T07:59:27.850Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
     },
     {
       "id": "e4838415eefa2b4b",
@@ -1646,18 +1676,6 @@
       "tags": []
     },
     {
-      "id": "740c86d3f5bcc137",
-      "title": "Farewell to Christian Astuguevieille, the nose behind Comme des Garçons' anti-perfumes - nss G-Club",
-      "url": "https://www.nssgclub.com/en/beauty/44311/farewell-to-christian-astuguevieille-the-nose-behind-comme-des-garcons-anti-perfumes",
-      "publishedAt": "2026-02-17T15:14:32.000Z",
-      "publisher": "nss G-Club",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://data2.nssmag.com/images/galleries/46975/nssgclub-Christian-Astuguevieille.webp"
-    },
-    {
       "id": "31baad1c4ac4973d",
       "title": "JAH JAH x COMME des GARÇONS SHIRT による最新コラボコレクションが発売 - Hypebeast",
       "url": "https://hypebeast.com/jp/2026/2/jah-jah-studio-comme-des-garcons-shirt-reunite-ss26-capsule-collaboration-release-info",
@@ -2017,17 +2035,6 @@
       "image": "https://imgopt.asahi.com/ogp/AS20260124001176_comm.jpg"
     },
     {
-      "id": "ac347fb898da8867",
-      "title": "Comme des Garçons Homme Plus: “Let’s get out of the black hole” - Hero Magazine",
-      "url": "https://hero-magazine.com/shows/comme-des-garcons-homme-plus-lets-get-out-of-the-black-hole",
-      "publishedAt": "2026-01-25T08:00:00.000Z",
-      "publisher": "Hero Magazine",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": []
-    },
-    {
       "id": "3a28408de5676318",
       "title": "COMME des GARÇONS x Air Jordan 11 Pack Expected Fall 2026 - House of Heat°",
       "url": "https://houseofheat.co/jordan/comme-des-grarcons-air-jordan-11-black-white-pack-release-date",
@@ -2182,17 +2189,6 @@
       "summary": null,
       "tags": [],
       "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F01&#x25;2F23&#x25;2Fcomme-des-garcons-homme-plus-fall-winter-2026-paris-fashion-week-runway-collection-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
-    },
-    {
-      "id": "1b0c365c8cac42cc",
-      "title": "Paris menswear Friday: Junya Watanabe, Willy Chavarria, and Comme des Garçons - FashionNetwork USA",
-      "url": "https://us.fashionnetwork.com/news/Paris-menswear-friday-junya-watanabe-willy-chavarria-and-comme-des-garcons,1800913.html",
-      "publishedAt": "2026-01-23T08:00:00.000Z",
-      "publisher": "FashionNetwork USA",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "17383e94e9e12a80",
@@ -2767,17 +2763,6 @@
       "tags": []
     },
     {
-      "id": "6cf8ff8371b5ae85",
-      "title": "Comme des Garçons SS26: “the damaging of perfect things” - Hero Magazine",
-      "url": "https://hero-magazine.com/shows/comme-des-garcons-ss26-the-damaging-of-perfect-things",
-      "publishedAt": "2025-10-06T07:00:00.000Z",
-      "publisher": "Hero Magazine",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": []
-    },
-    {
       "id": "7252efff4841dbdb",
       "title": "コムデギャルソンのTシャツコーディネート | 251004-1519-56 - OCEANS オーシャンズ",
       "url": "https://oceans.tokyo.jp/snap/detail/10248",
@@ -2877,19 +2862,6 @@
       ]
     },
     {
-      "id": "d39ec457b36d75e9",
-      "title": "Vaquera launches first fragrance with Comme des Garçons - FashionNetwork USA",
-      "url": "https://us.fashionnetwork.com/news/Vaquera-launches-first-fragrance-with-comme-des-garcons,1768373.html",
-      "publishedAt": "2025-09-26T07:00:00.000Z",
-      "publisher": "FashionNetwork USA",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [
-        "新作"
-      ]
-    },
-    {
       "id": "3802e53bd0c31a69",
       "title": "BAPE®︎ x COMME des GARÇONS OSAKA 5周年記念コレクション第2弾が到着 - Hypebeast",
       "url": "https://hypebeast.com/jp/2025/9/a-bathing-ape-comme-des-garcons-osaka-5th-anniversary-drop-2-info",
@@ -2942,20 +2914,6 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-05T00:47:55.389Z",
-      "summary": null,
-      "tags": [
-        "二次流通"
-      ],
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGCDG-0002-2.webp"
-    },
-    {
-      "id": "3592c75f47e12256",
-      "title": "COMME des GARCONS CDG Crew Neck Sweatshirt (Pink Logo) \"Gray\"の新品/中古フリマ(通販)｜スニダン - SNKRDUNK",
-      "url": "https://snkrdunk.com/apparels/700565",
-      "publishedAt": "2025-09-12T07:00:00.000Z",
-      "publisher": "SNKRDUNK",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-04T23:44:37.062Z",
       "summary": null,
       "tags": [
         "二次流通"
