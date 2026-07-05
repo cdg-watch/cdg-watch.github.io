@@ -110,6 +110,18 @@ export async function resolveGoogleNewsUrl(gnUrl) {
 const JUNK_IMG_RE =
   /ogp_default|default[-_]?ogp|no[-_]?image|noimage|logo|placeholder|googleusercontent/i;
 
+// og:image がロゴ固定のサイト向けに、本文から商品画像を抜くサイト別ルール。
+// パターンが変わったら該当サイトの行を直すだけで済むよう、ここに集約する。
+function extractSiteImage(host, html) {
+  if (/snkrdunk\.com$/.test(host)) {
+    const m = html.match(
+      /https:\/\/cdn\.snkrdunk\.com\/(?:apparel_used_listings|images\/products)\/[^"\\ ]+\.(?:jpe?g|png|webp)/i
+    );
+    return m ? m[0] : null;
+  }
+  return null;
+}
+
 // 記事ページの代表画像URLを取得。og:image → twitter:image → 本文の最初の大きな
 // <img> の順に試す。取得不可・ロゴのみの場合は null
 export async function fetchOgImage(url) {
@@ -124,6 +136,11 @@ export async function fetchOgImage(url) {
     });
     if (!res.ok) return null;
     const html = await res.text();
+
+    // サイト別ルール: og:image がロゴ固定だが本文に商品画像があるサイト
+    const host = new URL(url).hostname;
+    const siteImg = extractSiteImage(host, html);
+    if (siteImg) return decodeEntities(siteImg);
 
     for (const re of [
       /property="og:image(?::secure_url)?"[^>]*content="([^"]+)"/,
