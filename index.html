@@ -50,6 +50,9 @@
          border: 1px solid var(--accent); border-radius: 999px;
          padding: .05rem .55rem; margin-right: .3rem; }
   .empty { color: var(--muted); margin-top: 2rem; }
+  footer { max-width: 860px; margin: 0 auto; padding: 2rem 1.25rem 3rem;
+           border-top: 1px solid var(--line); margin-top: 2rem; }
+  footer p { color: var(--muted); font-size: .72rem; line-height: 1.7; margin: 0; }
 </style>
 </head>
 <body>
@@ -75,6 +78,11 @@
   </div>
 </header>
 <main id="list"></main>
+<footer>
+  <p>個人が運営する非公式のファンサイトです。COMME des GARÇONS 公式とは一切関係ありません。
+  掲載情報は各報道機関・公式RSS等の公開情報を集約したもので、著作権は各出典に帰属します。
+  詳細・正確な情報は必ず各リンク先および公式サイトでご確認ください。</p>
+</footer>
 <script>
 const fmtDay = iso => new Date(iso).toLocaleDateString("ja-JP",
   { year: "numeric", month: "long", day: "numeric", weekday: "short" });
