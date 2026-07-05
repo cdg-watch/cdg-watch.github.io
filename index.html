@@ -5,105 +5,123 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>CDG Watch — コムデギャルソン情報トラッカー</title>
 <style>
+  /* CDG Watch — editorial monochrome. 白黒・ハードエッジ・余白・PLAYの赤を差し色に */
   :root {
     color-scheme: light dark;
-    --bg: #faf9f7; --fg: #1a1a1a; --muted: #6b6b6b;
-    --card: #ffffff; --line: #e5e2dd; --accent: #b3003c;
+    --bg: #ffffff; --fg: #0a0a0a; --muted: #8a8a8a;
+    --card: #ffffff; --line: #111111; --hair: #e4e4e4; --accent: #e10029;
   }
   @media (prefers-color-scheme: dark) {
-    :root { --bg: #121212; --fg: #ececec; --muted: #9a9a9a;
-            --card: #1c1c1c; --line: #2c2c2c; --accent: #ff4d79; }
+    :root { --bg: #0a0a0a; --fg: #f2f2f2; --muted: #7d7d7d;
+            --card: #0a0a0a; --line: #f2f2f2; --hair: #242424; --accent: #ff2d4f; }
   }
   * { box-sizing: border-box; }
   body { margin: 0; background: var(--bg); color: var(--fg);
-         font-family: "Hiragino Sans", "Noto Sans JP", system-ui, sans-serif; }
-  header { padding: 2rem 1.25rem 0; max-width: 860px; margin: 0 auto; }
-  h1 { margin: 0; font-size: 1.5rem; letter-spacing: .04em; }
+         font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN",
+                      "Hiragino Sans", "Noto Sans JP", sans-serif;
+         -webkit-font-smoothing: antialiased; }
+  header { padding: 2.5rem 1.5rem 0; max-width: 900px; margin: 0 auto; }
+
+  /* マストヘッド */
+  h1 { margin: 0; font-size: clamp(2rem, 7vw, 3.2rem); font-weight: 400;
+       letter-spacing: .18em; text-transform: uppercase; line-height: 1; }
   h1 span { color: var(--accent); }
-  .meta { color: var(--muted); font-size: .8rem; margin-top: .4rem; }
-  .links { font-size: .8rem; margin-top: .3rem; line-height: 1.9; }
-  .links a { color: var(--accent); text-decoration: none; margin-right: .8rem; }
+  .meta { color: var(--muted); font-size: .72rem; margin-top: .9rem;
+          letter-spacing: .08em; text-transform: uppercase; }
+  .links { font-size: .72rem; margin-top: .5rem; line-height: 2;
+           letter-spacing: .04em; text-transform: uppercase; }
+  .links a { color: var(--fg); text-decoration: none; margin-right: 1rem;
+             border-bottom: 1px solid var(--accent); padding-bottom: 1px; }
+  .links a:hover { color: var(--accent); }
 
-  /* ビュー切り替えタブ */
-  .tabs { display: flex; gap: .3rem; margin-top: 1rem; flex-wrap: wrap;
-          border-bottom: 1px solid var(--line); }
-  .tab { padding: .5rem .9rem; cursor: pointer; font-size: .9rem; color: var(--muted);
-         border: none; background: none; border-bottom: 2px solid transparent; }
-  .tab.active { color: var(--fg); border-bottom-color: var(--accent); font-weight: 600; }
+  /* ビュー切替タブ */
+  .tabs { display: flex; gap: 0; margin-top: 2rem; flex-wrap: wrap;
+          border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+  .tab { padding: .7rem 1.1rem; cursor: pointer; font-size: .74rem; color: var(--muted);
+         border: none; background: none; letter-spacing: .1em; text-transform: uppercase;
+         border-right: 1px solid var(--hair); }
+  .tab.active { color: var(--bg); background: var(--fg); font-weight: 500; }
 
-  .controls { display: flex; gap: .5rem; flex-wrap: wrap; margin-top: 1rem; }
+  .controls { display: flex; gap: .6rem; flex-wrap: wrap; margin-top: 1.3rem; }
   input[type="search"], select {
-    padding: .5rem .75rem; border: 1px solid var(--line); border-radius: 8px;
-    background: var(--card); color: var(--fg); font-size: .9rem;
+    padding: .55rem .8rem; border: 1px solid var(--line); border-radius: 0;
+    background: var(--bg); color: var(--fg); font-size: .85rem;
+    font-family: inherit; letter-spacing: .03em;
   }
   input[type="search"] { flex: 1; min-width: 200px; }
 
   /* カテゴリのチップ */
-  .chips { display: flex; gap: .4rem; flex-wrap: wrap; margin-top: .8rem; }
-  .chip { padding: .3rem .8rem; border: 1px solid var(--line); border-radius: 999px;
-          background: var(--card); color: var(--muted); font-size: .82rem; cursor: pointer; }
-  .chip.active { border-color: var(--accent); color: var(--accent); font-weight: 600; }
+  .chips { display: flex; gap: .4rem; flex-wrap: wrap; margin-top: 1rem; }
+  .chip { padding: .35rem .85rem; border: 1px solid var(--hair); border-radius: 0;
+          background: var(--bg); color: var(--muted); font-size: .72rem; cursor: pointer;
+          letter-spacing: .06em; text-transform: uppercase; font-family: inherit; }
+  .chip.active { border-color: var(--fg); color: var(--fg); font-weight: 500; }
 
-  main { max-width: 860px; margin: 0 auto; padding: 0 1.25rem 4rem; }
+  main { max-width: 900px; margin: 0 auto; padding: 0 1.5rem 5rem; }
+
+  /* セクション見出し(エディトリアル) */
+  .highlights { margin-top: 2rem; }
+  .highlights h2, .day > h2 { font-size: .7rem; color: var(--fg); letter-spacing: .16em;
+                   text-transform: uppercase; font-weight: 600; margin: 0 0 .9rem;
+                   padding-bottom: .5rem; border-bottom: 2px solid var(--fg); }
 
   /* 今日の要点 */
-  .highlights { margin-top: 1.2rem; }
-  .highlights h2 { font-size: .8rem; color: var(--accent); letter-spacing: .05em;
-                   text-transform: uppercase; margin: 0 0 .5rem; }
-  .hl-card { display: flex; gap: .7rem; background: var(--card);
-             border: 1px solid var(--line); border-left: 3px solid var(--accent);
-             border-radius: 8px; padding: .6rem .8rem; margin-bottom: .4rem; }
-  .hl-card a { color: var(--fg); text-decoration: none; font-weight: 600; font-size: .92rem;
-               line-height: 1.5; flex: 1; }
+  .hl-card { display: flex; gap: 1rem; padding: .9rem 0; border-bottom: 1px solid var(--hair);
+             align-items: center; }
+  .hl-card a { color: var(--fg); text-decoration: none; font-weight: 600; font-size: 1rem;
+               line-height: 1.45; flex: 1; letter-spacing: .01em; }
   .hl-card a:hover { color: var(--accent); }
-  .hl-card img { width: 54px; height: 54px; object-fit: cover; border-radius: 6px; flex-shrink: 0; }
+  .hl-card img { width: 64px; height: 64px; object-fit: cover; flex-shrink: 0; }
 
-  .day { margin-top: 1.5rem; }
-  .day > h2 { font-size: .85rem; color: var(--muted); font-weight: 600;
-              border-bottom: 1px solid var(--line); padding-bottom: .35rem; }
-  .card { background: var(--card); border: 1px solid var(--line); border-radius: 10px;
-          padding: .9rem 1rem; margin-top: .6rem;
-          display: flex; gap: .9rem; align-items: flex-start; }
+  /* 記事カード(フラット・罫線区切り) */
+  .day { margin-top: 2.2rem; }
+  .card { padding: 1.1rem 0; margin: 0; border-bottom: 1px solid var(--hair);
+          display: flex; gap: 1.2rem; align-items: flex-start; }
   .card .body { flex: 1; min-width: 0; }
-  .card a.title { color: var(--fg); text-decoration: none; font-weight: 600; line-height: 1.5; }
+  .card a.title { color: var(--fg); text-decoration: none; font-weight: 600; line-height: 1.5;
+                  font-size: 1.02rem; letter-spacing: .01em; }
   .card a.title:hover { color: var(--accent); }
-  .card .src { color: var(--muted); font-size: .75rem; margin-top: .35rem; }
-  .card .summary { font-size: .85rem; line-height: 1.7; margin-top: .5rem;
-                   color: var(--fg); opacity: .85; }
-  .tags { margin-top: .4rem; }
-  .tag { display: inline-block; font-size: .7rem; color: var(--accent);
-         border: 1px solid var(--accent); border-radius: 999px;
-         padding: .05rem .55rem; margin-right: .3rem; }
-  .card .thumb { width: 96px; height: 96px; object-fit: cover; border-radius: 8px;
-                 flex-shrink: 0; background: var(--line); }
-  @media (max-width: 480px) { .card .thumb { width: 72px; height: 72px; } }
-  .fav { background: none; border: none; cursor: pointer; font-size: 1.1rem;
-         color: var(--muted); padding: 0 0 0 .3rem; line-height: 1; }
+  .card .src { color: var(--muted); font-size: .68rem; margin-top: .4rem;
+               letter-spacing: .08em; text-transform: uppercase; }
+  .card .summary { font-size: .88rem; line-height: 1.8; margin-top: .55rem; color: var(--fg); }
+  .tags { margin-top: .55rem; }
+  .tag { display: inline-block; font-size: .64rem; color: var(--muted);
+         border: 1px solid var(--hair); border-radius: 0; letter-spacing: .06em;
+         padding: .1rem .5rem; margin-right: .3rem; text-transform: uppercase; }
+  .card .thumb { width: 110px; height: 110px; object-fit: cover; flex-shrink: 0;
+                 background: var(--hair); }
+  @media (max-width: 480px) { .card .thumb { width: 80px; height: 80px; } }
+  .fav { background: none; border: none; cursor: pointer; font-size: 1.05rem;
+         color: var(--muted); padding: 0 0 0 .4rem; line-height: 1; }
   .fav.on { color: var(--accent); }
 
   /* カレンダー */
-  .cal-day { margin-top: 1.3rem; }
-  .cal-date { font-weight: 700; font-size: .95rem; color: var(--accent); }
+  .cal-day { margin-top: 1.6rem; }
+  .cal-date { font-weight: 700; font-size: 1.05rem; letter-spacing: .04em; }
   .cal-date .dow { color: var(--muted); font-weight: 400; font-size: .82rem; margin-left: .4rem; }
-  .cal-until { color: var(--muted); font-size: .75rem; margin-left: .5rem; }
-  .cal-entry { background: var(--card); border: 1px solid var(--line); border-radius: 8px;
-               padding: .6rem .8rem; margin-top: .4rem; font-size: .88rem; line-height: 1.6; }
-  .cal-entry .kind { font-size: .68rem; color: var(--accent); border: 1px solid var(--accent);
-                     border-radius: 999px; padding: .05rem .5rem; margin-right: .5rem; }
+  .cal-until { color: var(--accent); font-size: .7rem; margin-left: .6rem;
+               letter-spacing: .08em; text-transform: uppercase; }
+  .cal-entry { padding: .7rem 0; margin: 0; border-bottom: 1px solid var(--hair);
+               font-size: .9rem; line-height: 1.6; }
+  .cal-entry .kind { font-size: .62rem; color: var(--bg); background: var(--fg);
+                     padding: .12rem .5rem; margin-right: .6rem; letter-spacing: .08em;
+                     text-transform: uppercase; }
   .cal-entry a { color: var(--fg); }
 
   /* トレンド */
-  .trend-row { display: flex; align-items: center; gap: .7rem; padding: .5rem 0;
-               border-bottom: 1px solid var(--line); cursor: pointer; }
-  .trend-rank { font-weight: 700; color: var(--accent); width: 1.6rem; text-align: center; }
-  .trend-bar { height: 8px; background: var(--accent); border-radius: 4px; opacity: .5; }
-  .trend-label { flex: 1; font-size: .9rem; }
-  .trend-count { color: var(--muted); font-size: .8rem; }
+  .trend-row { display: flex; align-items: center; gap: .9rem; padding: .7rem 0;
+               border-bottom: 1px solid var(--hair); cursor: pointer; }
+  .trend-rank { font-weight: 700; font-size: 1.1rem; width: 1.8rem; text-align: center;
+                font-variant-numeric: tabular-nums; }
+  .trend-bar { height: 3px; background: var(--accent); }
+  .trend-label { flex: 1; font-size: .92rem; letter-spacing: .02em; }
+  .trend-count { color: var(--muted); font-size: .72rem; letter-spacing: .06em; }
 
-  .empty { color: var(--muted); margin-top: 2rem; }
-  footer { max-width: 860px; margin: 2rem auto 0; padding: 2rem 1.25rem 3rem;
+  .empty { color: var(--muted); margin-top: 2.5rem; font-size: .88rem; line-height: 1.8; }
+  footer { max-width: 900px; margin: 3rem auto 0; padding: 2rem 1.5rem 3.5rem;
            border-top: 1px solid var(--line); }
-  footer p { color: var(--muted); font-size: .72rem; line-height: 1.7; margin: 0; }
+  footer p { color: var(--muted); font-size: .68rem; line-height: 1.9; margin: 0;
+             letter-spacing: .02em; }
 </style>
 </head>
 <body>
