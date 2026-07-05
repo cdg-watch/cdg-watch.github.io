@@ -99,7 +99,7 @@ export async function resolveGoogleNewsUrl(gnUrl) {
       }
     );
     const text = await res.text();
-    const m = text.match(/https?:\\\/\\\/(?!news\.google)[^"\\]+/);
+    const m = text.match(/https?:(?:\\?\/){2}(?!news\.google)[^"\\]+/);
     return m ? m[0].replace(/\\\//g, "/") : null;
   } catch {
     return null;
