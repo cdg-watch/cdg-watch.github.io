@@ -243,7 +243,44 @@ async function main() {
     .slice(0, MAX_ITEMS);
   existing.updatedAt = new Date().toISOString();
   writeFileSync(DATA_PATH, JSON.stringify(existing, null, 2) + "\n");
+  writeRss(existing.items);
   console.log(`added ${added.length} items (total ${existing.items.length})`);
+}
+
+// 自前のRSSフィードを生成(他ユーザーがFeedly等で購読できるようにする)
+function writeRss(items) {
+  const SITE = "https://snowhsgg.github.io/cdg-watch/";
+  const xesc = (s) =>
+    (s ?? "").replace(/[<>&"']/g, (c) =>
+      ({ "<": "&lt;", ">": "&gt;", "&": "&amp;", '"': "&quot;", "'": "&apos;" }[c])
+    );
+  const entries = items
+    .filter((i) => !(i.tags ?? []).includes("二次流通"))
+    .slice(0, 50)
+    .map(
+      (i) => `    <item>
+      <title>${xesc(i.title)}</title>
+      <link>${xesc(i.url)}</link>
+      <guid isPermaLink="false">${i.id}</guid>
+      ${i.publishedAt ? `<pubDate>${new Date(i.publishedAt).toUTCString()}</pubDate>` : ""}
+      <source url="${SITE}">${xesc(i.publisher ?? i.feed)}</source>
+      ${i.summary ? `<description>${xesc(i.summary)}</description>` : ""}
+    </item>`
+    )
+    .join("\n");
+  const rss = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>CDG Watch — コムデギャルソン情報トラッカー</title>
+    <link>${SITE}</link>
+    <description>コムデギャルソン関連の最新情報を毎日自動収集(非公式ファンサイト)</description>
+    <language>ja</language>
+    <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
+${entries}
+  </channel>
+</rss>
+`;
+  writeFileSync(new URL("../feed.xml", import.meta.url).pathname, rss);
 }
 
 if (import.meta.url === pathToFileURL(process.argv[1] ?? "").href) main();

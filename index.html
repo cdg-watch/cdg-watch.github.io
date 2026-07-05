@@ -17,19 +17,47 @@
   * { box-sizing: border-box; }
   body { margin: 0; background: var(--bg); color: var(--fg);
          font-family: "Hiragino Sans", "Noto Sans JP", system-ui, sans-serif; }
-  header { padding: 2rem 1.25rem 1rem; max-width: 860px; margin: 0 auto; }
+  header { padding: 2rem 1.25rem 0; max-width: 860px; margin: 0 auto; }
   h1 { margin: 0; font-size: 1.5rem; letter-spacing: .04em; }
   h1 span { color: var(--accent); }
   .meta { color: var(--muted); font-size: .8rem; margin-top: .4rem; }
-  .links { font-size: .8rem; margin-top: .3rem; }
+  .links { font-size: .8rem; margin-top: .3rem; line-height: 1.9; }
   .links a { color: var(--accent); text-decoration: none; margin-right: .8rem; }
+
+  /* ビュー切り替えタブ */
+  .tabs { display: flex; gap: .3rem; margin-top: 1rem; flex-wrap: wrap;
+          border-bottom: 1px solid var(--line); }
+  .tab { padding: .5rem .9rem; cursor: pointer; font-size: .9rem; color: var(--muted);
+         border: none; background: none; border-bottom: 2px solid transparent; }
+  .tab.active { color: var(--fg); border-bottom-color: var(--accent); font-weight: 600; }
+
   .controls { display: flex; gap: .5rem; flex-wrap: wrap; margin-top: 1rem; }
   input[type="search"], select {
     padding: .5rem .75rem; border: 1px solid var(--line); border-radius: 8px;
     background: var(--card); color: var(--fg); font-size: .9rem;
   }
   input[type="search"] { flex: 1; min-width: 200px; }
+
+  /* カテゴリのチップ */
+  .chips { display: flex; gap: .4rem; flex-wrap: wrap; margin-top: .8rem; }
+  .chip { padding: .3rem .8rem; border: 1px solid var(--line); border-radius: 999px;
+          background: var(--card); color: var(--muted); font-size: .82rem; cursor: pointer; }
+  .chip.active { border-color: var(--accent); color: var(--accent); font-weight: 600; }
+
   main { max-width: 860px; margin: 0 auto; padding: 0 1.25rem 4rem; }
+
+  /* 今日の要点 */
+  .highlights { margin-top: 1.2rem; }
+  .highlights h2 { font-size: .8rem; color: var(--accent); letter-spacing: .05em;
+                   text-transform: uppercase; margin: 0 0 .5rem; }
+  .hl-card { display: flex; gap: .7rem; background: var(--card);
+             border: 1px solid var(--line); border-left: 3px solid var(--accent);
+             border-radius: 8px; padding: .6rem .8rem; margin-bottom: .4rem; }
+  .hl-card a { color: var(--fg); text-decoration: none; font-weight: 600; font-size: .92rem;
+               line-height: 1.5; flex: 1; }
+  .hl-card a:hover { color: var(--accent); }
+  .hl-card img { width: 54px; height: 54px; object-fit: cover; border-radius: 6px; flex-shrink: 0; }
+
   .day { margin-top: 1.5rem; }
   .day > h2 { font-size: .85rem; color: var(--muted); font-weight: 600;
               border-bottom: 1px solid var(--line); padding-bottom: .35rem; }
@@ -37,11 +65,8 @@
           padding: .9rem 1rem; margin-top: .6rem;
           display: flex; gap: .9rem; align-items: flex-start; }
   .card .body { flex: 1; min-width: 0; }
-  .card .thumb { width: 96px; height: 96px; object-fit: cover; border-radius: 8px;
-                 flex-shrink: 0; background: var(--line); }
-  @media (max-width: 480px) { .card .thumb { width: 72px; height: 72px; } }
-  .card a { color: var(--fg); text-decoration: none; font-weight: 600; line-height: 1.5; }
-  .card a:hover { color: var(--accent); }
+  .card a.title { color: var(--fg); text-decoration: none; font-weight: 600; line-height: 1.5; }
+  .card a.title:hover { color: var(--accent); }
   .card .src { color: var(--muted); font-size: .75rem; margin-top: .35rem; }
   .card .summary { font-size: .85rem; line-height: 1.7; margin-top: .5rem;
                    color: var(--fg); opacity: .85; }
@@ -49,9 +74,35 @@
   .tag { display: inline-block; font-size: .7rem; color: var(--accent);
          border: 1px solid var(--accent); border-radius: 999px;
          padding: .05rem .55rem; margin-right: .3rem; }
+  .card .thumb { width: 96px; height: 96px; object-fit: cover; border-radius: 8px;
+                 flex-shrink: 0; background: var(--line); }
+  @media (max-width: 480px) { .card .thumb { width: 72px; height: 72px; } }
+  .fav { background: none; border: none; cursor: pointer; font-size: 1.1rem;
+         color: var(--muted); padding: 0 0 0 .3rem; line-height: 1; }
+  .fav.on { color: var(--accent); }
+
+  /* カレンダー */
+  .cal-day { margin-top: 1.3rem; }
+  .cal-date { font-weight: 700; font-size: .95rem; color: var(--accent); }
+  .cal-date .dow { color: var(--muted); font-weight: 400; font-size: .82rem; margin-left: .4rem; }
+  .cal-until { color: var(--muted); font-size: .75rem; margin-left: .5rem; }
+  .cal-entry { background: var(--card); border: 1px solid var(--line); border-radius: 8px;
+               padding: .6rem .8rem; margin-top: .4rem; font-size: .88rem; line-height: 1.6; }
+  .cal-entry .kind { font-size: .68rem; color: var(--accent); border: 1px solid var(--accent);
+                     border-radius: 999px; padding: .05rem .5rem; margin-right: .5rem; }
+  .cal-entry a { color: var(--fg); }
+
+  /* トレンド */
+  .trend-row { display: flex; align-items: center; gap: .7rem; padding: .5rem 0;
+               border-bottom: 1px solid var(--line); cursor: pointer; }
+  .trend-rank { font-weight: 700; color: var(--accent); width: 1.6rem; text-align: center; }
+  .trend-bar { height: 8px; background: var(--accent); border-radius: 4px; opacity: .5; }
+  .trend-label { flex: 1; font-size: .9rem; }
+  .trend-count { color: var(--muted); font-size: .8rem; }
+
   .empty { color: var(--muted); margin-top: 2rem; }
-  footer { max-width: 860px; margin: 0 auto; padding: 2rem 1.25rem 3rem;
-           border-top: 1px solid var(--line); margin-top: 2rem; }
+  footer { max-width: 860px; margin: 2rem auto 0; padding: 2rem 1.25rem 3rem;
+           border-top: 1px solid var(--line); }
   footer p { color: var(--muted); font-size: .72rem; line-height: 1.7; margin: 0; }
 </style>
 </head>
@@ -68,14 +119,17 @@
     <span style="opacity:.5"> · </span>
     <a href="https://ginza.doverstreetmarket.com/pages/new-items" target="_blank" rel="noopener">ドーバー銀座 新着</a>
   </div>
-  <div class="controls">
+  <div class="tabs" id="tabs">
+    <button class="tab active" data-view="news">ニュース</button>
+    <button class="tab" data-view="calendar">リリースカレンダー</button>
+    <button class="tab" data-view="trend">トレンド</button>
+    <button class="tab" data-view="saved">☆ 保存</button>
+  </div>
+  <div class="controls" id="newsControls">
     <input type="search" id="q" placeholder="キーワードで絞り込み…">
     <select id="feed"><option value="">すべてのソース</option></select>
-    <select id="tagf">
-      <option value="__official" selected>新品・ニュースのみ(二次流通を除く)</option>
-      <option value="">すべてのカテゴリ</option>
-    </select>
   </div>
+  <div class="chips" id="chips"></div>
 </header>
 <main id="list"></main>
 <footer>
@@ -86,64 +140,192 @@
 <script>
 const fmtDay = iso => new Date(iso).toLocaleDateString("ja-JP",
   { year: "numeric", month: "long", day: "numeric", weekday: "short" });
-let items = [];
+const DOW = ["日","月","火","水","木","金","土"];
+const CATS = ["新作","コラボ","ショー/コレクション","店舗","インタビュー","再販/セール","二次流通"];
 
-function render() {
-  const q = document.getElementById("q").value.trim().toLowerCase();
-  const feed = document.getElementById("feed").value;
-  const tagf = document.getElementById("tagf").value;
-  const list = document.getElementById("list");
-  const hit = items.filter(i =>
-    (!feed || i.feed === feed) &&
-    (tagf === "" ||
-      (tagf === "__official" ? !(i.tags ?? []).includes("二次流通")
-                             : (i.tags ?? []).includes(tagf))) &&
-    (!q || (i.title + " " + (i.summary ?? "") + " " + (i.publisher ?? ""))
-      .toLowerCase().includes(q)));
-  list.innerHTML = "";
-  if (!hit.length) { list.innerHTML = '<p class="empty">該当する記事がありません。</p>'; return; }
-  let day = null, dayEl = null;
-  for (const i of hit) {
-    const d = i.publishedAt ? fmtDay(i.publishedAt) : "日付不明";
-    if (d !== day) {
-      day = d;
-      dayEl = document.createElement("section");
-      dayEl.className = "day";
-      dayEl.innerHTML = `<h2>${d}</h2>`;
-      list.appendChild(dayEl);
-    }
-    const card = document.createElement("article");
-    card.className = "card";
-    card.innerHTML = `
-      <div class="body">
-        <a href="${i.url}" target="_blank" rel="noopener">${i.title}</a>
-        <div class="src">${i.publisher ?? i.feed}</div>
-        ${i.summary ? `<div class="summary">${i.summary}</div>` : ""}
-        ${i.tags?.length ? `<div class="tags">${i.tags.map(t => `<span class="tag">${t}</span>`).join("")}</div>` : ""}
-      </div>
-      ${i.image ? `<img class="thumb" src="${i.image}" alt="" loading="lazy"
-        referrerpolicy="no-referrer" onerror="this.remove()">` : ""}`;
-    dayEl.appendChild(card);
-  }
+let items = [], schedule = { storeLaunches: [], productDrops: [] };
+let view = "news", cat = "__official", feed = "", q = "";
+let favs = new Set(JSON.parse(localStorage.getItem("cdg_favs") || "[]"));
+
+const saveFavs = () => localStorage.setItem("cdg_favs", JSON.stringify([...favs]));
+const esc = s => (s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;" }[c]));
+
+function cardHTML(i) {
+  const on = favs.has(i.id) ? "on" : "";
+  return `<article class="card" data-id="${i.id}">
+    <div class="body">
+      <a class="title" href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a>
+      <button class="fav ${on}" title="保存">${favs.has(i.id) ? "★" : "☆"}</button>
+      <div class="src">${esc(i.publisher ?? i.feed)}</div>
+      ${i.summary ? `<div class="summary">${esc(i.summary)}</div>` : ""}
+      ${i.tags?.length ? `<div class="tags">${i.tags.map(t => `<span class="tag">${esc(t)}</span>`).join("")}</div>` : ""}
+    </div>
+    ${i.image ? `<img class="thumb" src="${esc(i.image)}" alt="" loading="lazy"
+      referrerpolicy="no-referrer" onerror="this.remove()">` : ""}
+  </article>`;
 }
 
-fetch("data/items.json").then(r => r.json()).then(data => {
-  items = data.items;
+function matchNews(i) {
+  const inCat = cat === ""      ? true
+    : cat === "__official"      ? !(i.tags ?? []).includes("二次流通")
+    : cat === "__saved"         ? favs.has(i.id)
+    :                             (i.tags ?? []).includes(cat);
+  const inFeed = !feed || i.feed === feed;
+  const inQ = !q || (i.title + " " + (i.summary ?? "") + " " + (i.publisher ?? ""))
+    .toLowerCase().includes(q.toLowerCase());
+  return inCat && inFeed && inQ;
+}
+
+function renderNews(savedOnly) {
+  const list = document.getElementById("list");
+  let out = "";
+  const hit = items.filter(i => savedOnly ? favs.has(i.id) : matchNews(i));
+
+  // 今日の要点(絞り込みなし・通常ビューのみ)
+  if (!savedOnly && !q && cat === "__official" && !feed) {
+    const official = items.filter(i => !(i.tags ?? []).includes("二次流通"));
+    // importance が付いていれば優先、無ければ新着順。上位3件
+    const hl = [...official]
+      .sort((a, b) => (b.importance ?? 0) - (a.importance ?? 0))
+      .slice(0, 3);
+    if (hl.length) {
+      out += `<div class="highlights"><h2>今日の要点</h2>` + hl.map(i => `
+        <div class="hl-card">
+          <a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a>
+          ${i.image ? `<img src="${esc(i.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}
+        </div>`).join("") + `</div>`;
+    }
+  }
+
+  if (!hit.length) {
+    out += `<p class="empty">${savedOnly ? "保存した記事はまだありません。☆ボタンで保存できます。" : "該当する記事がありません。"}</p>`;
+    list.innerHTML = out; return;
+  }
+  let day = null;
+  for (const i of hit) {
+    const d = i.publishedAt ? fmtDay(i.publishedAt) : "日付不明";
+    if (d !== day) { day = d; out += `</section><section class="day"><h2>${d}</h2>`; }
+    out += cardHTML(i);
+  }
+  list.innerHTML = out + "</section>";
+}
+
+function renderCalendar() {
+  const list = document.getElementById("list");
+  const today = new Date(); today.setHours(0, 0, 0, 0);
+  const entries = [
+    ...schedule.storeLaunches.map(e => ({ ...e, kind: "店頭立ち上がり" })),
+    ...schedule.productDrops.map(e => ({ ...e, kind: "発売" })),
+  ].filter(e => e.date && new Date(e.date) >= today)
+   .sort((a, b) => a.date.localeCompare(b.date));
+
+  if (!entries.length) {
+    list.innerHTML = `<p class="empty">今後の発売・立ち上がり予定はまだ登録されていません。<br>
+      毎朝のエージェントが CDG FREAK のスケジュールや記事から自動で追加します。</p>`;
+    return;
+  }
+  let out = "", curDate = null;
+  for (const e of entries) {
+    if (e.date !== curDate) {
+      curDate = e.date;
+      const dt = new Date(e.date);
+      const days = Math.round((dt - today) / 86400000);
+      const until = days === 0 ? "今日" : days === 1 ? "明日" : `あと${days}日`;
+      out += `<div class="cal-day"><div class="cal-date">${dt.getMonth()+1}月${dt.getDate()}日
+        <span class="dow">(${DOW[dt.getDay()]})</span><span class="cal-until">${until}</span></div>`;
+    }
+    const label = e.title || e.label || (e.stores ? e.stores.join("・") : "");
+    const extra = [e.brand, e.price, e.where, e.note].filter(Boolean).join(" / ");
+    out += `<div class="cal-entry"><span class="kind">${esc(e.kind)}</span>
+      ${e.url ? `<a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(label)}</a>` : esc(label)}
+      ${extra ? `<div class="src">${esc(extra)}</div>` : ""}</div>`;
+  }
+  list.innerHTML = out;
+}
+
+function renderTrend() {
+  const list = document.getElementById("list");
+  const weekAgo = Date.now() - 7 * 86400000;
+  const recent = items.filter(i => i.publishedAt && new Date(i.publishedAt).getTime() > weekAgo);
+  const KEYS = [
+    ["JUNYA WATANABE", /junya|ジュンヤ/i], ["HOMME PLUS", /homme plus|オムプリュス/i],
+    ["PLAY", /\bplay\b|プレイ/i], ["SHIRT", /shirt|シャツ/i], ["Noir Kei Ninomiya", /noir|ノワール|二宮/i],
+    ["Nike/コラボ", /nike|jordan|new balance|ナイキ|コラボ|collab/i], ["BLACK", /\bblack\b|ブラック/i],
+    ["CDG(ライン)", /\bcdg\b/i], ["香水/香り", /perfume|parfum|香水|フレグランス/i],
+  ];
+  const counts = KEYS.map(([label, re]) => [label, recent.filter(i => re.test(i.title + " " + (i.summary ?? ""))).length])
+    .filter(([, c]) => c > 0).sort((a, b) => b[1] - a[1]);
+  if (!counts.length) { list.innerHTML = `<p class="empty">直近7日のトレンドを集計できませんでした。</p>`; return; }
+  const max = counts[0][1];
+  list.innerHTML = `<div class="highlights"><h2>直近7日の話題ランキング</h2></div>` +
+    counts.map(([label, c], idx) => `
+      <div class="trend-row" data-q="${esc(label)}">
+        <span class="trend-rank">${idx + 1}</span>
+        <span class="trend-label">${esc(label)}</span>
+        <span class="trend-bar" style="width:${Math.max(12, (c / max) * 180)}px"></span>
+        <span class="trend-count">${c}件</span>
+      </div>`).join("");
+  list.querySelectorAll(".trend-row").forEach(r => r.addEventListener("click", () => {
+    q = r.dataset.q; cat = ""; setView("news");
+    document.getElementById("q").value = q;
+  }));
+}
+
+function render() {
+  document.getElementById("newsControls").style.display =
+    (view === "news" || view === "saved") ? "flex" : "none";
+  document.getElementById("chips").style.display = view === "news" ? "flex" : "none";
+  if (view === "calendar") return renderCalendar();
+  if (view === "trend") return renderTrend();
+  if (view === "saved") return renderNews(true);
+  renderNews(false);
+}
+
+function setView(v) {
+  view = v;
+  document.querySelectorAll(".tab").forEach(t => t.classList.toggle("active", t.dataset.view === v));
+  render();
+}
+
+function buildChips() {
+  const chips = document.getElementById("chips");
+  const defs = [["新品・ニュース", "__official"], ["すべて", ""], ...CATS.map(c => [c, c])];
+  chips.innerHTML = defs.map(([label, val]) =>
+    `<button class="chip ${val === cat ? "active" : ""}" data-cat="${val}">${label}</button>`).join("");
+  chips.querySelectorAll(".chip").forEach(c => c.addEventListener("click", () => {
+    cat = c.dataset.cat;
+    chips.querySelectorAll(".chip").forEach(x => x.classList.toggle("active", x.dataset.cat === cat));
+    render();
+  }));
+}
+
+document.getElementById("list").addEventListener("click", e => {
+  const btn = e.target.closest(".fav");
+  if (!btn) return;
+  const id = btn.closest(".card").dataset.id;
+  if (favs.has(id)) favs.delete(id); else favs.add(id);
+  saveFavs(); render();
+});
+document.getElementById("tabs").addEventListener("click", e => {
+  const t = e.target.closest(".tab"); if (t) setView(t.dataset.view);
+});
+document.getElementById("q").addEventListener("input", e => { q = e.target.value.trim(); render(); });
+
+Promise.all([
+  fetch("data/items.json").then(r => r.json()),
+  fetch("data/schedule.json").then(r => r.json()).catch(() => ({ storeLaunches: [], productDrops: [] })),
+]).then(([data, sched]) => {
+  items = data.items; schedule = sched;
   document.getElementById("meta").textContent =
     `${items.length}件 · 最終更新 ${new Date(data.updatedAt).toLocaleString("ja-JP")}`;
-  const feeds = [...new Set(items.map(i => i.feed))];
   const sel = document.getElementById("feed");
-  for (const f of feeds) sel.add(new Option(f, f));
-  const tags = [...new Set(items.flatMap(i => i.tags ?? []))].sort();
-  const tsel = document.getElementById("tagf");
-  for (const t of tags) tsel.add(new Option(t, t));
+  for (const f of [...new Set(items.map(i => i.feed))]) sel.add(new Option(f, f));
+  sel.addEventListener("change", e => { feed = e.target.value; render(); });
+  buildChips();
   render();
 }).catch(() => {
   document.getElementById("meta").textContent = "データの読み込みに失敗しました。";
 });
-document.getElementById("q").addEventListener("input", render);
-document.getElementById("feed").addEventListener("change", render);
-document.getElementById("tagf").addEventListener("change", render);
 </script>
 </body>
 </html>
