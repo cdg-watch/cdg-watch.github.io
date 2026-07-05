@@ -4,6 +4,7 @@
 
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { createHash } from "node:crypto";
+import { pathToFileURL } from "node:url";
 
 const DATA_PATH = new URL("../data/items.json", import.meta.url).pathname;
 const MAX_ITEMS = 1000;
@@ -60,6 +61,49 @@ function itemImage(block) {
   const html = tag(block, "content:encoded") + tag(block, "description");
   const img = html.match(/<img[^>]+src="([^"]+)"/i);
   return img ? decodeEntities(img[1]) : null;
+}
+
+// Google News の中継URLから本物の記事URLを復元する(内部API batchexecute を使用)。
+// 非公式手法のため、失敗が続く場合は仕様変更を疑うこと。失敗時は null
+export async function resolveGoogleNewsUrl(gnUrl) {
+  try {
+    const id = new URL(gnUrl).pathname.split("/").pop();
+    const pageRes = await fetch(gnUrl, {
+      headers: { "user-agent": "Mozilla/5.0 (cdg-watch)" },
+      signal: AbortSignal.timeout(15000),
+    });
+    const page = await pageRes.text();
+    const ts = page.match(/data-n-a-ts="([^"]+)"/)?.[1];
+    const sg = page.match(/data-n-a-sg="([^"]+)"/)?.[1];
+    if (!ts || !sg) return null;
+    const inner = JSON.stringify([
+      "garturlreq",
+      [["X", "X", ["X", "X"], null, null, 1, 1, "US:en", null, 1,
+        null, null, null, null, null, 0, 1],
+       "X", "X", 1, [1, 1, 1], 1, 1, null, 0, 0, null, 0],
+      id, Number(ts), sg,
+    ]);
+    const body =
+      "f.req=" +
+      encodeURIComponent(JSON.stringify([[["Fbv4je", inner, null, "generic"]]]));
+    const res = await fetch(
+      "https://news.google.com/_/DotsSplashUi/data/batchexecute",
+      {
+        method: "POST",
+        headers: {
+          "content-type": "application/x-www-form-urlencoded;charset=UTF-8",
+          "user-agent": "Mozilla/5.0 (cdg-watch)",
+        },
+        body,
+        signal: AbortSignal.timeout(15000),
+      }
+    );
+    const text = await res.text();
+    const m = text.match(/https?:\\\/\\\/(?!news\.google)[^"\\]+/);
+    return m ? m[0].replace(/\\\//g, "/") : null;
+  } catch {
+    return null;
+  }
 }
 
 // 記事ページ(Google Newsは中継ページ)の og:image URL を取得。失敗時は null
@@ -137,6 +181,16 @@ async function main() {
     }
   }
 
+  // Google News の新着は本物の記事URLに差し替える(復元失敗時は中継URLのまま)
+  for (const it of added.filter((i) => i.url.includes("news.google.com"))) {
+    const real = await resolveGoogleNewsUrl(it.url);
+    if (real) {
+      it.url = real;
+      if (RESALE_RE.test(real) && !it.tags.includes("二次流通"))
+        it.tags.push("二次流通");
+    }
+  }
+
   // フィードに画像が無かった新着はページの og:image で補完(最大40件)。
   // Google News の中継ページは og:image がロゴ画像のため対象外
   for (const it of added
@@ -153,4 +207,4 @@ async function main() {
   console.log(`added ${added.length} items (total ${existing.items.length})`);
 }
 
-main();
+if (import.meta.url === pathToFileURL(process.argv[1] ?? "").href) main();
