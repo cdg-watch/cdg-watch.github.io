@@ -114,8 +114,9 @@ const JUNK_IMG_RE =
 // パターンが変わったら該当サイトの行を直すだけで済むよう、ここに集約する。
 function extractSiteImage(host, html) {
   if (/snkrdunk\.com$/.test(host)) {
+    // 中古出品(apparel_used_listings)・新品(upload_bg_removed / images/products)
     const m = html.match(
-      /https:\/\/cdn\.snkrdunk\.com\/(?:apparel_used_listings|images\/products)\/[^"\\ ]+\.(?:jpe?g|png|webp)/i
+      /https:\/\/cdn\.snkrdunk\.com\/(?:apparel_used_listings|used_listing|upload_bg_removed|images\/products)\/[^"\\ ]+\.(?:jpe?g|png|webp)/i
     );
     return m ? m[0] : null;
   }
