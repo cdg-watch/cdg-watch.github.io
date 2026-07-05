@@ -1,0 +1,33 @@
+# X投稿ドラフト 2026-07-05
+
+> このファイルは自動生成の叩き台。SNSエージェントが推敲し、実投稿またはsnowの手動投稿に使う。
+> 目安: 日本語は全角1文字=2カウント、上限280カウント(=全角約140字)。URLは23カウント固定。
+
+## 案A: 単体トピック(推奨・画像1枚添付想定)
+```
+【CDG】コム デ ギャルソン オム プリュス 2027年春夏コレクション「If the War Were To End...」
+川久保玲が戦争後の世界を想像したテーマで発表。前シーズンの怒りの表現から一転し、旗をパッチ・パネルに落とし込んで希望と郷愁が同居する内省的な内容に。
+▼詳細
+https://snowhsgg.github.io/cdg-watch/
+#コムデギャルソン #CommeDesGarcons #CDG
+```
+関連画像: (サイトの該当記事サムネを添付)
+
+## 案B: 今日のまとめ
+```
+今日のコムデギャルソン(2026-07-05)
+・コム デ ギャルソン オム プリュス 2027年春夏コレクション「If the War Were To End...」
+・「コム デ ギャルソン・シャツ」2027年春夏コレクション発表
+・コムデギャルソン オム × ニューバランス「1226」がSS27で復活
+▼まとめ
+https://snowhsgg.github.io/cdg-watch/
+#コムデギャルソン #CommeDesGarcons #CDG
+```
+
+## 元トピック
+- コム デ ギャルソン オム プリュス 2027年春夏コレクション「If the War Were To End...」
+  https://www.anothermag.com/fashion-beauty/17287/comme-des-garcons-homme-plus-spring-summer-2027-rei-kawakubo-ss27
+- 「コム デ ギャルソン・シャツ」2027年春夏コレクション発表
+  https://www.wwdjapan.com/articles/2442639
+- コムデギャルソン オム × ニューバランス「1226」がSS27で復活
+  https://www.soleretriever.com/news/articles/comme-des-garcons-homme-new-balance-1226
