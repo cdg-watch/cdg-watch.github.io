@@ -36,9 +36,10 @@ function main() {
   const top = blocks[0];
   // 本文は文字数を抑える(URL・タグ・改行の余白を残す)
   const lead = top.body.length > 90 ? top.body.slice(0, 88) + "…" : top.body;
-  const single = `【CDG】${top.title}\n${lead}\n▼詳細\n${SITE}\n${TAGS}`;
+  // 単体投稿は記事の直リンク(読者は一次情報に直行でき、記事のOGカードが画像として出る)
+  const single = `【CDG】${top.title}\n${lead}\n▼記事\n${top.url}\n${TAGS}`;
 
-  // 複数トピックまとめ版(スレッド先頭やまとめ投稿用)
+  // 複数トピックまとめ版はサイトへ誘導(複数話題の受け皿+自作ブランドカードが出る)
   const list = blocks.slice(0, 3).map((b) => `・${b.title}`).join("\n");
   const roundup = `今日のコムデギャルソン(${date})\n${list}\n▼まとめ\n${SITE}\n${TAGS}`;
 
