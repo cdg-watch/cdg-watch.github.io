@@ -7,7 +7,7 @@ import { readFileSync, writeFileSync, existsSync } from "node:fs";
 
 const DIGEST = new URL("../data/digest-latest.md", import.meta.url).pathname;
 const OUT = new URL("../data/post-draft.md", import.meta.url).pathname;
-const SITE = "https://snowhsgg.github.io/cdg-watch/";
+const SITE = "https://cdg-watch.github.io/";
 const TAGS = "#コムデギャルソン #CommeDesGarcons #CDG";
 
 function parseDigest(md) {

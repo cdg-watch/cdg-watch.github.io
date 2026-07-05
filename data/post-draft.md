@@ -13,7 +13,7 @@
 川久保玲が“戦争が終わったら”の世界を描く。前季の怒りから一転、旗をパッチに落とし込んだ希望と郷愁の46ルック。
 
 ▼まとめ
-https://snowhsgg.github.io/cdg-watch/
+https://cdg-watch.github.io/
 #コムデギャルソン #CommeDesGarcons
 ```
 
@@ -30,7 +30,7 @@ https://snowhsgg.github.io/cdg-watch/
 ・オム × NB「1226」がSS27で復活
 
 ▼詳細
-https://snowhsgg.github.io/cdg-watch/
+https://cdg-watch.github.io/
 #コムデギャルソン
 ```
 
@@ -39,7 +39,7 @@ https://snowhsgg.github.io/cdg-watch/
 【CDG】コム デ ギャルソン オム プリュス 2027年春夏コレクション「If the War Were To End...」
 川久保玲が戦争後の世界を想像したテーマで発表。前シーズンの怒りの表現から一転し、旗をパッチ・パネルに落とし込んで希望と郷愁が同居する内省的な内容に。
 ▼詳細
-https://snowhsgg.github.io/cdg-watch/
+https://cdg-watch.github.io/
 #コムデギャルソン #CommeDesGarcons #CDG
 ```
 関連画像: (サイトの該当記事サムネを添付)
@@ -51,7 +51,7 @@ https://snowhsgg.github.io/cdg-watch/
 ・「コム デ ギャルソン・シャツ」2027年春夏コレクション発表
 ・コムデギャルソン オム × ニューバランス「1226」がSS27で復活
 ▼まとめ
-https://snowhsgg.github.io/cdg-watch/
+https://cdg-watch.github.io/
 #コムデギャルソン #CommeDesGarcons #CDG
 ```
 

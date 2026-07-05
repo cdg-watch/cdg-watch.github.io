@@ -267,7 +267,7 @@ async function main() {
 
 // 自前のRSSフィードを生成(他ユーザーがFeedly等で購読できるようにする)
 function writeRss(items) {
-  const SITE = "https://snowhsgg.github.io/cdg-watch/";
+  const SITE = "https://cdg-watch.github.io/";
   const xesc = (s) =>
     (s ?? "").replace(/[<>&"']/g, (c) =>
       ({ "<": "&lt;", ">": "&gt;", "&": "&amp;", '"': "&quot;", "'": "&apos;" }[c])
