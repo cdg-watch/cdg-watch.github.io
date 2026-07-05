@@ -34,7 +34,7 @@ const SOURCES = [
 
 // 二次流通(リセール・中古・フリマ)系の出典は収集時点で自動タグ付けする
 const RESALE_RE =
-  /SNKRDUNK|スニーカーダンク|スニダン|メルカリ|ラクマ|ヤフオク|Yahoo!オークション|セカンドストリート|2nd STREET|トレファク|StockX|GOAT|Grailed/i;
+  /SNKRDUNK|スニーカーダンク|スニダン|メルカリ|ラクマ|ヤフオク|Yahoo!オークション|セカンドストリート|2nd STREET|トレファク|StockX|GOAT|Grailed|brute[-.]?(beauty|tokyo|store)?|ブルート/i;
 
 function decodeEntities(s) {
   return s
@@ -106,19 +106,40 @@ export async function resolveGoogleNewsUrl(gnUrl) {
   }
 }
 
-// 記事ページ(Google Newsは中継ページ)の og:image URL を取得。失敗時は null
+// デフォルト/ロゴ画像は代表画像として無価値なので除外する
+const JUNK_IMG_RE =
+  /ogp_default|default[-_]?ogp|no[-_]?image|noimage|logo|placeholder|googleusercontent/i;
+
+// 記事ページの代表画像URLを取得。og:image → twitter:image → 本文の最初の大きな
+// <img> の順に試す。取得不可・ロゴのみの場合は null
 export async function fetchOgImage(url) {
   try {
     const res = await fetch(url, {
-      headers: { "user-agent": "Mozilla/5.0 (cdg-watch thumbnail fetcher)" },
-      signal: AbortSignal.timeout(10000),
+      headers: {
+        "user-agent":
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) " +
+          "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
+      },
+      signal: AbortSignal.timeout(12000),
     });
     if (!res.ok) return null;
     const html = await res.text();
-    const m =
-      html.match(/property="og:image"[^>]*content="([^"]+)"/) ||
-      html.match(/content="([^"]+)"[^>]*property="og:image"/);
-    return m ? decodeEntities(m[1]) : null;
+
+    for (const re of [
+      /property="og:image(?::secure_url)?"[^>]*content="([^"]+)"/,
+      /content="([^"]+)"[^>]*property="og:image"/,
+      /name="twitter:image(?::src)?"[^>]*content="([^"]+)"/,
+    ]) {
+      const m = html.match(re);
+      if (m && !JUNK_IMG_RE.test(m[1])) return decodeEntities(m[1]);
+    }
+    // フォールバック: 本文の最初の実写画像(og:imageを持たないサイト向け)
+    for (const m of html.matchAll(/<img[^>]+src="(https:\/\/[^"]+)"/gi)) {
+      const src = m[1];
+      if (!JUNK_IMG_RE.test(src) && /\.(jpe?g|png|webp)(\?|$)/i.test(src))
+        return decodeEntities(src);
+    }
+    return null;
   } catch {
     return null;
   }
