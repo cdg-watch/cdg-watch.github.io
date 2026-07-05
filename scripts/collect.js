@@ -54,6 +54,24 @@ function itemImage(block) {
   return img ? decodeEntities(img[1]) : null;
 }
 
+// 記事ページ(Google Newsは中継ページ)の og:image URL を取得。失敗時は null
+export async function fetchOgImage(url) {
+  try {
+    const res = await fetch(url, {
+      headers: { "user-agent": "Mozilla/5.0 (cdg-watch thumbnail fetcher)" },
+      signal: AbortSignal.timeout(10000),
+    });
+    if (!res.ok) return null;
+    const html = await res.text();
+    const m =
+      html.match(/property="og:image"[^>]*content="([^"]+)"/) ||
+      html.match(/content="([^"]+)"[^>]*property="og:image"/);
+    return m ? decodeEntities(m[1]) : null;
+  } catch {
+    return null;
+  }
+}
+
 function parseRss(xml) {
   return [...xml.matchAll(/<item>(.*?)<\/item>/gs)].map(([, block]) => ({
     title: tag(block, "title"),
@@ -103,6 +121,11 @@ async function main() {
         tags: resale ? ["二次流通"] : [],
       });
     }
+  }
+
+  // フィードに画像が無かった新着(Google News等)はページの og:image で補完(最大40件)
+  for (const it of added.filter((i) => !i.image).slice(0, 40)) {
+    it.image = await fetchOgImage(it.url);
   }
 
   existing.items = [...added, ...existing.items]
