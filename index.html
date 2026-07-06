@@ -129,6 +129,15 @@
   .trend-label { flex: 1; font-size: .92rem; letter-spacing: .02em; }
   .trend-count { color: var(--muted); font-size: .72rem; letter-spacing: .06em; }
 
+  /* 楽天アフィリエイト導線(二次流通タブ) */
+  .rakuten-cta { display: flex; align-items: center; justify-content: center; gap: .5rem;
+                 margin-top: 1.4rem; padding: .9rem 1rem; border: 1px solid var(--fg);
+                 color: var(--fg); text-decoration: none; font-size: .82rem;
+                 letter-spacing: .08em; text-transform: uppercase; font-weight: 600; }
+  .rakuten-cta:hover { background: var(--fg); color: var(--bg); }
+  .rakuten-cta .pr { font-size: .6rem; border: 1px solid currentColor; border-radius: 2px;
+                     padding: 0 .3rem; letter-spacing: .05em; opacity: .7; }
+
   .empty { color: var(--muted); margin-top: 2.5rem; font-size: .88rem; line-height: 1.8; }
   footer { max-width: 900px; margin: 3rem auto 0; padding: 2rem 1.5rem 3.5rem;
            border-top: 1px solid var(--line); }
@@ -169,13 +178,20 @@
   <p>個人が運営する非公式のファンサイトです。COMME des GARÇONS 公式とは一切関係ありません。
   掲載情報は各報道機関・公式RSS等の公開情報を集約したもので、著作権は各出典に帰属します。
   詳細・正確な情報は必ず各リンク先および公式サイトでご確認ください。
-  アクセス解析に GoatCounter(Cookie不使用・個人を特定しない)を利用しています。</p>
+  アクセス解析に GoatCounter(Cookie不使用・個人を特定しない)を利用しています。
+  本サイトは楽天アフィリエイト等のアフィリエイトプログラムを利用しており、「PR」表記のある
+  リンクを経由して商品が購入された場合、運営者が報酬を得ることがあります。</p>
 </footer>
 <script>
 const fmtDay = iso => new Date(iso).toLocaleDateString("ja-JP",
   { year: "numeric", month: "long", day: "numeric", weekday: "short" });
 const DOW = ["日","月","火","水","木","金","土"];
 const CATS = ["新作","コラボ","ショー/コレクション","店舗","インタビュー","再販/セール","二次流通"];
+
+// 楽天アフィリエイト(コムデギャルソン検索。二次流通タブのPR導線)
+const RAKUTEN_CDG = "https://hb.afl.rakuten.co.jp/hgc/558d8f1f.1e88ee8e/?pc=" +
+  encodeURIComponent("https://search.rakuten.co.jp/search/mall/コムデギャルソン/") +
+  "&m=" + encodeURIComponent("https://search.rakuten.co.jp/search/mall/コムデギャルソン/");
 
 let items = [], schedule = { storeLaunches: [], productDrops: [] };
 let view = "news", cat = "__official", feed = "", q = "", calPast = false;
@@ -229,6 +245,12 @@ function renderNews(savedOnly) {
           ${i.image ? `<img src="${esc(i.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}
         </div>`).join("") + `</div>`;
     }
+  }
+
+  // 二次流通タブの上部に楽天アフィリエイトの導線(PR)
+  if (!savedOnly && cat === "二次流通") {
+    out += `<a class="rakuten-cta" href="${RAKUTEN_CDG}" target="_blank" rel="noopener sponsored nofollow">
+      楽天市場でコムデギャルソンを探す →<span class="pr">PR</span></a>`;
   }
 
   if (!hit.length) {
