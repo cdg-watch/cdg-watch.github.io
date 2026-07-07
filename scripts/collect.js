@@ -248,6 +248,19 @@ async function main() {
     }
   }
 
+  // 同じ記事が別の publisher 表記(例: "10 Magazine" / "10magazine.com")で
+  // 別 id として二重登録されるのを防ぐ。URL解決後にURL単位で重複排除する
+  // (id は title+publisher のハッシュのため、表記ゆれがあると別idになってしまう)。
+  const knownUrls = new Set(existing.items.map((i) => i.url));
+  const deduped = [];
+  for (const it of added) {
+    if (knownUrls.has(it.url)) continue;
+    knownUrls.add(it.url);
+    deduped.push(it);
+  }
+  added.length = 0;
+  added.push(...deduped);
+
   // フィードに画像が無かった新着はページの og:image で補完(最大40件)。
   // Google News の中継ページは og:image がロゴ画像のため対象外
   for (const it of added
@@ -266,7 +279,7 @@ async function main() {
 }
 
 // 自前のRSSフィードを生成(他ユーザーがFeedly等で購読できるようにする)
-function writeRss(items) {
+export function writeRss(items) {
   const SITE = "https://cdg-watch.github.io/";
   const xesc = (s) =>
     (s ?? "").replace(/[<>&"']/g, (c) =>
