@@ -5,7 +5,7 @@
   https://www.vogue.com/fashion-shows/spring-2027-menswear/comme-des-garcons-homme-plus
 
 - **コム デ ギャルソン シャツ 2027年春夏コレクション**
-  パリのプラス・ヴァンドームで恒例の早朝プレゼンテーションを開催。キャンディストライプやカットアウト切り替え、グラフィックプリントのドレスシャツを展開。
+  パリのプラス・ヴァンドームで恒例の早朝プレゼンテーションを開催。キャンディストライプやカットアウト切り替え、グラフィックプリントのドレスシャツを展開。フレッドペリーとのポロシャツコラボも継続。
   https://www.vogue.com/fashion-shows/spring-2027-menswear/comme-des-garcons-shirt
 
 - **COMME des GARCONS HOMME PLUS × Air Jordan 11、9月発売へ**

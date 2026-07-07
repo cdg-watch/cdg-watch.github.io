@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T02:54:21.245Z",
+  "updatedAt": "2026-07-07T03:02:33Z",
   "items": [
     {
       "id": "3633597203a0494d",
@@ -637,12 +637,13 @@
       "publisher": "Vogue",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.627Z",
-      "summary": "コムデギャルソン シャツの2027年春夏コレクションのレビュー記事で、パリのプラス・ヴァンドームで恒例の早朝9時15分開始のプレゼンテーションが行われ、キャンディストライプやカットアウトの切り替えパーツ、グラフィックプリントを用いたドレスシャツの多様なバリエーションが展開されたと紹介している。",
+      "summary": "コムデギャルソン シャツの2027年春夏コレクションは、キャンディストライプ柄やカットアウト装飾、遊び心あるグラフィックプリント、パステルカラーを展開。フレッドペリーとのポロシャツのコラボを継続し、ASICSのスニーカーも合わせられた。",
       "tags": [
         "ショー/コレクション"
       ],
       "image": "https://assets.vogue.com/photos/6a3f9214377daf788c94179e/16:9/pass/00001-comme-des-garcons-shirt-spring-2027-menswear-credit-gorunway.jpg",
-      "importance": 3
+      "importance": 2,
+      "cluster": "cdg-shirt-ss27"
     },
     {
       "id": "1c178151109e1804",
