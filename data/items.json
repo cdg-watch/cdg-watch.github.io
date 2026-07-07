@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T22:09:28.452Z",
+  "updatedAt": "2026-07-07T22:16:56.782Z",
   "items": [
     {
       "id": "8aca546f62dece37",
@@ -10,10 +10,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/4e232b33-6877-4185-a949-e8b043b2db6b/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-07T22:08:59.294Z",
-      "summary": null,
+      "summary": "プレイ コムデギャルソンのカーディガン(品番AX N802、サイズXS)がSNKRDUNKで中古出品されている。価格は2万600円、コンディションはC(やや傷や汚れあり)。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "50aa3ff4b0068203",
@@ -21,14 +22,14 @@
       "url": "https://topics.smt.docomo.ne.jp/article/wwschannel/entertainment/wwschannel-633917?page",
       "publishedAt": "2026-07-07T11:00:00.000Z",
       "publisher": "ｄメニューニュース",
-      "image": null,
+      "image": "https://img.topics.smt.news.goo.ne.jp/picture/wwschannel/m_wwschannel-633917.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-07T22:08:59.294Z",
-      "summary": null,
+      "summary": "モデルの大橋めりさが「Tokyo Shibuya Collection PRESS」の取材で全身コムデギャルソンのストリートラインを着用し、夏はサーフィンやダイビングに挑戦したいと語った。",
       "tags": [
-        "ショー/コレクション",
-        "新作"
-      ]
+        "インタビュー"
+      ],
+      "importance": 1
     },
     {
       "id": "050d3b1a9df58f13",
@@ -39,8 +40,11 @@
       "image": "https://media.wwdjapan.com/wp-content/uploads/2026/07/07112648/OG-30-150x150.jpg",
       "feed": "WWD JAPAN",
       "fetchedAt": "2026-07-07T22:08:58.221Z",
-      "summary": null,
-      "tags": []
+      "summary": "パリで発表されたコム デ ギャルソン・オム プリュス2027年春夏コレクションの会場外スナップ記事。定番の黒基調ではなくオールホワイトやモノトーンが目立ち、ノワール ケイ ニノミヤなど傘下ラインを組み合わせたブランド横断コーデが紹介されている。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 2
     },
     {
       "id": "3633597203a0494d",
@@ -66,10 +70,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/8e5f5066-36ec-4671-952b-5361c8b3b6c0/7740855.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-07T22:08:59.294Z",
-      "summary": null,
+      "summary": "コムデギャルソン オムプリュスのスニーカー「Sense 96 SP Black」(JPN27.5)がSNKRDUNKで中古出品。価格は2万8260円、コンディションはD(傷や汚れあり)。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "f62600da9fa4fd0f",
@@ -269,20 +274,6 @@
       "importance": 2
     },
     {
-      "id": "b12c6d527928ead6",
-      "title": "Clothing Comme Des Garcons Nyc Store Hours Rei Kawakubo Comme Des Garçons – Art Of The In-between - consumerthai",
-      "url": "https://www.consumerthai.org/?i",
-      "publishedAt": "2026-07-04T00:40:15.000Z",
-      "publisher": "consumerthai",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-07T22:08:59.799Z",
-      "summary": null,
-      "tags": [
-        "インタビュー"
-      ]
-    },
-    {
       "id": "a9828ecdff57701e",
       "title": "Comme des Garçons x Air Jordan 11 'Black' — First-Ever Collab: Where to Buy - Athlon Sports",
       "url": "https://athlonsports.com/kicks/omme-des-garcons-air-jordan-11-black-release-date-where-to-buy",
@@ -327,20 +318,6 @@
       "importance": 2
     },
     {
-      "id": "a6526c889334006d",
-      "title": "コムデギャルソン川久保玲 強まる反戦へのメッセージ「時間がない」 - asahi.com",
-      "url": "https://www.asahi.com/articles/ASV721T0FV72UCVL009M.html",
-      "publishedAt": "2026-07-03T07:00:00.000Z",
-      "publisher": "asahi.com",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-07T22:08:59.294Z",
-      "summary": null,
-      "tags": [
-        "インタビュー"
-      ]
-    },
-    {
       "id": "bc2a78bfcf39ac2c",
       "title": "コムデギャルソン川久保玲 強まる反戦へのメッセージ「時間がない」 - 朝日新聞",
       "url": "https://www.asahi.com/articles/ASV721T0FV72UCVL009M.html",
@@ -348,12 +325,13 @@
       "publisher": "朝日新聞",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": "(要約取得不可)",
+      "summary": "パリ・メンズファッションウィークで2027年春夏コレクションを発表した川久保玲が朝日新聞の取材に応じ、反戦へのメッセージについて「時間がない」と強い危機感を語った。",
       "tags": [
         "インタビュー"
       ],
       "image": "https://imgopt.asahi.com/ogp/AS20260703004523_comm.jpg",
-      "cluster": "cdg-hp-ss27-show"
+      "cluster": "cdg-hp-ss27-show",
+      "importance": 3
     },
     {
       "id": "19210cf48d97d591",
@@ -616,7 +594,8 @@
         "その他",
         "インタビュー"
       ],
-      "image": null
+      "image": null,
+      "importance": 1
     },
     {
       "id": "db03d8497f406cd5",
@@ -663,20 +642,6 @@
         "コラボ"
       ],
       "importance": 1
-    },
-    {
-      "id": "f6b27b0bd8b0f77f",
-      "title": "「もし戦争が終わったら」コムデギャルソン川久保玲が示した「希望」 - asahi.com",
-      "url": "https://www.asahi.com/articles/ASV6W4DWJV6WUCVL00NM.html",
-      "publishedAt": "2026-06-28T07:00:00.000Z",
-      "publisher": "asahi.com",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-07T22:08:59.294Z",
-      "summary": null,
-      "tags": [
-        "インタビュー"
-      ]
     },
     {
       "id": "1f4c2b4fe4efd11e",
@@ -1057,20 +1022,6 @@
       "importance": 1
     },
     {
-      "id": "f0488c944d7a7bfe",
-      "title": "コム des デ COMME ギャルソン（COMME DES コムデギャルソンのコーディネート・着こなし特集 2025SS ] オム コムデギャルソン [ HOMME GARCONS コムデギャルソンオムプリュスが2026年春夏コレクションをパリで発表 綿 - cfecgc-orange.org",
-      "url": "https://www.cfecgc-orange.org/tag/category/el2ubrqprbqc4o7.phtml",
-      "publishedAt": "2026-06-12T11:31:53.000Z",
-      "publisher": "cfecgc-orange.org",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-05T22:09:13.362Z",
-      "summary": null,
-      "tags": [
-        "ショー/コレクション"
-      ]
-    },
-    {
       "id": "1b2c9e57635cff76",
       "title": "Henry Taylor brings his distinctive visual language to COMME des GARÇONS Wallet - Hube magazine",
       "url": "https://hubemag.com/henry-taylor-x-comme-des-garcons-wallet",
@@ -1078,23 +1029,12 @@
       "publisher": "Hube magazine",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://hubemag.com/wp-content/uploads/2026/06/CdG_WALLET_HENRY_TAYLOR__23145-_web.png"
-    },
-    {
-      "id": "85097d27815f1e6e",
-      "title": "レア コムデギャルソン 香水 ガール バイ ファレル ウィリアムス EDP SP 100ml オードパルファム KAWS アーティストコラボ - cfecgc-orange.org",
-      "url": "https://www.cfecgc-orange.org/list/material/esd9ae1wqy1bkbi.phtml",
-      "publishedAt": "2026-06-12T10:36:16.000Z",
-      "publisher": "cfecgc-orange.org",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "ロサンゼルス在住のアーティストHenry Taylorの絵画作品をあしらったCOMME des GARÇONS Walletのコラボアイテムが、直営店やドーバー ストリート マーケット等で発売される。",
       "tags": [
         "コラボ"
       ],
-      "image": "https://www.cfecgc-orange.org/documents/images/do_idf/effectif_et_tps.jpg"
+      "image": "https://hubemag.com/wp-content/uploads/2026/06/CdG_WALLET_HENRY_TAYLOR__23145-_web.png",
+      "importance": 2
     },
     {
       "id": "57e850e8a866f1a5",
@@ -1104,39 +1044,12 @@
       "publisher": "nippon.com",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "1981年の「黒の衝撃」から半世紀にわたる川久保玲とコムデギャルソンの歩みを、代表作や反戦・平和のメッセージ、ドーバー ストリート マーケット創設などを軸に振り返るnippon.comの特集記事。",
       "tags": [
         "インタビュー"
       ],
-      "image": "https://www.nippon.com/ja/ncommon/contents/japan-topics/3018457/3018457.jpg"
-    },
-    {
-      "id": "69fe9b141efde2a1",
-      "title": "コムデギャルソン・川久保玲～「黒の衝撃」から半世紀、ファッションで「反骨精神」「反戦」を体現する挑戦者（nippon.com） - Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/4e5aecc1eeb65e033166bd3df6f5d7f6415910a4?page",
-      "publishedAt": "2026-06-12T07:00:00.000Z",
-      "publisher": "Yahoo!ニュース",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
-      "tags": [
-        "インタビュー"
-      ],
-      "image": null
-    },
-    {
-      "id": "d0fc41e80801887f",
-      "title": "コムデギャルソン・川久保玲～「黒の衝撃」から半世紀、ファッションで「反骨精神」「反戦」を体現する挑戦者 (nippon.com) - Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/4e5aecc1eeb65e033166bd3df6f5d7f6415910a4/images/001",
-      "publishedAt": "2026-06-12T07:00:00.000Z",
-      "publisher": "Yahoo!ニュース",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
-      "tags": [
-        "インタビュー"
-      ],
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3JFWzsTLeME_A9paPU19pkYYrgbakBHfMp00uvAtM6ajiwBlIc3aBs6QQlMBqokUUmoBSSK3HbaSukgOl53Cym8hyFkvkIn6W873IpTYCpTB9rZ-X6h8d8Mtj5AzxaF3kqVmAfO7qF_wO8x4w6tLQlg=="
+      "image": "https://www.nippon.com/ja/ncommon/contents/japan-topics/3018457/3018457.jpg",
+      "importance": 3
     },
     {
       "id": "2b694c842926f5cc",
@@ -1146,9 +1059,13 @@
       "publisher": "Dazed",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://images-prod.dazeddigital.com/1200/0-0-2047-1365/azure/dazed-prod/1440/6/1446946.jpg"
+      "summary": "コムデギャルソン シャツがルーマニアの芸術家ダン・ペルヨフスキと組み、ブカレストにコンセプトストアを開設。作品の使用料は現地の小児がん病院に寄付され、ブランドは寄付額を倍増させた。",
+      "tags": [
+        "コラボ",
+        "店舗"
+      ],
+      "image": "https://images-prod.dazeddigital.com/1200/0-0-2047-1365/azure/dazed-prod/1440/6/1446946.jpg",
+      "importance": 2
     },
     {
       "id": "d8889119843ff28f",
@@ -1158,9 +1075,10 @@
       "publisher": "Hypebeast",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [],
-      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F06&#x25;2F11&#x25;2FCDG-comme-des-garcons-Postman-Bag-Return-Release-Info-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F06%2F11%2FCDG-comme-des-garcons-Postman-Bag-Return-Release-Info-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+      "importance": 1
     },
     {
       "id": "e25c8b320d972389",
@@ -1226,9 +1144,12 @@
       "publisher": "fashionsnap.com",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/05/ai-collection-03-4842c190-a96b-4e1e-968e-0b8ae0396241.jpg"
+      "summary": "2026年秋冬パリ・ファッションウィークでのコムデギャルソンの展開を軸に、「黒の衝撃」以来ブランドが繰り返し立ち返る「黒」の意味を論じるfashionsnap.comの評論コラム(前編)。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/05/ai-collection-03-4842c190-a96b-4e1e-968e-0b8ae0396241.jpg",
+      "importance": 2
     },
     {
       "id": "0845e6a5f020087a",
@@ -1876,20 +1797,6 @@
       "image": "https://pyxis.nymag.com/v1/imgs/ad6/ee8/a698c339d91f8b300988a87cdded8e4dad-scent-lede.1x.rsocial.w1200.jpg"
     },
     {
-      "id": "b42fa5a29b48daaa",
-      "title": "COMME des GARCONS HOMME Cotton Polyester Track Jacket \"Black\"の新品/中古服・ブランド古着通販｜スニダン - SNKRDUNK",
-      "url": "https://snkrdunk.com/apparels/780286?slide",
-      "publishedAt": "2026-03-18T09:34:09.000Z",
-      "publisher": "SNKRDUNK",
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/571fc4cf-51cb-43f6-aee9-896deaa03585.webp",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-07T22:08:59.295Z",
-      "summary": null,
-      "tags": [
-        "二次流通"
-      ]
-    },
-    {
       "id": "17d56d6db1767508",
       "title": "COMME des GARCONS HOMME Cotton Polyester Track Jacket \"Black\"の新品/中古フリマ(通販)｜スニダン - SNKRDUNK",
       "url": "https://snkrdunk.com/apparels/780286?slide",
@@ -1971,20 +1878,6 @@
         "インタビュー"
       ],
       "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F03&#x25;2F11&#x25;2Ftwcomme-des-garcons-fall-winter-2026-runway-collection-paris-fashion-week.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
-    },
-    {
-      "id": "31fe194a110fba04",
-      "title": "後藤洋平のコレクション日記 ギャルソンデーには黒いハットのあの人 - asahi.com",
-      "url": "https://www.asahi.com/articles/ASV392245V39UCVL020M.html",
-      "publishedAt": "2026-03-10T07:00:00.000Z",
-      "publisher": "asahi.com",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-07T22:08:59.294Z",
-      "summary": null,
-      "tags": [
-        "ショー/コレクション"
-      ]
     },
     {
       "id": "3e67e00e07ccb8f0",
@@ -2206,18 +2099,6 @@
         "二次流通"
       ],
       "image": "https://cdn.snkrdunk.com/uploads/media/20260217111620-0.jpeg"
-    },
-    {
-      "id": "740c86d3f5bcc137",
-      "title": "Farewell to Christian Astuguevieille, the nose behind Comme des Garçons' anti-perfumes - nss G-Club",
-      "url": "https://www.nssgclub.com/en/beauty/44311/farewell-to-christian-astuguevieille-the-nose-behind-comme-des-garcons-anti-perfumes",
-      "publishedAt": "2026-02-17T15:14:32.000Z",
-      "publisher": "nss G-Club",
-      "image": "https://data2.nssmag.com/images/galleries/46975/nssgclub-Christian-Astuguevieille.webp",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-07T22:08:59.800Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "aaae6488b47bb38b",
@@ -2608,32 +2489,6 @@
       "image": "https://images-prod.dazeddigital.com/1200/0-161-1443-962/azure/dazed-prod/1430/4/1434990.jpg"
     },
     {
-      "id": "23df60ec3ca85d4b",
-      "title": "川久保玲はブラックホールにあらがう 「上を向けば光」パリ・メンズ - asahi.com",
-      "url": "https://www.asahi.com/articles/ASV1S0CHJV1SUCVL009M.html",
-      "publishedAt": "2026-01-25T08:00:00.000Z",
-      "publisher": "asahi.com",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-07T22:08:59.295Z",
-      "summary": null,
-      "tags": [
-        "インタビュー"
-      ]
-    },
-    {
-      "id": "ac347fb898da8867",
-      "title": "Comme des Garçons Homme Plus: “Let’s get out of the black hole” - Hero Magazine",
-      "url": "https://hero-magazine.com/shows/comme-des-garcons-homme-plus-lets-get-out-of-the-black-hole",
-      "publishedAt": "2026-01-25T08:00:00.000Z",
-      "publisher": "Hero Magazine",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-07T22:08:59.799Z",
-      "summary": null,
-      "tags": []
-    },
-    {
       "id": "a902ea8e8c805af9",
       "title": "Comme des Garçons Homme Plus: “Let’s get out of the black hole” - HERO MAGAZINE",
       "url": "https://hero-magazine.com/shows/comme-des-garcons-homme-plus-lets-get-out-of-the-black-hole",
@@ -2895,18 +2750,6 @@
         "二次流通"
       ],
       "image": "https://cdn.snkrdunk.com/used_listing/8198219/2700e41b-9725-4ed1-a256-a18ce233f102.jpeg"
-    },
-    {
-      "id": "e64e22cec247d965",
-      "title": "Heightened senses: Comme des Garçons Parfums reimagines one of its most disruptive fragrances - Vogue Australia",
-      "url": "https://www.vogue.com.au/beauty/news/comme-des-garcons-parfums-christian-astuguevieille-interview/news-story/cebc1715f41a50358ca9cc0a5d357cae",
-      "publishedAt": "2026-01-06T08:00:00.000Z",
-      "publisher": "Vogue Australia",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-07T22:08:59.799Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "9ecd6c3448ec30e1",
@@ -3320,20 +3163,6 @@
       "image": "https://assets.vogue.com/photos/691607107440317fe38e698a/16:9/w_1280,c_limit/0906-VO-WE11.01.jpg"
     },
     {
-      "id": "4d39b65e04eff43d",
-      "title": "「ぶっ壊して、めちゃめちゃ」なドレス 川久保玲の不安と葛藤の塊が - asahi.com",
-      "url": "https://www.asahi.com/articles/ASTC61GPCTC6UCVL05MM.html",
-      "publishedAt": "2025-11-11T08:00:00.000Z",
-      "publisher": "asahi.com",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-07T22:08:59.295Z",
-      "summary": null,
-      "tags": [
-        "インタビュー"
-      ]
-    },
-    {
       "id": "e3cd113d10b5346d",
       "title": "「ぶっ壊して、めちゃめちゃ」なドレス 川久保玲の不安と葛藤の塊が - 朝日新聞",
       "url": "https://www.asahi.com/articles/ASTC61GPCTC6UCVL05MM.html",
@@ -3464,20 +3293,6 @@
       "image": "https://senken.co.jp/production/uploads/file_content/file/386828/large_019_Piasa_Comme%2Bdes%2BGarc_ons_1980S__c_%2BSimon%2BNarita.png"
     },
     {
-      "id": "62c03a1587bde1a5",
-      "title": "コムデギャルソン川久保玲が吐露した生みの苦しみ 「もう次は…」 - asahi.com",
-      "url": "https://www.asahi.com/articles/ASTBL1C96TBLUCVL05JM.html",
-      "publishedAt": "2025-10-20T07:00:00.000Z",
-      "publisher": "asahi.com",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-07T22:08:59.295Z",
-      "summary": null,
-      "tags": [
-        "インタビュー"
-      ]
-    },
-    {
       "id": "3a94450cd9d569f1",
       "title": "コムデギャルソン川久保玲が吐露した生みの苦しみ 「もう次は…」 - 朝日新聞",
       "url": "https://www.asahi.com/articles/ASTBL1C96TBLUCVL05JM.html",
@@ -3490,21 +3305,6 @@
         "インタビュー"
       ],
       "image": "https://imgopt.asahi.com/ogp/AS20251018001833_comm.jpg"
-    },
-    {
-      "id": "3705a1a615b5263f",
-      "title": "後藤洋平のコレクション日記 過酷なギャルソンデー 川久保玲は私に - asahi.com",
-      "url": "https://www.asahi.com/articles/ASTBK2VXKTBKUCVL010M.html",
-      "publishedAt": "2025-10-18T07:00:00.000Z",
-      "publisher": "asahi.com",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-07T22:08:59.295Z",
-      "summary": null,
-      "tags": [
-        "ショー/コレクション",
-        "インタビュー"
-      ]
     },
     {
       "id": "e70c24d6d11c3923",
@@ -3627,18 +3427,6 @@
       "image": "https://images-prod.dazeddigital.com/1200/0-312-1365-910/azure/dazed-prod/1420/6/1426796.jpg"
     },
     {
-      "id": "6cf8ff8371b5ae85",
-      "title": "Comme des Garçons SS26: “the damaging of perfect things” - Hero Magazine",
-      "url": "https://hero-magazine.com/shows/comme-des-garcons-ss26-the-damaging-of-perfect-things",
-      "publishedAt": "2025-10-06T07:00:00.000Z",
-      "publisher": "Hero Magazine",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-07T22:08:59.799Z",
-      "summary": null,
-      "tags": []
-    },
-    {
       "id": "386a2f8da538ef33",
       "title": "Comme des Garçons SS26: “the damaging of perfect things” - HERO MAGAZINE",
       "url": "https://hero-magazine.com/shows/comme-des-garcons-ss26-the-damaging-of-perfect-things",
@@ -3735,20 +3523,6 @@
       "summary": null,
       "tags": [],
       "image": "https://media.wwdjapan.com/wp-content/uploads/2025/10/26150311/og%E7%94%A8%E9%9B%9B%E5%BD%A21200pix%C3%97630pix-5.jpg"
-    },
-    {
-      "id": "d39ec457b36d75e9",
-      "title": "Vaquera launches first fragrance with Comme des Garçons - FashionNetwork USA",
-      "url": "https://us.fashionnetwork.com/news/Vaquera-launches-first-fragrance-with-comme-des-garcons,1768373.html",
-      "publishedAt": "2025-09-26T07:00:00.000Z",
-      "publisher": "FashionNetwork USA",
-      "image": "https://media.fashionnetwork.com/cdn-cgi/image/fit=cover,width=600,height=600,format=auto/m/1431/199e/d69a/53e5/87c8/f099/6ed1/896f/f5ce/1be1/1be1.jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-07T22:08:59.799Z",
-      "summary": null,
-      "tags": [
-        "新作"
-      ]
     },
     {
       "id": "b91cddcd229ddbfa",

@@ -1,21 +1,21 @@
 # CDG Watch デイリーダイジェスト 2026-07-07
 
-- **コム デ ギャルソン オム プリュス 2027年春夏「If The War Were To End...(もし戦争が終わったら)」**
-  前シーズンの厭戦的なテーマから一転、パステル〜サイケデリックな迷彩柄やキャンディカラーで希望と喜びを表現したショーを開催。朝日新聞・Dazed・Vogue・WWD・The Impression・Hypebeastなど各誌が報じた。
-  https://www.vogue.com/fashion-shows/spring-2027-menswear/comme-des-garcons-homme-plus
+- **川久保玲、朝日新聞に「時間がない」と反戦への危機感語る**
+  パリ・メンズファッションウィークで2027年春夏コレクションを発表した川久保玲が現地取材に応じ、強まる反戦へのメッセージについて語った。
+  https://www.asahi.com/articles/ASV721T0FV72UCVL009M.html
 
-- **コム デ ギャルソン シャツ 2027年春夏コレクション**
-  パリのプラス・ヴァンドームで恒例の早朝プレゼンテーションを開催。キャンディストライプやカットアウト切り替え、グラフィックプリントのドレスシャツを展開。フレッドペリーとのポロシャツコラボも継続。
-  https://www.vogue.com/fashion-shows/spring-2027-menswear/comme-des-garcons-shirt
+- **「黒の衝撃」から45年、川久保玲とコムデギャルソンの原点(朝日新聞)**
+  1981年のパリ初登場から45年の節目に、ブランドの原点と2027年春夏メンズコレクションに込めたメッセージを振り返る特集。
+  https://www.asahi.com/articles/ASV6W4DWJV6WUCVL00NM.html
 
-- **COMME des GARCONS HOMME PLUS × Air Jordan 11、9月発売へ**
-  シリーズ初のコラボレーションとして2026年9月1日に250ドルで発売予定。ホワイト/ブラックの2色展開で、マット×光沢レザーの対比が特徴。
-  https://www.sneakerfiles.com/comme-des-garcons-homme-plus-air-jordan-11/
+- **Henry Taylor × COMME des GARÇONS Wallet**
+  ロサンゼルス在住のアーティストHenry Taylorの絵画作品をあしらったウォレットコラボが直営店・ドーバー ストリート マーケット等で発売。
+  https://hubemag.com/henry-taylor-x-comme-des-garcons-wallet
 
-- **Wallet COMME des GARÇONS「TRANSPARENT SNAKE」国内発売**
-  透明素材に蛇柄を型押しした新作ウォレットシリーズが6月28日に発売開始。1万円台後半〜3万円台で展開。
-  https://uptodate.tokyo/wallet-comme-des-garcons-snake-transparent/
+- **コム デ ギャルソン シャツ、ルーマニア人アーティストと組みブカレストに出店**
+  ダン・ペルヨフスキとのコラボ作品をあしらったコンセプトストアを開設。コラボ料は現地の小児がん病院に寄付、ブランドは寄付額を倍増。
+  https://www.dazeddigital.com/fashion/article/70435/1/comme-des-garcons-road-to-romania
 
-- **川久保玲、半世紀にわたるコムデギャルソンの歩みを振り返る特集(nippon.com)**
-  1981年のパリデビューから性別・シルエットの既成概念への挑戦、ドーバーストリートマーケット展開、メトロポリタン美術館での個展まで功績を紹介。
-  https://www.nippon.com/en/japan-topics/c03718/
+- **なぜコムデギャルソンは「黒」に戻るのか(fashionsnap.comコラム・前編)**
+  2026年秋冬パリ・ファッションウィークの展開を軸に、「黒の衝撃」以来ブランドが繰り返し立ち返る黒の意味を論じる評論。
+  https://www.fashionsnap.com/article/paris-fashion-26aw-column-01/
