@@ -1,21 +1,21 @@
-# CDG Watch デイリーダイジェスト 2026-07-05
+# CDG Watch デイリーダイジェスト 2026-07-07
 
-- **コム デ ギャルソン オム プリュス 2027年春夏コレクション「If the War Were To End...」**
-  川久保玲が戦争後の世界を想像したテーマで発表。前シーズンの怒りの表現から一転し、旗をパッチ・パネルに落とし込んで希望と郷愁が同居する内省的な内容に。
-  https://www.anothermag.com/fashion-beauty/17287/comme-des-garcons-homme-plus-spring-summer-2027-rei-kawakubo-ss27
+- **コム デ ギャルソン オム プリュス 2027年春夏「If The War Were To End...(もし戦争が終わったら)」**
+  前シーズンの厭戦的なテーマから一転、パステル〜サイケデリックな迷彩柄やキャンディカラーで希望と喜びを表現したショーを開催。朝日新聞・Dazed・Vogue・WWD・The Impression・Hypebeastなど各誌が報じた。
+  https://www.vogue.com/fashion-shows/spring-2027-menswear/comme-des-garcons-homme-plus
 
-- **「コム デ ギャルソン・シャツ」2027年春夏コレクション発表**
-  パリ・メンズファッションウィークで46ルックが披露された。
-  https://www.wwdjapan.com/articles/2442639
+- **コム デ ギャルソン シャツ 2027年春夏コレクション**
+  パリのプラス・ヴァンドームで恒例の早朝プレゼンテーションを開催。キャンディストライプやカットアウト切り替え、グラフィックプリントのドレスシャツを展開。
+  https://www.vogue.com/fashion-shows/spring-2027-menswear/comme-des-garcons-shirt
 
-- **コムデギャルソン オム × ニューバランス「1226」がSS27で復活**
-  2011年モデルをメタリックからブラウン・タン系のアースカラーへ転換。複数メディアが報じ、ゴープコアの文脈でも注目。
-  https://www.soleretriever.com/news/articles/comme-des-garcons-homme-new-balance-1226
+- **COMME des GARCONS HOMME PLUS × Air Jordan 11、9月発売へ**
+  シリーズ初のコラボレーションとして2026年9月1日に250ドルで発売予定。ホワイト/ブラックの2色展開で、マット×光沢レザーの対比が特徴。
+  https://www.sneakerfiles.com/comme-des-garcons-homme-plus-air-jordan-11/
 
-- **元コムデギャルソン生産管理・齊藤宏之さんが「SYZYGY」を始動**
-  53歳での新人デビュー。Tシャツ専門ブランドとして首周りのリブ使いを工夫した9型でスタート。
-  https://www.wwdjapan.com/articles/2442462
+- **Wallet COMME des GARÇONS「TRANSPARENT SNAKE」国内発売**
+  透明素材に蛇柄を型押しした新作ウォレットシリーズが6月28日に発売開始。1万円台後半〜3万円台で展開。
+  https://uptodate.tokyo/wallet-comme-des-garcons-snake-transparent/
 
-- **ナイキ Air Max Dolce SP、ローファー仕様も登場**
-  コムデギャルソン オム プリュスとのコラボが5月の黒白発売に続き、新色キャンディピンクで再展開。
-  https://www.highsnobiety.com/p/comme-des-garcons-homme-pluss-nike-air-max-dolce-sp-loafer/
+- **川久保玲、半世紀にわたるコムデギャルソンの歩みを振り返る特集(nippon.com)**
+  1981年のパリデビューから性別・シルエットの既成概念への挑戦、ドーバーストリートマーケット展開、メトロポリタン美術館での個展まで功績を紹介。
+  https://www.nippon.com/en/japan-topics/c03718/

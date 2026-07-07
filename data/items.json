@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T02:53:24.188Z",
+  "updatedAt": "2026-07-07T02:54:21.245Z",
   "items": [
     {
       "id": "3633597203a0494d",
@@ -9,11 +9,12 @@
       "publisher": "SNKRDUNK",
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGPA-0207.webp",
       "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-07T02:52:53.815Z",
-      "summary": null,
+      "fetchedAt": "2026-07-07T02:34:52.164Z",
+      "summary": "PLAY COMME des GARCONSのコットンジャージー素材を使ったブラックのプリントTシャツで、鑑定付きでスニダンに出品されている中古/新品混在のフリマ商品。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "f62600da9fa4fd0f",
@@ -23,11 +24,12 @@
       "publisher": "SNKRDUNK",
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/1e9dccf8-c02f-4073-b04a-b8b03d59c595/7740855.jpeg",
       "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-07T02:52:53.815Z",
-      "summary": null,
+      "fetchedAt": "2026-07-07T02:34:52.164Z",
+      "summary": "コムデギャルソン オムプリュスのスニーカー「Air Carnivore Black」の中古品で、状態ランクD(傷や汚れあり)、日本サイズ27cmとしてスニダンに出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "6e84ba87d5cad834",
@@ -171,11 +173,13 @@
       "publisher": "SNKRDUNK",
       "image": null,
       "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-07T02:52:53.815Z",
-      "summary": null,
+      "fetchedAt": "2026-07-07T02:34:52.164Z",
+      "summary": "(要約取得不可)",
       "tags": [
-        "二次流通"
-      ]
+        "二次流通",
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "3f527679f280b42c",
@@ -208,20 +212,6 @@
       "image": "https://cdn.snkrdunk.com/uploads/media/20241012052505-0.jpeg",
       "cluster": "cdg-nb-860v2",
       "importance": 2
-    },
-    {
-      "id": "b12c6d527928ead6",
-      "title": "Clothing Comme Des Garcons Nyc Store Hours Rei Kawakubo Comme Des Garçons – Art Of The In-between - consumerthai",
-      "url": "https://www.consumerthai.org/?i",
-      "publishedAt": "2026-07-04T00:40:15.000Z",
-      "publisher": "consumerthai",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-05T22:09:13.843Z",
-      "summary": "(要約取得不可)",
-      "tags": [
-        "インタビュー"
-      ]
     },
     {
       "id": "a9828ecdff57701e",
@@ -461,11 +451,12 @@
       "publisher": "SNKRDUNK",
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGSH-0080-4.webp",
       "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-07T02:52:53.815Z",
-      "summary": null,
+      "fetchedAt": "2026-07-07T02:34:52.164Z",
+      "summary": "COMME des GARCONS SHIRTの先染めコットンストライプポプリンシャツ(ホワイト)で、鑑定付きの中古/新品フリマ商品としてスニダンに出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "ba3362fac94a567b",
@@ -539,7 +530,8 @@
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": "(要約取得不可)",
       "tags": [
-        "その他"
+        "その他",
+        "インタビュー"
       ],
       "image": null
     },
@@ -565,9 +557,13 @@
       "publisher": "nippon.com",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.627Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://www.nippon.com/en/ncommon/contents/japan-topics/3028340/3028340.jpg"
+      "summary": "川久保玲が半世紀以上にわたりコムデギャルソンを通じて既存の美意識に挑み続けてきた歩みを紹介する記事で、1981年のパリデビューでの衝撃的な発表から性別やシルエットの概念を覆す作品作り、ドーバーストリートマーケットの展開、メトロポリタン美術館での個展開催などの功績を振り返っている。",
+      "tags": [
+        "インタビュー",
+        "その他"
+      ],
+      "image": "https://www.nippon.com/en/ncommon/contents/japan-topics/3028340/3028340.jpg",
+      "importance": 2
     },
     {
       "id": "c904547ff7eaa1aa",
@@ -577,11 +573,13 @@
       "publisher": "SNKRDUNK",
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0625.webp",
       "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-07T02:52:53.815Z",
-      "summary": null,
+      "fetchedAt": "2026-07-07T02:34:52.164Z",
+      "summary": "コムデギャルソンとザ・ビートルズがコラボレーションしたホワイトのTシャツで、鑑定付きの中古/新品フリマ商品としてスニダンに出品されている。",
       "tags": [
-        "二次流通"
-      ]
+        "二次流通",
+        "コラボ"
+      ],
+      "importance": 1
     },
     {
       "id": "1f4c2b4fe4efd11e",
@@ -591,11 +589,12 @@
       "publisher": "uptodate.tokyo",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "Wallet COMME des GARCONSから透明なポリウレタン素材に蛇柄を型押しした新作コレクション「TRANSPARENT SNAKE」が2026年6月28日より国内発売され、二つ折りやジップポーチなど複数アイテムが1万円台後半〜3万円台で展開されている。",
       "tags": [
         "新作"
       ],
-      "image": "https://uptodate.tokyo/wp-content/uploads/2026/06/IMG_9459-819x1024.jpeg"
+      "image": "https://uptodate.tokyo/wp-content/uploads/2026/06/IMG_9459-819x1024.jpeg",
+      "importance": 3
     },
     {
       "id": "f7ebeded1e2f5f93",
@@ -605,11 +604,14 @@
       "publisher": "朝日新聞",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "1981年のパリ初発表から45年を経て迎えた2027年春夏パリ・メンズファッションウィークで、コムデギャルソン オムプリュスが「If The War Were To End(もし戦争が終わったら)」をテーマにショーを開催し、川久保玲がショー後に戦争が終わった後にやりたいことについて語った様子を伝えている。",
       "tags": [
-        "インタビュー"
+        "インタビュー",
+        "ショー/コレクション"
       ],
-      "image": "https://imgopt.asahi.com/ogp/AS20260627003943_comm.jpg"
+      "image": "https://imgopt.asahi.com/ogp/AS20260627003943_comm.jpg",
+      "importance": 3,
+      "cluster": "cdg-hommeplus-ss27-show"
     },
     {
       "id": "01c930884945af68",
@@ -619,9 +621,13 @@
       "publisher": "Dazed",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.627Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://images-prod.dazeddigital.com/1200/0-153-2770-1847/azure/dazed-prod/1440/8/1448348.jpg"
+      "summary": "コムデギャルソン オムプリュスの2027年春夏パリコレクションのレビュー記事で、前シーズンの「戦争へ捧げる」という暗いテーマから一転し、「もし戦争が終わったら」という希望的なコンセプトのもと、キャンディカラーのピンストライプやサイケデリックな迷彩柄を用いた明るい色使いで喜びを表現したショーだったと評している。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "image": "https://images-prod.dazeddigital.com/1200/0-153-2770-1847/azure/dazed-prod/1440/8/1448348.jpg",
+      "importance": 3,
+      "cluster": "cdg-hommeplus-ss27-show"
     },
     {
       "id": "9b9e7945bf4972bf",
@@ -631,11 +637,12 @@
       "publisher": "Vogue",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.627Z",
-      "summary": null,
+      "summary": "コムデギャルソン シャツの2027年春夏コレクションのレビュー記事で、パリのプラス・ヴァンドームで恒例の早朝9時15分開始のプレゼンテーションが行われ、キャンディストライプやカットアウトの切り替えパーツ、グラフィックプリントを用いたドレスシャツの多様なバリエーションが展開されたと紹介している。",
       "tags": [
         "ショー/コレクション"
       ],
-      "image": "https://assets.vogue.com/photos/6a3f9214377daf788c94179e/16:9/pass/00001-comme-des-garcons-shirt-spring-2027-menswear-credit-gorunway.jpg"
+      "image": "https://assets.vogue.com/photos/6a3f9214377daf788c94179e/16:9/pass/00001-comme-des-garcons-shirt-spring-2027-menswear-credit-gorunway.jpg",
+      "importance": 3
     },
     {
       "id": "1c178151109e1804",
@@ -646,10 +653,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/b3da1e28-d7e0-4dcc-8384-785e254fe6f9/7392464.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-05T07:59:27.850Z",
-      "summary": null,
+      "summary": "1986年製のコムデギャルソン Tシャツ「ホワイト」サイズSの中古品で、状態ランクはA(未使用に近い)、価格は1万円でSNKRDUNKに出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "88b6026f3d852966",
@@ -659,9 +667,13 @@
       "publisher": "The Impression",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://theimpression.com/wp-content/uploads/2026/06/fio00003-11962068-1.jpg"
+      "summary": "コムデギャルソン オム プリュスの2027年春夏コレクションは「If the War Were to End...」と題され、前シーズンの厭戦的なテーマを引き継ぎつつ、パステルから電光色への配色や平和的なカモフラージュ柄、スロベニア人グラフィックデザイナーとの協業で希望や喜びを表現した内容と伝えている。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "image": "https://theimpression.com/wp-content/uploads/2026/06/fio00003-11962068-1.jpg",
+      "importance": 3,
+      "cluster": "cdg-hommeplus-ss27-show"
     },
     {
       "id": "d7f310cb158f7456",
@@ -671,9 +683,13 @@
       "publisher": "Hypebeast",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
-      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F06&#x25;2F26&#x25;2Fcomme-des-garcons-homme-plus-ss27-paris-fashion-week-runway-collection-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
+      "summary": "(要約取得不可)",
+      "tags": [
+        "その他"
+      ],
+      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F06&#x25;2F26&#x25;2Fcomme-des-garcons-homme-plus-ss27-paris-fashion-week-runway-collection-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max",
+      "importance": 2,
+      "cluster": "cdg-hommeplus-ss27-show"
     },
     {
       "id": "b3fba5df5dac00db",
@@ -683,9 +699,13 @@
       "publisher": "WWD",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.627Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://wwd.com/wp-content/uploads/2026/06/comme-des-garcons-ss-27-men-rtw-pfw-r-gg-0001.jpg?crop=0px%2C60px%2C1365px%2C763px&resize=1000%2C563"
+      "summary": "川久保玲が手がけたオム プリュス2027年春夏ショーは「If the War Were to End」と題され、前作の重苦しい厭戦色から一転、鮮やかな色使いと希望に満ちた雰囲気に変化したと報じている。軍靴のようなブーツが先の丸まったプーレーヌ風に変わり、迷彩柄がサイケデリックな色合いで拡大プリントされるなど、平和を想起させる演出が特徴とされる。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "image": "https://wwd.com/wp-content/uploads/2026/06/comme-des-garcons-ss-27-men-rtw-pfw-r-gg-0001.jpg?crop=0px%2C60px%2C1365px%2C763px&resize=1000%2C563",
+      "importance": 3,
+      "cluster": "cdg-hommeplus-ss27-show"
     },
     {
       "id": "1d996294ecb7f135",
@@ -695,11 +715,13 @@
       "publisher": "Vogue",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "Vogueのレビューは、オム プリュス2027年春夏ショーの冒頭がストライプ柄のシャツ地のみで作られた6ルックで構成され、アカペラ合唱を伴いながらパステルカラーの迷彩柄やパッチワークのタータンへと展開したと紹介。最後にデザイナーの夫が配布した紙で「戦争が終わったなら」というメッセージが明かされたという内容を伝えている。",
       "tags": [
         "ショー/コレクション"
       ],
-      "image": "https://assets.vogue.com/photos/6a3eb1deed80d4f49171a93e/16:9/pass/00001-comme-des-garcons-homme-plus-spring-2027-menswear-credit-gorunway.jpg"
+      "image": "https://assets.vogue.com/photos/6a3eb1deed80d4f49171a93e/16:9/pass/00001-comme-des-garcons-homme-plus-spring-2027-menswear-credit-gorunway.jpg",
+      "importance": 3,
+      "cluster": "cdg-hommeplus-ss27-show"
     },
     {
       "id": "32f1e1aa1e7c4a22",
@@ -709,12 +731,14 @@
       "publisher": "Sneaker Files",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "コムデギャルソン オム プリュスとエアジョーダン11の初コラボが2026年9月1日に250ドルで発売予定で、オールホワイトとオールブラックの2色展開になると報じている。マッドガードに特別な素材、アッパーに本革を使い、ロゴは襟や舌に控えめに配置される仕様という。",
       "tags": [
         "コラボ",
         "新作"
       ],
-      "image": "https://www.sneakerfiles.com/wp-content/uploads/2026/02/comme-des-garcons-homme-plus-air-jordan-11-white-black-release-info.jpg"
+      "image": "https://www.sneakerfiles.com/wp-content/uploads/2026/02/comme-des-garcons-homme-plus-air-jordan-11-white-black-release-info.jpg",
+      "importance": 3,
+      "cluster": "cdg-hommeplus-airjordan11"
     },
     {
       "id": "bd8252c19baa0544",
@@ -724,11 +748,14 @@
       "publisher": "Sneaker News",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "コムデギャルソン x エアジョーダン11の実物クローズアップを紹介する記事で、シルエット初のコラボであり2026年9月頃発売予定と伝えている。光沢のあるミッドソールやデボス加工されたジャンプマン・CDGロゴ、インソールの二重刻印など、白黒2色のディテールを解説している。",
       "tags": [
-        "コラボ"
+        "コラボ",
+        "新作"
       ],
-      "image": "https://sneakernews.com/wp-content/uploads/2026/06/comme-des-garcons-jordan-11-16.jpg"
+      "image": "https://sneakernews.com/wp-content/uploads/2026/06/comme-des-garcons-jordan-11-16.jpg",
+      "importance": 3,
+      "cluster": "cdg-hommeplus-airjordan11"
     },
     {
       "id": "d3ca6fbabb883b6a",
@@ -738,12 +765,14 @@
       "publisher": "JustFreshKicks",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "エアジョーダン11の歴史上初となるコムデギャルソン オムとのコラボが2026年秋(9月)に250ドルで発売されると報じ、ブラック(IV7639-001)とホワイト(IV7639-100)の2色展開で、マット仕上げのレザーと光沢のあるパテントレザー製マッドガードの対比が特徴だと伝えている。",
       "tags": [
         "コラボ",
         "新作"
       ],
-      "image": "https://justfreshkicks.com/wp-content/uploads/2026/01/Screenshot-2026-06-22-at-9.15.32-AM.jpg"
+      "image": "https://justfreshkicks.com/wp-content/uploads/2026/01/Screenshot-2026-06-22-at-9.15.32-AM.jpg",
+      "importance": 3,
+      "cluster": "cdg-hommeplus-airjordan11"
     },
     {
       "id": "4eabd4eedc4678a8",
@@ -754,10 +783,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/392c0f94-f0dd-4c4c-a9df-837b2853c33c/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-05T07:41:41.491Z",
-      "summary": null,
+      "summary": "コムデギャルソンシャツのFZ-T001 Tシャツ(サイズM)の中古品で、状態ランクはC(やや傷や汚れあり)、価格7,600円でSNKRDUNKに出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "1d6cb8b0e51f08e1",
@@ -767,11 +797,13 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "コムデギャルソンとチャンピオンのコラボアイテム「Champion Ring “Silver”」の新品・中古を扱うSNKRDUNKの商品ページで、鑑定保証付きで売買できるフリマ形式の出品一覧となっている。",
       "tags": [
-        "二次流通"
+        "二次流通",
+        "コラボ"
       ],
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0757.webp"
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0757.webp",
+      "importance": 1
     },
     {
       "id": "ba87a9ff7b0f39a4",
@@ -781,11 +813,12 @@
       "publisher": "SNKRDUNK",
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/af545d7b-84cd-430c-bca3-f76afb70867d/8198509.jpeg",
       "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-07T02:52:53.815Z",
-      "summary": null,
+      "fetchedAt": "2026-07-07T02:34:52.164Z",
+      "summary": "コムデギャルソンのRO-S011スカート(サイズXS)の中古品出品。目立った傷や汚れのない「B」ランクの状態で、鑑定付きで販売されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "5655e893d0d8951b",
@@ -795,9 +828,12 @@
       "publisher": "信濃毎日新聞デジタル",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://image.shinmai.co.jp/web-image/20260620/gf01d8qttbin8tfj5fltt8ig_M.jpg"
+      "summary": "8月に松本市で開幕するセイジ・オザワ松本フェスティバルのPRとして、2026年6月19日に東京・港区のコムデギャルソン店舗でミニコンサートが開催され、出演予定の演奏家がコムデギャルソンの衣装をまとって演奏し、招待客約450人が来場した。",
+      "tags": [
+        "店舗"
+      ],
+      "image": "https://image.shinmai.co.jp/web-image/20260620/gf01d8qttbin8tfj5fltt8ig_M.jpg",
+      "importance": 2
     },
     {
       "id": "59aedbf1521b91e4",
@@ -807,11 +843,13 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "コムデギャルソンとナイキのコラボモデル、エアマックス95「ホワイト」26.5cmの中古スニーカー出品。新品同様に近い「A+」ランクで、箱に多少のダメージがある状態として鑑定付きで販売されている。",
       "tags": [
-        "二次流通"
+        "二次流通",
+        "コラボ"
       ],
-      "image": "https://cdn.snkrdunk.com/used_listing/148548/7e02bd43-4539-41f9-aafc-eec2be273ccf.jpeg"
+      "image": "https://cdn.snkrdunk.com/used_listing/148548/7e02bd43-4539-41f9-aafc-eec2be273ccf.jpeg",
+      "importance": 1
     },
     {
       "id": "6296974649a8ab7a",
@@ -821,9 +859,13 @@
       "publisher": "GQ",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.627Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://media.gq.com/photos/6a32319b167916f82cbbe6f4/16:9/w_1280,c_limit/000853160015.jpg"
+      "summary": "作家デイヴィッド・セダリスがマンハッタンのコムデギャルソン店舗を訪れた様子を追ったGQの記事。1994年から同ブランドを愛用してきた経緯や、店舗スタッフとの交流、川久保玲のデザイン哲学への言及などが綴られている。",
+      "tags": [
+        "インタビュー",
+        "店舗"
+      ],
+      "image": "https://media.gq.com/photos/6a32319b167916f82cbbe6f4/16:9/w_1280,c_limit/000853160015.jpg",
+      "importance": 2
     },
     {
       "id": "1025ccf32c506a9c",
@@ -833,9 +875,12 @@
       "publisher": "cfecgc-orange.org",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
-      "tags": [],
-      "image": null
+      "summary": "(要約取得不可)",
+      "tags": [
+        "その他"
+      ],
+      "image": null,
+      "importance": 1
     },
     {
       "id": "3e2e2e5af7029a94",
@@ -845,11 +890,12 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "コムデギャルソンのバッグの中古品出品。やや傷や汚れのある「C」ランクの状態で、鑑定付きで販売されている。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/apparel_used_listings/62a8e6b1-69b9-4fb9-b4f1-1a74aaa61fc0/8198509.jpeg"
+      "image": "https://cdn.snkrdunk.com/apparel_used_listings/62a8e6b1-69b9-4fb9-b4f1-1a74aaa61fc0/8198509.jpeg",
+      "importance": 1
     },
     {
       "id": "df58fbeb2b22e490",
@@ -859,11 +905,12 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "コムデギャルソンのルイスレザージャケット「ライトニングブルー」サイズMの中古品出品。目立った傷や汚れのない「B」ランクの状態で、鑑定付きで高額取引されている。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/apparel_used_listings/bcdbf808-bd3e-46cc-9cbc-1e3bd0e4531a/7503476.jpeg"
+      "image": "https://cdn.snkrdunk.com/apparel_used_listings/bcdbf808-bd3e-46cc-9cbc-1e3bd0e4531a/7503476.jpeg",
+      "importance": 1
     },
     {
       "id": "b54f9057eb50c888",
@@ -873,9 +920,12 @@
       "publisher": "cfecgc-orange.org",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
-      "tags": [],
-      "image": null
+      "summary": "(要約取得不可)",
+      "tags": [
+        "その他"
+      ],
+      "image": null,
+      "importance": 1
     },
     {
       "id": "5781afcf6457eef1",
@@ -885,11 +935,13 @@
       "publisher": "cfecgc-orange.org",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
-        "ショー/コレクション"
+        "ショー/コレクション",
+        "その他"
       ],
-      "image": "https://www.cfecgc-orange.org/templates/yootheme/cache/56/reponse_courrier_demande_renouvelee_de_demenagement_de_lactivite_tertiaire_du_site_de_marseille_saint-mauront-5606a289.jpeg"
+      "image": "https://www.cfecgc-orange.org/templates/yootheme/cache/56/reponse_courrier_demande_renouvelee_de_demenagement_de_lactivite_tertiaire_du_site_de_marseille_saint-mauront-5606a289.jpeg",
+      "importance": 1
     },
     {
       "id": "d94dce99c7ca4337",
@@ -900,10 +952,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/b4c3c1f0-c36b-4587-9509-b66271878b0e.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-05T22:09:13.361Z",
-      "summary": null,
+      "summary": "コムデギャルソンCDGクラシッククルーネックスウェットシャツ(ジップ付き、ブラック)のフリマ出品。鑑定・全額補償付きで新品/中古の在庫として販売されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "f0488c944d7a7bfe",
@@ -1019,7 +1072,7 @@
       "publisher": "SNKRDUNK",
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/5aab1389-1ec7-4123-bc7b-b19f297cca56/8198509.jpeg",
       "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-07T02:52:53.815Z",
+      "fetchedAt": "2026-07-07T02:34:52.164Z",
       "summary": null,
       "tags": [
         "二次流通"
@@ -1033,7 +1086,7 @@
       "publisher": "SNKRDUNK",
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/3f3ea554-fe62-4736-bca9-3c28be39fe97/8198509.jpeg",
       "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-07T02:52:53.815Z",
+      "fetchedAt": "2026-07-07T02:34:52.165Z",
       "summary": null,
       "tags": [
         "二次流通"
@@ -1078,6 +1131,20 @@
       "summary": null,
       "tags": [],
       "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/05/ai-collection-03-4842c190-a96b-4e1e-968e-0b8ae0396241.jpg"
+    },
+    {
+      "id": "0845e6a5f020087a",
+      "title": "コムデギャルソン × ナイキ エアジョーダン1 ハイ \"ブラック\" 26cmの中古スニーカーを買うならスニーカーダンク - SNKRDUNK",
+      "url": "https://snkrdunk.com/products/CN5738-001/used/45650256",
+      "publishedAt": "2026-05-19T12:38:30.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/used_listing/2598924/47707f41-9416-4cc2-9be9-b3eec11eac9d.jpeg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-07-07T02:50:34.557Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
     },
     {
       "id": "200d58b4235d3251",
@@ -1327,7 +1394,7 @@
       "publisher": "SNKRDUNK",
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/BAPE-26-0461-1.webp",
       "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-07T02:52:53.815Z",
+      "fetchedAt": "2026-07-07T02:34:52.165Z",
       "summary": null,
       "tags": [
         "二次流通"
@@ -1503,7 +1570,7 @@
       "publisher": "SNKRDUNK",
       "image": "https://snkrdunk.s3.ap-northeast-1.amazonaws.com/en/magazine/wp-content/uploads/2026/04/08141244/20260217111620-0-2.jpg",
       "feed": "Google News (English)",
-      "fetchedAt": "2026-07-07T02:52:54.332Z",
+      "fetchedAt": "2026-07-07T02:34:52.844Z",
       "summary": null,
       "tags": [
         "二次流通"
@@ -1517,7 +1584,7 @@
       "publisher": "SNKRDUNK",
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGOM-0264.webp",
       "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-07T02:52:53.815Z",
+      "fetchedAt": "2026-07-07T02:34:52.165Z",
       "summary": null,
       "tags": [
         "二次流通"
@@ -1545,7 +1612,7 @@
       "publisher": "SNKRDUNK",
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGOM-0274.webp",
       "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-07T02:52:53.815Z",
+      "fetchedAt": "2026-07-07T02:34:52.165Z",
       "summary": null,
       "tags": [
         "二次流通"
@@ -1559,7 +1626,7 @@
       "publisher": "SNKRDUNK",
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGOM-0267-1.webp",
       "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-07T02:52:53.815Z",
+      "fetchedAt": "2026-07-07T02:34:52.165Z",
       "summary": null,
       "tags": [
         "二次流通"
@@ -1585,10 +1652,24 @@
       "publisher": "SNKRDUNK",
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0516.webp",
       "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-07T02:52:53.815Z",
+      "fetchedAt": "2026-07-07T02:34:52.165Z",
       "summary": null,
       "tags": [
         "二次流通"
+      ]
+    },
+    {
+      "id": "4230409a76ef3980",
+      "title": "Comme des Garçons Potential Puig-Lauder merger will not include Rei Kawakubo's brand - glitz.paris",
+      "url": "https://www.glitz.paris/en/houses/2026/03/31/potential-puig-lauder-merger-will-not-include-rei-kawakubo-s-brand,110693335-art",
+      "publishedAt": "2026-03-31T07:00:00.000Z",
+      "publisher": "glitz.paris",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:34:52.844Z",
+      "summary": null,
+      "tags": [
+        "インタビュー"
       ]
     },
     {
@@ -1685,18 +1766,6 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0287-3.webp"
     },
     {
-      "id": "6ffe9792a390aa86",
-      "title": "Comme des Garçons’ New Scent Smells Like Dirt. Literally. - thecut.com",
-      "url": "https://www.thecut.com/article/comme-des-garons-latest-fragrance-with-meg-webster-review.html",
-      "publishedAt": "2026-03-19T07:00:00.000Z",
-      "publisher": "thecut.com",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-07T02:52:54.332Z",
-      "summary": null,
-      "tags": []
-    },
-    {
       "id": "fcbc26bf5b71ef46",
       "title": "Comme des Garçons’ New Scent Smells Like Dirt. Literally. - The Cut",
       "url": "https://www.thecut.com/article/comme-des-garons-latest-fragrance-with-meg-webster-review.html",
@@ -1733,6 +1802,20 @@
       "summary": null,
       "tags": [],
       "image": "https://images.keizai.biz/sancha_keizai/photonews/1773803605_b.jpg"
+    },
+    {
+      "id": "af5bb468e99e19e7",
+      "title": "COMME des GARÇONS HOMME x New Balance ABZORB 2010 Debuts for Spring 2026 - stupidDOPE",
+      "url": "https://stupiddope.com/2026/03/comme-des-garcons-homme-x-new-balance-abzorb-2010-debuts-for-spring-2026/",
+      "publishedAt": "2026-03-16T07:00:00.000Z",
+      "publisher": "stupidDOPE",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": [
+        "コラボ"
+      ]
     },
     {
       "id": "3f3043943336e08b",
@@ -1828,18 +1911,6 @@
       "summary": null,
       "tags": [],
       "image": "https://images-prod.dazeddigital.com/1200/11-449-1354-902/azure/dazed-prod/1440/0/1440958.jpg"
-    },
-    {
-      "id": "2f857752c54f9e04",
-      "title": "Comme des Garçons: Ready-To-Wear AW26 - 10magazine.com",
-      "url": "https://10magazine.com/comme-des-garcons-ready-to-wear-aw26/",
-      "publishedAt": "2026-03-08T08:00:00.000Z",
-      "publisher": "10magazine.com",
-      "image": "https://10magazine.com/wp-content/uploads/2026/03/CDG-FT.jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-05T22:09:13.843Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "9807160f71d8d4d6",
@@ -1997,18 +2068,6 @@
       "image": "https://cdn.snkrdunk.com/uploads/media/20260217111620-0.jpeg"
     },
     {
-      "id": "740c86d3f5bcc137",
-      "title": "Farewell to Christian Astuguevieille, the nose behind Comme des Garçons' anti-perfumes - nss G-Club",
-      "url": "https://www.nssgclub.com/en/beauty/44311/farewell-to-christian-astuguevieille-the-nose-behind-comme-des-garcons-anti-perfumes",
-      "publishedAt": "2026-02-17T15:14:32.000Z",
-      "publisher": "nss G-Club",
-      "image": "https://data2.nssmag.com/images/galleries/46975/nssgclub-Christian-Astuguevieille.webp",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-05T22:09:13.844Z",
-      "summary": null,
-      "tags": []
-    },
-    {
       "id": "aaae6488b47bb38b",
       "title": "Farewell to Christian Astuguevieille, the nose behind Comme des Garçons' anti-perfumes - nss magazine",
       "url": "https://www.nssgclub.com/en/beauty/44311/farewell-to-christian-astuguevieille-the-nose-behind-comme-des-garcons-anti-perfumes",
@@ -2073,6 +2132,20 @@
       "image": "https://images.oceans.tokyo.jp/media/snap/11290/images/main_image_44e48c2fd71468b1f55577ac355c3aad93c1416f.jpg?h=1200"
     },
     {
+      "id": "36ba88e2559c2014",
+      "title": "Jah Jah Studio x COMME des GARÇONS SHIRT SS26 Reframes Shirting Through Diaspora - stupidDOPE",
+      "url": "https://stupiddope.com/2026/02/jah-jah-studio-x-comme-des-garcons-shirt-ss26-reframes-shirting-through-diaspora/",
+      "publishedAt": "2026-02-13T08:00:00.000Z",
+      "publisher": "stupidDOPE",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": [
+        "コラボ"
+      ]
+    },
+    {
       "id": "d914652290f1e510",
       "title": "Timothée Chalamet Is Leading the Comme Des Garçons PLAY Revival - GQ",
       "url": "https://www.gq.com/story/timothee-chalamet-comme-des-garcons-play-heart-comeback",
@@ -2104,7 +2177,7 @@
       "publisher": "SNKRDUNK",
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20260207032928-0.webp",
       "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-07T02:52:53.815Z",
+      "fetchedAt": "2026-07-07T02:34:52.165Z",
       "summary": null,
       "tags": [
         "二次流通"
@@ -2137,6 +2210,21 @@
         "二次流通"
       ],
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20260207034101-0.webp"
+    },
+    {
+      "id": "4483be9a1e78de8f",
+      "title": "Air Jordan 11 x Comme des Garcons Black and White, Yin and Yang: Release Info - Yahoo",
+      "url": "https://shopping.yahoo.com/style/shoes/articles/air-jordan-11-x-comme-000747208.html",
+      "publishedAt": "2026-02-05T08:00:00.000Z",
+      "publisher": "Yahoo",
+      "image": "https://s.yimg.com/lo/mysterio/api/96b90fba36c6012d6a02be1311a138910d619d6cf81199def9c304bddada9daa/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fathlon_sports_articles_610%2F97fdf3b32dacaeb3c92a0f0e545d41b7",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "新作"
+      ]
     },
     {
       "id": "61b2c3f3636d0c84",
@@ -2368,30 +2456,6 @@
       "image": "https://images-prod.dazeddigital.com/1200/0-161-1443-962/azure/dazed-prod/1430/4/1434990.jpg"
     },
     {
-      "id": "14c922f7560bf01a",
-      "title": "Comme des Garçons Homme Plus: “Let’s get out of the black hole” - HERO Magazine",
-      "url": "https://hero-magazine.com/shows/comme-des-garcons-homme-plus-lets-get-out-of-the-black-hole",
-      "publishedAt": "2026-01-25T08:00:00.000Z",
-      "publisher": "HERO Magazine",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-07T02:52:54.331Z",
-      "summary": null,
-      "tags": []
-    },
-    {
-      "id": "ac347fb898da8867",
-      "title": "Comme des Garçons Homme Plus: “Let’s get out of the black hole” - Hero Magazine",
-      "url": "https://hero-magazine.com/shows/comme-des-garcons-homme-plus-lets-get-out-of-the-black-hole",
-      "publishedAt": "2026-01-25T08:00:00.000Z",
-      "publisher": "Hero Magazine",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-05T22:09:13.843Z",
-      "summary": null,
-      "tags": []
-    },
-    {
       "id": "a902ea8e8c805af9",
       "title": "Comme des Garçons Homme Plus: “Let’s get out of the black hole” - HERO MAGAZINE",
       "url": "https://hero-magazine.com/shows/comme-des-garcons-homme-plus-lets-get-out-of-the-black-hole",
@@ -2430,18 +2494,6 @@
         "コラボ"
       ],
       "image": "https://cdn.sanity.io/images/pu5wtzfc/production/da8632bde1f965ae8c5604383866b227b792b7dc-1080x1350.jpg?rect=0,392,1080,567&w=1200&h=630"
-    },
-    {
-      "id": "8f64ab1b786e17b1",
-      "title": "Comme des Garçons Homme Plus: Menswear AW26 - 10magazine.com",
-      "url": "https://10magazine.com/comme-des-garcons-homme-plus-menswear-aw26/",
-      "publishedAt": "2026-01-24T08:00:00.000Z",
-      "publisher": "10magazine.com",
-      "image": "https://10magtesting.10magazine.com/wp-content/uploads/2026/01/Comme-FT-1.jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-05T22:09:13.843Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "49e72010e07c3765",
@@ -2551,14 +2603,14 @@
       "image": "https://www.nicekicks.com/files/2026/01/imgi_22_621657984_18559905532050859_4688502116497270357_n-1-e1769366048451.jpeg"
     },
     {
-      "id": "1b0c365c8cac42cc",
-      "title": "Paris menswear Friday: Junya Watanabe, Willy Chavarria, and Comme des Garçons - FashionNetwork USA",
-      "url": "https://us.fashionnetwork.com/news/Paris-menswear-friday-junya-watanabe-willy-chavarria-and-comme-des-garcons,1800913.html",
+      "id": "ee58ab76e2942446",
+      "title": "Paris menswear Friday: Junya Watanabe, Willy Chavarria, and Comme des Garçons - FashionNetwork - The World's Fashion Business News",
+      "url": "https://ww.fashionnetwork.com/news/Paris-menswear-friday-junya-watanabe-willy-chavarria-and-comme-des-garcons,1800900.html",
       "publishedAt": "2026-01-23T08:00:00.000Z",
-      "publisher": "FashionNetwork USA",
+      "publisher": "FashionNetwork - The World's Fashion Business News",
       "image": "https://media.fashionnetwork.com/cdn-cgi/image/fit=cover,width=600,height=600,format=auto/m/0838/c0df/032c/7b1c/3c0f/5ed9/8186/681a/2856/9e4e/9e4e.jpg",
       "feed": "Google News (English)",
-      "fetchedAt": "2026-07-05T22:09:13.844Z",
+      "fetchedAt": "2026-07-07T02:34:52.844Z",
       "summary": null,
       "tags": []
     },
@@ -2571,7 +2623,8 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-05T00:47:55.988Z",
       "summary": null,
-      "tags": []
+      "tags": [],
+      "image": "https://media.fashionnetwork.com/cdn-cgi/image/fit=cover,width=600,height=600,format=auto/m/0838/c0df/032c/7b1c/3c0f/5ed9/8186/681a/2856/9e4e/9e4e.jpg"
     },
     {
       "id": "1dab4fd8d0ea5af6",
@@ -2664,18 +2717,6 @@
         "二次流通"
       ],
       "image": "https://cdn.snkrdunk.com/used_listing/8198219/2700e41b-9725-4ed1-a256-a18ce233f102.jpeg"
-    },
-    {
-      "id": "e64e22cec247d965",
-      "title": "Heightened senses: Comme des Garçons Parfums reimagines one of its most disruptive fragrances - Vogue Australia",
-      "url": "https://www.vogue.com.au/beauty/news/comme-des-garcons-parfums-christian-astuguevieille-interview/news-story/cebc1715f41a50358ca9cc0a5d357cae",
-      "publishedAt": "2026-01-06T08:00:00.000Z",
-      "publisher": "Vogue Australia",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-07T02:52:54.332Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "9ecd6c3448ec30e1",
@@ -2805,7 +2846,7 @@
       "publisher": "SNKRDUNK",
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0776-2.webp",
       "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-07T02:52:53.815Z",
+      "fetchedAt": "2026-07-07T02:34:52.165Z",
       "summary": null,
       "tags": [
         "二次流通"
@@ -2902,7 +2943,7 @@
       "publisher": "エリアLOVE WALKER",
       "image": "https://ascii.jp/img/2025/11/28/4379699/l/0186d06c4a4d9a7d.png?2023101601",
       "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-07T02:52:53.816Z",
+      "fetchedAt": "2026-07-07T02:34:52.166Z",
       "summary": null,
       "tags": [
         "コラボ"
@@ -2990,7 +3031,7 @@
       "publisher": "SNKRDUNK",
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/6dd154e1-6d06-4f76-9e33-492f3deefb64.webp",
       "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-07T02:52:53.815Z",
+      "fetchedAt": "2026-07-07T02:34:52.165Z",
       "summary": null,
       "tags": [
         "二次流通"
@@ -3096,7 +3137,7 @@
       "publisher": "fashion headline",
       "image": "https://www.fashion-headline.com/images/migration/2014/04/761cf1b306c0d04f276dabba8eb14d5a.jpg",
       "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-07T02:52:53.816Z",
+      "fetchedAt": "2026-07-07T02:34:52.165Z",
       "summary": null,
       "tags": [
         "新作"
@@ -3110,7 +3151,7 @@
       "publisher": "fashion headline",
       "image": "https://www.fashion-headline.com/images/migration/2013/03/6fb27b79649ece2bdf4495cf08405a24.jpg",
       "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-07T02:52:53.816Z",
+      "fetchedAt": "2026-07-07T02:34:52.166Z",
       "summary": null,
       "tags": [
         "ショー/コレクション"
@@ -3127,18 +3168,6 @@
       "summary": null,
       "tags": [],
       "image": "https://www.highsnobiety.com/static-assets/dato/1761733259-goldwin_comme-des-garcons.jpg"
-    },
-    {
-      "id": "2fc9e2f4fb6186d8",
-      "title": "David Sedaris on the Joy (and Peril) of Wearing Comme des Garçons - wmagazine.com",
-      "url": "https://www.wmagazine.com/fashion/david-sedaris-comme-des-garcons-essay",
-      "publishedAt": "2025-10-27T07:00:00.000Z",
-      "publisher": "wmagazine.com",
-      "image": "https://imgix.bustle.com/uploads/image/2025/10/24/75ec6dc8/wm202505seda01.jpeg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.5021&fp-y=0.525",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-07T02:52:54.331Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "ba51eece3867eec7",
@@ -3337,30 +3366,6 @@
       "image": "https://images-prod.dazeddigital.com/1200/0-312-1365-910/azure/dazed-prod/1420/6/1426796.jpg"
     },
     {
-      "id": "82eca91e1dc8c93b",
-      "title": "Comme des Garçons SS26: “the damaging of perfect things” - HERO Magazine",
-      "url": "https://hero-magazine.com/shows/comme-des-garcons-ss26-the-damaging-of-perfect-things",
-      "publishedAt": "2025-10-06T07:00:00.000Z",
-      "publisher": "HERO Magazine",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-07T02:52:54.331Z",
-      "summary": null,
-      "tags": []
-    },
-    {
-      "id": "6cf8ff8371b5ae85",
-      "title": "Comme des Garçons SS26: “the damaging of perfect things” - Hero Magazine",
-      "url": "https://hero-magazine.com/shows/comme-des-garcons-ss26-the-damaging-of-perfect-things",
-      "publishedAt": "2025-10-06T07:00:00.000Z",
-      "publisher": "Hero Magazine",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-05T22:09:13.843Z",
-      "summary": null,
-      "tags": []
-    },
-    {
       "id": "386a2f8da538ef33",
       "title": "Comme des Garçons SS26: “the damaging of perfect things” - HERO MAGAZINE",
       "url": "https://hero-magazine.com/shows/comme-des-garcons-ss26-the-damaging-of-perfect-things",
@@ -3459,20 +3464,6 @@
       "image": "https://media.wwdjapan.com/wp-content/uploads/2025/10/26150311/og%E7%94%A8%E9%9B%9B%E5%BD%A21200pix%C3%97630pix-5.jpg"
     },
     {
-      "id": "d39ec457b36d75e9",
-      "title": "Vaquera launches first fragrance with Comme des Garçons - FashionNetwork USA",
-      "url": "https://us.fashionnetwork.com/news/Vaquera-launches-first-fragrance-with-comme-des-garcons,1768373.html",
-      "publishedAt": "2025-09-26T07:00:00.000Z",
-      "publisher": "FashionNetwork USA",
-      "image": "https://media.fashionnetwork.com/cdn-cgi/image/fit=cover,width=600,height=600,format=auto/m/1431/199e/d69a/53e5/87c8/f099/6ed1/896f/f5ce/1be1/1be1.jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-05T22:09:13.843Z",
-      "summary": null,
-      "tags": [
-        "新作"
-      ]
-    },
-    {
       "id": "b91cddcd229ddbfa",
       "title": "Vaquera launches first fragrance with Comme des Garçons - FashionNetwork France",
       "url": "https://us.fashionnetwork.com/news/Vaquera-launches-first-fragrance-with-comme-des-garcons,1768373.html",
@@ -3483,7 +3474,8 @@
       "summary": null,
       "tags": [
         "新作"
-      ]
+      ],
+      "image": "https://media.fashionnetwork.com/cdn-cgi/image/fit=cover,width=600,height=600,format=auto/m/1431/199e/d69a/53e5/87c8/f099/6ed1/896f/f5ce/1be1/1be1.jpg"
     },
     {
       "id": "52edf61721937e45",
@@ -3557,18 +3549,6 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGCDG-0002-2.webp"
     },
     {
-      "id": "98a60d9fae86c45a",
-      "title": "Comme Des Garçons Through The Lens Of Richard Burbridge - 10magazine.com",
-      "url": "https://10magazine.com/comme-des-garcons-through-the-lens-of-richard-burbridge/",
-      "publishedAt": "2025-09-02T07:00:00.000Z",
-      "publisher": "10magazine.com",
-      "image": "https://10magazine.com/wp-content/uploads/2025/09/Comme-FT.jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-05T22:09:13.844Z",
-      "summary": null,
-      "tags": []
-    },
-    {
       "id": "2f97ae7d2ab178a1",
       "title": "Comme Des Garçons Through The Lens Of Richard Burbridge - 10 Magazine",
       "url": "https://10magazine.com/comme-des-garcons-through-the-lens-of-richard-burbridge/",
@@ -3595,6 +3575,44 @@
       ]
     },
     {
+      "id": "b6b3e5a8c36bccfe",
+      "title": "Comme des Garçons Homme Plus Spring 2026: Suit Yourself - WWD",
+      "url": "https://wwd.com/runway/mens-spring-2026/paris/comme-des-garcons-homme-plus/review/",
+      "publishedAt": "2025-06-27T07:00:00.000Z",
+      "publisher": "WWD",
+      "image": "https://wwd.com/wp-content/uploads/2025/06/comme-des-garcons-homme-plus-men-ss26-rtw-r-gg-001.jpeg?crop=0px%2C58px%2C1365px%2C763px&resize=1000%2C563",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "44c92665729a9d60",
+      "title": "São Paulo: Comme des Garçons store opening - superfuture",
+      "url": "https://superfuture.com/2025/06/new-shops/sao-paulo-comme-des-garcons-store-opening/",
+      "publishedAt": "2025-06-19T07:00:00.000Z",
+      "publisher": "superfuture",
+      "image": "https://superfuture.com/wp-content/uploads/2025/06/cdg-sp-06.png",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": [
+        "店舗"
+      ]
+    },
+    {
+      "id": "2f8d66c30a5fb2d6",
+      "title": "Comme des Garçons Opens First Latin American Flagship | BoF - The Business of Fashion",
+      "url": "https://www.businessoffashion.com/news/luxury/comme-des-garcons-opens-first-latin-american-flagship/",
+      "publishedAt": "2025-06-13T07:00:00.000Z",
+      "publisher": "The Business of Fashion",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
       "id": "c52bc81763e4a6d7",
       "title": "【青山店限定】PLAY COMME des GARCONS から特別エンブレムをあしらった待望の新作発売",
       "url": "https://cdg-freak.com/apyama-play-25ss/",
@@ -3607,6 +3625,56 @@
       "tags": [
         "新作"
       ]
+    },
+    {
+      "id": "3f93d097988f495e",
+      "title": "“Smaller Is Stronger”: Comme des Garçons’ Revolt Against ‘Big Fashion’ - AnOther Magazine",
+      "url": "https://www.anothermag.com/fashion-beauty/16235/comme-des-garcons-autumn-winter-2025-aw25-rei-kawakubo-review",
+      "publishedAt": "2025-03-10T07:00:00.000Z",
+      "publisher": "AnOther Magazine",
+      "image": "https://images-prod.anothermag.com/1200/0-75-1500-1000/azure/another-prod/450/8/458758.jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "9b4e35d7d3dd6040",
+      "title": "Smaller is Stronger at Comme des Garçons - to Be Magazine",
+      "url": "https://tobemagazine.co/smaller-is-stronger-at-comme-des-garcons/",
+      "publishedAt": "2025-03-10T07:00:00.000Z",
+      "publisher": "to Be Magazine",
+      "image": "https://tobemagazine.co/wp/wp-content/uploads/2025/03/comme_des_garcons_winter25_12-scaled.jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "b00d0581f55ea65a",
+      "title": "Comme des Garçons Fall 2025 Ready-to-Wear Collection - Vogue",
+      "url": "https://www.vogue.com/fashion-shows/fall-2025-ready-to-wear/comme-des-garcons",
+      "publishedAt": "2025-03-09T08:00:00.000Z",
+      "publisher": "Vogue",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
+    },
+    {
+      "id": "09996d3c6010f53a",
+      "title": "Comme des Garçons Fall 2025: ‘Small’ but Grandiose - WWD",
+      "url": "https://wwd.com/runway/fall-2025/paris/comme-des-garcons/review/",
+      "publishedAt": "2025-03-09T08:00:00.000Z",
+      "publisher": "WWD",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "366ed2581b4f1178",
@@ -3631,6 +3699,32 @@
       "image": "https://cdg-freak.com/wp-content/uploads/2020/12/コムデギャルソン青山オリジナル-ステアバッグ黒中-台形-正面-目次.jpg",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-07-05T00:53:37.337Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "5df7e74c3e86689b",
+      "title": "At Comme des Garçons Homme Plus, Rei Kawakubo Said ‘To Hell With War’ - WWD",
+      "url": "https://wwd.com/runway/mens-fall-2025/paris/comme-des-garcons-homme-plus/review/",
+      "publishedAt": "2025-01-24T08:00:00.000Z",
+      "publisher": "WWD",
+      "image": "https://wwd.com/wp-content/uploads/2025/01/comme-des-garcons-men-f25-r-men-rtw-gg-10001.jpg?crop=0px%2C52px%2C1363px%2C763px&resize=1000%2C563",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": [
+        "インタビュー"
+      ]
+    },
+    {
+      "id": "97b070a35e4261a3",
+      "title": "Seven Comme Des Garçons Devotees on the Brand’s “Anti-Perfume” Scents - AnOther Magazine",
+      "url": "https://www.anothermag.com/fashion-beauty/16066/comme-des-garcons-scents-interview-30th-anniversary",
+      "publishedAt": "2024-12-10T08:00:00.000Z",
+      "publisher": "AnOther Magazine",
+      "image": "https://images-prod.anothermag.com/1200/0-417-2250-1500/azure/another-prod/450/4/454762.jpeg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
       "summary": null,
       "tags": []
     },
@@ -3663,6 +3757,32 @@
       ]
     },
     {
+      "id": "2d0ec09fa80bdeae",
+      "title": "Comme des Garçons Spring 2025 Ready-to-Wear Collection - Vogue",
+      "url": "https://www.vogue.com/fashion-shows/spring-2025-ready-to-wear/comme-des-garcons",
+      "publishedAt": "2024-09-28T07:00:00.000Z",
+      "publisher": "Vogue",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
+    },
+    {
+      "id": "f283240f801309ca",
+      "title": "An Air of Hope at Comme des Garçons for Spring 2025 - WWD",
+      "url": "https://wwd.com/runway/spring-2025/paris/comme-des-garcons/review/",
+      "publishedAt": "2024-09-28T07:00:00.000Z",
+      "publisher": "WWD",
+      "image": "https://wwd.com/wp-content/uploads/2024/09/comme-des-garcons-rtw-spring-2025-gg-001.jpg?crop=0px%2C38px%2C1365px%2C763px&resize=1000%2C563",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
       "id": "1c7faf85508170a3",
       "title": "仙台に川久保玲がデザインを手掛ける「コムデギャルソン路面店」がオープン",
       "url": "https://cdg-freak.com/cdg-sendai-open/",
@@ -3676,6 +3796,30 @@
         "店舗",
         "インタビュー"
       ]
+    },
+    {
+      "id": "a5dd22d418d27400",
+      "title": "Comme des Garçons Homme Plus Spring 2025: Rei of Light — and Pink - WWD",
+      "url": "https://wwd.com/runway/mens-spring-2025/paris/comme-des-garcons-homme-plus/review/",
+      "publishedAt": "2024-06-21T07:00:00.000Z",
+      "publisher": "WWD",
+      "image": "https://wwd.com/wp-content/uploads/2024/06/comme-des-garcons-spring-2025-mens-001.jpeg?crop=0px%2C46px%2C1365px%2C763px&resize=1000%2C563",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "75db8793bc27dfd6",
+      "title": "How Françoise Hardy gave Comme des Garçons its name - Dazed",
+      "url": "https://www.dazeddigital.com/fashion/article/62840/1/francoise-hardy-gave-comme-des-garcons-its-name-rei-kawakubo-french-girl-style",
+      "publishedAt": "2024-06-12T07:00:00.000Z",
+      "publisher": "Dazed",
+      "image": "https://images-prod.dazeddigital.com/1164/116-123-1164-776/azure/dazed-prod/1370/7/1377186.jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "d3858831cb8550fa",
@@ -3692,6 +3836,42 @@
       ]
     },
     {
+      "id": "de80750be586e0bc",
+      "title": "Claremont Core: The Comme des Garçons Universe - The Student Life",
+      "url": "https://tsl.news/claremont-core-the-comme-des-garcons-universe-tbd/",
+      "publishedAt": "2024-03-29T07:00:00.000Z",
+      "publisher": "The Student Life",
+      "image": "https://tsl.news/wp-content/uploads/2024/03/Claremont-Core-Quinn-Nachtrieb-1-1024x768.png",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "28d063c607f110a5",
+      "title": "Comme des Garçons Fall 2024 Ready-to-Wear: Anger Management Meets Avant-Garde Fashion - WWD",
+      "url": "https://wwd.com/runway/fall-2024/paris/comme-des-garcons/review/",
+      "publishedAt": "2024-03-03T08:00:00.000Z",
+      "publisher": "WWD",
+      "image": "https://wwd.com/wp-content/uploads/2024/03/comme-des-garcons-fall-2024-ready-to-wear-001.jpg?crop=0px%2C26px%2C1365px%2C763px&resize=1000%2C563",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "68a30944b45d0c46",
+      "title": "Comme Des Garçons: Ready-To-Wear AW24 - 10magazine.com",
+      "url": "https://10magazine.com/comme-de-garcons-ready-to-wear-aw24/",
+      "publishedAt": "2024-03-03T08:00:00.000Z",
+      "publisher": "10magazine.com",
+      "image": "https://10magazine.com/wp-content/uploads/2024/03/Comme-FT.jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
       "id": "cfac794c0bd31b4e",
       "title": "「プレイコムデギャルソン」初の半袖ニットを発売",
       "url": "https://cdg-freak.com/playcdg-knit-2024/",
@@ -3704,6 +3884,18 @@
       "tags": [
         "新作"
       ]
+    },
+    {
+      "id": "af548b0b5eaf447f",
+      "title": "Comme des Garçons Homme Plus Fall 2024 - WWD",
+      "url": "https://wwd.com/runway/mens-fall-2024/paris/comme-des-garcons-homme-plus/review/",
+      "publishedAt": "2024-01-19T08:00:00.000Z",
+      "publisher": "WWD",
+      "image": "https://wwd.com/wp-content/uploads/2024/01/comme-des-garcons-homme-plus-mens-fall-24-001.jpeg?crop=0px%2C42px%2C1365px%2C763px&resize=1000%2C563",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "32d8cce9169702e5",
@@ -3721,6 +3913,140 @@
       ]
     },
     {
+      "id": "1e607a22ceb21333",
+      "title": "Comme des Garçons RTW Spring 2024 - WWD",
+      "url": "https://wwd.com/runway/spring-2024/paris/comme-des-garcons/review/",
+      "publishedAt": "2023-09-30T07:00:00.000Z",
+      "publisher": "WWD",
+      "image": "https://wwd.com/wp-content/uploads/2023/09/comme-des-garcons-rtw-spring-24-pfw-0001.jpg?crop=0px%2C32px%2C1363px%2C763px&resize=1000%2C563",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "a24c78407997a4d3",
+      "title": "Comme des Garçons Spring 2024 Ready-to-Wear Collection - Vogue",
+      "url": "https://www.vogue.com/fashion-shows/spring-2024-ready-to-wear/comme-des-garcons",
+      "publishedAt": "2023-09-30T07:00:00.000Z",
+      "publisher": "Vogue",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
+    },
+    {
+      "id": "bf8219f6432d27ed",
+      "title": "Comme des Garçons Homme Plus Spring 2024 - WWD",
+      "url": "https://wwd.com/runway/mens-spring-2024/paris/comme-des-garcons-homme-plus/review/",
+      "publishedAt": "2023-06-23T07:00:00.000Z",
+      "publisher": "WWD",
+      "image": "https://wwd.com/wp-content/uploads/2023/06/comme-des-garcons-hoome-plus-mens-spring-2024-paris001.jpg?crop=0px%2C24px%2C1365px%2C763px&resize=1000%2C563",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "aad6b44a0bff937f",
+      "title": "CULTED 101: A GUIDE TO COMME DES GARÇONS’ DIFFUSION LINES - Culted",
+      "url": "https://culted.com/fashion/culted-101-a-guide-to-comme-des-garcons-diffusion-lines/",
+      "publishedAt": "2023-06-01T07:00:00.000Z",
+      "publisher": "Culted",
+      "image": "https://culted.com/cdn-cgi/image/width=1200,height=630,fit=cover,format=auto/https://cms.culted.com/api/media/file/Untitled-2-48.jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "c9b2bd188b3592a4",
+      "title": "Michèle Lamy, A$AP Nast and More on Why They Love Wearing Comme des Garçons - AnOther Magazine",
+      "url": "https://www.anothermag.com/fashion-beauty/14739/five-people-on-why-they-love-wearing-comme-des-garcons-aw23-fw23",
+      "publishedAt": "2023-03-09T08:00:00.000Z",
+      "publisher": "AnOther Magazine",
+      "image": "https://images-prod.anothermag.com/1200/58-80-1920-1280/azure/another-prod/430/2/432475.jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "4c0eb8b2daef7606",
+      "title": "Comme des Garçons RTW Fall 2023 - WWD",
+      "url": "https://wwd.com/runway/fall-2023/paris/comme-des-garcons/review/",
+      "publishedAt": "2023-03-05T08:00:00.000Z",
+      "publisher": "WWD",
+      "image": "https://wwd.com/wp-content/uploads/2023/03/comme-des-garcons-rtw-fall-23-vb-0001.jpg?crop=0px%2C342px%2C1366px%2C764px&resize=1000%2C563",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "cc66181c9fdad050",
+      "title": "Inside Comme des Garçons’ refurbished Chelsea, New York boutique - wallpaper.com",
+      "url": "https://www.wallpaper.com/fashion/inside-comme-des-garons-refurbished-chelsea-new-york-boutique",
+      "publishedAt": "2022-10-07T07:00:00.000Z",
+      "publisher": "wallpaper.com",
+      "image": "https://cdn.mos.cms.futurecdn.net/L5Ghjh83nJfM2axAsPDJFa-707-80.jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "898195c42188b578",
+      "title": "Comme des Garçons Women’s RTW Spring 2023 - WWD",
+      "url": "https://wwd.com/runway/spring-2023/paris/comme-des-garcons/review/",
+      "publishedAt": "2022-10-01T07:00:00.000Z",
+      "publisher": "WWD",
+      "image": "https://wwd.com/wp-content/uploads/2022/10/CommeDesGarcons-rtwss23-001.jpg?crop=0px%2C80px%2C1365px%2C763px&resize=1000%2C563",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "9d70c45767b299b1",
+      "title": "Comme des Garçons Homme Plus Spring 2023 - WWD",
+      "url": "https://wwd.com/runway/mens-spring-2023/paris/comme-des-garcons-homme-plus/review/",
+      "publishedAt": "2022-06-25T07:00:00.000Z",
+      "publisher": "WWD",
+      "image": "https://wwd.com/wp-content/uploads/2022/06/comme-des-garcons-homme-plus-mens-ss23-paris0001.jpg?crop=0px%2C60px%2C1365px%2C763px&resize=1000%2C563",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "d1bcddff3a9e836c",
+      "title": "Comme des Garçons Homme Plus Fall 2022 - WWD",
+      "url": "https://wwd.com/runway/mens-fall-2022/tokyo/comme-des-garcons-homme-plus/review/",
+      "publishedAt": "2022-01-17T08:00:00.000Z",
+      "publisher": "WWD",
+      "image": "https://wwd.com/wp-content/uploads/2022/01/CommeDesGarconsHommePlus-mens-fw22-001.jpg?w=1000&h=563&crop=1",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "8a2f1f62e2996942",
+      "title": "Comme des Garçons RTW Spring 2022 - WWD",
+      "url": "https://wwd.com/runway/spring-2022/paris/comme-des-garcons/review/",
+      "publishedAt": "2021-10-04T07:00:00.000Z",
+      "publisher": "WWD",
+      "image": "https://wwd.com/wp-content/uploads/2021/10/comme-des-garcons-s22-21.jpg?crop=0px%2C426px%2C3001px%2C1679px&resize=1000%2C563",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
       "id": "4afd03a1b8598067",
       "title": "コムデギャルソン観客入れてショー「最後に残ったもの」はかれんな美 - 朝日新聞",
       "url": "https://www.asahi.com/articles/ASPB45H8JPB4UCVL00C.html",
@@ -3731,6 +4057,166 @@
       "fetchedAt": "2026-07-05T07:41:41.492Z",
       "summary": null,
       "tags": []
+    },
+    {
+      "id": "bc6c32c8975829e1",
+      "title": "Comme des Garçons Homme Plus Spring 2021 Review - WWD",
+      "url": "https://wwd.com/runway/mens-spring-collections-2021/tokyo/comme-des-garcons-homme-plus/review/",
+      "publishedAt": "2020-07-29T07:00:00.000Z",
+      "publisher": "WWD",
+      "image": "https://wwd.com/wp-content/uploads/2020/07/cdg-homme-plus-s21-1.jpg?w=1000&h=563&crop=1",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "9bdc00c12c385827",
+      "title": "Comme des Garçons in row over ‘white models in cornrow wigs’ - The Guardian",
+      "url": "https://www.theguardian.com/fashion/2020/jan/19/comme-des-garcons-in-row-over-white-models-in-cornrow-wigs",
+      "publishedAt": "2020-01-19T08:00:00.000Z",
+      "publisher": "The Guardian",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "0becc05358b00b89",
+      "title": "Confessions of a Comme des Garçons Addict - interviewmagazine.com",
+      "url": "https://www.interviewmagazine.com/fashion/confessions-of-a-comme-des-garcons-addict",
+      "publishedAt": "2019-03-19T07:00:00.000Z",
+      "publisher": "interviewmagazine.com",
+      "image": "https://www.interviewmagazine.com/wp-content/uploads/2019/03/section-7782-_06-PC-Erinn-Hermsen.jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": [
+        "インタビュー"
+      ]
+    },
+    {
+      "id": "728eb02e2d0f3293",
+      "title": "Comme des Garçons RTW Fall 2019 - WWD",
+      "url": "https://wwd.com/runway/fall-ready-to-wear-2019/paris/comme-des-garcons/review/",
+      "publishedAt": "2019-03-03T08:00:00.000Z",
+      "publisher": "WWD",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "ed512c776039373a",
+      "title": "Comme des Garçons RTW Spring 2019 - WWD",
+      "url": "https://wwd.com/runway/spring-ready-to-wear-2019/paris/comme-des-garcons/review/",
+      "publishedAt": "2018-09-30T07:00:00.000Z",
+      "publisher": "WWD",
+      "image": "https://wwd.com/wp-content/uploads/2018/09/comme-rtw-spring-2019-paris-fashion-week2388.jpg?w=1000&h=563&crop=1",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "92376b79f017d776",
+      "title": "Comme des Garçons Shirt Men’s Spring 2019 - WWD",
+      "url": "https://wwd.com/runway/mens-spring-collections-2019/paris/comme-des-garcons-shirt/review/",
+      "publishedAt": "2018-06-23T07:00:00.000Z",
+      "publisher": "WWD",
+      "image": "https://wwd.com/wp-content/uploads/2018/06/cdg-shirt-rtw-spring-summer-2019-mens-paris-fashion-week-643.jpg?w=1000&h=563&crop=1",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "d13fdd371c5be429",
+      "title": "Comme des Garçons Shirt Men’s Fall 2018 - WWD",
+      "url": "https://wwd.com/runway/mens-fall-collections-2018/paris/comme-des-garcons-shirt/review/",
+      "publishedAt": "2018-01-20T08:00:00.000Z",
+      "publisher": "WWD",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "77f9bf99ce4ccacb",
+      "title": "Growing Up in Comme des Garçons (Published 2017) - The New York Times",
+      "url": "https://www.nytimes.com/2017/05/01/fashion/growing-up-in-comme-des-garcons.html",
+      "publishedAt": "2017-05-01T07:00:00.000Z",
+      "publisher": "The New York Times",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "7695462297012e49",
+      "title": "The 6 Stages of Understanding Comme des Garçons - Coveteur",
+      "url": "https://coveteur.com/comme-des-garcons-resurrection-vintage-katy-rodriguez",
+      "publishedAt": "2017-05-01T07:00:00.000Z",
+      "publisher": "Coveteur",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "ef320bf45b53ff22",
+      "title": "Shopping Dover Street Market With 3 Comme des Garçons Addicts - Vogue",
+      "url": "https://www.vogue.com/article/comme-des-garcons-superfans-shopping-dover-street-market-suzanne-golden",
+      "publishedAt": "2017-04-29T07:00:00.000Z",
+      "publisher": "Vogue",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "9a1199c6a4d3eb99",
+      "title": "The Full Story: Comme des Garçons by Nick Knight - AnOther Magazine",
+      "url": "https://www.anothermag.com/fashion-beauty/9044/the-full-story-comme-des-garons-by-nick-knight",
+      "publishedAt": "2016-09-14T07:00:00.000Z",
+      "publisher": "AnOther Magazine",
+      "image": "https://images-prod.anothermag.com/1200/0-0-1402-934/azure/another-prod/350/8/358291.jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "be1ccaf821ce2709",
+      "title": "Comme des Garçons Homme Plus Men’s Spring 2017 - WWD",
+      "url": "https://wwd.com/runway/mens-spring-collections-2017/paris/comme-des-garcons-homme-plus/review/",
+      "publishedAt": "2016-06-25T07:00:00.000Z",
+      "publisher": "WWD",
+      "image": "https://wwd.com/wp-content/uploads/2016/06/comme-des-garcons-homme-plus-mens-spring-2017-1.jpg?w=682&h=563&crop=1",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "0b408734840ec1a4",
+      "title": "Comme des Garçons Spring 1997 Ready-to-Wear Collection - Vogue",
+      "url": "https://www.vogue.com/fashion-shows/spring-1997-ready-to-wear/comme-des-garcons",
+      "publishedAt": "2015-08-20T07:00:00.000Z",
+      "publisher": "Vogue",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
     }
   ]
 }

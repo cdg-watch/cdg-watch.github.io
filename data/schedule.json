@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T08:08:22.513Z",
+  "updatedAt": "2026-07-07T02:52:53.896Z",
   "storeLaunches": [
     {
       "date": "2026-02-01",
@@ -159,5 +159,14 @@
       "note": "CDG FREAK 立ち上がり日程より"
     }
   ],
-  "productDrops": []
+  "productDrops": [
+    {
+      "date": "2026-09-01",
+      "title": "COMME des GARCONS HOMME PLUS x Air Jordan 11",
+      "brand": "Nike / COMME des GARCONS HOMME PLUS",
+      "price": "$250",
+      "where": "海外(Nike/提携店舗)",
+      "url": "https://www.sneakerfiles.com/comme-des-garcons-homme-plus-air-jordan-11/"
+    }
+  ]
 }
