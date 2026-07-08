@@ -1,21 +1,21 @@
-# CDG Watch デイリーダイジェスト 2026-07-07
+# CDG Watch デイリーダイジェスト 2026-07-08
 
-- **川久保玲、朝日新聞に「時間がない」と反戦への危機感語る**
-  パリ・メンズファッションウィークで2027年春夏コレクションを発表した川久保玲が現地取材に応じ、強まる反戦へのメッセージについて語った。
-  https://www.asahi.com/articles/ASV721T0FV72UCVL009M.html
+- **川久保玲、デビュー半世紀を振り返る特集(nippon.com)**
+  「黒の衝撃」やボロルック、既成概念にとらわれないデザイン哲学など、50年以上にわたるキャリアと功績を紹介する特集記事。
+  https://news.yahoo.co.jp/articles/4e5aecc1eeb65e033166bd3df6f5d7f6415910a4
 
-- **「黒の衝撃」から45年、川久保玲とコムデギャルソンの原点(朝日新聞)**
-  1981年のパリ初登場から45年の節目に、ブランドの原点と2027年春夏メンズコレクションに込めたメッセージを振り返る特集。
-  https://www.asahi.com/articles/ASV6W4DWJV6WUCVL00NM.html
+- **COMME des GARCONS HOMME × New Balance 1906R「ブラック」がSNKRDUNKに複数出品**
+  26cm・27cmの中古品がそれぞれ二次流通市場に出回っている。
+  https://snkrdunk.com/products/CDGH-NB-1906R-BK/used/47750526
 
-- **Henry Taylor × COMME des GARÇONS Wallet**
-  ロサンゼルス在住のアーティストHenry Taylorの絵画作品をあしらったウォレットコラボが直営店・ドーバー ストリート マーケット等で発売。
-  https://hubemag.com/henry-taylor-x-comme-des-garcons-wallet
+- **COMME des GARCONS HOMME PLUS × Nike Air Max 97「ブラック」の中古品が出品**
+  27cmサイズがSNKRDUNKで二次流通販売中。
+  https://snkrdunk.com/products/DX6932-002/used/47747796
 
-- **コム デ ギャルソン シャツ、ルーマニア人アーティストと組みブカレストに出店**
-  ダン・ペルヨフスキとのコラボ作品をあしらったコンセプトストアを開設。コラボ料は現地の小児がん病院に寄付、ブランドは寄付額を倍増。
-  https://www.dazeddigital.com/fashion/article/70435/1/comme-des-garcons-road-to-romania
+- **Supreme × COMME des GARCONS SHIRT × Nike Air Force 1 Lowの中古品2点が出品**
+  「ホワイト」26cmと2018年モデル「ブラック/ホワイト」29cmがSNKRDUNKに出品されている。
+  https://snkrdunk.com/products/923044-100/used/47283010
 
-- **なぜコムデギャルソンは「黒」に戻るのか(fashionsnap.comコラム・前編)**
-  2026年秋冬パリ・ファッションウィークの展開を軸に、「黒の衝撃」以来ブランドが繰り返し立ち返る黒の意味を論じる評論。
-  https://www.fashionsnap.com/article/paris-fashion-26aw-column-01/
+- **COMME des GARCONS SHIRT・HOMME PLUSのアパレル中古品(コート/パンツ/シャツ)が出品**
+  AD2018のベルト付きコート、W18132パンツ、半袖シャツなど複数アイテムがSNKRDUNKで二次流通中。
+  https://snkrdunk.com/apparel-free-used-items/46655694

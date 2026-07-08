@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T22:09:49.975Z",
+  "updatedAt": "2026-07-08T22:13:55.578Z",
   "items": [
     {
       "id": "282a77abbff1a3df",
@@ -10,10 +10,11 @@
       "image": "https://cdn.snkrdunk.com/used_listing/519643/165789be-04ec-4e23-bd0a-53f4d4ca1f40.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-08T22:09:18.696Z",
-      "summary": null,
+      "summary": "COMME des GARCONS HOMME × New Balance 1906R「ブラック」27cmの中古スニーカーがSNKRDUNKに出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "2396a1691153d079",
@@ -24,10 +25,11 @@
       "image": "https://cdn.snkrdunk.com/used_listing/601899/d25de10a-722b-400a-99ed-abfd79b87471.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-08T22:09:18.697Z",
-      "summary": null,
+      "summary": "COMME des GARCONS HOMME PLUS × Nike Air Max 97「ブラック」27cmの中古スニーカーがSNKRDUNKに出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "8aca546f62dece37",
@@ -300,20 +302,6 @@
       "image": "https://cdn.snkrdunk.com/uploads/media/20241012052505-0.jpeg",
       "cluster": "cdg-nb-860v2",
       "importance": 2
-    },
-    {
-      "id": "b12c6d527928ead6",
-      "title": "Clothing Comme Des Garcons Nyc Store Hours Rei Kawakubo Comme Des Garçons – Art Of The In-between - consumerthai",
-      "url": "https://www.consumerthai.org/?i",
-      "publishedAt": "2026-07-04T00:40:15.000Z",
-      "publisher": "consumerthai",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-08T22:09:19.291Z",
-      "summary": null,
-      "tags": [
-        "インタビュー"
-      ]
     },
     {
       "id": "a9828ecdff57701e",
@@ -718,18 +706,6 @@
       "cluster": "cdg-hommeplus-ss27-show"
     },
     {
-      "id": "e2ff5ac714eeeb69",
-      "title": "Comme des Garçons SS27 dreams of colour without conflict Menswear - dazeddigital.com",
-      "url": "https://www.dazeddigital.com/fashion/article/70542/1/comme-des-garons-homme-plus-ss27-paris-fashion-week-mens-pfw",
-      "publishedAt": "2026-06-27T17:09:00.000Z",
-      "publisher": "dazeddigital.com",
-      "image": "https://images-prod.dazeddigital.com/1200/0-153-2770-1847/azure/dazed-prod/1440/8/1448348.jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-08T22:09:19.291Z",
-      "summary": null,
-      "tags": []
-    },
-    {
       "id": "01c930884945af68",
       "title": "Comme des Garçons SS27 dreams of colour without conflict Menswear - Dazed",
       "url": "https://www.dazeddigital.com/fashion/article/70542/1/comme-des-garons-homme-plus-ss27-paris-fashion-week-mens-pfw",
@@ -849,10 +825,11 @@
       "image": "https://cdn.snkrdunk.com/used_listing/2984254/57d06b19-f224-4c14-8ce6-987d4e6969c0.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-08T22:09:18.697Z",
-      "summary": null,
+      "summary": "Supreme × COMME des GARCONS SHIRT × Nike Air Force 1 Low「ホワイト」26cmの中古品がSNKRDUNKに出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "32f1e1aa1e7c4a22",
@@ -929,10 +906,11 @@
       "image": "https://cdn.snkrdunk.com/used_listing/2189828/7d86c281-a580-46ec-9b42-6d14d243eba6.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-08T22:09:18.697Z",
-      "summary": null,
+      "summary": "Supreme × COMME des GARCONS SHIRT × Nike Air Force 1 Low「ブラック/ホワイト」(2018年モデル)29cmの中古品がSNKRDUNKに出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "1d6cb8b0e51f08e1",
@@ -1127,7 +1105,7 @@
       "image": "https://www.cfecgc-orange.org/documents/images/do_idf/effectif_et_tps.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-08T22:09:18.698Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
       ]
@@ -1141,24 +1119,11 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260612-00010000-nipponcom-000-2-view.jpg?exp=10800",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-08T22:09:18.697Z",
-      "summary": null,
+      "summary": "川久保玲のデビューから半世紀にわたるキャリアを振り返るnippon.com特集記事。「黒の衝撃」やボロルックなど、既成概念にとらわれないデザイン哲学を紹介している。",
       "tags": [
         "インタビュー"
-      ]
-    },
-    {
-      "id": "d0fc41e80801887f",
-      "title": "コムデギャルソン・川久保玲～「黒の衝撃」から半世紀、ファッションで「反骨精神」「反戦」を体現する挑戦者 (nippon.com) - Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/4e5aecc1eeb65e033166bd3df6f5d7f6415910a4/images/001",
-      "publishedAt": "2026-06-12T07:00:00.000Z",
-      "publisher": "Yahoo!ニュース",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3JFWzsTLeME_A9paPU19pkYYrgbakBHfMp00uvAtM6ajiwBlIc3aBs6QQlMBqokUUmoBSSK3HbaSukgOl53Cym8hyFkvkIn6W873IpTYCpTB9rZ-X6h8d8Mtj5AzxaF3kqVmAfO7qF_wO8x4w6tLQlg==",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-08T22:09:18.698Z",
-      "summary": null,
-      "tags": [
-        "インタビュー"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "57e850e8a866f1a5",
@@ -1174,18 +1139,6 @@
       ],
       "image": "https://www.nippon.com/ja/ncommon/contents/japan-topics/3018457/3018457.jpg",
       "importance": 3
-    },
-    {
-      "id": "4b94db1c55a58e24",
-      "title": "Comme des Garçons’ road to Romania - dazeddigital.com",
-      "url": "https://www.dazeddigital.com/fashion/article/70435/1/comme-des-garcons-road-to-romania",
-      "publishedAt": "2026-06-11T07:00:00.000Z",
-      "publisher": "dazeddigital.com",
-      "image": "https://images-prod.dazeddigital.com/1200/0-0-2047-1365/azure/dazed-prod/1440/6/1446946.jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-08T22:09:19.291Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "2b694c842926f5cc",
@@ -1225,10 +1178,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/5aab1389-1ec7-4123-bc7b-b19f297cca56/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-07T02:34:52.164Z",
-      "summary": null,
+      "summary": "COMME des GARCONS HOMME PLUS(AD2018)のベルト付きコート(型番PB-C013、サイズXS、ブラック)がSNKRDUNKで中古販売されている(¥80,600、ランクC)。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "fd47969f1bf30f66",
@@ -1239,10 +1193,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/3f3ea554-fe62-4736-bca9-3c28be39fe97/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-07T02:34:52.165Z",
-      "summary": null,
+      "summary": "COMME des GARCONS SHIRT のパンツ(型番W18132、レッド、サイズS)がSNKRDUNKで中古販売されている(¥15,600、ランクC)。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "a1d4f8b10a5030ab",
@@ -1252,11 +1207,12 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "COMME des GARCONS SHIRT の半袖シャツ(ブラック、型番CDGSH-0186)がSNKRDUNKで新品/中古販売されている(価格帯¥30,000〜)。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/29b5c871-2b53-49e6-88f2-678e6f834b7e.webp"
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/29b5c871-2b53-49e6-88f2-678e6f834b7e.webp",
+      "importance": 1
     },
     {
       "id": "6dbfabb65916ae46",
@@ -1266,11 +1222,12 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-05T00:47:55.389Z",
-      "summary": null,
+      "summary": "COMME des GARCONS HOMME × New Balance 1906R「ブラック」26cmの中古スニーカーがSNKRDUNKに出品されている。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/used_listing/5007045/ac70e784-efb1-46a7-abb8-48f314c8f782.jpeg"
+      "image": "https://cdn.snkrdunk.com/used_listing/5007045/ac70e784-efb1-46a7-abb8-48f314c8f782.jpeg",
+      "importance": 1
     },
     {
       "id": "a6be2f301134d904",
@@ -1296,7 +1253,7 @@
       "image": "https://cdn.snkrdunk.com/used_listing/2598924/47707f41-9416-4cc2-9be9-b3eec11eac9d.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-07T02:50:34.557Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
       ]
@@ -1309,11 +1266,12 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "COMME des GARCONS シーディージー オーバーサイズ ロングスリーブTシャツ(スモールロゴ、ブラック、Mサイズ)がSNKRDUNKで中古販売されている(ランクB)。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/apparel_used_listings/8360f0c2-c4f9-450c-b0d3-79c75f2d8b4b/7503476.jpeg"
+      "image": "https://cdn.snkrdunk.com/apparel_used_listings/8360f0c2-c4f9-450c-b0d3-79c75f2d8b4b/7503476.jpeg",
+      "importance": 1
     },
     {
       "id": "907629c7d3126241",
@@ -1947,20 +1905,6 @@
       "image": "https://pyxis.nymag.com/v1/imgs/ad6/ee8/a698c339d91f8b300988a87cdded8e4dad-scent-lede.1x.rsocial.w1200.jpg"
     },
     {
-      "id": "b42fa5a29b48daaa",
-      "title": "COMME des GARCONS HOMME Cotton Polyester Track Jacket \"Black\"の新品/中古服・ブランド古着通販｜スニダン - SNKRDUNK",
-      "url": "https://snkrdunk.com/apparels/780286?slide",
-      "publishedAt": "2026-03-18T09:34:09.000Z",
-      "publisher": "SNKRDUNK",
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/571fc4cf-51cb-43f6-aee9-896deaa03585.webp",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-08T22:09:18.699Z",
-      "summary": null,
-      "tags": [
-        "二次流通"
-      ]
-    },
-    {
       "id": "17d56d6db1767508",
       "title": "COMME des GARCONS HOMME Cotton Polyester Track Jacket \"Black\"の新品/中古フリマ(通販)｜スニダン - SNKRDUNK",
       "url": "https://snkrdunk.com/apparels/780286?slide",
@@ -2082,18 +2026,6 @@
       "summary": null,
       "tags": [],
       "image": "https://images-prod.anothermag.com/1200/47-101-1751-1168/azure/another-prod/470/0/470886.JPG"
-    },
-    {
-      "id": "73b9113283bdf0a9",
-      "title": "Comme des Garçons AW26 - dazeddigital.com",
-      "url": "https://www.dazeddigital.com/fashion/gallery/36817/0/comme-des-garcons-aw26",
-      "publishedAt": "2026-03-08T19:09:08.000Z",
-      "publisher": "dazeddigital.com",
-      "image": "https://images-prod.dazeddigital.com/1200/11-449-1354-902/azure/dazed-prod/1440/0/1440958.jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-08T22:09:19.291Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "5b912a1f232e2b72",
@@ -2275,18 +2207,6 @@
         "二次流通"
       ],
       "image": "https://cdn.snkrdunk.com/uploads/media/20260217111620-0.jpeg"
-    },
-    {
-      "id": "740c86d3f5bcc137",
-      "title": "Farewell to Christian Astuguevieille, the nose behind Comme des Garçons' anti-perfumes - nss G-Club",
-      "url": "https://www.nssgclub.com/en/beauty/44311/farewell-to-christian-astuguevieille-the-nose-behind-comme-des-garcons-anti-perfumes",
-      "publishedAt": "2026-02-17T15:14:32.000Z",
-      "publisher": "nss G-Club",
-      "image": "https://data2.nssmag.com/images/galleries/46975/nssgclub-Christian-Astuguevieille.webp",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-08T22:09:19.293Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "aaae6488b47bb38b",
@@ -2680,18 +2600,6 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20260122015709-0.webp"
     },
     {
-      "id": "afab1bb217f7ea05",
-      "title": "Comme des Garçons Homme Plus AW26 - dazeddigital.com",
-      "url": "https://www.dazeddigital.com/fashion/gallery/36572/0/comme-des-garcons-homme-plus-aw26",
-      "publishedAt": "2026-01-25T20:03:22.000Z",
-      "publisher": "dazeddigital.com",
-      "image": "https://images-prod.dazeddigital.com/1200/0-161-1443-962/azure/dazed-prod/1430/4/1434990.jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-08T22:09:19.292Z",
-      "summary": null,
-      "tags": []
-    },
-    {
       "id": "a1e34b316b108a09",
       "title": "Comme des Garçons Homme Plus AW26 - Dazed",
       "url": "https://www.dazeddigital.com/fashion/gallery/36572/0/comme-des-garcons-homme-plus-aw26",
@@ -2702,18 +2610,6 @@
       "summary": null,
       "tags": [],
       "image": "https://images-prod.dazeddigital.com/1200/0-161-1443-962/azure/dazed-prod/1430/4/1434990.jpg"
-    },
-    {
-      "id": "14c922f7560bf01a",
-      "title": "Comme des Garçons Homme Plus: “Let’s get out of the black hole” - HERO Magazine",
-      "url": "https://hero-magazine.com/shows/comme-des-garcons-homme-plus-lets-get-out-of-the-black-hole",
-      "publishedAt": "2026-01-25T08:00:00.000Z",
-      "publisher": "HERO Magazine",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-08T22:09:19.292Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "a902ea8e8c805af9",
@@ -2977,18 +2873,6 @@
         "二次流通"
       ],
       "image": "https://cdn.snkrdunk.com/used_listing/8198219/2700e41b-9725-4ed1-a256-a18ce233f102.jpeg"
-    },
-    {
-      "id": "e64e22cec247d965",
-      "title": "Heightened senses: Comme des Garçons Parfums reimagines one of its most disruptive fragrances - Vogue Australia",
-      "url": "https://www.vogue.com.au/beauty/news/comme-des-garcons-parfums-christian-astuguevieille-interview/news-story/cebc1715f41a50358ca9cc0a5d357cae",
-      "publishedAt": "2026-01-06T08:00:00.000Z",
-      "publisher": "Vogue Australia",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-08T22:09:19.293Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "9ecd6c3448ec30e1",
@@ -3668,18 +3552,6 @@
       "image": "https://www.designscene.net/wp-content/uploads/2025/10/Courtesy-of-COMME-des-GARCONS-Spring-Summer-2026-00.webp"
     },
     {
-      "id": "bf5091800f4ae920",
-      "title": "Comme des Garçons SS26 - dazeddigital.com",
-      "url": "https://www.dazeddigital.com/fashion/gallery/36082/0/comme-des-garcons-ss26",
-      "publishedAt": "2025-10-06T10:33:12.000Z",
-      "publisher": "dazeddigital.com",
-      "image": "https://images-prod.dazeddigital.com/1200/0-312-1365-910/azure/dazed-prod/1420/6/1426796.jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-08T22:09:19.292Z",
-      "summary": null,
-      "tags": []
-    },
-    {
       "id": "9b4f5e3a612705a5",
       "title": "Comme des Garçons SS26 - Dazed",
       "url": "https://www.dazeddigital.com/fashion/gallery/36082/0/comme-des-garcons-ss26",
@@ -3690,18 +3562,6 @@
       "summary": null,
       "tags": [],
       "image": "https://images-prod.dazeddigital.com/1200/0-312-1365-910/azure/dazed-prod/1420/6/1426796.jpg"
-    },
-    {
-      "id": "82eca91e1dc8c93b",
-      "title": "Comme des Garçons SS26: “the damaging of perfect things” - HERO Magazine",
-      "url": "https://hero-magazine.com/shows/comme-des-garcons-ss26-the-damaging-of-perfect-things",
-      "publishedAt": "2025-10-06T07:00:00.000Z",
-      "publisher": "HERO Magazine",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-08T22:09:19.292Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "386a2f8da538ef33",
@@ -3800,20 +3660,6 @@
       "summary": null,
       "tags": [],
       "image": "https://media.wwdjapan.com/wp-content/uploads/2025/10/26150311/og%E7%94%A8%E9%9B%9B%E5%BD%A21200pix%C3%97630pix-5.jpg"
-    },
-    {
-      "id": "d39ec457b36d75e9",
-      "title": "Vaquera launches first fragrance with Comme des Garçons - FashionNetwork USA",
-      "url": "https://us.fashionnetwork.com/news/Vaquera-launches-first-fragrance-with-comme-des-garcons,1768373.html",
-      "publishedAt": "2025-09-26T07:00:00.000Z",
-      "publisher": "FashionNetwork USA",
-      "image": "https://media.fashionnetwork.com/cdn-cgi/image/fit=cover,width=600,height=600,format=auto/m/1431/199e/d69a/53e5/87c8/f099/6ed1/896f/f5ce/1be1/1be1.jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-08T22:09:19.292Z",
-      "summary": null,
-      "tags": [
-        "新作"
-      ]
     },
     {
       "id": "b91cddcd229ddbfa",
