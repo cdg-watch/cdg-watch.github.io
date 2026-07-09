@@ -10,10 +10,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0130.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-09T22:10:30.841Z",
-      "summary": null,
+      "summary": "スニーカーダンクが、フィリップ・パゴウスキー氏デザインのハートロゴ入りPLAY COMME des GARCONSのTシャツを赤・黒・迷彩など色別に29点紹介する記事。刺繍とビッグプリントの2タイプがあり、価格は定価ベースで7,700円程度から。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "b2fd295de56a661b",
@@ -24,10 +25,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/1375ff70-11c9-4912-af0c-05400f7795bd/7810174.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-09T22:10:30.841Z",
-      "summary": null,
+      "summary": "COMME des GARCONS HOMME PLUS×NIKE Air Max 97のコラボスニーカー(DX6932-001、グレー×ホワイト、27cm)の中古出品ページ。状態はD(傷・汚れあり)で価格は10,428円、スニダンでの真贋鑑定・全額補償付き。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "f462942c4d9e6cff",
@@ -38,10 +40,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/ed35652b-7644-44ec-bc40-3d3e5ef77aed/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-09T22:10:30.841Z",
-      "summary": null,
+      "summary": "コムデギャルソンの黒系ワンピース(品番GL-B019、サイズM)の中古出品ページ。状態はC(やや傷・汚れあり、首周りと袖口に擦れ)、価格は20,600円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "282a77abbff1a3df",
@@ -1009,8 +1012,11 @@
       "image": "https://images.oceans.tokyo.jp/media/snap/12096/images/main_image_32646b910158a65e3351144943b6d8267e876ed4.jpg?h=1200",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-09T22:10:30.842Z",
-      "summary": null,
-      "tags": []
+      "summary": "OCEANSのスナップ企画で、ソウル在住の26歳男性がコムデギャルソンオムのバルーンパンツを主役にしたコーディネートを披露。シャツやヴィンテージ小物を合わせた春夏の着こなしが14枚の写真で紹介されている。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "59aedbf1521b91e4",
@@ -1173,10 +1179,11 @@
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3JFWzsTLeME_A9paPU19pkYYrgbakBHfMp00uvAtM6ajiwBlIc3aBs6QQlMBqokUUmoBSSK3HbaSukgOl53Cym8hyFkvkIn6W873IpTYCpTB9rZ-X6h8d8Mtj5AzxaF3kqVmAfO7qF_wO8x4w6tLQlg==",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-09T22:10:30.843Z",
-      "summary": null,
+      "summary": "Yahoo!ニュース(nippon.com記事)による川久保玲のインタビュー記事。1981年パリコレでの「黒の衝撃」や山本耀司氏との対比、反戦メッセージを込めた作風、インタビューを避ける姿勢などが語られている。",
       "tags": [
         "インタビュー"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "69fe9b141efde2a1",
@@ -1349,9 +1356,13 @@
       "publisher": "wallpaper.com",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://cdn.mos.cms.futurecdn.net/a7Ude6EKycYfqesbojKDGn-1800-80.jpg"
+      "summary": "wallpaper.comが、ニューヨークのIndependentアートフェアで開催中のコムデギャルソン展示を紹介。過去10年分の希少なドレス20点を川久保玲監修のもと金属製の足場構造内に展示し、来場者が観客席側を歩く反転した演出が特徴。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "image": "https://cdn.mos.cms.futurecdn.net/a7Ude6EKycYfqesbojKDGn-1800-80.jpg",
+      "cluster": "cdg-independent-artfair-2026",
+      "importance": 3
     },
     {
       "id": "3db002fe09639bbf",
@@ -1361,11 +1372,14 @@
       "publisher": "Hube magazine",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "Hube magazineが、2026年5月開催のインディペンデント・アート・フェア(NY)における川久保玲/コムデギャルソンの大規模インスタレーションを紹介。過去5年に制作した彫刻的な「身体のためのオブジェ」20点以上を展示し、価格は9,000〜30,000ドル、2017年のMet展以来約10年ぶりの大規模個展という。",
       "tags": [
-        "インタビュー"
+        "インタビュー",
+        "ショー/コレクション"
       ],
-      "image": "https://hubemag.com/wp-content/uploads/2026/05/Rei-Kawakubo-brings-Comme-des-Garcons-archives-to-the-heart-of-Independent-Art-Fair_01.png"
+      "image": "https://hubemag.com/wp-content/uploads/2026/05/Rei-Kawakubo-brings-Comme-des-Garcons-archives-to-the-heart-of-Independent-Art-Fair_01.png",
+      "cluster": "cdg-independent-artfair-2026",
+      "importance": 3
     },
     {
       "id": "7e3044e2cb406aec",
@@ -1375,9 +1389,12 @@
       "publisher": "AnOther Magazine",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://images-prod.anothermag.com/1080/0-0-1080-720/azure/another-prod/470/3/473336.jpg"
+      "summary": "AnOther Magazineが、コムデギャルソン パルファムの新作香水「To Vetiver」を紹介。調香師アントワーヌ・メゾンデューが手掛けた黒胡椒のスパイス感が特徴の香りで、創始者クリスチャン・アストゥグヴィエイユ氏の遺作となった。ボトルは川久保玲デザインの「ペブル」型の赤色版で、2026年5月にヴェネツィアで先行発表。",
+      "tags": [
+        "新作"
+      ],
+      "image": "https://images-prod.anothermag.com/1080/0-0-1080-720/azure/another-prod/470/3/473336.jpg",
+      "importance": 3
     },
     {
       "id": "08857937d24289d1",
@@ -1387,11 +1404,14 @@
       "publisher": "Hypebeast",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
-        "インタビュー"
+        "インタビュー",
+        "ショー/コレクション"
       ],
-      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F05&#x25;2F14&#x25;2Frei-kawakubo-comme-des-garcons-independent-art-fair-new-york-2026-installation-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F14%2Frei-kawakubo-comme-des-garcons-independent-art-fair-new-york-2026-installation-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+      "cluster": "cdg-independent-artfair-2026",
+      "importance": 3
     },
     {
       "id": "c8a404084dabb96b",
@@ -1401,11 +1421,12 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "COMME des GARCONSポロシャツ「ダークブルー」(品番CDG-0823)のスニダン出品ページ。価格は24,257円から、真贋鑑定・全額補償付きのフリマ形式で取引されている。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0823.webp"
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0823.webp",
+      "importance": 1
     },
     {
       "id": "6beb9f40c1d1c775",
@@ -1415,9 +1436,12 @@
       "publisher": "Yahoo!ニュース",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
-      "tags": [],
-      "image": null
+      "summary": "OCEANSの無印良品コーディネート特集(Yahoo!ニュース転載)。5人の着こなし例を紹介する内容で、本文中にコムデギャルソンへの言及は確認できなかった(検索経由での誤収集の可能性)。",
+      "tags": [
+        "その他"
+      ],
+      "image": null,
+      "importance": 1
     },
     {
       "id": "420583ad4d6ddc08",
@@ -1427,11 +1451,12 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "COMME des GARCONSポロシャツ「ホワイト」のスニダン出品ページ。価格は24,257円からで、真贋鑑定・全額補償付きのフリマ形式、購入手数料無料キャンペーン中。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0821-1.webp"
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0821-1.webp",
+      "importance": 1
     },
     {
       "id": "ef4e29d08343e039",

@@ -1,21 +1,17 @@
-# CDG Watch デイリーダイジェスト 2026-07-08
+# CDG Watch デイリーダイジェスト 2026-07-10
 
-- **川久保玲、デビュー半世紀を振り返る特集(nippon.com)**
-  「黒の衝撃」やボロルック、既成概念にとらわれないデザイン哲学など、50年以上にわたるキャリアと功績を紹介する特集記事。
-  https://news.yahoo.co.jp/articles/4e5aecc1eeb65e033166bd3df6f5d7f6415910a4
+- **川久保玲、NY Independentアートフェアで大規模インスタレーション**
+  過去5年分の彫刻的な「身体のためのオブジェ」20点以上を展示。2017年Met展以来約10年ぶりの大規模個展で、価格は9,000〜30,000ドル。
+  https://www.wallpaper.com/fashion-beauty/comme-des-garcons-independent-art-fair
 
-- **COMME des GARCONS HOMME × New Balance 1906R「ブラック」がSNKRDUNKに複数出品**
-  26cm・27cmの中古品がそれぞれ二次流通市場に出回っている。
-  https://snkrdunk.com/products/CDGH-NB-1906R-BK/used/47750526
+- **コムデギャルソン パルファムの新作香水「To Vetiver」発表**
+  調香師アントワーヌ・メゾンデューが手掛けた、創始者クリスチャン・アストゥグヴィエイユ氏の遺作。川久保玲デザインの「ペブル」型ボトルの赤色版で登場。
+  https://www.anothermag.com/fashion-beauty/17179/comme-des-garcons-parfums-to-vetiver
 
-- **COMME des GARCONS HOMME PLUS × Nike Air Max 97「ブラック」の中古品が出品**
-  27cmサイズがSNKRDUNKで二次流通販売中。
-  https://snkrdunk.com/products/DX6932-002/used/47747796
+- **PLAY COMME des GARCONSのハートTシャツ29選(スニーカーダンク)**
+  フィリップ・パゴウスキー氏デザインのハートロゴを赤・黒・迷彩などカラー別に紹介。刺繍とビッグプリントの2タイプ展開。
+  https://snkrdunk.com/articles/32751/
 
-- **Supreme × COMME des GARCONS SHIRT × Nike Air Force 1 Lowの中古品2点が出品**
-  「ホワイト」26cmと2018年モデル「ブラック/ホワイト」29cmがSNKRDUNKに出品されている。
-  https://snkrdunk.com/products/923044-100/used/47283010
-
-- **COMME des GARCONS SHIRT・HOMME PLUSのアパレル中古品(コート/パンツ/シャツ)が出品**
-  AD2018のベルト付きコート、W18132パンツ、半袖シャツなど複数アイテムがSNKRDUNKで二次流通中。
-  https://snkrdunk.com/apparel-free-used-items/46655694
+- **コムデギャルソンオムのバルーンパンツコーディネート(OCEANS スナップ)**
+  ソウル在住の26歳男性による春夏の着こなし例。ヴィンテージ小物を合わせたスタイリングを14枚の写真で紹介。
+  https://oceans.tokyo.jp/snap/detail/12096
