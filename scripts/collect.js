@@ -22,6 +22,15 @@ const SOURCES = [
   { name: "WWD JAPAN", url: "https://www.wwdjapan.com/feed", filter: CDG_RE },
   { name: "FASHIONSNAP", url: "https://www.fashionsnap.com/rss.xml", filter: CDG_RE },
   { name: "Fullress", url: "https://fullress.com/feed/", filter: CDG_RE },
+  { name: "Sneaker News", url: "https://sneakernews.com/feed/", filter: CDG_RE },
+  { name: "Sneaker Files", url: "https://www.sneakerfiles.com/feed/", filter: CDG_RE },
+  // God Meets Fashion は国内発売日情報に強い。タイトルが「CDG」表記の記事が
+  // あるためこのソースのみ \bCDG\b も許可(スニーカー文脈なら誤検知の心配が薄い)
+  {
+    name: "God Meets Fashion",
+    url: "https://godmeetsfashion.com/feed/",
+    filter: /ギャルソン|Comme des Gar[cç]ons|\bCDG\b/i,
+  },
   // RSSの無いサイトはページから収集(fetchItems を持つソース)
   { name: "Fashion Press", fetchItems: fetchFashionPress },
   // Google News(網羅用。中継URLのため画像なし)
