@@ -21,6 +21,9 @@ const SOURCES = [
   { name: "Hypebeast JP", url: "https://hypebeast.com/jp/feed", filter: CDG_RE },
   { name: "WWD JAPAN", url: "https://www.wwdjapan.com/feed", filter: CDG_RE },
   { name: "FASHIONSNAP", url: "https://www.fashionsnap.com/rss.xml", filter: CDG_RE },
+  { name: "Fullress", url: "https://fullress.com/feed/", filter: CDG_RE },
+  // RSSの無いサイトはページから収集(fetchItems を持つソース)
+  { name: "Fashion Press", fetchItems: fetchFashionPress },
   // Google News(網羅用。中継URLのため画像なし)
   {
     name: "Google News (日本語)",
@@ -180,6 +183,53 @@ export async function fetchOgImage(url) {
   }
 }
 
+// ファッションプレスはRSSが無いため、CDGブランドのニュース一覧ページから収集する。
+// 一覧に日付が無いので、新着(未知のURL)のみ記事ページを開いて datePublished を取る。
+// 画像は既存の og:image 補完ステップに任せる(image: null で返す)
+async function fetchFashionPress(isKnownUrl) {
+  const res = await fetch("https://www.fashion-press.net/news/brand/22", {
+    headers: { "user-agent": "cdg-watch/1.0 (personal news aggregator)" },
+    signal: AbortSignal.timeout(20000),
+  });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const html = await res.text();
+  const seen = new Set();
+  const items = [];
+  for (const m of html.matchAll(/<a[^>]+href="(\/news\/\d+)"[^>]*>(.*?)<\/a>/gs)) {
+    const url = "https://www.fashion-press.net" + m[1];
+    const title = decodeEntities(m[2].replace(/<[^>]+>/g, " "))
+      .replace(/\s+/g, " ")
+      .trim();
+    // 一覧ページには他ブランドの関連記事も混ざるためタイトルでCDG判定する
+    if (!title || seen.has(url) || !CDG_RE.test(title)) continue;
+    seen.add(url);
+    if (isKnownUrl(url)) continue;
+    // 連続アクセスで日付取得が失敗することがあるため、間隔を空けて最大2回試す
+    let publishedAt = null;
+    for (let attempt = 0; attempt < 2 && !publishedAt; attempt++) {
+      await new Promise((r) => setTimeout(r, attempt ? 2000 : 800));
+      try {
+        const page = await fetch(url, {
+          headers: { "user-agent": "cdg-watch/1.0 (personal news aggregator)" },
+          signal: AbortSignal.timeout(15000),
+        });
+        const date = (await page.text()).match(/"datePublished":"([^"]+)"/)?.[1];
+        if (date) publishedAt = new Date(date).toISOString();
+      } catch {}
+    }
+    items.push({
+      title,
+      url,
+      publishedAt,
+      publisher: "ファッションプレス",
+      image: null,
+      _text: title,
+    });
+    if (items.length >= 10) break; // 1回の実行で開く記事ページ数を抑える
+  }
+  return items;
+}
+
 function parseRss(xml) {
   return [...xml.matchAll(/<item>(.*?)<\/item>/gs)].map(([, block]) => ({
     title: tag(block, "title"),
@@ -201,21 +251,26 @@ async function main() {
     ? JSON.parse(readFileSync(DATA_PATH, "utf8"))
     : { updatedAt: null, items: [] };
   const known = new Set(existing.items.map((i) => i.id));
+  const knownUrls = new Set(existing.items.map((i) => i.url));
   const added = [];
 
   for (const source of SOURCES) {
-    let xml;
+    let rawItems;
     try {
-      const res = await fetch(source.url, {
-        headers: { "user-agent": "cdg-watch/1.0 (personal news aggregator)" },
-      });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      xml = await res.text();
+      if (source.fetchItems) {
+        rawItems = await source.fetchItems((u) => knownUrls.has(u));
+      } else {
+        const res = await fetch(source.url, {
+          headers: { "user-agent": "cdg-watch/1.0 (personal news aggregator)" },
+        });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        rawItems = parseRss(await res.text());
+      }
     } catch (err) {
       console.error(`[skip] ${source.name}: ${err.message}`);
       continue;
     }
-    for (const item of parseRss(xml)) {
+    for (const item of rawItems) {
       if (!item.url || !item.title) continue;
       if (source.filter && !source.filter.test(item._text)) continue;
       delete item._text;
@@ -251,7 +306,6 @@ async function main() {
   // 同じ記事が別の publisher 表記(例: "10 Magazine" / "10magazine.com")で
   // 別 id として二重登録されるのを防ぐ。URL解決後にURL単位で重複排除する
   // (id は title+publisher のハッシュのため、表記ゆれがあると別idになってしまう)。
-  const knownUrls = new Set(existing.items.map((i) => i.url));
   const deduped = [];
   for (const it of added) {
     if (knownUrls.has(it.url)) continue;
