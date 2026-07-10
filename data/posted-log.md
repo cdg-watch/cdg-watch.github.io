@@ -21,4 +21,4 @@
 | 2026-07-08 | **CDGオム × New Balance「1226」復刻コラボ** | https://houseofheat.co/new-balance/comme-des-garcons-cdg-new-balance-1226 | snow手動投稿(7/10申告。URLは同内容記事) |
 | 2026-07-09 | 川久保玲デビュー半世紀特集(nippon.com) | https://www.nippon.com/ja/japan-topics/c03718/ | |
 | 2026-07-10 | CDGパルファム新作香水「To Vetiver」 | https://www.anothermag.com/fashion-beauty/17179/comme-des-garcons-parfums-to-vetiver | 朝の配信版(鮮度ルールで取り下げ) |
-| 2026-07-10 | オム プリュス × Nike「Air Max Dolce SP」復刻 | https://www.highsnobiety.com/p/nike-comme-des-garcons-air-max-dolce-sp-black-white/ | 本日の最終版 |
+| 2026-07-10 | オム プリュス × Nike「Air Max Dolce SP」復刻 | https://www.highsnobiety.com/p/nike-comme-des-garcons-air-max-dolce-sp-black-white/ | **未投稿・取り下げ**(発売は5月で出来事が古いためsnow判断で見送り。再提案もしない) |
