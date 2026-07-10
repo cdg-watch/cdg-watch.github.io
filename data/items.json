@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T22:09:27.487Z",
+  "updatedAt": "2026-07-10T22:12:26.847Z",
   "items": [
     {
       "id": "8f02c82a1ba693a3",
@@ -10,10 +10,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/2b7909c2-7b77-4bd7-8eff-e68f09c9f8c4/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-10T22:09:19.059Z",
-      "summary": null,
+      "summary": "SNKRDUNKに出品されたコム デ ギャルソン オム プリュス「PP-C008」コートの中古品(状態C、価格110,600円)。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "c42a5952fa6cdb60",
@@ -24,8 +25,11 @@
       "image": "https://fashionsnap-assets.com/asset/format=auto,fit=crop,width=300,height=300/article/images/2026/07/34ac7198-a75c-4d66-b736-098748225be1.jpg",
       "feed": "FASHIONSNAP",
       "fetchedAt": "2026-07-10T22:09:08.264Z",
-      "summary": null,
-      "tags": []
+      "summary": "ブランド「T.T」がウィメンズラインを始動し、2026年秋冬シーズンより全48型のファーストコレクションを展開(記事内にコム デ ギャルソンとの直接の関連記載はなし)。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "bc5f0aa05fc236b8",
@@ -36,10 +40,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-10T22:09:19.059Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "ff2d8a8746e723b5",
@@ -50,10 +55,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/90b2c1a2-58df-4f60-af9f-129999c31a2d/7810174.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-10T22:09:19.060Z",
-      "summary": null,
+      "summary": "SNKRDUNKに出品されたトリコ コム デ ギャルソン「TH-T014」ウールニットカーディガン(AD2002、レッド系)の中古品(状態D、価格10,428円)。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "186a1344ca946e10",
@@ -64,10 +70,11 @@
       "image": "https://image-cdn.hypb.st/https%3A%2F%2Fjp.hypebeast.com%2Ffiles%2F2026%2F07%2F10%2Fcomme-des-garcons-homme-plus-air-jordan-11-detail-look-ft.jpg?w=800&cbr=1&q=90&fit=max",
       "feed": "Hypebeast JP",
       "fetchedAt": "2026-07-10T03:22:03.670Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "66ebde09c0cfd1c6",
@@ -78,10 +85,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/e3f4ee19-7501-427d-a0e5-715e96e52c17/7810174.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-10T22:09:19.060Z",
-      "summary": null,
+      "summary": "SNKRDUNKに出品されたジュンヤワタナベ コム デ ギャルソン マン×ニードルス「WP-C901」再構築ミリタリーコート(25SS、綿ナイロンオックス)の中古品(状態D、価格47,278円)。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "75c5e5cd6c42432d",
@@ -167,10 +175,11 @@
       "image": "https://www.fashion-press.net/img/news/147382/top.jpg?1781258759",
       "feed": "Fashion Press",
       "fetchedAt": "2026-07-10T03:22:18.024Z",
-      "summary": null,
+      "summary": "コム デ ギャルソン・オム プリュスがジョージコックスとコラボしたジップフロントブーツを発表。クリーパーと同様の厚底ラバーソールを採用し、2026年8月8日以降に取扱店で151,800円で発売予定。",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "importance": 3
     },
     {
       "id": "d25adecf53aace3d",
@@ -181,10 +190,11 @@
       "image": "https://www.fashion-press.net/img/news/147386/top.jpg?1781261276",
       "feed": "Fashion Press",
       "fetchedAt": "2026-07-10T03:22:18.025Z",
-      "summary": null,
+      "summary": "コム デ ギャルソン・オム プリュスがキッズ ラブ ゲイトとコラボした二重構造の革靴を発表。ウィングチップやスプラッシュ、メッセージ入りなど複数展開し、2026年8月8日以降に247,500円〜269,500円で発売予定。",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "importance": 3
     },
     {
       "id": "8aca546f62dece37",
@@ -666,8 +676,11 @@
       "image": "https://www.fashion-press.net/img/news/147751/top.jpg?1782123883",
       "feed": "Fashion Press",
       "fetchedAt": "2026-07-10T03:22:18.025Z",
-      "summary": null,
-      "tags": []
+      "summary": "プレイ・コム デ ギャルソンがブランド初の本格アウターラインを発表。キルティングジャケット・フーディーやニット、Tシャツなどを2026年7月5日より青山店を除く取扱店舗で発売(ジャケット64,900円など)。",
+      "tags": [
+        "新作"
+      ],
+      "importance": 2
     },
     {
       "id": "87384b19931c2190",
@@ -693,10 +706,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20260107093725-0.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-10T22:09:19.060Z",
-      "summary": null,
+      "summary": "スニーカーダンクがPLAY COMME des GARCONS Tシャツの売上ランキングTOP30を発表(集計期間2026年5月24日〜6月25日)。ハートワッペンやロゴデザイン、冷房対策のロングスリーブが上位を占めた。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "f4242e0105a1d328",
@@ -892,13 +906,14 @@
       "url": "https://www.fashion-press.net/news/147986",
       "publishedAt": "2026-06-27T19:45:00.000Z",
       "publisher": "ファッションプレス",
-      "image": null,
+      "image": "https://www.fashion-press.net/img/news/147986/top.jpg?1782592048",
       "feed": "Fashion Press",
       "fetchedAt": "2026-07-10T03:22:18.025Z",
-      "summary": null,
+      "summary": "コム デ ギャルソン・シャツが2027年春夏コレクションをパリで発表(2026年6月27日)。「袖」をテーマに2本袖や半袖・長袖一体型シャツなど既存フォルムを再構築し、フレッドペリーやアシックスとのコラボも展開。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 3
     },
     {
       "id": "01c930884945af68",
@@ -1001,13 +1016,14 @@
       "url": "https://www.fashion-press.net/news/147980",
       "publishedAt": "2026-06-26T17:10:00.000Z",
       "publisher": "ファッションプレス",
-      "image": null,
+      "image": "https://www.fashion-press.net/img/news/147980/top.jpg?1782493259",
       "feed": "Fashion Press",
       "fetchedAt": "2026-07-10T03:22:18.025Z",
-      "summary": null,
+      "summary": "コム デ ギャルソン・オム プリュスが27年春夏コレクション「もし 戦争が 終わったら」を発表。ミリタリーカモフラージュ柄をポップな色彩に置き換えるなど、平和への希望を色彩と軽やかさで表現した。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 3
     },
     {
       "id": "1d996294ecb7f135",

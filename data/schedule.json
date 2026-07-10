@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T02:52:53.896Z",
+  "updatedAt": "2026-07-10T22:12:26.847Z",
   "storeLaunches": [
     {
       "date": "2026-02-01",
@@ -167,6 +167,22 @@
       "price": "$250",
       "where": "海外(Nike/提携店舗)",
       "url": "https://www.sneakerfiles.com/comme-des-garcons-homme-plus-air-jordan-11/"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "コム デ ギャルソン・オム プリュス×ジョージコックス ジップフロントブーツ",
+      "brand": "COMME des GARCONS HOMME PLUS x George Cox",
+      "price": "151,800円",
+      "where": "コム デ ギャルソン・オム プリュス取扱店",
+      "url": "https://www.fashion-press.net/news/147382"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "コム デ ギャルソン・オム プリュス×キッズ ラブ ゲイト 革靴コレクション",
+      "brand": "COMME des GARCONS HOMME PLUS x Kids Love Gate",
+      "price": "247,500円〜269,500円",
+      "where": "コム デ ギャルソン・オム プリュス取扱店",
+      "url": "https://www.fashion-press.net/news/147386"
     }
   ]
 }
