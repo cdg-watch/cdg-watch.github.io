@@ -23,3 +23,4 @@
 | 2026-07-10 | CDGパルファム新作香水「To Vetiver」 | https://www.anothermag.com/fashion-beauty/17179/comme-des-garcons-parfums-to-vetiver | 朝の配信版(鮮度ルールで取り下げ) |
 | 2026-07-10 | オム プリュス × Nike「Air Max Dolce SP」復刻 | https://www.highsnobiety.com/p/nike-comme-des-garcons-air-max-dolce-sp-black-white/ | **未投稿・取り下げ**(発売は5月で出来事が古いためsnow判断で見送り。再提案もしない) |
 | 2026-07-10 | オム プリュス × Air Jordan 11(今秋発売予定・初コラボ) | https://www.sneakerfiles.com/comme-des-garcons-homme-plus-air-jordan-11/ | 本日の確定版(snow指名トピック)。発売日決定などの続報は別途投稿可 |
+| 2026-07-11 | オム プリュス × ジョージコックス センターZIPブーツ(8/8発売予定) | https://www.fashion-press.net/news/147382 | 本日の確定版。同日発表のキッズ ラブ ゲイト革靴コラボ(147386)は未使用・翌日以降の候補 |
