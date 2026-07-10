@@ -384,20 +384,32 @@ document.getElementById("tabs").addEventListener("click", e => {
 });
 document.getElementById("q").addEventListener("input", e => { q = e.target.value.trim(); render(); });
 
-Promise.all([
-  fetch("data/items.json").then(r => r.json()),
-  fetch("data/schedule.json").then(r => r.json()).catch(() => ({ storeLaunches: [], productDrops: [] })),
-]).then(([data, sched]) => {
-  items = data.items; schedule = sched;
-  document.getElementById("meta").textContent =
-    `${items.length}件 · 最終更新 ${new Date(data.updatedAt).toLocaleString("ja-JP")}`;
-  const sel = document.getElementById("feed");
-  for (const f of [...new Set(items.map(i => i.feed))]) sel.add(new Option(f, f));
-  sel.addEventListener("change", e => { feed = e.target.value; render(); });
-  buildChips();
-  render();
-}).catch(() => {
+const feedSel = document.getElementById("feed");
+feedSel.addEventListener("change", e => { feed = e.target.value; render(); });
+
+let lastLoaded = 0;
+function loadData() {
+  return Promise.all([
+    fetch("data/items.json", { cache: "no-cache" }).then(r => r.json()),
+    fetch("data/schedule.json", { cache: "no-cache" }).then(r => r.json()).catch(() => ({ storeLaunches: [], productDrops: [] })),
+  ]).then(([data, sched]) => {
+    items = data.items; schedule = sched; lastLoaded = Date.now();
+    document.getElementById("meta").textContent =
+      `${items.length}件 · 最終更新 ${new Date(data.updatedAt).toLocaleString("ja-JP")}`;
+    const known = new Set([...feedSel.options].map(o => o.value));
+    for (const f of [...new Set(items.map(i => i.feed))]) if (!known.has(f)) feedSel.add(new Option(f, f));
+    render();
+  });
+}
+
+loadData().then(buildChips).catch(() => {
   document.getElementById("meta").textContent = "データの読み込みに失敗しました。";
+});
+
+// 開きっぱなしのタブが昨日のデータを表示し続けないよう、タブに戻ったら再取得する
+document.addEventListener("visibilitychange", () => {
+  if (document.visibilityState === "visible" && Date.now() - lastLoaded > 10 * 60 * 1000)
+    loadData().catch(() => {});
 });
 </script>
 </body>
