@@ -196,6 +196,11 @@ const RAKUTEN_CDG = "https://hb.afl.rakuten.co.jp/hgc/558d8f1f.1e88ee8e/?pc=" +
   "&m=" + encodeURIComponent("https://search.rakuten.co.jp/search/mall/コムデギャルソン/");
 
 let items = [], schedule = { storeLaunches: [], productDrops: [] };
+const STALE_DAYS = 14;
+// 要約が長期間つかない項目はデフォルト一覧から間引く(データは削除しない)。
+// 検索(q)や☆保存タブでは明示的な絞り込みのため除外しない。
+const isStale = i => !i.summary &&
+  (Date.now() - new Date(i.fetchedAt ?? i.publishedAt).getTime()) > STALE_DAYS * 86400000;
 let view = "news", cat = "__official", feed = "", q = "", calPast = false;
 let favs = new Set(JSON.parse(localStorage.getItem("cdg_favs") || "[]"));
 
@@ -218,6 +223,7 @@ function cardHTML(i) {
 }
 
 function matchNews(i) {
+  if (!q && isStale(i)) return false;
   const inCat = cat === ""      ? true
     : cat === "__official"      ? !(i.tags ?? []).includes("二次流通")
     : cat === "__saved"         ? favs.has(i.id)
@@ -235,7 +241,7 @@ function renderNews(savedOnly) {
 
   // 今日の要点(絞り込みなし・通常ビューのみ)
   if (!savedOnly && !q && cat === "__official" && !feed) {
-    const official = items.filter(i => !(i.tags ?? []).includes("二次流通"));
+    const official = items.filter(i => !(i.tags ?? []).includes("二次流通") && !isStale(i));
     // importance が付いていれば優先、無ければ新着順。上位3件
     const hl = [...official]
       .sort((a, b) => (b.importance ?? 0) - (a.importance ?? 0))
