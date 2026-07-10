@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-07-09T22:10:40.975Z",
+  "updatedAt": "2026-07-10T03:22:31.363Z",
   "items": [
+    {
+      "id": "186a1344ca946e10",
+      "title": "COMME des GARÇONS HOMME PLUS x Air Jordan 11 のディテールをチェック",
+      "url": "https://hypebeast.com/jp/2026/7/comme-des-garcons-homme-plus-air-jordan-11-detail-look",
+      "publishedAt": "2026-07-10T02:58:25.000Z",
+      "publisher": null,
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fjp.hypebeast.com%2Ffiles%2F2026%2F07%2F10%2Fcomme-des-garcons-homme-plus-air-jordan-11-detail-look-ft.jpg?w=800&cbr=1&q=90&fit=max",
+      "feed": "Hypebeast JP",
+      "fetchedAt": "2026-07-10T03:22:03.670Z",
+      "summary": null,
+      "tags": [
+        "コラボ"
+      ]
+    },
     {
       "id": "75c5e5cd6c42432d",
       "title": "【PLAY COMME des GARCONS】赤、黒、迷彩、あなたは何色派？この夏着たい「ハートTシャツ」29選 - SNKRDUNK",
@@ -75,6 +89,34 @@
         "二次流通"
       ],
       "importance": 1
+    },
+    {
+      "id": "245d93eb26046ee0",
+      "title": "コム デ ギャルソン・オム プリュス×ジョージコックスのジップブーツ、「クリーパー」ラバーソールで",
+      "url": "https://www.fashion-press.net/news/147382",
+      "publishedAt": "2026-07-07T15:00:00.000Z",
+      "publisher": "ファッションプレス",
+      "image": "https://www.fashion-press.net/img/news/147382/top.jpg?1781258759",
+      "feed": "Fashion Press",
+      "fetchedAt": "2026-07-10T03:22:18.024Z",
+      "summary": null,
+      "tags": [
+        "コラボ"
+      ]
+    },
+    {
+      "id": "d25adecf53aace3d",
+      "title": "コム デ ギャルソン・オム プリュス×キッズ ラブ ゲイト“カバー”で覆った革靴、メッセージ入りも",
+      "url": "https://www.fashion-press.net/news/147386",
+      "publishedAt": "2026-07-07T15:00:00.000Z",
+      "publisher": "ファッションプレス",
+      "image": "https://www.fashion-press.net/img/news/147386/top.jpg?1781261276",
+      "feed": "Fashion Press",
+      "fetchedAt": "2026-07-10T03:22:18.025Z",
+      "summary": null,
+      "tags": [
+        "コラボ"
+      ]
     },
     {
       "id": "8aca546f62dece37",
@@ -548,6 +590,18 @@
       "image": null
     },
     {
+      "id": "1612e382d806890a",
+      "title": "プレイ・コム デ ギャルソン初のキルティングアウター、背面にハートロゴ",
+      "url": "https://www.fashion-press.net/news/147751",
+      "publishedAt": "2026-07-01T15:30:00.000Z",
+      "publisher": "ファッションプレス",
+      "image": "https://www.fashion-press.net/img/news/147751/top.jpg?1782123883",
+      "feed": "Fashion Press",
+      "fetchedAt": "2026-07-10T03:22:18.025Z",
+      "summary": null,
+      "tags": []
+    },
+    {
       "id": "87384b19931c2190",
       "title": "COMME des GARÇONS HOMME and New Balance Deliver Rugged Utility on the Revived 1226 Archival Runner - Hypebeast",
       "url": "https://hypebeast.com/2026/6/comme-des-garcons-homme-new-balance-1226-new-silhouette-collaboration-paris-fashion-week-ss27-exclusive-first-look",
@@ -751,6 +805,20 @@
       "cluster": "cdg-hommeplus-ss27-show"
     },
     {
+      "id": "1806e72e4fe9bad3",
+      "title": "コム デ ギャルソン・シャツ 2027年春夏コレクション - “袖”から始まる新たなシャツフォルム",
+      "url": "https://www.fashion-press.net/news/147986",
+      "publishedAt": "2026-06-27T19:45:00.000Z",
+      "publisher": "ファッションプレス",
+      "image": null,
+      "feed": "Fashion Press",
+      "fetchedAt": "2026-07-10T03:22:18.025Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
+    },
+    {
       "id": "01c930884945af68",
       "title": "Comme des Garçons SS27 dreams of colour without conflict Menswear - Dazed",
       "url": "https://www.dazeddigital.com/fashion/article/70542/1/comme-des-garons-homme-plus-ss27-paris-fashion-week-mens-pfw",
@@ -844,6 +912,20 @@
       "image": "https://wwd.com/wp-content/uploads/2026/06/comme-des-garcons-ss-27-men-rtw-pfw-r-gg-0001.jpg?crop=0px%2C60px%2C1365px%2C763px&resize=1000%2C563",
       "importance": 3,
       "cluster": "cdg-hommeplus-ss27-show"
+    },
+    {
+      "id": "4388aa45bc754df4",
+      "title": "コム デ ギャルソン・オム プリュス 27年春夏コレクション、色彩と軽やかさで描く平和への希望",
+      "url": "https://www.fashion-press.net/news/147980",
+      "publishedAt": "2026-06-26T17:10:00.000Z",
+      "publisher": "ファッションプレス",
+      "image": null,
+      "feed": "Fashion Press",
+      "fetchedAt": "2026-07-10T03:22:18.025Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
     },
     {
       "id": "1d996294ecb7f135",
@@ -1275,6 +1357,18 @@
       "importance": 1
     },
     {
+      "id": "5c5f914f94f6501c",
+      "title": "ウォレット・コム デ ギャルソン“透明蛇柄”の型押し財布＆ポーチ、二つ折りやミニ財布",
+      "url": "https://www.fashion-press.net/news/147108",
+      "publishedAt": "2026-06-04T06:55:00.000Z",
+      "publisher": "ファッションプレス",
+      "image": null,
+      "feed": "Fashion Press",
+      "fetchedAt": "2026-07-10T03:22:18.025Z",
+      "summary": null,
+      "tags": []
+    },
+    {
       "id": "a1d4f8b10a5030ab",
       "title": "COMME des GARCONS SHIRT Short Sleeve Shirt \"Black\"の新品/中古フリマ(通販)｜スニダン - SNKRDUNK",
       "url": "https://snkrdunk.com/apparels/832430",
@@ -1412,6 +1506,18 @@
       "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F05%2F14%2Frei-kawakubo-comme-des-garcons-independent-art-fair-new-york-2026-installation-tw.jpg?w=1080&cbr=1&q=90&fit=max",
       "cluster": "cdg-independent-artfair-2026",
       "importance": 3
+    },
+    {
+      "id": "f196a5af04303c1f",
+      "title": "コム デ ギャルソン・パルファム26年夏香水、古代の香り“ベチバー”にアンバー＆ムスクを重ねて",
+      "url": "https://www.fashion-press.net/news/146385",
+      "publishedAt": "2026-05-13T10:55:00.000Z",
+      "publisher": "ファッションプレス",
+      "image": null,
+      "feed": "Fashion Press",
+      "fetchedAt": "2026-07-10T03:22:18.025Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "c8a404084dabb96b",
@@ -1661,6 +1767,20 @@
       "image": "https://images-prod.anothermag.com/1200/0-101-1573-1049/azure/another-prod/470/2/472527.jpg"
     },
     {
+      "id": "3252ffaf1517a69b",
+      "title": "コム デ ギャルソン×ア ベイシング エイプ、”ポップアート”風の限定Tシャツやバッグ",
+      "url": "https://www.fashion-press.net/news/145930",
+      "publishedAt": "2026-04-27T10:00:00.000Z",
+      "publisher": "ファッションプレス",
+      "image": null,
+      "feed": "Fashion Press",
+      "fetchedAt": "2026-07-10T03:22:18.025Z",
+      "summary": null,
+      "tags": [
+        "コラボ"
+      ]
+    },
+    {
       "id": "c24d51c18e7a7f03",
       "title": "コムデギャルソン ポケモン ショルダー バッグ \"ブラック\" FREE 中古 - SNKRDUNK",
       "url": "https://snkrdunk.com/apparels/97480/used/44671552",
@@ -1867,6 +1987,18 @@
       ]
     },
     {
+      "id": "1ca3f7a5ab662da4",
+      "title": "ウォレット・コム デ ギャルソンのハンドル付きがま口財布、ミニ財布やたっぷりカードの入る長財布",
+      "url": "https://www.fashion-press.net/news/145234",
+      "publishedAt": "2026-04-07T07:00:00.000Z",
+      "publisher": "ファッションプレス",
+      "image": null,
+      "feed": "Fashion Press",
+      "fetchedAt": "2026-07-10T03:22:18.025Z",
+      "summary": null,
+      "tags": []
+    },
+    {
       "id": "4ff27b502d1c352a",
       "title": "Meg Webster’s Latest Work? A Perfume for Comme Des Garçons - AnOther Magazine",
       "url": "https://www.anothermag.com/fashion-beauty/17098/meg-webster-dia-comme-des-garcons-perfume-collaboration-interview",
@@ -1968,6 +2100,18 @@
         "新作"
       ],
       "image": "https://www.nicekicks.com/files/2026/03/iq5171-002-5-e1774639375742.jpg"
+    },
+    {
+      "id": "ad750607503a4fde",
+      "title": "コム デ ギャルソン ポケット池袋西武店が移設リニューアル - 「プレイ」のウェアや財布＆香水",
+      "url": "https://www.fashion-press.net/news/144664",
+      "publishedAt": "2026-03-23T09:05:00.000Z",
+      "publisher": "ファッションプレス",
+      "image": null,
+      "feed": "Fashion Press",
+      "fetchedAt": "2026-07-10T03:22:18.025Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "e102df09721ad981",
@@ -2257,6 +2401,18 @@
       "summary": null,
       "tags": [],
       "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F03&#x25;2F03&#x25;2Ftwcomme-des-garcons-kyoto-store-reopening.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
+    },
+    {
+      "id": "a3e04d42730dbafd",
+      "title": "「黒バックパック、みんな何持ってる？」街角のリアルな答えは、ギャルソン、アーク、グレゴリーetc. - OCEANS オーシャンズ",
+      "url": "https://oceans.tokyo.jp/article/detail/53850",
+      "publishedAt": "2026-02-28T08:00:00.000Z",
+      "publisher": "OCEANS オーシャンズ",
+      "image": "https://images.oceans.tokyo.jp/media/article/53850/images/editor/82c383d7b90636e24bc43dcd9c742f9f982ed8e8.jpg?w=850",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-07-10T03:22:18.097Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "6646edb8e43c449b",
@@ -2876,6 +3032,20 @@
         "コラボ"
       ],
       "image": "https://www.nicekicks.com/files/2026/01/imgi_22_621657984_18559905532050859_4688502116497270357_n-1-e1769366048451.jpeg"
+    },
+    {
+      "id": "babef17591dd7203",
+      "title": "Celebrities Front Row at Comme des Garçons Men’s Fall 2026 Ready to Wear Collection - WWD",
+      "url": "https://wwd.com/eye/people/gallery/celebrities-front-row-at-comme-des-garcons-mens-fall-2026-ready-to-wear-collection-1238498523/",
+      "publishedAt": "2026-01-23T08:00:00.000Z",
+      "publisher": "WWD",
+      "image": "https://wwd.com/wp-content/uploads/2026/01/comme-des-garcons-fall-26-rtw-men-fr-sf-001_5c56e3.jpeg?crop=0px%2C22px%2C1365px%2C763px&resize=1000%2C563",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-10T03:22:18.124Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
     },
     {
       "id": "ee58ab76e2942446",
@@ -4231,6 +4401,21 @@
       ]
     },
     {
+      "id": "615cc6e9db639814",
+      "title": "コムデギャルソン川久保玲「白は祈りの色ですから」パリで見せた新作 - 朝日新聞",
+      "url": "https://www.asahi.com/articles/ASS1Q4SYGS1QUCVL017.html",
+      "publishedAt": "2024-01-22T08:00:00.000Z",
+      "publisher": "朝日新聞",
+      "image": "https://imgopt.asahi.com/ogp/AS20240122001742_comm.jpg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-07-10T03:22:18.097Z",
+      "summary": null,
+      "tags": [
+        "新作",
+        "インタビュー"
+      ]
+    },
+    {
       "id": "af548b0b5eaf447f",
       "title": "Comme des Garçons Homme Plus Fall 2024 - WWD",
       "url": "https://wwd.com/runway/mens-fall-2024/paris/comme-des-garcons-homme-plus/review/",
@@ -4255,6 +4440,20 @@
       "tags": [
         "新作",
         "店舗"
+      ]
+    },
+    {
+      "id": "cfcd710840d2251c",
+      "title": "コムデギャルソンの川久保玲さん、「特別な存在」になれた理由は… - 朝日新聞",
+      "url": "https://www.asahi.com/articles/ASRC9621QRC7ULZU00K.html",
+      "publishedAt": "2023-11-13T08:00:00.000Z",
+      "publisher": "朝日新聞",
+      "image": "https://imgopt.asahi.com/ogp/AS20231109002310_comm.jpg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-07-10T03:22:18.097Z",
+      "summary": null,
+      "tags": [
+        "インタビュー"
       ]
     },
     {
@@ -4376,6 +4575,18 @@
       "image": "https://wwd.com/wp-content/uploads/2022/01/CommeDesGarconsHommePlus-mens-fw22-001.jpg?w=1000&h=563&crop=1",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "ab555b54c7a7b7d6",
+      "title": "ブランド名から「コムデギャルソン」が消えた･･･デザイナー名で勝負する背景 - 読売新聞",
+      "url": "https://www.yomiuri.co.jp/otekomachi/20211216-OKT8T322534/",
+      "publishedAt": "2021-12-16T08:00:00.000Z",
+      "publisher": "読売新聞",
+      "image": "https://www.yomiuri.co.jp/media/2021/12/TAO-.jpg?type=ogp",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-07-10T03:22:18.097Z",
       "summary": null,
       "tags": []
     },
