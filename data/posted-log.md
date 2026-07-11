@@ -24,3 +24,5 @@
 | 2026-07-10 | オム プリュス × Nike「Air Max Dolce SP」復刻 | https://www.highsnobiety.com/p/nike-comme-des-garcons-air-max-dolce-sp-black-white/ | **未投稿・取り下げ**(発売は5月で出来事が古いためsnow判断で見送り。再提案もしない) |
 | 2026-07-10 | オム プリュス × Air Jordan 11(今秋発売予定・初コラボ) | https://www.sneakerfiles.com/comme-des-garcons-homme-plus-air-jordan-11/ | 本日の確定版(snow指名トピック)。発売日決定などの続報は別途投稿可 |
 | 2026-07-11 | オム プリュス × ジョージコックス センターZIPブーツ(8/8発売予定) | https://www.fashion-press.net/news/147382 | 本日の確定版。同日発表のキッズ ラブ ゲイト革靴コラボ(147386)は未使用・翌日以降の候補 |
+| 2026-07-12 | ウォレット・コム デ ギャルソン 透明蛇柄型押し財布・ポーチ新作 | https://www.fashion-press.net/news/147108 | 本日の確定版(第1投稿)。記事公開は6/4だが発売時期「2026年7月」で出来事は未来のため鮮度ルール例外を適用 |
+| 2026-07-12 | 週次まとめ(7/5〜7/11: SS27ショー/CDGシャツ27SS/AJ11コラボ/ジョージコックスブーツ) | https://cdg-watch.github.io/ | 本日の確定版(第2投稿・日曜のまとめ、補足4) |
