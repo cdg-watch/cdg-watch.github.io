@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T22:09:38.134Z",
+  "updatedAt": "2026-07-11T22:11:44.714Z",
   "items": [
     {
       "id": "8d138af7344731ae",
@@ -10,10 +10,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/44d835b0-800b-42f6-af32-d000b6af2f2b/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-11T22:09:21.591Z",
-      "summary": null,
+      "summary": "コムデギャルソンのジャケット(RM-J006、2013年AD)がSNKRDUNKに中古出品。サイズS・ホワイト系、状態C、価格25,600円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "dc905a5d9fb8e782",
@@ -24,10 +25,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/2bd9cccf-1b79-471d-a017-103c9b99893a/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-11T22:09:21.591Z",
-      "summary": null,
+      "summary": "コムデギャルソンのジャケット(GJ-J010、AD2022)がSNKRDUNKに中古出品。サイズXS・ブラック系、状態C、価格33,600円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "c863f5b215ba7bfe",
@@ -38,10 +40,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/9c8d7f72-35a8-4602-8781-d1bd692ebebe/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-11T22:09:21.591Z",
-      "summary": null,
+      "summary": "コムデギャルソンのコート(RC-O012、AD2018)がSNKRDUNKに中古出品。サイズXS・ホワイト系(透け感あり)、状態C、価格33,600円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "0bb325f5a592a503",
@@ -52,10 +55,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/46beb454-e4b1-45f7-8d96-86fa4018d8ba/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-11T22:09:21.590Z",
-      "summary": null,
+      "summary": "コムデギャルソンオムプリュスのパンツ(PQ-P013)がSNKRDUNKに中古出品。サイズL・ブラック系ストライプ、状態C、価格48,600円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "3a6ca6c384e50628",
@@ -66,8 +70,11 @@
       "image": "https://images.oceans.tokyo.jp/media/snap/12208/images/main_image_696687903af2f53133ed0edba77d3235f1a780a4.jpg?h=1200",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-11T22:09:21.591Z",
-      "summary": null,
-      "tags": []
+      "summary": "渋谷でのストリートスナップ企画。「ひろさん」がコムデギャルソンオムプリュスのピンクシャツを袖まくりで着用し、コムデギャルソンのパンツやカシラのベレー帽を合わせたコーディネートを紹介。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "ad3489e39f7701e4",
@@ -78,10 +85,12 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/0680f77e-892b-4006-9acb-9c5cc02594f1/7810174.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-11T22:09:21.591Z",
-      "summary": null,
+      "summary": "Supreme×コムデギャルソンシャツの18AWコラボパーカー(Split Box Logoフーディ)がSNKRDUNKに中古出品。状態D(使用感大)、サイズS、価格32,978円。",
       "tags": [
+        "コラボ",
         "二次流通"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "8f02c82a1ba693a3",
@@ -107,10 +116,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/a12f5c41-3d4a-491f-a6d5-80b5b6a32042.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-11T22:09:21.591Z",
-      "summary": null,
+      "summary": "COMME des GARCONS CDGのオーバーサイズカーディガンベスト「ブラック」がSNKRDUNKに出品。定価18,000円に対し販売価格は29,800円から。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "32697dd7533961a7",
@@ -121,10 +131,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/4e7dd070-6745-44b4-a898-761434c963c6.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-11T22:09:21.591Z",
-      "summary": null,
+      "summary": "COMME des GARCONS CDGのオーバーサイズプルオーバーベスト「ブラック」(品番CDGCDG-0070)がSNKRDUNKに出品。定価15,000円に対し販売価格は24,800円から。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "c42a5952fa6cdb60",
@@ -631,10 +642,11 @@
       "image": "https://www.datocms-assets.com/39109/1783022180-saint-laurent_men-s_summer-27_ambiance_01_16_hr.jpg?auto=format&fit=max&w=1200",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-11T22:09:22.056Z",
-      "summary": null,
+      "summary": "2027年春夏メンズのランウェイトレンドを特集した記事だが、本文中にコムデギャルソンへの言及は確認できなかった(誤収集の可能性)。",
       "tags": [
-        "ショー/コレクション"
-      ]
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "bc2a78bfcf39ac2c",
@@ -1584,11 +1596,14 @@
       "url": "https://www.fashion-press.net/news/147108",
       "publishedAt": "2026-06-04T06:55:00.000Z",
       "publisher": "ファッションプレス",
-      "image": null,
+      "image": "https://www.fashion-press.net/img/news/147108/HTM.jpg",
       "feed": "Fashion Press",
       "fetchedAt": "2026-07-10T03:22:18.025Z",
-      "summary": null,
-      "tags": []
+      "summary": "ウォレット・コム デ ギャルソンから、透明素材に蛇柄を型押しした新作「スネイク トランスペアレント」が登場。二つ折りジップやポーチなどを展開し2026年7月発売予定。",
+      "tags": [
+        "新作"
+      ],
+      "importance": 2
     },
     {
       "id": "a1d4f8b10a5030ab",
@@ -1735,11 +1750,14 @@
       "url": "https://www.fashion-press.net/news/146385",
       "publishedAt": "2026-05-13T10:55:00.000Z",
       "publisher": "ファッションプレス",
-      "image": null,
+      "image": "https://www.fashion-press.net/img/news/146385/Eig.jpg",
       "feed": "Fashion Press",
       "fetchedAt": "2026-07-10T03:22:18.025Z",
-      "summary": null,
-      "tags": []
+      "summary": "コム デ ギャルソン・パルファムの新香水「トゥ ベチバー」を発売。ベチバーを主役にアンバーとムスクを重ねた香りで、100mLが32,450円。",
+      "tags": [
+        "新作"
+      ],
+      "importance": 2
     },
     {
       "id": "c8a404084dabb96b",
@@ -1795,10 +1813,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/3e0d07a6-8d0b-44fc-be05-363d77473d39/5766665.png",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-05T07:41:41.491Z",
-      "summary": null,
+      "summary": "プレイコムデギャルソンのハートプリントTシャツ(グリーン×ブルーエンブレム、ホワイト、サイズL)がSNKRDUNKに中古出品。状態はB(目立った傷や汚れなし)。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "c37bc78f73800e8a",
