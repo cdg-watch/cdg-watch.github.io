@@ -1,17 +1,17 @@
-# CDG Watch デイリーダイジェスト 2026-07-12
+# CDG Watch デイリーダイジェスト 2026-07-13
 
-- **ウォレット・コム デ ギャルソン「スネイク トランスペアレント」新作発表**
-  透明素材に蛇柄を型押しした二つ折りやポーチなどを展開。2026年7月発売予定。
-  https://www.fashion-press.net/news/147108
+- **コムデギャルソンのブランド名の由来、CEOが初めて公式に明かす**
+  1960年代のフランソワーズ・アルディの楽曲「Tous les garçons et les filles」の歌詞が由来とHighsnobietyが報道。
+  https://www.highsnobiety.com/p/how-comme-des-garcons-got-its-name/
 
-- **コム デ ギャルソン・パルファム新香水「トゥ ベチバー」**
-  ベチバーを主役にアンバーとムスクを重ねた香り。100mL 32,450円。
-  https://www.fashion-press.net/news/146385
+- **ウォレット コム デ ギャルソン新作「クラスプハンドルズ」**
+  持ち手付きでがま口留めの財布型バッグ。大中小3サイズ、黒・赤展開、107,800円。
+  https://spur.hpplus.jp/fashion/small_leather_goods/VcNk1g/
 
-- **Supreme×コムデギャルソンシャツ 18AWコラボパーカーが二次流通に出品**
-  Split Box Logoフーディがスニーカーダンクに中古出品(状態D、32,978円)。
-  https://snkrdunk.com/apparel-free-used-items/47829620
+- **コムデギャルソン オム × ニューバランス 1906R「ブラック」が二次流通に出品**
+  27cmの中古スニーカーがSNKRDUNKに出品。
+  https://snkrdunk.com/products/CDGH-NB-1906R-BK/used/47750526?slide
 
-- **コムデギャルソンオムプリュスのシャツコーディネートがOCEANSのスナップに登場**
-  渋谷でのストリートスナップで、ピンクシャツの袖まくりコーデを紹介。
-  https://oceans.tokyo.jp/snap/detail/12208
+- **オム プリュスのTシャツ・シャツコーディネートがOCEANSスナップに登場**
+  表参道・中目黒でのワンブランドコーデ2本を紹介。
+  https://oceans.tokyo.jp/snap/detail/11847

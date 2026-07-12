@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T22:09:42.404Z",
+  "updatedAt": "2026-07-12T22:12:34.466Z",
   "items": [
     {
       "id": "c786e5c3fbeb06e8",
@@ -10,10 +10,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/2f055982-1697-4b5a-b6dd-8cf98656ab62/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-12T22:09:31.394Z",
-      "summary": null,
+      "summary": "SNKRDUNKにコムデギャルソンのOX-T011ジャケット(AD2022, ブラック, サイズS)の中古が19,600円で出品された。状態はC(やや傷や汚れあり)。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "16d765700ff01e07",
@@ -24,10 +25,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/67a1e064-d7ff-4aed-92e0-b9aeedf8ad17/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-12T22:09:31.393Z",
-      "summary": null,
+      "summary": "SNKRDUNKにコムデギャルソンのGG-T011ワンピース(AD2020, ブラック, サイズS)の中古が16,600円で出品された。状態はC(やや傷や汚れあり)。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "8d138af7344731ae",
@@ -264,8 +266,11 @@
       "image": "https://www.highsnobiety.com/static-assets/dato/1637044613-feature5.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-12T22:09:31.782Z",
-      "summary": null,
-      "tags": []
+      "summary": "Highsnobietyの記事によると、コムデギャルソンのブランド名は1960年代のフランソワーズ・アルディの楽曲「Tous les garçons et les filles」の歌詞に由来すると、CEOのアドリアン・ジョフェが初めて公式に明かした。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
     },
     {
       "id": "b2fd295de56a661b",
@@ -321,10 +326,11 @@
       "image": "https://cdn.snkrdunk.com/used_listing/519643/165789be-04ec-4e23-bd0a-53f4d4ca1f40.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-12T22:09:31.394Z",
-      "summary": null,
+      "summary": "SNKRDUNKにコムデギャルソン オム × ニューバランス 1906R「ブラック」(27cm)の中古スニーカーが出品された。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "2396a1691153d079",
@@ -1742,10 +1748,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/637dcddd-7784-48b2-b991-117a1b2131c8/7810174.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-12T22:09:31.394Z",
-      "summary": null,
+      "summary": "SNKRDUNKにコムデギャルソンのWomen's Shox TLスニーカー(型番CJ0546-001, ブラック, 25cm)の中古が40,678円で出品された。状態はD(傷や汚れあり)。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "907629c7d3126241",
@@ -1895,11 +1902,12 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "SNKRDUNKにCOMME des GARCONS SHIRTS「White」(品番CDG-0820)が51,367円〜で出品されている。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0820.webp"
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0820.webp",
+      "importance": 1
     },
     {
       "id": "1a3b437946cc25cf",
@@ -1907,11 +1915,14 @@
       "url": "https://spur.hpplus.jp/fashion/small_leather_goods/VcNk1g/",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "publisher": "SPUR（シュプール）",
-      "image": "https&#x3A;&#x2F;&#x2F;img-spur.hpplus.jp&#x2F;image&#x2F;3a&#x2F;3acde824-b8af-4bdf-b9a0-edcd3329dc47-1200x630.jpg",
+      "image": "https://img-spur.hpplus.jp/image/3a/3acde824-b8af-4bdf-b9a0-edcd3329dc47-1200x630.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-05T07:41:41.492Z",
-      "summary": null,
-      "tags": []
+      "summary": "SPURが、ウォレット コム デ ギャルソンの新作「クラスプハンドルズ」を紹介。持ち手付きでがま口留めの財布型バッグで、大中小3サイズ、黒・赤展開、価格107,800円。",
+      "tags": [
+        "新作"
+      ],
+      "importance": 2
     },
     {
       "id": "1c883619a4d85606",
@@ -1921,11 +1932,12 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "SNKRDUNKにCOMME des GARCONS SHIRT「Forever Shirt \"White\"」(品番CDGSH-0126)が出品待ちとして掲載されている。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGSH-0126.webp"
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGSH-0126.webp",
+      "importance": 1
     },
     {
       "id": "8f9358f26536d183",
@@ -1935,11 +1947,12 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "SNKRDUNKにコムデギャルソン オムのTシャツ「ブラック」(品番CDGOM-0380)が出品待ちとして掲載されている。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGOM-0380.webp"
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGOM-0380.webp",
+      "importance": 1
     },
     {
       "id": "920349987190e7e6",
@@ -1949,11 +1962,12 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "SNKRDUNKにコムデギャルソンのフーディー「グレー」(品番CDG-0843)が32,196円〜で出品されている。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0843.webp"
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0843.webp",
+      "importance": 1
     },
     {
       "id": "f1cfd54fc5ff5af2",
@@ -1963,9 +1977,12 @@
       "publisher": "OCEANS オーシャンズ",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://images.oceans.tokyo.jp/media/snap/11847/images/main_image_c4120fb67481c3efb831771203a9b71e5725308b.jpg?h=1200"
+      "summary": "OCEANSのスナップ記事。47歳男性が表参道でコムデギャルソン オム プリュスのTシャツ・パンツ・靴下で統一し、トムブラウンの眼鏡とコムデギャルソン×ナイキのシューズを合わせた春夏コーデを紹介。",
+      "tags": [
+        "その他"
+      ],
+      "image": "https://images.oceans.tokyo.jp/media/snap/11847/images/main_image_c4120fb67481c3efb831771203a9b71e5725308b.jpg?h=1200",
+      "importance": 1
     },
     {
       "id": "a90cfcdfeb16436f",
@@ -1975,9 +1992,12 @@
       "publisher": "OCEANS オーシャンズ",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://images.oceans.tokyo.jp/media/snap/11750/images/main_image_b03483cd9bac5d14340270d7db321cb6a274bacc.jpg?h=1200"
+      "summary": "OCEANSのスナップ記事。24歳男性が中目黒でコムデギャルソン オム プリュスのシャツとパンツによるワンブランドコーデを紹介。トポロジーのバッグやカシオの時計を合わせている。",
+      "tags": [
+        "その他"
+      ],
+      "image": "https://images.oceans.tokyo.jp/media/snap/11750/images/main_image_b03483cd9bac5d14340270d7db321cb6a274bacc.jpg?h=1200",
+      "importance": 1
     },
     {
       "id": "b7e1f9950c644e43",
