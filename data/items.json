@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T22:09:28.815Z",
+  "updatedAt": "2026-07-13T22:12:47.231Z",
   "items": [
     {
       "id": "c1ae61075b66d909",
@@ -10,10 +10,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/b85e2dc9-03b7-40eb-9f7f-0ddb2aabffdc/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-13T22:09:12.790Z",
-      "summary": null,
+      "summary": "コムデギャルソン COMME des GARCONS AEB201シャツ(サイズL、状態C)がSNKRDUNKで28,600円で二次流通に出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "b08f962cf708f470",
@@ -24,10 +25,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/23df61cd-2938-45aa-a6ea-4c4ba11a3bb9/7740855.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-13T22:09:12.791Z",
-      "summary": null,
+      "summary": "コムデギャルソンとBATAのコラボスニーカー「BATA TENNIS」ドット柄ローカットスニーカーがSNKRDUNKの中古市場に出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "7ceceffb0341bb32",
@@ -35,13 +37,14 @@
       "url": "https://snkrdunk.com/articles/32759/",
       "publishedAt": "2026-07-13T05:18:27.000Z",
       "publisher": "SNKRDUNK",
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/20210520025251-0.webp\",\"imageUrls\":{\"l\":\"https://cdn.snkrdunk.com/upload_bg_removed/20210520025251-0.webp?size=l\",\"m\":\"https://cdn.snkrdunk.com/upload_bg_removed/20210520025251-0.webp?size=m\",\"s\":\"https://cdn.snkrdunk.com/upload_bg_removed/20210520025251-0.webp",
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/20210520025251-0.webp?size=l",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-13T22:09:12.791Z",
-      "summary": null,
+      "summary": "PLAY COMME des GARCONSのハートTシャツ(赤・黒・迷彩)を使ったアメカジ・モノトーン・ストリートの3通りのスタイリング例をSNKRDUNKが紹介する記事。",
       "tags": [
-        "二次流通"
-      ]
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "62b10fd85a86c524",
@@ -52,10 +55,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/0b34f657-7581-480b-8a3e-69d926ba5f33/8150548.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-13T22:09:12.791Z",
-      "summary": null,
+      "summary": "コムデギャルソン×ビートルズのプリントTシャツ(ホワイト、XL、状態A)がSNKRDUNKの中古市場に出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "c786e5c3fbeb06e8",
@@ -96,10 +100,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/b05fb64e-7e21-4edf-9a57-9f5683ed8e54/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-13T22:09:12.791Z",
-      "summary": null,
+      "summary": "コムデギャルソン オム プリュス PP-B031シャツ(状態C)がSNKRDUNKで40,600円で出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "8d138af7344731ae",
@@ -757,10 +762,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/8f4dbe14-dfe0-405a-bd59-5b04e1c90575/566921.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-13T22:09:12.791Z",
-      "summary": null,
+      "summary": "コムデギャルソン OK-T102 袖ロゴプリントのロングカットソー(状態C)がSNKRDUNKで10,680円で出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "bc2a78bfcf39ac2c",
@@ -1021,10 +1027,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/ef9dd7be-b829-49b5-8fd6-0f65bca6504f/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-13T22:09:12.791Z",
-      "summary": null,
+      "summary": "コムデギャルソン RQ-B006シャツ(サイズM、状態C)がSNKRDUNKで25,600円で出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "7ca1269252c135d7",
@@ -1136,18 +1143,6 @@
       "image": "https://assets.vogue.com/photos/6a3f9214377daf788c94179e/16:9/pass/00001-comme-des-garcons-shirt-spring-2027-menswear-credit-gorunway.jpg",
       "importance": 2,
       "cluster": "cdg-shirt-ss27"
-    },
-    {
-      "id": "3ed6ac91c49d4db4",
-      "title": "Comme des Garçons Homme Plus’ hopeful vision of life after wartime - HERO MAGAZINE",
-      "url": "https://hero-magazine.com/shows/comme-des-garcons-homme-plus-ss27",
-      "publishedAt": "2026-06-27T08:11:38.000Z",
-      "publisher": "HERO MAGAZINE",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-13T22:09:13.277Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "1c178151109e1804",
@@ -1546,10 +1541,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/30edffe8-598d-4018-b5ea-f5f5f69e974a.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-13T22:09:12.791Z",
-      "summary": null,
+      "summary": "コムデギャルソン CDGのコットンキャンバス製ポストマンバッグ(スモールロゴ、ブラック)がSNKRDUNKで31,400円から出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "2b694c842926f5cc",
@@ -1604,10 +1600,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/f9367cbf-908e-4bb3-86f4-8e00531f0a9b/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-13T22:09:12.791Z",
-      "summary": null,
+      "summary": "コムデギャルソン PP-J043ジャケット(サイズM、状態C)がSNKRDUNKで150,600円で出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "fd47969f1bf30f66",
@@ -1693,8 +1690,11 @@
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3MqkJ5UaD7WaLMXgqHAO4-6Y9-BgAVKimfTlCTWUsPq8clc2x54ZrhBKiiguqlKt5WHo8Xj75MQR2g2kzHmArgOlJzTJiK3tPGMLx-KJq-jwbLFIhUr3DmfOknj8UJMke_FOS2x2yEREGGgGsQMIdFQ==",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-13T22:09:12.791Z",
-      "summary": null,
-      "tags": []
+      "summary": "夏の黒Tシャツコーデ特集記事で、コムデギャルソン オム プリュスのTシャツにコムデギャルソンのパンツ・靴下を合わせたスタイリング例が5選の1つとして紹介されている。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "0845e6a5f020087a",
@@ -1991,13 +1991,14 @@
       "url": "https://snkrdunk.com/articles/31847/",
       "publishedAt": "2026-05-01T07:00:00.000Z",
       "publisher": "SNKRDUNK",
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/06bf2195-8ee1-4c7d-ba63-463fd051a6cf.webp\",\"imageUrls\":{\"l\":\"https://cdn.snkrdunk.com/upload_bg_removed/06bf2195-8ee1-4c7d-ba63-463fd051a6cf.webp?size=l\",\"m\":\"https://cdn.snkrdunk.com/upload_bg_removed/06bf2195-8ee1-4c7d-ba63-463fd051a6cf.webp?size=m\",\"s\":\"https://cdn.snkrdunk.com/upload_bg_removed/06bf2195-8ee1-4c7d-ba63-463fd051a6cf.webp",
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/06bf2195-8ee1-4c7d-ba63-463fd051a6cf.webp?size=l",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-10T22:09:19.060Z",
-      "summary": null,
+      "summary": "コムデギャルソン オム プリュス×ナイキ「エアマックス ドルチェ」がブラック/ホワイト・トリプルブラック・トリプルホワイトの3カラーで復刻し、2026年5月1日に伊勢丹新宿店、5月2日にMAKESでオンライン発売されたことを伝える記事。",
       "tags": [
-        "二次流通"
-      ]
+        "コラボ"
+      ],
+      "importance": 2
     },
     {
       "id": "e5319de13ffbb205",
