@@ -9,8 +9,11 @@ import { pathToFileURL } from "node:url";
 const DATA_PATH = new URL("../data/items.json", import.meta.url).pathname;
 const MAX_ITEMS = 1000;
 
-// ギャルソン関連判定(直接フィードは全記事が流れてくるためフィルタ必須)
-const CDG_RE = /ギャルソン|Comme des Gar[cç]ons|COMME des GAR[CÇ]ONS/i;
+// ギャルソン関連判定(直接フィードは全記事が流れてくるためフィルタ必須)。
+// 「ギャルソン(?!ヌ)」の否定先読みは誤検知対策: セレクトショップ
+// 「ラ・ギャルソンヌ(La Garçonne)」が記事説明文に出るだけの無関係記事
+// (例: FASHIONSNAP のブランドT.T記事)が「ギャルソン」に部分一致して混入した
+const CDG_RE = /ギャルソン(?!ヌ)|Comme des Gar[cç]ons/i;
 
 const SOURCES = [
   {
@@ -29,7 +32,7 @@ const SOURCES = [
   {
     name: "God Meets Fashion",
     url: "https://godmeetsfashion.com/feed/",
-    filter: /ギャルソン|Comme des Gar[cç]ons|\bCDG\b/i,
+    filter: /ギャルソン(?!ヌ)|Comme des Gar[cç]ons|\bCDG\b/i,
   },
   // RSSの無いサイトはページから収集(fetchItems を持つソース)
   { name: "Fashion Press", fetchItems: fetchFashionPress },
@@ -43,6 +46,9 @@ const SOURCES = [
     url: "https://news.google.com/rss/search?q=%22Comme+des+Gar%C3%A7ons%22&hl=en-US&gl=US&ceid=US:en",
   },
 ];
+
+// Google News 経由で混入するSEOスパムドメイン(本文取得不可で要約もできない)
+const SPAM_URL_RE = /richardajkeys\.com|cfecgc-orange\.org|consumerthai\.org/i;
 
 // 二次流通(リセール・中古・フリマ)系の出典は収集時点で自動タグ付けする
 const RESALE_RE =
@@ -317,6 +323,7 @@ async function main() {
   // (id は title+publisher のハッシュのため、表記ゆれがあると別idになってしまう)。
   const deduped = [];
   for (const it of added) {
+    if (SPAM_URL_RE.test(it.url)) continue;
     if (knownUrls.has(it.url)) continue;
     knownUrls.add(it.url);
     deduped.push(it);
