@@ -1,21 +1,21 @@
-# CDG Watch デイリーダイジェスト 2026-07-14
+# CDG Watch デイリーダイジェスト 2026-07-15
 
-- **コムデギャルソン×ビートルズのプリントTシャツが二次流通に**
-  ホワイト・XL・美品(状態A)がSNKRDUNKに出品。
-  https://snkrdunk.com/apparels/649025/used/47883734
+- **コムデギャルソン×ナイキ「エアフォース1 ミッド」ホワイトが二次流通に**
+  25.5cmの中古品がSNKRDUNKに出品。
+  https://snkrdunk.com/products/DC3601-100/used/47917466
 
-- **PLAY COMME des GARCONSのハートTシャツ、3通りのスタイリング提案**
-  赤・黒・迷彩それぞれをアメカジ／モノトーン／ストリートで着こなす例をSNKRDUNKが紹介。
-  https://snkrdunk.com/articles/32759/
+- **コムデギャルソン ガール×高橋真琴のプルオーバーパーカーが中古市場に**
+  2022年秋冬モデル(ホワイト・Mサイズ)、状態D(傷・汚れあり)で11,550円。
+  https://snkrdunk.com/apparel-free-used-items/47911763
 
-- **コムデギャルソン×BATAのコラボスニーカーが中古市場に**
-  「BATA TENNIS」ドット柄ローカットスニーカーがSNKRDUNKに出品。
-  https://snkrdunk.com/apparel-free-used-items/47888319
+- **コムデギャルソンのRD-J501ダウンジャケットが二次流通に**
+  2019年秋冬モデル(黒・XS)、状態C(軽微な傷・汚れ)で48,600円。
+  https://snkrdunk.com/apparel-free-used-items/47906635
 
-- **⚠古 コムデギャルソン オム プリュス×ナイキ「エアマックス ドルチェ」復刻(5月発売済み)**
-  ブラック/ホワイト・トリプルブラック・トリプルホワイトの3カラーで2026年5月1日・2日に発売済みだったことが判明。
-  https://snkrdunk.com/articles/31847/
+- **⚠古 BAPE×コムデギャルソンのカプセルコレクション、大阪限定で発売済み(4月)**
+  ポップアートをテーマにしたコーチジャケットやTシャツなどを「BAPE STORE® コム デ ギャルソン大阪」限定で展開。
+  https://snkrdunk.com/articles/32135/
 
-- **⚠古 黒Tシャツコーデ特集にコムデギャルソンのスタイリング例(5月掲載)**
-  オム プリュスのTシャツにコムデギャルソンのパンツ・靴下を合わせた着こなしが紹介されている。
-  https://news.yahoo.co.jp/articles/763d288526f9642bd18a60a2f2fdbb7313866b67/images/014
+- **⚠古 BAPE×コムデギャルソンのコラボ、なぜ話題になりにくいのか(Highsnobiety)**
+  2012年から断続的に続く協業が近年増加も、大阪の単独店舗限定販売が認知度の低さの一因と分析。
+  https://www.highsnobiety.com/p/bape-comme-des-garcons/

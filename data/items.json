@@ -10,10 +10,12 @@
       "image": "https://cdn.snkrdunk.com/used_listing/1886302/3733c304-f9ae-40ab-a96f-69ea0e4c1586.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-14T22:09:32.149Z",
-      "summary": null,
+      "summary": "SNKRDUNKに出品されたコムデギャルソン×ナイキ エアフォース1 ミッド\"ホワイト\"(25.5cm)の中古品。鑑定付きスニーカーフリマアプリでの取引となる。",
       "tags": [
-        "二次流通"
-      ]
+        "二次流通",
+        "コラボ"
+      ],
+      "importance": 1
     },
     {
       "id": "742e9a7766190332",
@@ -24,10 +26,12 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-14T22:09:32.150Z",
-      "summary": null,
+      "summary": "COMME des GARCONS GIRL×高橋真琴の2022年秋冬プルオーバーパーカー(ホワイト、Mサイズ)の中古品がSNKRDUNKに出品。状態はD(傷・汚れあり)、価格は11,550円。",
       "tags": [
-        "二次流通"
-      ]
+        "二次流通",
+        "コラボ"
+      ],
+      "importance": 1
     },
     {
       "id": "29501f522392cb81",
@@ -38,10 +42,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/a8ea17e9-e38e-49b9-b160-9460e2352d4e/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-14T22:09:32.150Z",
-      "summary": null,
+      "summary": "コムデギャルソンのRD-J501ダウンジャケット(黒、XS、2019年秋冬)の中古品がSNKRDUNKに出品。状態はC(軽微な傷・汚れ)、価格は48,600円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "c1ae61075b66d909",
@@ -157,7 +162,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-14T22:09:32.150Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
       ]
@@ -928,10 +933,12 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-14T22:09:32.150Z",
-      "summary": null,
+      "summary": "コムデギャルソン21AW FH-T002、KAWSとのコラボによるジップアップスウェットジャケット(グレー系、Mサイズ)の中古品がSNKRDUNKに出品。状態はD(傷・汚れあり)、価格は10,978円。",
       "tags": [
-        "二次流通"
-      ]
+        "二次流通",
+        "コラボ"
+      ],
+      "importance": 1
     },
     {
       "id": "84a2e340df4c5036",
@@ -1223,8 +1230,10 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-14T22:09:32.598Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "ショー/コレクション"
+      ]
     },
     {
       "id": "1c178151109e1804",
@@ -1567,21 +1576,6 @@
         "コラボ"
       ],
       "image": "https://hubemag.com/wp-content/uploads/2026/06/CdG_WALLET_HENRY_TAYLOR__23145-_web.png",
-      "importance": 2
-    },
-    {
-      "id": "d0fc41e80801887f",
-      "title": "コムデギャルソン・川久保玲～「黒の衝撃」から半世紀、ファッションで「反骨精神」「反戦」を体現する挑戦者 (nippon.com) - Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/4e5aecc1eeb65e033166bd3df6f5d7f6415910a4/images/001",
-      "publishedAt": "2026-06-12T07:00:00.000Z",
-      "publisher": "Yahoo!ニュース",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3JFWzsTLeME_A9paPU19pkYYrgbakBHfMp00uvAtM6ajiwBlIc3aBs6QQlMBqokUUmoBSSK3HbaSukgOl53Cym8hyFkvkIn6W873IpTYCpTB9rZ-X6h8d8Mtj5AzxaF3kqVmAfO7qF_wO8x4w6tLQlg==",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-09T22:10:30.843Z",
-      "summary": "Yahoo!ニュース(nippon.com記事)による川久保玲のインタビュー記事。1981年パリコレでの「黒の衝撃」や山本耀司氏との対比、反戦メッセージを込めた作風、インタビューを避ける姿勢などが語られている。",
-      "tags": [
-        "インタビュー"
-      ],
       "importance": 2
     },
     {
@@ -2091,10 +2085,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGCDG-0013-1.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-05T07:59:27.850Z",
-      "summary": null,
+      "summary": "コムデギャルソンCDGのオーバーサイズTシャツ3\"ホワイト\"がSNKRDUNKで新品/中古フリマとして取り扱われている。参考価格は9,900円で、現在は新規出品待ちの状態。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "e4838415eefa2b4b",
@@ -2104,11 +2099,13 @@
       "publisher": "Highsnobiety",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "Highsnobietyの記事。BAPEとコムデギャルソンは2012年から断続的に協業し、2020年の大阪フラッグシップ出店を機に近年コラボ頻度が増加。両ブランドの象徴的要素をリミックスした商品展開だが、大阪の単独店舗限定販売のため認知度が低いと指摘している。",
       "tags": [
-        "コラボ"
+        "コラボ",
+        "店舗"
       ],
-      "image": "https://www.highsnobiety.com/static-assets/dato/1777537935-comme-des-garcons-bape.jpg"
+      "image": "https://www.highsnobiety.com/static-assets/dato/1777537935-comme-des-garcons-bape.jpg",
+      "importance": 2
     },
     {
       "id": "d1cbb611e898a2f9",
@@ -2119,10 +2116,12 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/BAPE-26-0461-1.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-07T02:34:52.165Z",
-      "summary": null,
+      "summary": "A BATHING APE×コムデギャルソンのBy Bathing Apeソックス\"ブラック\"がSNKRDUNKで新品・中古ともに取り扱われており、価格は5,900円から。",
       "tags": [
-        "二次流通"
-      ]
+        "二次流通",
+        "コラボ"
+      ],
+      "importance": 1
     },
     {
       "id": "9f022aefcd35a420",
@@ -2133,12 +2132,15 @@
       "image": "https://uptodate.tokyo/wp-content/uploads/2026/04/IMG_6176-853x1024.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-05T07:41:41.492Z",
-      "summary": null,
+      "summary": "BAPE×コムデギャルソンの2026年春夏コラボコレクションが2026年4月29日に国内発売。コム デ ギャルソン大阪店内の「BAPE STORE® コム デ ギャルソン大阪」限定で、ポップアートをテーマにTシャツやコーチジャケット、デニムショーツなどを展開し、事前WEB抽選が実施された。",
       "tags": [
         "コラボ",
         "ショー/コレクション",
-        "新作"
-      ]
+        "新作",
+        "店舗"
+      ],
+      "cluster": "bape-cdg-2026ss",
+      "importance": 2
     },
     {
       "id": "dc4d167a01bf293c",
@@ -2148,9 +2150,12 @@
       "publisher": "AnOther Magazine",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://images-prod.anothermag.com/1000/0-0-1000-666/azure/another-prod/470/2/472512.jpg"
+      "summary": "AnOther Magazineによるコムデギャルソン オム プリュス AW26のフォトギャラリー企画。撮影はKeizo Kitajima、スタイリングはShotaro Yamaguchiが担当し、モデルのMusashiがウールのジャケット・パンツやコットンシャツのルックを着用している。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "image": "https://images-prod.anothermag.com/1000/0-0-1000-666/azure/another-prod/470/2/472512.jpg",
+      "importance": 2
     },
     {
       "id": "e1f90f117b66f21a",
@@ -2161,10 +2166,14 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/BAPE-26-0453.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-05T22:09:13.362Z",
-      "summary": null,
+      "summary": "SNKRDUNKの記事。BAPE×コムデギャルソンのカプセルコレクションが2026年4月29日発売、ポップアートをテーマにコーチジャケットやTシャツ、オックスフォードシャツなどを展開。大阪の「BAPE STORE® COMME des GARCONS大阪店」限定で入店抽選が実施された。",
       "tags": [
-        "二次流通"
-      ]
+        "新作",
+        "コラボ",
+        "店舗"
+      ],
+      "cluster": "bape-cdg-2026ss",
+      "importance": 2
     },
     {
       "id": "341ec20a3a99338b",
