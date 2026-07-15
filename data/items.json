@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-07-14T22:09:42.622Z",
+  "updatedAt": "2026-07-15T22:10:23.039Z",
   "items": [
+    {
+      "id": "bef41221ae11a3f2",
+      "title": "Converse Comme Des GarÃ§ons Shop 01 Comme Des Garçons Play Converse DSMNY E-SHOP - sepolia.net",
+      "url": "https://sepolia.net/?e",
+      "publishedAt": "2026-07-15T16:22:28.000Z",
+      "publisher": "sepolia.net",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-15T22:10:11.229Z",
+      "summary": null,
+      "tags": []
+    },
     {
       "id": "a56604e90b2178a2",
       "title": "コムデギャルソン × ナイキ エアフォース1 ミッド \"ホワイト\" 25.5cm 中古 - SNKRDUNK",
@@ -32,6 +44,20 @@
         "コラボ"
       ],
       "importance": 1
+    },
+    {
+      "id": "a2faf82fe506dc69",
+      "title": "プレイコムデギャルソン PLAY COMME des GARCONS AZ-T113 Tシャツ - SNKRDUNK",
+      "url": "https://snkrdunk.com/apparel-free-used-items/47906013",
+      "publishedAt": "2026-07-13T16:11:07.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/apparel_used_listings/32ef5538-4fe6-41d0-a54c-f11bd4ed9ee6/8198509.jpeg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-07-15T22:10:10.790Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
     },
     {
       "id": "29501f522392cb81",
@@ -152,6 +178,20 @@
         "二次流通"
       ],
       "importance": 1
+    },
+    {
+      "id": "583915a77ca964d5",
+      "title": "コムデギャルソンオム COMME des GARCONS HOMME PLUS PM-B012 シャツ - SNKRDUNK",
+      "url": "https://snkrdunk.com/apparel-free-used-items/47845627",
+      "publishedAt": "2026-07-12T04:43:37.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/apparel_used_listings/7f165718-85d0-4302-9f27-fec72913f658/8198509.jpeg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-07-15T22:10:10.790Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
     },
     {
       "id": "42becc767d816861",
@@ -1532,6 +1572,20 @@
       ],
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/62a8e6b1-69b9-4fb9-b4f1-1a74aaa61fc0/8198509.jpeg",
       "importance": 1
+    },
+    {
+      "id": "59800cf61f9790c3",
+      "title": "Rei Kawakubo’s Chairs Were Never Meant to Be Comfortable - Highsnobiety",
+      "url": "https://www.highsnobiety.com/p/rei-kawakubo-comme-des-garcons-chair/",
+      "publishedAt": "2026-06-16T07:00:00.000Z",
+      "publisher": "Highsnobiety",
+      "image": "https://www.highsnobiety.com/static-assets/dato/1781295616-rei-kawakubo-chairs-2.jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-07-15T22:10:11.229Z",
+      "summary": null,
+      "tags": [
+        "インタビュー"
+      ]
     },
     {
       "id": "df58fbeb2b22e490",
@@ -3953,6 +4007,18 @@
         "二次流通"
       ],
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/83048dfb-e42c-484e-a381-9c53bedd018f/567268.jpeg"
+    },
+    {
+      "id": "139b2dc94f026ac0",
+      "title": "「繁盛店の店づくり【vol.321】ONtheCORNER、イメージは「自分の部屋」」 - リユース経済新聞",
+      "url": "https://www.recycle-tsushin.com/store/detail_12026.php",
+      "publishedAt": "2025-12-17T08:00:00.000Z",
+      "publisher": "リユース経済新聞",
+      "image": "https://www.recycle-tsushin.com/store/assets_c/2025/12/12023_01-thumb-1200xauto-30940.jpg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-07-15T22:10:10.791Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "0b7c95fec1cde860",
