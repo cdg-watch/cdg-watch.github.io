@@ -1,18 +1,6 @@
 {
-  "updatedAt": "2026-07-15T22:10:23.039Z",
+  "updatedAt": "2026-07-15T22:13:44.082Z",
   "items": [
-    {
-      "id": "bef41221ae11a3f2",
-      "title": "Converse Comme Des GarÃ§ons Shop 01 Comme Des Garçons Play Converse DSMNY E-SHOP - sepolia.net",
-      "url": "https://sepolia.net/?e",
-      "publishedAt": "2026-07-15T16:22:28.000Z",
-      "publisher": "sepolia.net",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-15T22:10:11.229Z",
-      "summary": null,
-      "tags": []
-    },
     {
       "id": "a56604e90b2178a2",
       "title": "コムデギャルソン × ナイキ エアフォース1 ミッド \"ホワイト\" 25.5cm 中古 - SNKRDUNK",
@@ -54,10 +42,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/32ef5538-4fe6-41d0-a54c-f11bd4ed9ee6/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-15T22:10:10.790Z",
-      "summary": null,
+      "summary": "SNKRDUNKに出品されたプレイ コム デ ギャルソンのAZ-T113 Tシャツ(中古/フリマ)。状態はCランク(やや傷や汚れあり)、価格は3,600円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "29501f522392cb81",
@@ -188,10 +177,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/7f165718-85d0-4302-9f27-fec72913f658/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-15T22:10:10.790Z",
-      "summary": null,
+      "summary": "SNKRDUNKに出品されたコム デ ギャルソン オム プリュスのPM-B012シャツ(中古/フリマ)。状態はCランク(やや傷や汚れあり)、価格は30,600円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "42becc767d816861",
@@ -1582,10 +1572,11 @@
       "image": "https://www.highsnobiety.com/static-assets/dato/1781295616-rei-kawakubo-chairs-2.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-15T22:10:11.229Z",
-      "summary": null,
+      "summary": "川久保玲がデザインした椅子シリーズについての記事。快適さより造形を優先した金属と木の彫刻的な椅子で、パリのコム デ ギャルソン店舗で最近再販されたことを紹介している。",
       "tags": [
-        "インタビュー"
-      ]
+        "再販/セール"
+      ],
+      "importance": 2
     },
     {
       "id": "df58fbeb2b22e490",
@@ -2237,9 +2228,12 @@
       "publisher": "AnOther Magazine",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://images-prod.anothermag.com/1200/0-101-1573-1049/azure/another-prod/470/2/472527.jpg"
+      "summary": "コム デ ギャルソン オム プリュスの26年秋冬コレクションを写真家Keizo Kitajimaが撮影した企画記事。「Let's Get Out of the Black Hole」のタイトルで、緊張が高まる世界からファンタジーへ逃避するというコンセプトを紹介している。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "image": "https://images-prod.anothermag.com/1200/0-101-1573-1049/azure/another-prod/470/2/472527.jpg",
+      "importance": 2
     },
     {
       "id": "3252ffaf1517a69b",
@@ -2250,10 +2244,11 @@
       "image": null,
       "feed": "Fashion Press",
       "fetchedAt": "2026-07-10T03:22:18.025Z",
-      "summary": null,
+      "summary": "コム デ ギャルソンとア ベイシング エイプのコラボが2026年4月29日にベイプ ストア コム デ ギャルソン大阪で数量限定発売。ポップアート風にエイプ ヘッドなどを再構築したTシャツ・ジャケット・バッグなどを展開。",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "c24d51c18e7a7f03",
@@ -2263,11 +2258,12 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "SNKRDUNKに出品されたコム デ ギャルソンとポケモンのコラボショルダーバッグ(ブラック/FREE、中古)。状態はBランク(目立った傷や汚れなし)。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/apparel_used_listings/93ac084a-471b-46d0-8cf3-06d240f7cd67/957552.jpeg"
+      "image": "https://cdn.snkrdunk.com/apparel_used_listings/93ac084a-471b-46d0-8cf3-06d240f7cd67/957552.jpeg",
+      "importance": 1
     },
     {
       "id": "f19dba8178bb8f11",
@@ -2277,11 +2273,12 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "SNKRDUNKのコム デ ギャルソンCDGオーバーサイズ長袖Tシャツ(ブラック)の出品ページ。現在は出品待ち状態で、定価13,000円で登録されている。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/7baa898a-6201-423b-868e-915a40e0f891.webp"
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/7baa898a-6201-423b-868e-915a40e0f891.webp",
+      "importance": 1
     },
     {
       "id": "17b1acf906d373dd",
@@ -2291,11 +2288,12 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "SNKRDUNKに出品されたコム デ ギャルソンCDGクラシックシャツ半袖(ブルーストライプ)。中古フリマ価格は29,800円〜(定価22,000円)。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/a32b8c2c-49eb-4c82-b181-1e8b2384fe16.webp"
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/a32b8c2c-49eb-4c82-b181-1e8b2384fe16.webp",
+      "importance": 1
     },
     {
       "id": "6374c5b464dbb092",
@@ -2305,9 +2303,10 @@
       "publisher": "The New York Times",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [],
-      "image": null
+      "image": null,
+      "importance": 2
     },
     {
       "id": "ec8ee929ef7d5e00",
@@ -2317,11 +2316,12 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "SNKRDUNKに出品された、上と同型のコム デ ギャルソンCDGクラシックシャツ半袖(ブルーストライプ)の別出品。価格は29,800円〜(定価22,000円)。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGCDG-0043.webp"
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGCDG-0043.webp",
+      "importance": 1
     },
     {
       "id": "215305efb86699f7",
@@ -2332,10 +2332,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/6830658a-8315-4ec0-9611-b471e07b6a47/203656.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-08T22:09:18.698Z",
-      "summary": null,
+      "summary": "SNKRDUNKに出品されたシュプリーム×コム デ ギャルソン シャツのスプリットボックスロゴTシャツ(ホワイト、XLサイズ、中古)。状態はCランク(やや傷や汚れあり)。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "13cdc2f085633586",
@@ -2345,9 +2346,12 @@
       "publisher": "繊研新聞",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://senken.co.jp/production/uploads/file_content/file/406725/medium_1405.jpg"
+      "summary": "繊研新聞の編集委員によるコラム。コム デ ギャルソンのパリ・コレクションを観て涙が止まらなかった体験を振り返り、服の完成度に歴史や文脈、演出が重なったときショーが単なる発表を超える瞬間について論じている。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "image": "https://senken.co.jp/production/uploads/file_content/file/406725/medium_1405.jpg",
+      "importance": 2
     },
     {
       "id": "ae3d1f233553ffad",
