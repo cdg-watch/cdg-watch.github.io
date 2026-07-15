@@ -50,6 +50,18 @@ const SOURCES = [
 // Google News 経由で混入するSEOスパムドメイン(本文取得不可で要約もできない)
 const SPAM_URL_RE = /richardajkeys\.com|cfecgc-orange\.org|consumerthai\.org/i;
 
+// URL単位の重複排除の前処理。Yahoo!ニュースの画像サブページ(/images/001 等)は
+// 記事本体と同一記事のため、比較用に本体URLへ正規化する(#11)
+function normalizeUrl(url) {
+  try {
+    const u = new URL(url);
+    u.pathname = u.pathname.replace(/\/images\/\d+\/?$/, "");
+    return u.origin + u.pathname;
+  } catch {
+    return url;
+  }
+}
+
 // 二次流通(リセール・中古・フリマ)系の出典は収集時点で自動タグ付けする
 const RESALE_RE =
   /SNKRDUNK|スニーカーダンク|スニダン|メルカリ|ラクマ|ヤフオク|Yahoo!オークション|セカンドストリート|2nd STREET|トレファク|StockX|GOAT|Grailed|brute[-.]?(beauty|tokyo|store)?|ブルート/i;
@@ -266,14 +278,14 @@ async function main() {
     ? JSON.parse(readFileSync(DATA_PATH, "utf8"))
     : { updatedAt: null, items: [] };
   const known = new Set(existing.items.map((i) => i.id));
-  const knownUrls = new Set(existing.items.map((i) => i.url));
+  const knownUrls = new Set(existing.items.map((i) => normalizeUrl(i.url)));
   const added = [];
 
   for (const source of SOURCES) {
     let rawItems;
     try {
       if (source.fetchItems) {
-        rawItems = await source.fetchItems((u) => knownUrls.has(u));
+        rawItems = await source.fetchItems((u) => knownUrls.has(normalizeUrl(u)));
       } else {
         const res = await fetch(source.url, {
           headers: { "user-agent": "cdg-watch/1.0 (personal news aggregator)" },
@@ -324,8 +336,9 @@ async function main() {
   const deduped = [];
   for (const it of added) {
     if (SPAM_URL_RE.test(it.url)) continue;
-    if (knownUrls.has(it.url)) continue;
-    knownUrls.add(it.url);
+    const normalized = normalizeUrl(it.url);
+    if (knownUrls.has(normalized)) continue;
+    knownUrls.add(normalized);
     deduped.push(it);
   }
   added.length = 0;
