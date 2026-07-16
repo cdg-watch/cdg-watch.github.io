@@ -1368,10 +1368,11 @@
       "image": "https://pausemag.co.uk/wp-content/uploads/2026/06/DAD2FE06-E187-4679-A147-DACB1E3729D4-scaled.jpeg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-16T22:09:33.467Z",
-      "summary": null,
+      "summary": "パリコレでコムデギャルソン オム プリュスが2027年春夏コレクションを発表。記事はルックブック写真中心でデザインの詳細説明は少ない。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 3
     },
     {
       "id": "e8f4263718c23070",
@@ -1397,10 +1398,11 @@
       "image": "https://qui.tokyo/wp-content/uploads/2026/06/23213115/6a3a7c87141a0.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-16T22:09:32.961Z",
-      "summary": null,
+      "summary": "2027年春夏パリ・ファッションウィークのメンズコレクション日程まとめ。コムデギャルソン オムプリュスは6月26日17時にランウェイショー形式で発表予定と紹介されている。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "32f1e1aa1e7c4a22",
@@ -1585,10 +1587,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-16T22:09:32.961Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "3e2e2e5af7029a94",
@@ -2403,11 +2406,13 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "ブラック コムデギャルソン×ナイキのオーバーサイズ サイドメッセージプリントTシャツ(ホワイト、Mサイズ)の中古品がSNKRDUNKに出品。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/apparel_used_listings/83237623-6171-4069-b864-ffe34c65ac1b/7503476.jpeg"
+      "image": "https://cdn.snkrdunk.com/apparel_used_listings/83237623-6171-4069-b864-ffe34c65ac1b/7503476.jpeg",
+      "importance": 1,
+      "cluster": "blackcdg-nike-sidemessage-tee"
     },
     {
       "id": "005e87a188ef6b69",
@@ -2417,11 +2422,12 @@
       "publisher": "Jing Daily",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
       ],
-      "image": "https://cdn.sanity.io/images/f8lauh0h/production/623d6428318e686e9d18874a0b6e4372157fb2f3-5500x4278.jpg"
+      "image": "https://cdn.sanity.io/images/f8lauh0h/production/623d6428318e686e9d18874a0b6e4372157fb2f3-5500x4278.jpg",
+      "importance": 1
     },
     {
       "id": "0d3b180ae6c152b2",
@@ -2432,10 +2438,12 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/8a2891c8-360c-4608-9c15-4fb421aad011/7503476.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-09T22:10:30.843Z",
-      "summary": null,
+      "summary": "ブラック コムデギャルソン×ナイキのオーバーサイズ サイドメッセージプリントTシャツ(ブラック、Mサイズ)の中古品がSNKRDUNKに出品。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1,
+      "cluster": "blackcdg-nike-sidemessage-tee"
     },
     {
       "id": "e5277aeeb783df8b",
@@ -2446,10 +2454,11 @@
       "image": "https://snkrdunk.s3.ap-northeast-1.amazonaws.com/en/magazine/wp-content/uploads/2026/04/08141244/20260217111620-0-2.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:34:52.844Z",
-      "summary": null,
+      "summary": "サブレーベルCDGのアウターウェア代表作15点を紹介する特集記事。トリプルロゴなどのロゴ使い、1986年パリコレのスタッフユニフォームを模したコート、Alpha Industries・THE NORTH FACE・Stussyとのコラボ作品を解説している。",
       "tags": [
-        "二次流通"
-      ]
+        "その他"
+      ],
+      "importance": 2
     },
     {
       "id": "f1fe219dc99cba33",
@@ -2460,10 +2469,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGOM-0264.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-07T02:34:52.165Z",
-      "summary": null,
+      "summary": "コムデギャルソン オムのポリエステル ガーメントダイ クラシックジャケット(ブラック、定価¥96,800)がSNKRDUNKに出品待ちで掲載。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "f48a0f214154ad9b",
@@ -2473,11 +2483,12 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "コムデギャルソン オムのコットン シームパッカードジャケット(ネイビー、定価¥75,900)がSNKRDUNKに出品待ちで掲載。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGOM-0248-1.webp"
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGOM-0248-1.webp",
+      "importance": 1
     },
     {
       "id": "cd8a3b633fd9f868",
@@ -2488,10 +2499,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGOM-0274.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-07T02:34:52.165Z",
-      "summary": null,
+      "summary": "コムデギャルソン オムのコットンキャンバス リバーシブルジャケット(ブラック、定価¥126,500)がSNKRDUNKに出品待ちで掲載。SとMサイズ展開。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "0cb34927cf1ca69b",
@@ -2502,10 +2514,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGOM-0247-1.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-13T22:09:12.791Z",
-      "summary": null,
+      "summary": "コムデギャルソン オムのコットン シームパッカードパンツ(ネイビー、定価¥36,300)がSNKRDUNKに出品待ちで掲載。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "01ef1f15ec99f2ed",
@@ -2516,10 +2529,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGOM-0267-1.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-07T02:34:52.165Z",
-      "summary": null,
+      "summary": "コムデギャルソン オムのコットンオックスフォード ショートパンツ(ブラウン、定価¥36,300)がSNKRDUNKに出品待ちで掲載。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "1ca3f7a5ab662da4",
