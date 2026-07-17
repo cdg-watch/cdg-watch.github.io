@@ -1,13 +1,21 @@
-# CDG Watch デイリーダイジェスト 2026-07-17
+# CDG Watch デイリーダイジェスト 2026-07-18
 
-- **⚠古 コムデギャルソン オム プリュス、2027年春夏コレクションをパリコレで発表**
-  ルックブック中心の記事で、ショーの具体的なテーマや素材への言及は少ない(PAUSE Online)。
-  https://pausemag.co.uk/2026/06/pfw-comme-des-garcons-homme-plus-spring-summer-2027-collection/
+- **コムデギャルソン×ナイキ「フィールド ジェネラル 82」がストリートスナップに登場**
+  OCEANSの街角スナップ企画で、1982年のアメフト用シューズを再構築したコラボスニーカーを着用した男性が紹介された。
+  https://oceans.tokyo.jp/article/detail/54905?hamburger
 
-- **⚠古 27年春夏パリ・ファッションウィークの日程まとめにコムデギャルソン オムプリュスのショー時間**
-  6月26日17時にランウェイショー形式で開催予定と紹介(qui.tokyo)。
-  https://qui.tokyo/fashion/paris-fashion-week-2027-s-s-schedule
+- **⚠古 コム デ ギャルソン×ナイキ「エア マックス ドルチェ」復刻が判明**
+  2002年の希少モデルをパリ・ファッションウィークのショールームで白・黒・ミックスの3色で初公開。発売は来年半ば頃と予想される(Sneaker Freaker)。
+  https://www.sneakerfreaker.com/releases/comme-des-garcons-x-air-max-dolce-price-buy-release-date
 
-- **⚠古 サブレーベルCDGのアウターウェア代表作15点を紹介する特集**
-  トリプルロゴなどのロゴ使いや、Alpha Industries・THE NORTH FACE・Stussyとのコラボ作を解説(SNKRDUNK)。
-  https://snkrdunk.com/en/magazine/2026/04/08/cdg-by-comme-des-garcons-15-iconic-outerwear-pieces-editors-blog/
+- **⚠古 彫刻家メグ・ウェブスターとComme des Garçons Parfumsが新香水を共同開発**
+  「森・岩・土・肉」をテーマに2年がかりで開発した「[ ] Dia x Meg Webster」。ボトルは本人デザインの銀色四面体(AnOther Magazine)。
+  https://www.anothermag.com/fashion-beauty/17098/meg-webster-dia-comme-des-garcons-perfume-collaboration-interview
+
+- **PLAY COMME des GARCONSのレディースアイテムがSNKRDUNKに複数出品**
+  ポロシャツ「ホワイト」、セーター「ダークブルー/ブラック」、エンブレムパッチパーカー「ブラック」が新品・中古で取引可能に(SNKRDUNK)。
+  https://snkrdunk.com/apparels/861719
+
+- **⚠古 ウォレット コム デ ギャルソンの新作がま口財布「クラスプハンドルズ」**
+  持ち手付きのがま口財布が小・中・大の3サイズ、ブラック/レッド展開で発売済み(2026年4月10日)。価格は66,770円〜107,800円(ファッションプレス)。
+  https://www.fashion-press.net/news/145234

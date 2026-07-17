@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T22:10:30.106Z",
+  "updatedAt": "2026-07-17T22:12:44.370Z",
   "items": [
     {
       "id": "974455cfc5bd801e",
@@ -10,7 +10,7 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGPA-0227.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-17T22:10:19.608Z",
-      "summary": null,
+      "summary": "SNKRDUNKに出品されているPLAY COMME des GARCONSのウィメンズポロシャツ「ホワイト」(品番CDGPA-0227)。新品・中古とも取り扱いがあり、価格は23,158円から。",
       "tags": [
         "二次流通"
       ]
@@ -24,7 +24,7 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGPA-0226.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-17T22:10:19.608Z",
-      "summary": null,
+      "summary": "SNKRDUNKに出品されているPLAY COMME des GARCONSのウィメンズセーター「ダークブルー」(品番CDGPA-0226)。新品・中古とも取り扱いがあり、価格は37,713円から。",
       "tags": [
         "二次流通"
       ]
@@ -38,7 +38,7 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGPA-0220.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-17T22:10:19.608Z",
-      "summary": null,
+      "summary": "SNKRDUNKに出品されているPLAY COMME des GARCONSのウィメンズセーター「ブラック」(品番CDGPA-0220)。新品・中古とも取り扱いがあり、価格は42,397円から。",
       "tags": [
         "二次流通"
       ]
@@ -52,22 +52,10 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGPA-0244.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-17T22:10:19.608Z",
-      "summary": null,
+      "summary": "SNKRDUNKに出品されているPLAY COMME des GARCONSのエンブレムパッチパーカー「ブラック」(品番CDGPA-0244)。新品・中古とも取り扱いがあり、価格は29,878円から。",
       "tags": [
         "二次流通"
       ]
-    },
-    {
-      "id": "27969610b5b3cf55",
-      "title": "第3回　「つながらない」ファッションの力",
-      "url": "https://www.fashionsnap.com/article/paris-fashion-26aw-column-05/",
-      "publishedAt": "2026-07-17T00:00:55.000Z",
-      "publisher": null,
-      "image": "https://fashionsnap-assets.com/asset/format=auto,fit=crop,width=300,height=300/article/images/2026/07/4b336f42-e4fe-4b32-9e34-0edc2d4d5c40.jpg",
-      "feed": "FASHIONSNAP",
-      "fetchedAt": "2026-07-17T22:10:08.668Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "bbec0394dbff104b",
@@ -78,7 +66,7 @@
       "image": "https://images.oceans.tokyo.jp/media/article/54905/images/editor/01a1172850795bafe0f51dd5710160d381ea6d2c.jpg?w=850",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-17T22:10:19.608Z",
-      "summary": null,
+      "summary": "OCEANSのストリートスナップ企画で、コム デ ギャルソン×ナイキ「フィールド ジェネラル 82」を着用した35歳男性が紹介されている。1982年のアメフト用シューズを再構築した一足として言及。",
       "tags": [
         "コラボ"
       ]
@@ -2626,8 +2614,11 @@
       "image": null,
       "feed": "Fashion Press",
       "fetchedAt": "2026-07-10T03:22:18.025Z",
-      "summary": null,
-      "tags": []
+      "summary": "ウォレット コム デ ギャルソンから持ち手付きがま口財布「クラスプハンドルズ」が2026年4月10日発売。小・中・大の3サイズ展開でブラックとレッドの2色、価格は66,770円〜107,800円。",
+      "tags": [
+        "新作"
+      ],
+      "importance": 2
     },
     {
       "id": "4ff27b502d1c352a",
@@ -2637,9 +2628,12 @@
       "publisher": "AnOther Magazine",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://images-prod.anothermag.com/1200/0-278-2377-1585/azure/another-prod/470/2/472072.jpeg"
+      "summary": "彫刻家メグ・ウェブスターがComme des Garçons Parfumsと2年がかりで共同開発した新香水「[ ] Dia x Meg Webster」を紹介。森・岩・土・肉をテーマに、ボトルは本人デザインの銀色四面体。",
+      "tags": [
+        "コラボ"
+      ],
+      "image": "https://images-prod.anothermag.com/1200/0-278-2377-1585/azure/another-prod/470/2/472072.jpeg",
+      "importance": 2
     },
     {
       "id": "3a3012590b20c45c",
@@ -2650,7 +2644,7 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/9b82e65d-1ef6-41b2-a42b-e7ea09ccab4c/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-12T22:09:31.394Z",
-      "summary": null,
+      "summary": "SNKRDUNKに出品されたコムデギャルソンオム(AD2012)のジャケット「PJ-J036」の中古品(XSサイズ、状態C)。価格は110,600円。",
       "tags": [
         "二次流通"
       ]
@@ -2664,8 +2658,9 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0516.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-07T02:34:52.165Z",
-      "summary": null,
+      "summary": "COMME des GARCONS SHIRT×ASAP NastのコラボTシャツ「Nast Tee」ホワイトがSNKRDUNKに掲載。2025年5月15日発売、価格23,650円で現在は出品待ち状態。",
       "tags": [
+        "コラボ",
         "二次流通"
       ]
     },
@@ -2678,8 +2673,12 @@
       "image": "https://cdn.sanity.io/images/c1chvb1i/production/39b08bccc52e01239c7a00b12f2e2b9c65afdbd9-1980x1320.png",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-09T22:10:31.293Z",
-      "summary": null,
-      "tags": []
+      "summary": "コム デ ギャルソンがナイキの希少モデル「エア マックス ドルチェ」(2002年)を復刻。パリ・ファッションウィークのショールームで白・黒・ミックスの3色が初公開され、発売は来年半ば頃と予想される。",
+      "tags": [
+        "コラボ",
+        "ショー/コレクション"
+      ],
+      "importance": 2
     },
     {
       "id": "4230409a76ef3980",
@@ -2690,7 +2689,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:34:52.844Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "インタビュー"
       ]
