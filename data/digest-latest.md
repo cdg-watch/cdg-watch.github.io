@@ -1,21 +1,17 @@
-# CDG Watch デイリーダイジェスト 2026-07-18
+# CDG Watch デイリーダイジェスト 2026-07-19
 
-- **コムデギャルソン×ナイキ「フィールド ジェネラル 82」がストリートスナップに登場**
-  OCEANSの街角スナップ企画で、1982年のアメフト用シューズを再構築したコラボスニーカーを着用した男性が紹介された。
-  https://oceans.tokyo.jp/article/detail/54905?hamburger
+- **Dover Street Market/コムデギャルソンCEO、エイドリアン・ジョフのインタビュー**
+  妻・川久保玲と手掛けるブランド運営や、2004年設立のDover Street Marketにおける実店舗ならではの体験価値と創造性・事業性のバランスについて語った(Monocle)。
+  https://monocle.com/business/adrian-joffe-dover-street-market-interview/
 
-- **⚠古 コム デ ギャルソン×ナイキ「エア マックス ドルチェ」復刻が判明**
-  2002年の希少モデルをパリ・ファッションウィークのショールームで白・黒・ミックスの3色で初公開。発売は来年半ば頃と予想される(Sneaker Freaker)。
-  https://www.sneakerfreaker.com/releases/comme-des-garcons-x-air-max-dolce-price-buy-release-date
+- **⚠古 コムデギャルソン×Nike「Air Jordan 11」、史上初のコラボが発表**
+  2026年9月発売予定・価格250ドルのオールブラック配色。Dover Street Market・コムデギャルソン直営店・Nike SNKRSで限定販売(AOL)。
+  https://www.aol.com/articles/comme-des-gar-ons-x-210110000.html
 
-- **⚠古 彫刻家メグ・ウェブスターとComme des Garçons Parfumsが新香水を共同開発**
-  「森・岩・土・肉」をテーマに2年がかりで開発した「[ ] Dia x Meg Webster」。ボトルは本人デザインの銀色四面体(AnOther Magazine)。
-  https://www.anothermag.com/fashion-beauty/17098/meg-webster-dia-comme-des-garcons-perfume-collaboration-interview
+- **⚠古 コムデギャルソン HOMME×Nike「Air Max Dolce」、米国で発売済み**
+  「スニーカーローファー」コンセプトのコラボスニーカー。2026年5月14日発売・価格270ドル、Dover Street Market New Yorkが主要販売店(Sneaker News)。
+  https://sneakernews.com/2026/03/30/comme-des-garcons-nike-air-max-dolce-iq5171-002/
 
-- **PLAY COMME des GARCONSのレディースアイテムがSNKRDUNKに複数出品**
-  ポロシャツ「ホワイト」、セーター「ダークブルー/ブラック」、エンブレムパッチパーカー「ブラック」が新品・中古で取引可能に(SNKRDUNK)。
-  https://snkrdunk.com/apparels/861719
-
-- **⚠古 ウォレット コム デ ギャルソンの新作がま口財布「クラスプハンドルズ」**
-  持ち手付きのがま口財布が小・中・大の3サイズ、ブラック/レッド展開で発売済み(2026年4月10日)。価格は66,770円〜107,800円(ファッションプレス)。
-  https://www.fashion-press.net/news/145234
+- **PLAY COMME des GARCONSのTシャツ・シャツがSNKRDUNKに複数出品**
+  ウィメンズTシャツ「ホワイト」、Tシャツ「ホワイト」(AX-T026-051)、シャツ「ブルー/ホワイト」が新品・中古で取引可能に(SNKRDUNK)。
+  https://snkrdunk.com/apparels/861720
