@@ -29,6 +29,6 @@
 | 2026-07-12 | 週次まとめ(7/5〜7/11: SS27ショー/CDGシャツ27SS/AJ11コラボ/ジョージコックスブーツ) | https://cdg-watch.github.io/ | 本日の確定版(第2投稿・日曜のまとめ、補足4) |
 | 2026-07-13 | コムデギャルソンのブランド名の由来(CEOアドリアン・ジョフェが初めて公式に明かす) | https://www.highsnobiety.com/p/how-comme-des-garcons-got-its-name/ | 本日の確定版。他候補(ウォレット新作、NB1906Rブラック、OCEANSスナップ)は鮮度ルール・二次流通除外で見送り |
 | 2026-07-14〜17 | (見送り) | - | 4日連続見送り。直近新着がSNKRDUNK二次流通に偏り、鮮度・方針基準を満たす一次情報が0本だったため |
-| 2026-07-18 | コム デ ギャルソン×ナイキ「フィールド ジェネラル 82」街角スナップ(OCEANS) | https://oceans.tokyo.jp/article/detail/54905?hamburger | 本日の確定版。5日ぶりの投稿再開 |
-| 2026-07-19 | DSM/CDG CEOアドリアン・ジョフェのインタビュー(実店舗の価値・創造性と事業性のバランス) | https://monocle.com/business/adrian-joffe-dover-street-market-interview/ | 本日の確定版(第1投稿) |
-| 2026-07-19 | 週次まとめ(7/12〜7/18: キッズラブゲイトコラボシューズ/ブランド名の由来/フィールドジェネラル82スナップ) | https://cdg-watch.github.io/ | 本日の確定版(第2投稿・日曜のまとめ、補足4) |
+| 2026-07-18 | コム デ ギャルソン×ナイキ「フィールド ジェネラル 82」街角スナップ(OCEANS) | https://oceans.tokyo.jp/article/detail/54905?hamburger | 本日の確定版。5日ぶりの投稿再開。snow手動投稿済み(7/19申告) |
+| 2026-07-19 | DSM/CDG CEOアドリアン・ジョフェのインタビュー(実店舗の価値・創造性と事業性のバランス) | https://monocle.com/business/adrian-joffe-dover-street-market-interview/ | 本日の確定版(第1投稿)。snow手動投稿済み(7/19申告) |
+| 2026-07-19 | 週次まとめ(7/12〜7/18: キッズラブゲイトコラボシューズ/ブランド名の由来/フィールドジェネラル82スナップ) | https://cdg-watch.github.io/ | 本日の確定版(第2投稿・日曜のまとめ、補足4)。snow手動投稿済み(7/19申告) |
