@@ -1,0 +1,369 @@
+{
+  "generatedAt": "2026-07-19T10:00:43.851Z",
+  "windowDays": 120,
+  "xEnabled": false,
+  "note": "collect.jsのSOURCES追加候補。rssがあるものはそのまま追加可能。採用時はPRを出し、scout.jsのCOVEREDにも追記すること",
+  "candidates": [
+    {
+      "host": "wwd.com",
+      "articleCount": 29,
+      "examples": [
+        "Comme des Garçons Homme Plus Spring 2027: Peace Treatise - W",
+        "Comme des Garçons Fall 2026: Back in Black - WWD",
+        "Comme des Garçons’ Creative Director of Perfumes Dies at 79 "
+      ],
+      "rss": "https://wwd.com/feed/rss/",
+      "note": null
+    },
+    {
+      "host": "oceans.tokyo.jp",
+      "articleCount": 16,
+      "examples": [
+        "「これはレアモノだ！」パパラッチ隊が目を光らせた“主役級のコラボシューズ”5選 - OCEANS オーシャンズ",
+        "コムデギャルソンオムプリュスのシャツコーディネート | 260711-1606-34 - OCEANS オーシャンズ",
+        "コムデギャルソンオムのパンツコーディネート | 260618-1206-40 - OCEANS オーシャンズ"
+      ],
+      "rss": null,
+      "note": null
+    },
+    {
+      "host": "highsnobiety.com",
+      "articleCount": 13,
+      "examples": [
+        "The True Story of How COMME des GARÇONS Got Its Name - Highs",
+        "Buckle Up, Nike's COMME des GARÇONS Collab Is Getting Even F",
+        "COMME des GARÇONS HOMME PLUS's Hybrid Nike Air Max Dolce SP "
+      ],
+      "rss": "https://highsnobiety.com/feed/",
+      "note": null
+    },
+    {
+      "host": "vogue.com",
+      "articleCount": 13,
+      "examples": [
+        "Comme des Garçons Shirt Spring 2027 Menswear Collection - Vo",
+        "Comme des Garçons Homme Plus Spring 2027 Menswear Collection",
+        "Comme des Garçons Fall 2026 Ready-to-Wear Collection - Vogue"
+      ],
+      "rss": null,
+      "note": null
+    },
+    {
+      "host": "anothermag.com",
+      "articleCount": 11,
+      "examples": [
+        "At Comme des Garçons Homme Plus, Rei Kawakubo Asks What Come",
+        "A Primordial New Fragrance from Comme des Garçons Parfums - ",
+        "Comme Des Garçons Homme Plus AW26 for Another Man S/A26 - An"
+      ],
+      "rss": "https://www.anothermag.com/Feed",
+      "note": null
+    },
+    {
+      "host": "asahi.com",
+      "articleCount": 10,
+      "examples": [
+        "コムデギャルソン川久保玲 強まる反戦へのメッセージ「時間がない」 - 朝日新聞",
+        "「もし戦争が終わったら」コムデギャルソン川久保玲が示した「希望」 - 朝日新聞",
+        "後藤洋平のコレクション日記 ギャルソンデーには黒いハットのあの人 - 朝日新聞"
+      ],
+      "rss": null,
+      "note": null
+    },
+    {
+      "host": "news.yahoo.co.jp",
+      "articleCount": 6,
+      "examples": [
+        "ポーター、アーク、ノースetc.夏も「ミニバッグ」は“ブラック”が高支持！愛用ブランドを街で調査（OCEANS） - Y",
+        "コムデギャルソン・川久保玲～「黒の衝撃」から半世紀、ファッションで「反骨精神」「反戦」を体現する挑戦者（nippon.c",
+        "夏に使えるTシャツは“白”だけにあらず！「ブラックのTシャツコーデ」好例5選 - Yahoo!ニュース"
+      ],
+      "note": "転載先。URLが期限切れになるため直接ソース化は非推奨"
+    },
+    {
+      "host": "senken.co.jp",
+      "articleCount": 6,
+      "examples": [
+        "「もし、戦争が終わったら」 川久保玲が描く未来への希望 - 繊研新聞",
+        "なぜコムデギャルソンで涙が止まらなかったのか 服の美しさをどう言葉にする - 繊研新聞",
+        "「コムデギャルソンシャツ」 箔やキルティングのアイテム充実 - 繊研新聞"
+      ],
+      "rss": "https://senken.co.jp/posts/feed.xml",
+      "note": null
+    },
+    {
+      "host": "dazeddigital.com",
+      "articleCount": 6,
+      "examples": [
+        "Comme des Garçons SS27 dreams of colour without conflict Men",
+        "Comme des Garçons’ road to Romania - Dazed",
+        "Comme des Garçons AW26 - Dazed"
+      ],
+      "rss": "https://www.dazeddigital.com/rss",
+      "note": null
+    },
+    {
+      "host": "sneakerfreaker.com",
+      "articleCount": 5,
+      "examples": [
+        "Comme des Garçons Bring Back the Forgotten Air Max Dolce - S",
+        "Comme des Garçons Debut New Balance 1890A Moc - Sneaker Frea",
+        "Comme des Garçons BLACK Just Dropped Their Nike LD-1000 Cola"
+      ],
+      "rss": "https://sneakerfreaker.com/rss.xml",
+      "note": null
+    },
+    {
+      "host": "10magazine.com",
+      "articleCount": 4,
+      "examples": [
+        "Comme des Garçons: Ready-To-Wear AW26 - 10 Magazine",
+        "Comme des Garçons Homme Plus: Menswear AW26 - 10 Magazine",
+        "Comme Des Garçons Through The Lens Of Richard Burbridge - 10"
+      ],
+      "rss": "https://10magazine.com/feed/",
+      "note": null
+    },
+    {
+      "host": "hero-magazine.com",
+      "articleCount": 3,
+      "examples": [
+        "Comme des Garçons Homme Plus’ hopeful vision of life after w",
+        "Comme des Garçons Homme Plus: “Let’s get out of the black ho",
+        "Comme des Garçons SS26: “the damaging of perfect things” - H"
+      ],
+      "rss": null,
+      "note": null
+    },
+    {
+      "host": "hubemag.com",
+      "articleCount": 3,
+      "examples": [
+        "Henry Taylor brings his distinctive visual language to COMME",
+        "Rei Kawakubo brings Comme des Garçons archives to the heart ",
+        "Dover Street Market Paris unveils Georgia O’Keeffe installat"
+      ],
+      "rss": "https://hubemag.com/feed",
+      "note": null
+    },
+    {
+      "host": "spur.hpplus.jp",
+      "articleCount": 3,
+      "examples": [
+        "【ウォレット・コム デ ギャルソン】サイズで選べる。バッグのようながま口財布 - SPUR（シュプール）",
+        "〈全アイテム掲載〉【CDG】とG-DRAGONがコラボ！ 12月24日からワールドツアー「Übermensch」を記念し",
+        "〈全アイテム掲載〉【コム デ ギャルソン】が 【オニツカタイガー】とコラボしたポップアップストアをオープン！ 限定スニー"
+      ],
+      "note": null
+    },
+    {
+      "host": "fashion-headline.com",
+      "articleCount": 3,
+      "examples": [
+        "コムデギャルソン特集『SWITCH』明日発売！川久保玲独占取材、Six全掲載等90ページ - fashion headl",
+        "プレイ・コムデギャルソン、新宿伊勢丹で新作披露。限定アイテム盛りだくさん - fashion headline",
+        "【13-14AWパリコレクション】テーラリングに無限の可能性、「コムデギャルソン」 - fashion headline"
+      ],
+      "note": null
+    },
+    {
+      "host": "tobemagazine.co",
+      "articleCount": 3,
+      "examples": [
+        "Comme des Garçons Homme Plus’ Black Hole - to Be Magazine",
+        "Comme des Garçons Damages the Perfect - to Be Magazine",
+        "Smaller is Stronger at Comme des Garçons - to Be Magazine"
+      ],
+      "note": null
+    },
+    {
+      "host": "houseofheat.co",
+      "articleCount": 2,
+      "examples": [
+        "Comme des Garçons HOMME Revives the New Balance 1226 - House",
+        "COMME des GARÇONS x Air Jordan 11 Pack Expected Fall 2026 - "
+      ],
+      "note": null
+    },
+    {
+      "host": "athlonsports.com",
+      "articleCount": 2,
+      "examples": [
+        "Comme des Garçons x Air Jordan 11 'Black' — First-Ever Colla",
+        "Air Jordan 11 x Comme des Garcons Black and White, Yin and Y"
+      ],
+      "note": null
+    },
+    {
+      "host": "soleretriever.com",
+      "articleCount": 2,
+      "examples": [
+        "COMME des GARÇONS HOMME is Bringing Back the New Balance 122",
+        "Comme des Garçons’ Air Jordan 11 Pack is the First Collabora"
+      ],
+      "note": null
+    },
+    {
+      "host": "mdpr.jp",
+      "articleCount": 2,
+      "examples": [
+        "27年春夏パリ・メンズファッションウィーク 日本ブランドの存在感を明らかに - モデルプレス",
+        "アグネス・チャン、30年以上前のミニ丈コムデギャルソンワンピで美脚披露「スタイル良すぎます」「いつの時代も可愛すぎる」の"
+      ],
+      "note": null
+    },
+    {
+      "host": "nippon.com",
+      "articleCount": 2,
+      "examples": [
+        "Kawakubo Rei’s Continuous Fashion Revolution: A Half Century",
+        "コムデギャルソン・川久保玲～「黒の衝撃」から半世紀、ファッションで「反骨精神」「反戦」を体現する挑戦者 - nippon"
+      ],
+      "note": null
+    },
+    {
+      "host": "uptodate.tokyo",
+      "articleCount": 2,
+      "examples": [
+        "Wallet COMME des GARÇONS 蛇柄クリア素材の新作『TRANSPARENT SNAKE』が国内発売開",
+        "BAPE®︎ x COMME des GARÇONS 2026年春夏コラボコレクションが国内4月29日より発売 - up"
+      ],
+      "note": null
+    },
+    {
+      "host": "theimpression.com",
+      "articleCount": 2,
+      "examples": [
+        "Comme Des Garçons Homme Plus Spring 2027 Men's Fashion Show ",
+        "Comme Des Garcons Fall 2026 Fashion Show Details - The Impre"
+      ],
+      "note": null
+    },
+    {
+      "host": "pausemag.co.uk",
+      "articleCount": 2,
+      "examples": [
+        "PFW: Comme des Garçons Homme Plus Spring/Summer 2027 Collect",
+        "PFW: COMME des GARÇONS HOMME PLUS Fall/Winter 2026 Collectio"
+      ],
+      "note": null
+    },
+    {
+      "host": "qui.tokyo",
+      "articleCount": 2,
+      "examples": [
+        "パリ・ファッションウィーク 2027春夏メンズコレクションのスケジュールをチェック！｜ Paris Fashion We",
+        "Comme des Garçons Homme Plusのショー会場スナップ | おしゃれ賢者の着こなし術 - qui."
+      ],
+      "note": null
+    },
+    {
+      "host": "gq.com",
+      "articleCount": 2,
+      "examples": [
+        "At the Altar of Comme des Garçons With David Sedaris - GQ",
+        "Timothée Chalamet Is Leading the Comme Des Garçons PLAY Revi"
+      ],
+      "note": null
+    },
+    {
+      "host": "wallpaper.com",
+      "articleCount": 2,
+      "examples": [
+        "Rare Comme des Garçons pieces from the last decade go on dis",
+        "Inside Comme des Garçons’ refurbished Chelsea, New York bout"
+      ],
+      "note": null
+    },
+    {
+      "host": "nytimes.com",
+      "articleCount": 2,
+      "examples": [
+        "The Nerve Center of This Art Fair Isn’t Painting. It’s Coutu",
+        "Growing Up in Comme des Garçons (Published 2017) - The New Y"
+      ],
+      "note": null
+    },
+    {
+      "host": "nicekicks.com",
+      "articleCount": 2,
+      "examples": [
+        "Comme des Garcons x Nike Air Max Dolce SP \"Triple Black\" Rel",
+        "First Look at the Rumored Comme des Garçons x Air Jordan 11s"
+      ],
+      "note": null
+    },
+    {
+      "host": "stupiddope.com",
+      "articleCount": 2,
+      "examples": [
+        "COMME des GARÇONS HOMME x New Balance ABZORB 2010 Debuts for",
+        "Jah Jah Studio x COMME des GARÇONS SHIRT SS26 Reframes Shirt"
+      ],
+      "note": null
+    },
+    {
+      "host": "businessoffashion.com",
+      "articleCount": 2,
+      "examples": [
+        "Comme des Garçons Perfumer Christian Astuguevieille Has Died",
+        "Comme des Garçons Opens First Latin American Flagship | BoF "
+      ],
+      "note": null
+    },
+    {
+      "host": "designscene.net",
+      "articleCount": 2,
+      "examples": [
+        "Black Hole: Comme des Garçons Homme Plus Fall Winter 2026 Co",
+        "Comme Des Garçons Spring Summer 2026 Explores Broken Beauty "
+      ],
+      "note": null
+    },
+    {
+      "host": "us.fashionnetwork.com",
+      "articleCount": 2,
+      "examples": [
+        "Paris menswear Friday: Junya Watanabe, Willy Chavarria, and ",
+        "Vaquera launches first fragrance with Comme des Garçons - Fa"
+      ],
+      "note": null
+    },
+    {
+      "host": "esquire.com.au",
+      "articleCount": 2,
+      "examples": [
+        "Comme des Garçons launches exclusive new creation in Mecca -",
+        "The NGV presents an exclusive Comme des Garçons Pocket shop "
+      ],
+      "note": null
+    },
+    {
+      "host": "vogue.com.au",
+      "articleCount": 2,
+      "examples": [
+        "Heightened senses: Comme des Garçons Parfums reimagines one ",
+        "Rei Kawakubo on punk, fearlessness and Comme des Garçons: “I"
+      ],
+      "note": null
+    },
+    {
+      "host": "hypebae.com",
+      "articleCount": 2,
+      "examples": [
+        "K-WAY と Play Comme des Garçons が最新コラボカプセルをドロップ - Hypebae",
+        "K-Way and Play Comme Des Garçons Drop a New Collaboration - "
+      ],
+      "note": null
+    },
+    {
+      "host": "superfuture.com",
+      "articleCount": 2,
+      "examples": [
+        "Athens: Comme des Garçons POCKET shop-in-shop opening - supe",
+        "São Paulo: Comme des Garçons store opening - superfuture"
+      ],
+      "note": null
+    }
+  ]
+}
