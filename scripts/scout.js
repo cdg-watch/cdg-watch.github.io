@@ -38,6 +38,15 @@ const COVERED = [
   "fashion-press.net",
   "webuomo.jp", // Google News経由だが実質カバー済み
   "news.google.com", // 未解決の中継URL(ドメインとして無意味)
+  // 2026-07-19 スカウト初回調査から採用(#16)
+  "wwd.com",
+  "highsnobiety.com",
+  "anothermag.com",
+  "senken.co.jp",
+  "dazeddigital.com",
+  "sneakerfreaker.com",
+  "10magazine.com",
+  "hubemag.com",
 ];
 
 // 二次流通(サイトの方針で公式ニュースソースにはしない)
