@@ -20,6 +20,10 @@ const SOURCES = [
     name: "CDG FREAK",
     url: "https://cdg-freak.com/feed/",
   },
+  // CDG FREAKのコレクション一覧(ルックブック)は /brand/ 配下の固定ページで、
+  // 固定ページはRSSに載らないためREST APIから補完する(2026-07-19に
+  // 2026AWルックブックの拾い漏れが発覚した対策)
+  { name: "CDG FREAK", fetchItems: fetchCdgFreakPages },
   // 直接フィード(本物の記事URL+画像付き)。CDG関連記事のみ採用
   { name: "Hypebeast JP", url: "https://hypebeast.com/jp/feed", filter: CDG_RE },
   { name: "WWD JAPAN", url: "https://www.wwdjapan.com/feed", filter: CDG_RE },
@@ -208,6 +212,42 @@ export async function fetchOgImage(url) {
   } catch {
     return null;
   }
+}
+
+// CDG FREAKのルックブック(コレクション一覧)は WordPress の固定ページとして
+// 作られておりRSSフィードに流れない。REST API の pages から /brand/ 配下の
+// 新しいページだけを拾う。日次で回るため、初回導入時に古いルックブックを
+// 大量にバックログ入りさせないよう公開14日以内のものに限定する
+async function fetchCdgFreakPages(isKnownUrl) {
+  const res = await fetch(
+    "https://cdg-freak.com/wp-json/wp/v2/pages" +
+      "?per_page=20&orderby=date&order=desc&_fields=link,title,date_gmt",
+    {
+      headers: { "user-agent": "cdg-watch/1.0 (personal news aggregator)" },
+      signal: AbortSignal.timeout(20000),
+    }
+  );
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const pages = await res.json();
+  const cutoff = Date.now() - 14 * 24 * 60 * 60 * 1000;
+  const items = [];
+  for (const p of pages) {
+    if (!p.link?.includes("/brand/")) continue; // ルックブック以外の固定ページは対象外
+    const publishedAt = new Date(p.date_gmt + "Z").toISOString();
+    if (Date.parse(publishedAt) < cutoff) continue;
+    if (isKnownUrl(p.link)) continue;
+    const title = decodeEntities((p.title?.rendered ?? "").replace(/<[^>]+>/g, ""));
+    if (!title) continue;
+    items.push({
+      title,
+      url: p.link,
+      publishedAt,
+      publisher: "CDG FREAK",
+      image: null, // 既存の og:image 補完ステップに任せる
+      _text: title,
+    });
+  }
+  return items;
 }
 
 // ファッションプレスはRSSが無いため、CDGブランドのニュース一覧ページから収集する。
