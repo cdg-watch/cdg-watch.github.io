@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-07-19T08:02:19.000Z",
+  "updatedAt": "2026-07-19T09:39:35.066Z",
   "items": [
-    {
-      "id": "e33d3e59523faa1f",
-      "title": "コムデギャルソン コムデギャルソン／コムデギャルソン ガール／ブラック コムデギャルソン、2026年秋冬 全ルックをアップ",
-      "url": "https://cdg-freak.com/brand/comme-des-garcons-comme-des-garcons/comme-des-garcons-comme-des-garcons-2026aw/",
-      "publishedAt": "2026-07-17T09:58:44.000Z",
-      "publisher": "CDG FREAK",
-      "image": "https://cdg-freak.com/wp-content/uploads/2026/07/COMCOM-26fw-1.jpg",
-      "feed": "CDG FREAK",
-      "fetchedAt": "2026-07-19T08:02:19.000Z",
-      "summary": "CDG FREAKが2026年秋冬コレクションの全ルックを公開。コムデギャルソン コムデギャルソン(37ルック)のほか、コムデギャルソン ガール、ブラック コムデギャルソンの全ルックも同時にアップされた(CDG FREAK公式X 7/17投稿)。",
-      "tags": [
-        "ショー/コレクション"
-      ],
-      "importance": 3
-    },
     {
       "id": "e83485410fa1f681",
       "title": "Cult leader - Monocle",
@@ -131,6 +116,22 @@
       "importance": 1
     },
     {
+      "id": "e33d3e59523faa1f",
+      "title": "コムデギャルソン コムデギャルソン／コムデギャルソン ガール／ブラック コムデギャルソン、2026年秋冬 全ルックをアップ",
+      "url": "https://cdg-freak.com/brand/comme-des-garcons-comme-des-garcons/comme-des-garcons-comme-des-garcons-2026aw/",
+      "publishedAt": "2026-07-17T09:58:44.000Z",
+      "publisher": "CDG FREAK",
+      "image": "https://cdg-freak.com/wp-content/uploads/2026/07/COMCOM-26fw-1.jpg",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-07-19T08:02:19.000Z",
+      "summary": "CDG FREAKが2026年秋冬コレクションの全ルックを公開。コムデギャルソン コムデギャルソン(37ルック)のほか、コムデギャルソン ガール、ブラック コムデギャルソンの全ルックも同時にアップされた(CDG FREAK公式X 7/17投稿)。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 3,
+      "cluster": "cdg-2026aw-lookbook"
+    },
+    {
       "id": "55f658140b51a2ed",
       "title": "PLAY COMME des GARCONS Shirt \"Blue/White\"の新品/中古服・ブランド古着通販｜スニダン - SNKRDUNK",
       "url": "https://snkrdunk.com/apparels/861745",
@@ -144,6 +145,38 @@
         "二次流通"
       ],
       "importance": 1
+    },
+    {
+      "id": "542f778620a3d83a",
+      "title": "ブラックコムデギャルソン 2026年秋冬 コレクション一覧",
+      "url": "https://cdg-freak.com/brand/black-comme-des-garcons/black-comme-des-garcons-2026aw/",
+      "publishedAt": "2026-07-17T06:21:02.000Z",
+      "publisher": "CDG FREAK",
+      "image": "https://cdg-freak.com/wp-content/uploads/2026/07/cdg-black-2026fw.jpg",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-07-19T09:39:35.066Z",
+      "summary": "CDG FREAKがブラック コムデギャルソンの2026年秋冬コレクションのルック一覧ページを公開。コムコム・ガールと同日(7/17)のアップ。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 2,
+      "cluster": "cdg-2026aw-lookbook"
+    },
+    {
+      "id": "8bd4339cf74422d3",
+      "title": "コムデギャルソンガール 2026年秋冬 コレクション一覧",
+      "url": "https://cdg-freak.com/brand/comme-des-garcons-girl/comme-des-garcons-girl-2026aw/",
+      "publishedAt": "2026-07-17T06:00:00.000Z",
+      "publisher": "CDG FREAK",
+      "image": "https://cdg-freak.com/wp-content/uploads/2026/07/CdG-GIRL-26fw.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-07-19T09:39:35.066Z",
+      "summary": "CDG FREAKがコムデギャルソン ガールの2026年秋冬コレクションのルック一覧ページを公開。コムコム・ブラックと同日(7/17)のアップ。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 2,
+      "cluster": "cdg-2026aw-lookbook"
     },
     {
       "id": "27969610b5b3cf55",
