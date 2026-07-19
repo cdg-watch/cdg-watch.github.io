@@ -38,6 +38,16 @@ const SOURCES = [
     url: "https://godmeetsfashion.com/feed/",
     filter: /ギャルソン(?!ヌ)|Comme des Gar[cç]ons|\bCDG\b/i,
   },
+  // scout.js の初回調査(2026-07-19)で頻出が判明したメディア群。いずれも
+  // 全記事が流れる直接フィードのためCDGフィルタ必須。AnOther/DazedはAtom形式
+  { name: "WWD", url: "https://wwd.com/feed/rss/", filter: CDG_RE },
+  { name: "Highsnobiety", url: "https://highsnobiety.com/feed/", filter: CDG_RE },
+  { name: "AnOther", url: "https://www.anothermag.com/Feed", filter: CDG_RE },
+  { name: "繊研新聞", url: "https://senken.co.jp/posts/feed.xml", filter: CDG_RE },
+  { name: "Dazed", url: "https://www.dazeddigital.com/rss", filter: CDG_RE },
+  { name: "Sneaker Freaker", url: "https://sneakerfreaker.com/rss.xml", filter: CDG_RE },
+  { name: "10 Magazine", url: "https://10magazine.com/feed/", filter: CDG_RE },
+  { name: "HUBE", url: "https://hubemag.com/feed", filter: CDG_RE },
   // RSSの無いサイトはページから収集(fetchItems を持つソース)
   { name: "Fashion Press", fetchItems: fetchFashionPress },
   // WEB UOMO(集英社)。サイト全体がbot対策(JSチャレンジ)配下でRSSも
@@ -324,6 +334,34 @@ function parseRss(xml) {
   }));
 }
 
+// Atomフィード(AnOther、Dazed等)用。RSS 2.0とはタグ構造が異なる
+function parseAtom(xml) {
+  return [...xml.matchAll(/<entry[\s>](.*?)<\/entry>/gs)].map(([, block]) => {
+    const link =
+      block.match(/<link[^>]*rel="alternate"[^>]*href="([^"]+)"/)?.[1] ??
+      block.match(/<link[^>]*href="([^"]+)"/)?.[1] ??
+      "";
+    const date = tag(block, "published") || tag(block, "updated");
+    return {
+      title: tag(block, "title"),
+      url: decodeEntities(link),
+      publishedAt: date ? new Date(date).toISOString() : null,
+      publisher: null,
+      image: itemImage(block),
+      _text:
+        tag(block, "title") +
+        " " +
+        (tag(block, "summary") + tag(block, "content"))
+          .replace(/<[^>]+>/g, "")
+          .slice(0, 500),
+    };
+  });
+}
+
+function parseFeed(xml) {
+  return /<feed[\s>]/.test(xml.slice(0, 1000)) ? parseAtom(xml) : parseRss(xml);
+}
+
 async function main() {
   const existing = existsSync(DATA_PATH)
     ? JSON.parse(readFileSync(DATA_PATH, "utf8"))
@@ -342,7 +380,7 @@ async function main() {
           headers: { "user-agent": "cdg-watch/1.0 (personal news aggregator)" },
         });
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        rawItems = parseRss(await res.text());
+        rawItems = parseFeed(await res.text());
       }
     } catch (err) {
       console.error(`[skip] ${source.name}: ${err.message}`);
