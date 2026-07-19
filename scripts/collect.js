@@ -40,6 +40,17 @@ const SOURCES = [
   },
   // RSSの無いサイトはページから収集(fetchItems を持つソース)
   { name: "Fashion Press", fetchItems: fetchFashionPress },
+  // WEB UOMO(集英社)。サイト全体がbot対策(JSチャレンジ)配下でRSSも
+  // サイトマップも素のfetchでは読めないため、Google News の site: 検索経由で
+  // 拾う(2026-07-19追加)。UOMOの表記は「コム デ ギャルソン」(スペース入り)
+  // なので検索は緩め+CDG_REフィルタで絞る。when:30d を付けても日付情報の
+  // 無いページにクロール日が付いて混入することがあるため maxAgeDays でも防ぐ
+  {
+    name: "WEB UOMO (Google News経由)",
+    url: "https://news.google.com/rss/search?q=site:webuomo.jp%20%E3%82%B3%E3%83%A0%20%E3%83%87%20%E3%82%AE%E3%83%A3%E3%83%AB%E3%82%BD%E3%83%B3%20when:30d&hl=ja&gl=JP&ceid=JP:ja",
+    filter: CDG_RE,
+    maxAgeDays: 30,
+  },
   // Google News(網羅用。中継URLのため画像なし)
   {
     name: "Google News (日本語)",
@@ -340,6 +351,13 @@ async function main() {
     for (const item of rawItems) {
       if (!item.url || !item.title) continue;
       if (source.filter && !source.filter.test(item._text)) continue;
+      // ソース単位の鮮度ガード(Google News の日付誤りによる古記事混入対策)
+      if (
+        source.maxAgeDays &&
+        item.publishedAt &&
+        Date.now() - Date.parse(item.publishedAt) > source.maxAgeDays * 864e5
+      )
+        continue;
       delete item._text;
       const id = createHash("sha256")
         .update(item.title + (item.publisher ?? ""))
