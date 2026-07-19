@@ -32,3 +32,4 @@
 | 2026-07-18 | コム デ ギャルソン×ナイキ「フィールド ジェネラル 82」街角スナップ(OCEANS) | https://oceans.tokyo.jp/article/detail/54905?hamburger | 本日の確定版。5日ぶりの投稿再開。snow手動投稿済み(7/19申告) |
 | 2026-07-19 | DSM/CDG CEOアドリアン・ジョフェのインタビュー(実店舗の価値・創造性と事業性のバランス) | https://monocle.com/business/adrian-joffe-dover-street-market-interview/ | 本日の確定版(第1投稿)。snow手動投稿済み(7/19申告) |
 | 2026-07-19 | 週次まとめ(7/12〜7/18: キッズラブゲイトコラボシューズ/ブランド名の由来/フィールドジェネラル82スナップ) | https://cdg-watch.github.io/ | 本日の確定版(第2投稿・日曜のまとめ、補足4)。snow手動投稿済み(7/19申告) |
+| 2026-07-20 | コム デ ギャルソン シャツ×アシックス「GEL-1130」発表(2026年秋冬ランウェイ) | https://www.webuomo.jp/uomolist/white-sneaker-2026summer/FxUrBA/ | 本日の確定版。月曜のため単体トピック1本(補足4) |
