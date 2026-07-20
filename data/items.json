@@ -10,7 +10,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-20T22:10:27.967Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
       ]
@@ -24,7 +24,7 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/4dac7670-71fb-4c08-8f3c-c91c0afde143/7810174.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-20T22:10:27.568Z",
-      "summary": null,
+      "summary": "コム デ ギャルソン オム プリュス 25AWのコットン長袖シャツ(グリーン系、状態D)がSNKRDUNKで21,978円で出品されている。",
       "tags": [
         "二次流通"
       ]
@@ -38,7 +38,7 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/442f04e1-0228-489c-a641-b30b4629c016/7810174.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-20T22:10:27.568Z",
-      "summary": null,
+      "summary": "コム デ ギャルソン グッドデザインショップのキュプラ素材ロゴコート(ブラック系、状態C)がSNKRDUNKで24,178円で出品されている。",
       "tags": [
         "二次流通"
       ]
@@ -1787,8 +1787,11 @@
       "image": "https://www.highsnobiety.com/static-assets/dato/1782507562-comme-des-garcons-pointy-boots-1.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-20T22:10:27.967Z",
-      "summary": null,
-      "tags": []
+      "summary": "コム デ ギャルソン オム プリュスが2015年に発表した極端に尖ったメキシカン風ブーツ(仏Mexicanaとの協業)がSS27コレクション「If The War Were To End...」で復刻、先端の尖り方はやや控えめになった。",
+      "tags": [
+        "新作",
+        "ショー/コレクション"
+      ]
     },
     {
       "id": "15165845ebd92008",
@@ -3243,18 +3246,6 @@
       "importance": 1
     },
     {
-      "id": "aa0f42b44ad3c09e",
-      "title": "コムデギャルソンやシュプリームなど - 三軒茶屋経済新聞",
-      "url": "https://sancha.keizai.biz/photoflash/2722/",
-      "publishedAt": "2026-03-18T07:00:00.000Z",
-      "publisher": "三軒茶屋経済新聞",
-      "image": "https://images.keizai.biz/sancha_keizai/photonews/1773803605_b.jpg",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-20T22:10:27.568Z",
-      "summary": null,
-      "tags": []
-    },
-    {
       "id": "af5bb468e99e19e7",
       "title": "COMME des GARÇONS HOMME x New Balance ABZORB 2010 Debuts for Spring 2026 - stupidDOPE",
       "url": "https://stupiddope.com/2026/03/comme-des-garcons-homme-x-new-balance-abzorb-2010-debuts-for-spring-2026/",
@@ -3385,9 +3376,12 @@
       "publisher": "AnOther Magazine",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://images-prod.anothermag.com/1200/47-101-1751-1168/azure/another-prod/470/0/470886.JPG"
+      "summary": "AnOther Magazineによるコム デ ギャルソン26-27年秋冬ショーのレビュー。川久保玲は黒を「最も強く創作に最良の色で反逆精神の象徴」と位置づけ、黒い服に凝った技巧と歴史的参照を圧縮した前衛的なシルエットを展開した。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "image": "https://images-prod.anothermag.com/1200/47-101-1751-1168/azure/another-prod/470/0/470886.JPG",
+      "importance": 2
     },
     {
       "id": "5b912a1f232e2b72",
@@ -3397,8 +3391,10 @@
       "publisher": "Dazed",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
+      "summary": "Dazedによるパリ・ファッションウィーク後半、ジュンヤワタナベ、ノワール ケイ ニノミヤ、コム デ ギャルソンが同日に登場したAW26ショーのフォトギャラリー記事。",
+      "tags": [
+        "ショー/コレクション"
+      ],
       "image": "https://images-prod.dazeddigital.com/1200/11-449-1354-902/azure/dazed-prod/1440/0/1440958.jpg"
     },
     {
@@ -3409,8 +3405,10 @@
       "publisher": "10 Magazine",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
+      "summary": "10 Magazineによるコム デ ギャルソン26-27年秋冬レディトゥウェアの紹介記事。",
+      "tags": [
+        "ショー/コレクション"
+      ],
       "image": "https://10magazine.com/wp-content/uploads/2026/03/CDG-FT.jpg"
     },
     {
@@ -3422,10 +3420,11 @@
       "image": "https://www.fashion-press.net/img/news/144101/top.jpg?1772938043",
       "feed": "Fashion Press",
       "fetchedAt": "2026-07-10T03:42:51.428Z",
-      "summary": null,
+      "summary": "コム デ ギャルソンの26-27年秋冬ウィメンズコレクションは2026年3月7日にパリで発表。「最終的に行き着くのは黒」がテーマで、薄手の生地にギャザーやフリンジで動きを出しつつ、鮮やかなピンクのルックも登場した。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "ae27ddc327c6ef35",
@@ -3435,21 +3434,11 @@
       "publisher": "The Impression",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
+      "summary": "The Impressionによるコム デ ギャルソン26-27年秋冬ショーの記事。フットウェア・バッグ・アイウェアなどランウェイのアクセサリーに焦点を当てた70点以上のハイレゾ写真ギャラリー。",
+      "tags": [
+        "ショー/コレクション"
+      ],
       "image": "https://theimpression.com/wp-content/uploads/2026/03/comme-des-garcons-clp-f26-048.jpg"
-    },
-    {
-      "id": "88fdaad5318e4c05",
-      "title": "【LeSportsac】レモン柄ポーチがオシャレ＆使えそう！【LEE2026年4月号レビュー】 - HAPPY PLUS（ハピプラ）",
-      "url": "https://lee.hpplus.jp/100nintai/3532729/",
-      "publishedAt": "2026-03-07T08:00:00.000Z",
-      "publisher": "HAPPY PLUS（ハピプラ）",
-      "image": "https://lee.hpplus.jp/wp-content/uploads/2026/03/06/IMG_6848-1.jpeg",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-05T07:41:41.492Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "841cf5b9f3f460a8",
@@ -3459,11 +3448,12 @@
       "publisher": "Vogue",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "Vogueによるコム デ ギャルソン26-27年秋冬ショーのレビュー。川久保玲は「最終的に行き着くのは黒」というノートを寄せ、黒一色の16ルックの後にピンク一色の6ルックを挟む演出。ドレープやフリンジで表面に技巧を凝らした抽象的なシルエットが特徴。",
       "tags": [
         "ショー/コレクション"
       ],
-      "image": "https://assets.vogue.com/photos/69ac82ece9b53b64b7568b80/16:9/pass/00001-comme-des-garcons-fall-2026-ready-to-wear-credit-gorunway.jpg"
+      "image": "https://assets.vogue.com/photos/69ac82ece9b53b64b7568b80/16:9/pass/00001-comme-des-garcons-fall-2026-ready-to-wear-credit-gorunway.jpg",
+      "importance": 2
     },
     {
       "id": "b0e8b437f825376d",
@@ -3473,8 +3463,10 @@
       "publisher": "WWD",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
+      "summary": "(要約取得不可)",
+      "tags": [
+        "ショー/コレクション"
+      ],
       "image": "https://wwd.com/wp-content/uploads/2026/03/comme-des-garcons-fall-rtw-26-r-gg-001.jpeg?crop=0px%2C0px%2C1365px%2C763px&resize=1000%2C563"
     },
     {
@@ -3485,9 +3477,10 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "クロムハーツ×コム デ ギャルソン×ドーバーストリートマーケットのコラボ半袖Tシャツ(ブラック)がSNKRDUNKで95,000円から出品されている。",
       "tags": [
-        "二次流通"
+        "二次流通",
+        "コラボ"
       ],
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CH-2071.webp"
     },
@@ -3499,8 +3492,10 @@
       "publisher": "Highsnobiety",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
+      "summary": "コム デ ギャルソンがフランス製の異例に「普通」な白いドレスシャツ3型(スプレッド襟・クラブ襟・カットアウェイ襟)を約465〜490ドルで発表。1980年代の「再構成シャツ」の系譜にある実験として紹介されている。",
+      "tags": [
+        "新作"
+      ],
       "image": "https://www.highsnobiety.com/static-assets/dato/1772187810-comme-des-garcons-white-shirt-2026.jpg"
     },
     {

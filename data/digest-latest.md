@@ -1,17 +1,17 @@
-# CDG Watch デイリーダイジェスト 2026-07-20
+# CDG Watch デイリーダイジェスト 2026-07-21
 
-- **コム デ ギャルソン シャツ×アシックス「GEL-1130」を発表**
-  2026年秋冬ランウェイで披露されたコラボスニーカー。トリプルホワイトにY2K的メッシュと本革オーバーレイを組み合わせ、価格は58,300円(UOMO)。
-  https://www.webuomo.jp/uomolist/white-sneaker-2026summer/FxUrBA/
+- **⚠古 コム デ ギャルソン オム プリュス、尖ったメキシカン風ブーツを復刻**
+  2015年発表の極端に尖ったブーツ(仏Mexicanaとの協業)がSS27コレクション「If The War Were To End...」で復活。先端の尖り方はやや控えめに(Highsnobiety)。
+  https://www.highsnobiety.com/p/cdg-pointy-boots/
 
-- **2026年秋冬「黒」小物9選、完売必至と紹介**
-  バナナ型キルティングバッグやタクマ フジサキ、サンダースとのコラボチャームなどが8月上旬〜11月中旬に順次発売予定(UOMO)。
-  https://www.webuomo.jp/fashion/highbrand/_ruU-Q/
+- **⚠古 コム デ ギャルソン26-27年秋冬ウィメンズ、「黒」がテーマ**
+  2026年3月7日パリ発表。「最終的に行き着くのは黒」を軸に、薄手生地にギャザーやフリンジで動きを出しつつ、鮮やかなピンクのルックも登場(fashion-press)。
+  https://www.fashion-press.net/news/144101
 
-- **⚠古 コム デ ギャルソン・パルファム、メグ・ウェブスターとのコラボ新作香水**
-  ディア・アート・ファウンデーションとの共同企画。森を思わせるウッディ×パチョリの香りで50mL 60,500円、コム デ ギャルソン店舗とドーバーストリートマーケットで展開(fashion-press)。
-  https://www.fashion-press.net/news/144523
+- **⚠古 コム デ ギャルソンの「普通」な白いシャツ、実は伝統の実験精神**
+  フランス製の3型(スプレッド襟・クラブ襟・カットアウェイ襟)、価格約465〜490ドル。1980年代の「再構成シャツ」の系譜にある実験として紹介(Highsnobiety)。
+  https://www.highsnobiety.com/p/comme-des-garcons-white-shirt-2026/
 
-- **⚠古 コム デ ギャルソン・オム×ニューバランス「ABZORB 2010」新色2足セット**
-  スレートグレーとアイボリーヌバックのホワイトを組み合わせた、通常のモノトーンとは異なる上品な仕上がり(Highsnobiety)。
-  https://www.highsnobiety.com/p/new-balances-2010-comme-des-garcons/
+- **クロムハーツ×コム デ ギャルソン×ドーバーストリートマーケットのコラボTシャツが二次流通に出品**
+  ブラックの半袖Tシャツが95,000円からSNKRDUNKで出品されている(二次流通)。
+  https://snkrdunk.com/apparels/774005
