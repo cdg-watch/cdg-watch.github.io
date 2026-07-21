@@ -10,7 +10,7 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/efd1d8b5-4eb5-4f5a-87bb-d9f45abfa56d/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-21T22:10:55.316Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
       ]
@@ -24,7 +24,7 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/a667675f-010a-465e-b994-5dcd1b5398d6/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-21T22:10:55.316Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
       ]
@@ -38,7 +38,7 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/c1b1c324-95a3-4fb2-8016-60195982b15b/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-21T22:10:55.316Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
       ]
@@ -52,7 +52,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-21T22:10:55.316Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -61,11 +61,15 @@
       "url": "https://www.trendhunter.com/trends/comme-des-garons-play-x-converse-chuck",
       "publishedAt": "2026-07-21T09:05:00.000Z",
       "publisher": "Trend Hunter",
-      "image": null,
+      "image": "https://cdn.trendhunterstatic.com/thumbs/623/comme-des-garons-play-x-converse-chuck.jpeg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-21T22:10:55.716Z",
-      "summary": null,
-      "tags": []
+      "summary": "COMME des GARÇONS PLAYとConverse Chuck Taylor 70sのコラボを紹介する記事。ブルックリンのアーティストRobert Navaによるアートワークをあしらった世界限定300足(1足295米ドル)で、Dover Street Marketにて予約受付中。",
+      "tags": [
+        "新作",
+        "コラボ"
+      ],
+      "importance": 2
     },
     {
       "id": "5e446d583580eb23",
@@ -2132,7 +2136,7 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/cea8e35c-0918-4a0a-8a7d-a9c4ef83a780/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-21T22:10:55.316Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
       ]
@@ -2181,20 +2185,6 @@
       ],
       "image": "https://hubemag.com/wp-content/uploads/2026/06/CdG_WALLET_HENRY_TAYLOR__23145-_web.png",
       "importance": 2
-    },
-    {
-      "id": "f993bdaddfd87430",
-      "title": "Supreme×コムデギャルソンシャツ COMME des GARCONS SHIRT 18aw C.D.G SHIRT Printed Canvas Chore Coat S ペイント加工｜au PAY マーケット - Radio Più",
-      "url": "https://www.radiopiu.net/wordpress/dillo-a-radio-piu-il-ricordo-di-loris-doriano-romano/",
-      "publishedAt": "2026-06-12T07:06:48.000Z",
-      "publisher": "Radio Più",
-      "image": "https://www.radiopiu.net/wordpress/wp-content/uploads/2026/06/Screenshot-2026-06-12-090147.png",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-21T22:10:55.317Z",
-      "summary": null,
-      "tags": [
-        "コラボ"
-      ]
     },
     {
       "id": "69fe9b141efde2a1",
@@ -2658,7 +2648,7 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0808.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-21T22:10:55.316Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
       ]
@@ -3206,7 +3196,7 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/c9eeda36-5a32-4ddf-8f60-852b0ec12999/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-21T22:10:55.316Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
       ]
@@ -3366,18 +3356,6 @@
       ],
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/571fc4cf-51cb-43f6-aee9-896deaa03585.webp",
       "importance": 1
-    },
-    {
-      "id": "aa0f42b44ad3c09e",
-      "title": "コムデギャルソンやシュプリームなど - 三軒茶屋経済新聞",
-      "url": "https://sancha.keizai.biz/photoflash/2722/",
-      "publishedAt": "2026-03-18T07:00:00.000Z",
-      "publisher": "三軒茶屋経済新聞",
-      "image": "https://images.keizai.biz/sancha_keizai/photonews/1773803605_b.jpg",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-21T22:10:55.317Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "af5bb468e99e19e7",
@@ -4054,7 +4032,7 @@
       "image": "https://sneakernews.com/wp-content/uploads/2026/01/comme-des-garcons-homme-plus-air-jordan-11-8.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-17T22:10:20.125Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
       ]
@@ -4685,7 +4663,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-19T22:09:41.811Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
       ]
@@ -4892,10 +4870,11 @@
       "image": "https://ascii.jp/img/2025/11/28/4379699/l/0186d06c4a4d9a7d.png",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-20T22:10:27.568Z",
-      "summary": null,
+      "summary": "コムデギャルソンとオニツカタイガーのコラボ「HOLIDAYS WITH Onitsuka Tiger」の紹介記事。2025年12月1〜28日、丸の内店にて期間限定ポップアップを開催し、シューズとアパレル計12品を展開(世界7店舗限定)。",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "a41a0c45f09dcf97",
@@ -5102,7 +5081,7 @@
       "image": "https://tobemagazine.co/wp/wp-content/uploads/2025/11/ToBe_Issue_9-0168-1.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-21T22:10:55.717Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "新作"
       ]
@@ -5656,7 +5635,7 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGPU-0046.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-20T22:10:27.568Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
       ]
