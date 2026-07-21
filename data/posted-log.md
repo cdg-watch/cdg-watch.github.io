@@ -33,3 +33,5 @@
 | 2026-07-19 | DSM/CDG CEOアドリアン・ジョフェのインタビュー(実店舗の価値・創造性と事業性のバランス) | https://monocle.com/business/adrian-joffe-dover-street-market-interview/ | 本日の確定版(第1投稿)。snow手動投稿済み(7/19申告) |
 | 2026-07-19 | 週次まとめ(7/12〜7/18: キッズラブゲイトコラボシューズ/ブランド名の由来/フィールドジェネラル82スナップ) | https://cdg-watch.github.io/ | 本日の確定版(第2投稿・日曜のまとめ、補足4)。snow手動投稿済み(7/19申告) |
 | 2026-07-20 | コム デ ギャルソン シャツ×アシックス「GEL-1130」発表(2026年秋冬ランウェイ) | https://www.webuomo.jp/uomolist/white-sneaker-2026summer/FxUrBA/ | 本日の確定版。月曜のため単体トピック1本(補足4) |
+| 2026-07-21 | (見送り) | - | 直近新着が⚠古3件+二次流通1件のみで、鮮度・方針基準を満たす一次情報が0本だったため |
+| 2026-07-22 | COMME des GARÇONS PLAY×Converse Chuck Taylor 70s(Robert Navaアートワーク、世界限定300足) | https://www.trendhunter.com/trends/comme-des-garons-play-x-converse-chuck | 本日の確定版。水曜のため単体トピック1本(補足4) |
