@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T22:10:35.786Z",
+  "updatedAt": "2026-07-22T22:30:00.000Z",
   "items": [
     {
       "id": "e358b8ad7046dd80",
@@ -10,7 +10,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-22T22:10:16.575Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
       ]
@@ -24,7 +24,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-22T22:10:16.575Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -36,10 +36,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-22T22:10:16.575Z",
-      "summary": null,
+      "summary": "SNKRDUNKにプレイ コム デ ギャルソンのAZ-T010トップス(AD2009、Sサイズ、ボーダー柄)の中古出品。状態はCランク(軽度の傷・汚れあり)で価格は6,100円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "a3bcf52930d71ecd",
@@ -50,10 +51,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-22T22:10:16.575Z",
-      "summary": null,
+      "summary": "SNKRDUNKにコム デ ギャルソンのGP-B017シャツ(XSサイズ、白黒チェック柄)の中古出品。状態はCランクで価格は38,600円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "c97ebb28b15691fa",
@@ -64,8 +66,11 @@
       "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/22/117764.webp",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-22T22:10:16.986Z",
-      "summary": null,
-      "tags": []
+      "summary": "コム デ ギャルソンとPLAYラインの新店舗が、フィリピン・マカティ市のグリーンベルト2に7月17日オープン。現地進出15周年を記念したフラッグシップ店。",
+      "tags": [
+        "店舗"
+      ],
+      "importance": 2
     },
     {
       "id": "6505f039b9ed4f75",
@@ -76,10 +81,11 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260722-00054905-oceans-000-1-view.jpg?exp=10800",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-22T22:10:16.575Z",
-      "summary": null,
+      "summary": "OCEANS発(Yahoo!ニュース転載)の記事で、街で見かけたレアなコラボスニーカー5選を紹介。ブラック コム デ ギャルソン×ナイキの「フィールドジェネラル82」が時計・靴下など小物と合わせたコーディネートで登場している。",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "3f699c7744e1d16a",
@@ -132,10 +138,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-22T22:10:16.575Z",
-      "summary": null,
+      "summary": "SNKRDUNKにコム デ ギャルソン オム・ドゥのDA-J034ジャケット(AD2017、グレー、XSサイズ)の中古出品。状態はCランクで価格は33,600円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "6a10989b5619394c",
@@ -1515,7 +1522,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-22T22:10:16.575Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
       ]
@@ -2295,20 +2302,6 @@
       "importance": 2
     },
     {
-      "id": "f993bdaddfd87430",
-      "title": "Supreme×コムデギャルソンシャツ COMME des GARCONS SHIRT 18aw C.D.G SHIRT Printed Canvas Chore Coat S ペイント加工｜au PAY マーケット - Radio Più",
-      "url": "https://www.radiopiu.net/wordpress/dillo-a-radio-piu-il-ricordo-di-loris-doriano-romano/",
-      "publishedAt": "2026-06-12T07:06:48.000Z",
-      "publisher": "Radio Più",
-      "image": "https://www.radiopiu.net/wordpress/wp-content/uploads/2026/06/Screenshot-2026-06-12-090147.png",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-22T22:10:16.575Z",
-      "summary": null,
-      "tags": [
-        "コラボ"
-      ]
-    },
-    {
       "id": "69fe9b141efde2a1",
       "title": "コムデギャルソン・川久保玲～「黒の衝撃」から半世紀、ファッションで「反骨精神」「反戦」を体現する挑戦者（nippon.com） - Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/articles/4e5aecc1eeb65e033166bd3df6f5d7f6415910a4",
@@ -3016,10 +3009,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-22T22:10:16.575Z",
-      "summary": null,
+      "summary": "SNKRDUNKにコム デ ギャルソン オムのコットンジャージー・プリントTシャツ(白)の新品/中古出品。品番CDG-0468、S〜XL展開で、定価9,900円前後で取引されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "ec8ee929ef7d5e00",
@@ -3287,7 +3281,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-22T22:10:16.575Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -3313,8 +3307,11 @@
       "image": "https://img-mdpr.freetls.fastly.net/article/u_Hl/nm/u_HlWZxXeDT1EOkbnEkK2xQcDrMIQ5kXTvuhjyNMSXA.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-22T22:10:16.575Z",
-      "summary": null,
-      "tags": []
+      "summary": "モデルプレスの記事で、歌手アグネス・チャンが30年以上前のミニ丈コム デ ギャルソンのワンピースを着用した姿をInstagramで公開したことを紹介。スタイルの良さにファンから好意的な反応が集まっている。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "d7d7bdaaa3bbdde4",
@@ -3325,7 +3322,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-22T22:10:16.986Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
       ]
@@ -3530,18 +3527,6 @@
       ],
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/571fc4cf-51cb-43f6-aee9-896deaa03585.webp",
       "importance": 1
-    },
-    {
-      "id": "aa0f42b44ad3c09e",
-      "title": "コムデギャルソンやシュプリームなど - 三軒茶屋経済新聞",
-      "url": "https://sancha.keizai.biz/photoflash/2722/",
-      "publishedAt": "2026-03-18T07:00:00.000Z",
-      "publisher": "三軒茶屋経済新聞",
-      "image": "https://images.keizai.biz/sancha_keizai/photonews/1773803605_b.jpg",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-22T22:10:16.575Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "af5bb468e99e19e7",
@@ -3804,7 +3789,7 @@
       "publisher": "Hypebeast",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [],
       "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F03&#x25;2F03&#x25;2Ftwcomme-des-garcons-kyoto-store-reopening.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
     },
@@ -3817,8 +3802,11 @@
       "image": "https://images.oceans.tokyo.jp/media/article/53850/images/editor/82c383d7b90636e24bc43dcd9c742f9f982ed8e8.jpg?w=850",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-10T03:22:18.097Z",
-      "summary": null,
-      "tags": []
+      "summary": "OCEANSの街角スナップ企画で、大人が実際に使う黒バックパックを特集。コム デ ギャルソン オム プリュスのシンプルなバックパックが、アークテリクスやウェクスリーの製品と並んで愛用品として紹介されている。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "6646edb8e43c449b",
@@ -3828,11 +3816,13 @@
       "publisher": "fashionsnap.com",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "コム デ ギャルソン京都店が24年ぶりの改装を経てリニューアルオープンし、記念してブラック コム デ ギャルソンが初のファッションショーを開催。2026年春夏コレクション約40ルックを発表し、店舗は2フロアから3フロアに拡張、内装は黒基調から白基調に変更された。",
       "tags": [
-        "店舗"
+        "店舗",
+        "ショー/コレクション"
       ],
-      "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/02/cdg-kyoto-2026-0227-027-e0c0e149-3cd5-491d-becc-c3335e067b13.jpg"
+      "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/02/cdg-kyoto-2026-0227-027-e0c0e149-3cd5-491d-becc-c3335e067b13.jpg",
+      "importance": 3
     },
     {
       "id": "b6af2a8b46187a96",
