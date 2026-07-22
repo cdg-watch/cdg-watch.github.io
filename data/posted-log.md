@@ -35,3 +35,4 @@
 | 2026-07-20 | コム デ ギャルソン シャツ×アシックス「GEL-1130」発表(2026年秋冬ランウェイ) | https://www.webuomo.jp/uomolist/white-sneaker-2026summer/FxUrBA/ | 本日の確定版。月曜のため単体トピック1本(補足4) |
 | 2026-07-21 | (見送り) | - | 直近新着が⚠古3件+二次流通1件のみで、鮮度・方針基準を満たす一次情報が0本だったため |
 | 2026-07-22 | COMME des GARÇONS PLAY×Converse Chuck Taylor 70s(Robert Navaアートワーク、世界限定300足) | https://www.trendhunter.com/trends/comme-des-garons-play-x-converse-chuck | 本日の確定版。水曜のため単体トピック1本(補足4) |
+| 2026-07-23 | コム デ ギャルソン マニラ進出15周年 新フラッグシップ店オープン(マカティ市グリーンベルト2、7/17) | https://mb.com.ph/2026/07/22/step-into-comme-des-garcons-new-home-for-unconventional-style | 本日の確定版。木曜のため単体トピック1本(補足4) |
