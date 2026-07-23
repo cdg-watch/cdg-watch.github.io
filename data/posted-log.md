@@ -37,3 +37,4 @@
 | 2026-07-22 | COMME des GARÇONS PLAY×Converse Chuck Taylor 70s(Robert Navaアートワーク、世界限定300足) | https://www.trendhunter.com/trends/comme-des-garons-play-x-converse-chuck | Issue通知はセッション時間切れで未達だったが、**snow手動投稿済み**(7/23申告。ドラフトから直接投稿) |
 | 2026-07-23 | コム デ ギャルソン マニラ進出15周年 新フラッグシップ店オープン(マカティ市グリーンベルト2、7/17) | https://mb.com.ph/2026/07/22/step-into-comme-des-garcons-new-home-for-unconventional-style | **未投稿・取り下げ**(snow指摘 2026-07-23: 海外店舗オープンは国内読者ニーズが低い。以後この種のトピックは見送り) |
 | 2026-07-23 | コムデギャルソン本ライン/ガール/ブラック 2026年秋冬全ルック公開(CDG FREAK)+店頭立ち上がり8/5〜 | https://cdg-freak.com/brand/comme-des-garcons-comme-des-garcons-2026aw/ | 訂正後の確定版。木曜のため単体トピック1本(補足4) |
+| 2026-07-24 | TRADING MUSEUM COMME des GARÇONS × BAJOWOO「THE POSiT1%VE」表参道GYRE店で展示販売(7/25〜) | https://www.fashionsnap.com/article/2026-07-23/trading-museum-comme-des-garcons-bajowoo-the-posit1ve/ | 本日の確定版。金曜のため単体トピック1本(補足4)。過去コラボ「ILLUMINATION」(2025-11)とは別の新カプセルのため重複なし |
