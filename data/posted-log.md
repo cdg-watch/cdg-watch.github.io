@@ -34,5 +34,6 @@
 | 2026-07-19 | 週次まとめ(7/12〜7/18: キッズラブゲイトコラボシューズ/ブランド名の由来/フィールドジェネラル82スナップ) | https://cdg-watch.github.io/ | 本日の確定版(第2投稿・日曜のまとめ、補足4)。snow手動投稿済み(7/19申告) |
 | 2026-07-20 | コム デ ギャルソン シャツ×アシックス「GEL-1130」発表(2026年秋冬ランウェイ) | https://www.webuomo.jp/uomolist/white-sneaker-2026summer/FxUrBA/ | 本日の確定版。月曜のため単体トピック1本(補足4) |
 | 2026-07-21 | (見送り) | - | 直近新着が⚠古3件+二次流通1件のみで、鮮度・方針基準を満たす一次情報が0本だったため |
-| 2026-07-22 | COMME des GARÇONS PLAY×Converse Chuck Taylor 70s(Robert Navaアートワーク、世界限定300足) | https://www.trendhunter.com/trends/comme-des-garons-play-x-converse-chuck | **未投稿・未通知**(ドラフト作成後、Issueコメント前にセッション時間切れ。snow判断で当日の追い通知は無し 2026-07-22)。鮮度基準を満たすなら翌日以降に再提案可 |
-| 2026-07-23 | コム デ ギャルソン マニラ進出15周年 新フラッグシップ店オープン(マカティ市グリーンベルト2、7/17) | https://mb.com.ph/2026/07/22/step-into-comme-des-garcons-new-home-for-unconventional-style | 本日の確定版。木曜のため単体トピック1本(補足4)。Issueコメント通知済み(22:40 UTC) |
+| 2026-07-22 | COMME des GARÇONS PLAY×Converse Chuck Taylor 70s(Robert Navaアートワーク、世界限定300足) | https://www.trendhunter.com/trends/comme-des-garons-play-x-converse-chuck | Issue通知はセッション時間切れで未達だったが、**snow手動投稿済み**(7/23申告。ドラフトから直接投稿) |
+| 2026-07-23 | コム デ ギャルソン マニラ進出15周年 新フラッグシップ店オープン(マカティ市グリーンベルト2、7/17) | https://mb.com.ph/2026/07/22/step-into-comme-des-garcons-new-home-for-unconventional-style | **未投稿・取り下げ**(snow指摘 2026-07-23: 海外店舗オープンは国内読者ニーズが低い。以後この種のトピックは見送り) |
+| 2026-07-23 | コムデギャルソン本ライン/ガール/ブラック 2026年秋冬全ルック公開(CDG FREAK)+店頭立ち上がり8/5〜 | https://cdg-freak.com/brand/comme-des-garcons-comme-des-garcons-2026aw/ | 訂正後の確定版。木曜のため単体トピック1本(補足4) |
