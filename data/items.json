@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T22:10:48.680Z",
+  "updatedAt": "2026-07-23T22:14:19.530Z",
   "items": [
     {
       "id": "bbbf54d2ab95a817",
@@ -10,10 +10,11 @@
       "image": "https://www.highsnobiety.com/static-assets/dato/1784737003-nike-air-max-goadome-low-dot-pack-03-1.jpg",
       "feed": "Highsnobiety",
       "fetchedAt": "2026-07-23T22:10:14.453Z",
-      "summary": null,
+      "summary": "Highsnobietyの記事。ナイキのAir Max ACG Goadome Low「Dot Pack」の穴あきデザインをコムデギャルソン風の美学になぞらえて紹介しているが、公式コラボ商品ではない論評記事。",
       "tags": [
-        "コラボ"
-      ]
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "5b840086ffdadad7",
@@ -24,7 +25,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-23T22:10:27.341Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
       ]
@@ -38,7 +39,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-23T22:10:27.723Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
       ]
@@ -52,8 +53,11 @@
       "image": "https://www.breizh-info.com/wp-content/uploads/2026/07/comm-scaled.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-23T22:10:27.723Z",
-      "summary": null,
-      "tags": []
+      "summary": "Breizh-info(仏)の記事。ロンドン発のCorteizと日本のコムデギャルソンを比較し、出自は違えど両ブランドとも独自性と希少性を重視する姿勢で業界に影響を与えていると論じている。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "9e75ed8405c0553c",
@@ -64,10 +68,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/ad62e304-9ddc-413e-9a02-59a3c87a366c/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-23T22:10:27.341Z",
-      "summary": null,
+      "summary": "SNKRDUNKに出品されたコムデギャルソンのコート(状態C・やや傷や汚れあり)の中古販売ページ。価格は24,600円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "06a683b1cdac5987",
@@ -78,8 +83,10 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-23T22:10:27.341Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "二次流通"
+      ]
     },
     {
       "id": "6bcd7fc18e8cc7cf",
@@ -90,9 +97,9 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-23T22:10:27.341Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
-        "ショー/コレクション"
+        "二次流通"
       ]
     },
     {
@@ -104,10 +111,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/6bd0719d-23b3-4e83-9594-47e7e9d46cae/7810174.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-23T22:10:27.341Z",
-      "summary": null,
+      "summary": "SNKRDUNKに出品されたコムデギャルソンオムのウールチェックダッフルコート(AD2013・状態D)の中古販売ページ。価格は18,678円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "f5d9e78c76a33f14",
@@ -118,11 +126,12 @@
       "image": "https://fashionsnap-assets.com/asset/format=auto,fit=crop,width=300,height=300/article/images/2026/07/49d230e6-d11f-4c70-9efa-bb70124e783a.jpg",
       "feed": "FASHIONSNAP",
       "fetchedAt": "2026-07-23T22:10:04.387Z",
-      "summary": null,
+      "summary": "FASHIONSNAPの記事。TRADING MUSEUM COMME des GARÇONSとBAJOWOO(99%IS-)によるカプセルコレクション「THE POSiT1%VE」を7月25日から表参道GYRE店で展示販売すると発表。Tシャツやカスタムバックパックなど約60点を展開する。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "244b4c202a936f28",
@@ -133,7 +142,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-23T22:10:27.341Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
       ]
@@ -147,8 +156,10 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-23T22:10:27.341Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "二次流通"
+      ]
     },
     {
       "id": "e358b8ad7046dd80",
@@ -185,8 +196,10 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-23T22:10:27.341Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "二次流通"
+      ]
     },
     {
       "id": "e95504c2e8659b88",
@@ -374,18 +387,6 @@
       "tags": [
         "二次流通"
       ]
-    },
-    {
-      "id": "c496c90ed6b22afb",
-      "title": "ファッションを楽しむ20代のリアル。大人も学びたいセンス◎な着こなしをスナップでチェック！ (OCEANS) - Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/bee9d4f6cae4218bf30c89115a8644ad1d814f4e/images/009",
-      "publishedAt": "2026-07-19T22:31:09.000Z",
-      "publisher": "Yahoo!ニュース",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3j2Xc-_ypRo_MbDt6ekL9RDQf-MI2132pRvx0zjwMS4nS4RD1ggkbZkVclAzCsyMep6Ciez4Yyg3oZP1zufAV9UVbQP0RTW7DGgt6EkdiH3SYg_b7bh8ZJQE39JCvG4PHyU8jxxY6RYsiqxkWRlb3-w==",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-23T22:10:27.341Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "500b38179d3022b6",
@@ -2037,7 +2038,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-23T22:10:27.341Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
       ]
@@ -2487,20 +2488,6 @@
       ],
       "image": "https://hubemag.com/wp-content/uploads/2026/06/CdG_WALLET_HENRY_TAYLOR__23145-_web.png",
       "importance": 2
-    },
-    {
-      "id": "70bd1923af7fba36",
-      "title": "Supreme×コムデギャルソンシャツ COMME des GARCONS SHIRT 18aw C.D.G SHIRT Printed Canvas Chore Coat S ペイント加工｜au PAY マーケット - Radio Più – Emittente Agordina",
-      "url": "https://www.radiopiu.net/wordpress/dillo-a-radio-piu-il-ricordo-di-loris-doriano-romano/",
-      "publishedAt": "2026-06-12T07:06:48.000Z",
-      "publisher": "Radio Più – Emittente Agordina",
-      "image": "https://www.radiopiu.net/wordpress/wp-content/uploads/2026/06/Screenshot-2026-06-12-090147.png",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-23T22:10:27.341Z",
-      "summary": null,
-      "tags": [
-        "コラボ"
-      ]
     },
     {
       "id": "69fe9b141efde2a1",
@@ -3730,18 +3717,6 @@
       "importance": 1
     },
     {
-      "id": "aa0f42b44ad3c09e",
-      "title": "コムデギャルソンやシュプリームなど - 三軒茶屋経済新聞",
-      "url": "https://sancha.keizai.biz/photoflash/2722/",
-      "publishedAt": "2026-03-18T07:00:00.000Z",
-      "publisher": "三軒茶屋経済新聞",
-      "image": "https://images.keizai.biz/sancha_keizai/photonews/1773803605_b.jpg",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-23T22:10:27.342Z",
-      "summary": null,
-      "tags": []
-    },
-    {
       "id": "af5bb468e99e19e7",
       "title": "COMME des GARÇONS HOMME x New Balance ABZORB 2010 Debuts for Spring 2026 - stupidDOPE",
       "url": "https://stupiddope.com/2026/03/comme-des-garcons-homme-x-new-balance-abzorb-2010-debuts-for-spring-2026/",
@@ -4046,10 +4021,11 @@
       "image": "https://cdn.snkrdunk.com/used_listing/3806769/84056751-6ccf-4aa0-b574-7b4441bd837c.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-07T22:08:59.295Z",
-      "summary": null,
+      "summary": "SNKRDUNKに出品されたコムデギャルソンオム×ニューバランス1906R「ホワイト」28cmの中古販売ページ。状態はB(目立った傷や汚れなし)で価格は44,000円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "791ae21bf1e0898e",
