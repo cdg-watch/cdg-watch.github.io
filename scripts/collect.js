@@ -87,9 +87,13 @@ function normalizeUrl(url) {
   }
 }
 
-// 二次流通(リセール・中古・フリマ)系の出典は収集時点で自動タグ付けする
+// 二次流通(リセール・中古・フリマ)系の出典は収集時点で自動タグ付けする。
+// 日本語の業者名だけでなくドメイン表記(mercari, 2ndstreet 等)も併記すること
+// (2026-07-24: ドメイン表記しか手がかりの無い項目がニュース側にすり抜けた対策)。
+// 「古着」「中古」は汎用語だが、この語を含む記事は公式情報ではないため二次流通側に
+// 寄せる方針(まれな誤検知は要約エージェントが AGENTS.md に従って付け直す)
 const RESALE_RE =
-  /SNKRDUNK|スニーカーダンク|スニダン|メルカリ|ラクマ|ヤフオク|Yahoo!オークション|セカンドストリート|2nd STREET|トレファク|StockX|GOAT|Grailed|brute[-.]?(beauty|tokyo|store)?|ブルート/i;
+  /SNKRDUNK|スニーカーダンク|スニダン|メルカリ|mercari|ラクマ|rakuma|fril|ヤフオク|Yahoo!オークション|auctions?\.yahoo|shopping\.yahoo|PayPayフリマ|paypayfleamarket|セカンドストリート|2nd ?STREET|2ndstreet|トレファク|trefac|コメ兵|komehyo|au ?PAY ?マーケット|wowma|StockX|GOAT|Grailed|Depop|Vinted|RINKAN|リンカン|tennis\.fi|brute[-.]?(beauty|tokyo|store)?|ブルート|古着|中古/i;
 
 // タイトルからカテゴリタグを機械的に推定(エージェントが後で精緻化する前の初期値)。
 // 記事は複数タグを持ちうる。二次流通は RESALE_RE で別途付与。
@@ -403,7 +407,10 @@ async function main() {
         .slice(0, 16);
       if (known.has(id)) continue;
       known.add(id);
-      const resale = RESALE_RE.test((item.publisher ?? "") + " " + item.title);
+      // URLも判定に含める(出典名・タイトルに業者名が出ない直リンク項目対策)
+      const resale = RESALE_RE.test(
+        (item.publisher ?? "") + " " + item.title + " " + item.url
+      );
       const tags = resale ? ["二次流通"] : autoTags(item.title);
       added.push({
         id,
