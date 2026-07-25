@@ -38,4 +38,4 @@
 | 2026-07-23 | コム デ ギャルソン マニラ進出15周年 新フラッグシップ店オープン(マカティ市グリーンベルト2、7/17) | https://mb.com.ph/2026/07/22/step-into-comme-des-garcons-new-home-for-unconventional-style | **未投稿・取り下げ**(snow指摘 2026-07-23: 海外店舗オープンは国内読者ニーズが低い。以後この種のトピックは見送り) |
 | 2026-07-23 | コムデギャルソン本ライン/ガール/ブラック 2026年秋冬全ルック公開(CDG FREAK)+店頭立ち上がり8/5〜 | https://cdg-freak.com/brand/comme-des-garcons-comme-des-garcons-2026aw/ | 訂正後の確定版。木曜のため単体トピック1本(補足4) |
 | 2026-07-24 | TRADING MUSEUM COMME des GARÇONS × BAJOWOO「THE POSiT1%VE」表参道GYRE店で展示販売(7/25〜) | https://www.fashionsnap.com/article/2026-07-23/trading-museum-comme-des-garcons-bajowoo-the-posit1ve/ | 本日の確定版。金曜のため単体トピック1本(補足4)。過去コラボ「ILLUMINATION」(2025-11)とは別の新カプセルのため重複なし |
-| 2026-07-25 | (見送り) | - | ⚠古3件+ジョフ氏マニラ店インタビュー(海外店舗ネタで取り下げ済みと同一店のため見送り)+SNKRDUNK評論記事+Future×PLAY CDG×Converse(7/22投稿済みと同一商品の重複)+Corteiz比較記事(意見記事)のみで、鮮度・方針基準を満たす一次情報が0本だったため |
+| 2026-07-25 | コムデギャルソン会長エイドリアン・ジョフのインタビュー(Rolling Stone Philippines、パフォーマティブ批判・川久保玲の創作姿勢・ゲリラストア回顧) | https://rollingstonephilippines.com/radar/rs-spotlight/comme-des-garcons-adrian-joffe-interview/ | 訂正版。朝の「見送り」判断(マニラ新店絡みと誤認)をsnowレビューで撤回し差し替え。新店言及は記事の約15%のみで、大半は普遍的な哲学インタビュー | |
