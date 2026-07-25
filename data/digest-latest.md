@@ -1,21 +1,21 @@
-# CDG Watch デイリーダイジェスト 2026-07-25
+# CDG Watch デイリーダイジェスト 2026-07-26
 
-- **会長エイドリアン・ジョフ、Rolling Stone Philippinesのインタビューに応じる**
-  マニラ新店舗の開業を機に、川久保玲とのパートナーシップやパフォーマティブな表現への批判、ゲリラストア戦略について語った。
-  https://rollingstonephilippines.com/radar/rs-spotlight/comme-des-garcons-adrian-joffe-interview/
+- **⚠古 コムデギャルソン香水部門のクリエイティブディレクター、クリスチャン・アストゥゲヴィエイユ氏が死去**
+  「アンチ香水」で知られた人物が2月13日に79歳で逝去。
+  https://wwd.com/beauty-industry-news/fragrance/comme-des-garcons-creative-director-perfumes-died-1238611216/
 
-- **⚠古 雑誌『SWITCH』3月号でコムデギャルソン大特集、川久保玲13ページ独占インタビューも**
-  伝説のビジュアルマガジン『Six』全8冊掲載を含む90ページ超の特集(2月20日発売)。
-  https://www.fashion-headline.com/ja/article/2415
+- **⚠古 CDG×ザ・ノース・フェイス第3弾、黒基調の全8型**
+  ジャケット¥41,800など。両ブランドの直営店・オンラインストアで展開。
+  https://www.fashionsnap.com/article/2026-02-05/cdg-tnf-collaboration-2026/
 
-- **⚠古 路面店限定「ショップ コム デ ギャルソン」から白シャツ3型、2月20日発売**
-  フランスの専門工場製、ラウンドカラー・ワイドスプレッドカラーなど。青山店・丸の内店など直営5店舗限定。
-  https://www.fashion-press.net/news/143652
+- **⚠古 エアジョーダン11×コムデギャルソン オムプリュス、初コラボが$250で登場**
+  ブラック/ホワイトとホワイト/ブラックの2配色。
+  https://shopping.yahoo.com/style/shoes/articles/air-jordan-11-x-comme-000747208.html
 
-- **⚠古 Pen Online、Tokyo Vintage Fashion Week(3月開催)を紹介**
-  コムデギャルソンなど90年代アーカイブ古着を「フューチャーヴィンテージ」として取り上げるショーを予定。
-  https://www.pen-online.jp/article/020694.html
+- **⚠古 コム デ ギャルソン・シャツ、2026-27年秋冬コレクションをパリで発表**
+  「ブラック」基調にプレイフルな配色。アシックス・フレッドペリーとのコラボも。
+  https://www.fashion-press.net/news/143303
 
-- **スニーカーダンク、プレイコムデギャルソンのTシャツ6選を特集**
-  フィリップ・パゴウスキーのハートロゴを軸に、迷彩・ドット柄などデザインの違いを紹介。
-  https://snkrdunk.com/articles/32729/
+- **⚠古 ニューバランス×コムデギャルソン「1890A」、スニーカーモカシンがコンセプト**
+  フォーマルシューズとスニーカーを融合したシルエット。
+  https://www.highsnobiety.com/p/new-balance-comme-des-garcons-1890a/
