@@ -1,42 +1,40 @@
-# X投稿ドラフト 2026-07-26
+# X投稿ドラフト 2026-07-27
 
 ## 本日の投稿(確定)
 
-### 第1投稿(週次まとめ・日曜のため補足4適用・257/280カウント)
+本日は見送り。
 
-```
-今週のコムデギャルソン(7/19〜7/25)
-・CDGシャツ×アシックス「GEL-1130」発表
-・PLAY×コンバース×Nava、限定300足
-・本線/ガール/ブラック 26AW全ルック公開
-・TRADING MUSEUM×BAJOWOO、GYREで展示中
-▼今週のまとめ
-https://cdg-watch.github.io/
-#コムデギャルソン #CommeDesGarcons #CDG
-```
+理由: digest-latest.mdの3件はすべてSNKRDUNKの二次流通(中古)出品で、方針により対象外。
+items.json直近7日以内(二次流通除く)の候補22件も確認したが、既出トピックの重複か、
+核心情報を欠く記事、またはスパム的なコンテンツのみだった。
 
-画像添付なし(サイトリンクのOGカードが自動表示される)。
+見送った項目:
+- Rolling Stone Philippines ジョフ会長インタビュー(公開7/24) — 7/25に投稿済みと同一記事のため重複
+- stupidDOPE「Future×PLAY CDG×Converse」/Trend Hunter/Hypebeast(いずれも同一コラボ) —
+  7/22投稿済みのPLAY×Converse Chuck Taylor 70s(Robert Nava)の重複取材
+- FINE Homes and Living/Breizh-info「Corteiz×CDG」比較コラム — 両ブランドの姿勢を論じる
+  意見記事で価格・発売日等の核心情報を含まない(7/24・7/25にも同種の理由で見送り済み)
+- Highsnobiety「Nike ACG Air Max Goadome Low」 — CDGとの公式コラボではなく、デザインが
+  CDGの美学に似ているという第三者の論評記事(7/24にも同種の理由で見送り済み)
+- SNKRDUNK「プレイCDG Tシャツ6選」 — 二次流通プラットフォームの編集記事で、紹介の新商品
+  自体も2024年9月発売の既存品のため鮮度・方針どちらの基準も満たさない
+- Yahoo!ニュース「コラボシューズ5選」中のCDG×ナイキ「フィールド ジェネラル 82」 —
+  7/18投稿済みと同一コラボの街角スナップで新情報なし
+- lechodelabaie.fr / tennis.fi / Universidad de Sevilla(cicus.us.es)計6件 — タイトルが
+  文法崩壊したSEOスパムサイト。1件をWebFetchで確認したところ404で実体なし
 
-備考: 本日は日曜のため補足4により週次まとめを作成。単体トピック(第1投稿相当)は
-本日は**見送り**としました。
+無理に基準を下げず、翌日以降の新着を待ちます。
 
-見送りの経緯: `node scripts/make-post.js` の叩き台が示した候補(⚠古の香水部門CD死去・
-CDG×TNF第3弾・Air Jordan 11)はいずれも公開が数ヶ月前の⚠古記事。items.json内の
-直近7日(7/19〜7/26)で二次流通(SNKRDUNK等)を除いた15件も個別に確認しましたが、
-全て以下のいずれかで対象外でした。
-- Corteiz×CDG比較コラム(FINE Homes and Living / Breizh-info、両サイトとも同一内容の
-  シンジケート記事): 価格・発売日等の核心情報を含まない、ブランド姿勢を論じる意見記事
-- Highsnobiety「Nike ACG Air Max Goadome」: 公式コラボではなく、デザインがCDG風という
-  第三者評論記事
-- stupidDOPE「Future×PLAY CDG×Converse」: WebFetchは307リダイレクトで失敗したが、
-  Hypebeast(7/20)・Trend Hunter(7/21)の同時期記事から同一コラボ(Robert Nava、
-  2026-07-22投稿済み)へのFutureのタイアップ追加取材と判明、重複のため見送り
-- FASHIONSNAP「Trading Museum×BAJOWOO Tシャツ特集」: 2026-07-24投稿済みと同一URL
-- Adrian Joffeインタビュー(Rolling Stone Philippines): 2026-07-25投稿済みと同一記事
-- Manila新フラッグシップ店(Manila Bulletin): 2026-07-23にsnow指摘で取り下げ済み・
-  再提案しない方針の話題と同一店
+## 今週の改善メモ
 
-週次まとめは直近1週間(7/19〜7/25、当日分は含めない)のposted-log.mdから主要4話題を
-選定(GEL-1130/PLAY×Converse×Nava/26AW全ルック/Trading Museum×BAJOWOO)。
-2本のジョフェ会長インタビュー(7/19 Monocle、7/25 Rolling Stone Philippines)は
-まとめの字数上省略しました。
+今週(7/20〜7/26)は、Corteiz×CDG比較コラム・Highsnobietyの非公式コラボ論評・
+Future×PLAY×Converseの重複取材という同じ3件が、7/24〜7/27の4日間ずっとitems.json
+7日ウィンドウに居座り続け、日ごとに同じ「意見記事で核心情報なし」「公式コラボでない」
+「重複取材」という結論をWebFetch/WebSearchで再確認する作業が発生した(本日はうち2件を
+改めてWebFetchで再検証した)。
+改善案: 一度「構造的に対象外」(公式コラボでない/意見記事で核心情報なし/二次流通媒体の
+編集記事、など鮮度が理由でなく方針が理由の除外)と判定したURLは、posted-log.mdとは別に
+再利用可能な短い「除外済みリスト」(例: data/excluded-log.md)に1行残す運用にすると、
+翌日以降は再検証せずそのリストを見て即座にスキップでき、7日間で最大4回分のWebFetch/
+WebSearchを節約できる。鮮度切れ(7日ウィンドウ外)になった行はリストから自然に削除して
+よい。sns-notes.mdはまだ未作成のため、投稿の反応面の振り返りは今週も実施できていない。
