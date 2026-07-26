@@ -51,7 +51,7 @@ const COVERED = [
 
 // 二次流通(サイトの方針で公式ニュースソースにはしない)
 const RESALE_HOST_RE =
-  /snkrdunk|mercari|rakuma|auctions?\.yahoo|2ndstreet|trefac|stockx|goat\.com|grailed/i;
+  /snkrdunk|mercari|rakuma|auctions?\.yahoo|2ndstreet|trefac|stockx|goat\.com|grailed|massivelyop|comian\.today/i;
 
 // 転載・シンジケーション先(元記事メディアを直接ソース化する方が良い)。
 // 候補から外さず note で注意書きする
