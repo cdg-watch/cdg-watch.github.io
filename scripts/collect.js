@@ -72,8 +72,14 @@ const SOURCES = [
   },
 ];
 
-// Google News 経由で混入するSEOスパムドメイン(本文取得不可で要約もできない)
-const SPAM_URL_RE = /richardajkeys\.com|cfecgc-orange\.org|consumerthai\.org/i;
+// Google News 経由で混入するSEOスパムドメイン(本文取得不可で要約もできない)。
+// 2026-07-27: lechodelabaie.fr / cicus.us.es / tennis.fi / radiopiu.net を追加。
+// いずれも無関係な既存サイト(仏の一般サイト、セビリア大学、フィンランドのテニス連盟、
+// 伊のラジオ局)がハッキング/汚染されキーワード羅列タイトルでGoogle Newsに
+// 混入したもの。日次要約時に計8件開いて確認したところ大半が404/503で本文取得不可、
+// 唯一開けたradiopiu.netの1件もコムデギャルソンと無関係な内容だった
+const SPAM_URL_RE =
+  /richardajkeys\.com|cfecgc-orange\.org|consumerthai\.org|lechodelabaie\.fr|cicus\.us\.es|(?:^|\/\/)(?:www\.)?tennis\.fi\/|radiopiu\.net/i;
 
 // URL単位の重複排除の前処理。Yahoo!ニュースの画像サブページ(/images/001 等)は
 // 記事本体と同一記事のため、比較用に本体URLへ正規化する(#11)
@@ -91,9 +97,12 @@ function normalizeUrl(url) {
 // 日本語の業者名だけでなくドメイン表記(mercari, 2ndstreet 等)も併記すること
 // (2026-07-24: ドメイン表記しか手がかりの無い項目がニュース側にすり抜けた対策)。
 // 「古着」「中古」は汎用語だが、この語を含む記事は公式情報ではないため二次流通側に
-// 寄せる方針(まれな誤検知は要約エージェントが AGENTS.md に従って付け直す)
+// 寄せる方針(まれな誤検知は要約エージェントが AGENTS.md に従って付け直す)。
+// tennis.fi は 2026-07-24 にここへ追加されたが、2026-07-27 の要約作業で実体は
+// フィンランドのテニス連盟サイトがハッキングされたSEOスパム(本文404)と判明した
+// ため削除し、SPAM_URL_RE 側で除外するよう移した(二次流通ではなく単純に無関係)
 const RESALE_RE =
-  /SNKRDUNK|スニーカーダンク|スニダン|メルカリ|mercari|ラクマ|rakuma|fril|ヤフオク|Yahoo!オークション|auctions?\.yahoo|shopping\.yahoo|PayPayフリマ|paypayfleamarket|セカンドストリート|2nd ?STREET|2ndstreet|トレファク|trefac|コメ兵|komehyo|au ?PAY ?マーケット|wowma|StockX|GOAT|Grailed|Depop|Vinted|RINKAN|リンカン|tennis\.fi|brute[-.]?(beauty|tokyo|store)?|ブルート|massivelyop|comian\.today|古着|中古/i;
+  /SNKRDUNK|スニーカーダンク|スニダン|メルカリ|mercari|ラクマ|rakuma|fril|ヤフオク|Yahoo!オークション|auctions?\.yahoo|shopping\.yahoo|PayPayフリマ|paypayfleamarket|セカンドストリート|2nd ?STREET|2ndstreet|トレファク|trefac|コメ兵|komehyo|au ?PAY ?マーケット|wowma|StockX|GOAT|Grailed|Depop|Vinted|RINKAN|リンカン|brute[-.]?(beauty|tokyo|store)?|ブルート|massivelyop|comian\.today|古着|中古/i;
 
 // タイトルからカテゴリタグを機械的に推定(エージェントが後で精緻化する前の初期値)。
 // 記事は複数タグを持ちうる。二次流通は RESALE_RE で別途付与。
