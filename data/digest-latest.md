@@ -1,21 +1,13 @@
-# CDG Watch デイリーダイジェスト 2026-07-26
+# CDG Watch デイリーダイジェスト 2026-07-27
 
-- **⚠古 コムデギャルソン香水部門のクリエイティブディレクター、クリスチャン・アストゥゲヴィエイユ氏が死去**
-  「アンチ香水」で知られた人物が2月13日に79歳で逝去。
-  https://wwd.com/beauty-industry-news/fragrance/comme-des-garcons-creative-director-perfumes-died-1238611216/
+- **SNKRDUNKにブラック コムデギャルソンのバッグが¥20,600で中古出品**
+  状態C(内側に汚れあり)。真贋鑑定付きの中古マーケットプレイスにて。
+  https://snkrdunk.com/apparel-free-used-items/48392314
 
-- **⚠古 CDG×ザ・ノース・フェイス第3弾、黒基調の全8型**
-  ジャケット¥41,800など。両ブランドの直営店・オンラインストアで展開。
-  https://www.fashionsnap.com/article/2026-02-05/cdg-tnf-collaboration-2026/
+- **コムデギャルソン オム×ニューバランス「CT300」ブラックが¥13,880で中古出品**
+  29cm、状態C(箱・包装紙なし)。SNKRDUNKにて真贋鑑定付きで販売。
+  https://snkrdunk.com/products/CT300JU3/used/48374809
 
-- **⚠古 エアジョーダン11×コムデギャルソン オムプリュス、初コラボが$250で登場**
-  ブラック/ホワイトとホワイト/ブラックの2配色。
-  https://shopping.yahoo.com/style/shoes/articles/air-jordan-11-x-comme-000747208.html
-
-- **⚠古 コム デ ギャルソン・シャツ、2026-27年秋冬コレクションをパリで発表**
-  「ブラック」基調にプレイフルな配色。アシックス・フレッドペリーとのコラボも。
-  https://www.fashion-press.net/news/143303
-
-- **⚠古 ニューバランス×コムデギャルソン「1890A」、スニーカーモカシンがコンセプト**
-  フォーマルシューズとスニーカーを融合したシルエット。
-  https://www.highsnobiety.com/p/new-balance-comme-des-garcons-1890a/
+- **コムデギャルソン シャツ「EVA Resin Pocket Tuck Shorts」ブラックが新品・中古とも¥38,000〜**
+  品番CDGSH-0111。SNKRDUNKで取り扱い中。
+  https://snkrdunk.com/apparels/816702

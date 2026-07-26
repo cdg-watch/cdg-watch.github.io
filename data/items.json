@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T22:11:06.851Z",
+  "updatedAt": "2026-07-26T22:16:33.108Z",
   "items": [
     {
       "id": "86a61f9717a88a2b",
@@ -10,10 +10,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/240fe170-618f-45d2-86c4-595fd7e41e2f/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-26T22:10:22.385Z",
-      "summary": null,
+      "summary": "SNKRDUNKにブラック コムデギャルソンのバッグ(状態C・内側に汚れあり)が¥20,600で中古出品された。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "db0154b5cdb9bb45",
@@ -24,10 +25,8 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-26T22:10:22.385Z",
-      "summary": null,
-      "tags": [
-        "ショー/コレクション"
-      ]
+      "summary": "(要約取得不可)",
+      "tags": []
     },
     {
       "id": "2f82e8435373fb48",
@@ -38,7 +37,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-26T22:10:22.385Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -50,10 +49,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/a3d7a343-ce5b-47b1-b973-ec494cdddc75/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-26T22:10:22.385Z",
-      "summary": null,
+      "summary": "SNKRDUNKにコムデギャルソンのバッグ「TS-K202」(状態C)が¥6,100で中古出品された。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "e41cf747b80e68af",
@@ -64,10 +64,11 @@
       "image": "https://cdn.snkrdunk.com/used_listing/949993/d656f900-1c53-4729-89d1-beb9eaef6d88.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-26T22:10:22.385Z",
-      "summary": null,
+      "summary": "SNKRDUNKにコムデギャルソン オム×ニューバランスのスニーカー「CT300」ブラック(29cm、状態C、箱・包装紙なし)が¥13,880で中古出品された。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "bcae88bb00709a13",
@@ -78,10 +79,8 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-26T22:10:22.386Z",
-      "summary": null,
-      "tags": [
-        "ショー/コレクション"
-      ]
+      "summary": "(要約取得不可)",
+      "tags": []
     },
     {
       "id": "b55edf8b8c036659",
@@ -92,7 +91,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-26T22:10:22.385Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -104,10 +103,8 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-26T22:10:22.386Z",
-      "summary": null,
-      "tags": [
-        "ショー/コレクション"
-      ]
+      "summary": "(要約取得不可)",
+      "tags": []
     },
     {
       "id": "e638532efc4ad711",
@@ -118,10 +115,8 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-26T22:10:22.386Z",
-      "summary": null,
-      "tags": [
-        "ショー/コレクション"
-      ]
+      "summary": "(要約取得不可)",
+      "tags": []
     },
     {
       "id": "d1e57b5f65727df9",
@@ -132,10 +127,8 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-26T22:10:22.385Z",
-      "summary": null,
-      "tags": [
-        "二次流通"
-      ]
+      "summary": "(要約取得不可)",
+      "tags": []
     },
     {
       "id": "b48e8cb3d9c1f3e6",
@@ -146,10 +139,8 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-26T22:10:22.385Z",
-      "summary": null,
-      "tags": [
-        "ショー/コレクション"
-      ]
+      "summary": "(要約取得不可)",
+      "tags": []
     },
     {
       "id": "ed3818f085102063",
@@ -2820,20 +2811,6 @@
       "importance": 2
     },
     {
-      "id": "70bd1923af7fba36",
-      "title": "Supreme×コムデギャルソンシャツ COMME des GARCONS SHIRT 18aw C.D.G SHIRT Printed Canvas Chore Coat S ペイント加工｜au PAY マーケット - Radio Più – Emittente Agordina",
-      "url": "https://www.radiopiu.net/wordpress/dillo-a-radio-piu-il-ricordo-di-loris-doriano-romano/",
-      "publishedAt": "2026-06-12T07:06:48.000Z",
-      "publisher": "Radio Più – Emittente Agordina",
-      "image": "https://www.radiopiu.net/wordpress/wp-content/uploads/2026/06/Screenshot-2026-06-12-090147.png",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-26T22:10:22.386Z",
-      "summary": null,
-      "tags": [
-        "二次流通"
-      ]
-    },
-    {
       "id": "69fe9b141efde2a1",
       "title": "コムデギャルソン・川久保玲～「黒の衝撃」から半世紀、ファッションで「反骨精神」「反戦」を体現する挑戦者（nippon.com） - Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/articles/4e5aecc1eeb65e033166bd3df6f5d7f6415910a4",
@@ -3339,10 +3316,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/5a313161-f82c-4269-8829-10b0af54eebe.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-26T22:10:22.386Z",
-      "summary": null,
+      "summary": "SNKRDUNKにコムデギャルソン シャツの「EVA Resin Pocket Tuck Shorts」ブラック(品番CDGSH-0111)が新品・中古とも¥38,000〜で出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "a90cfcdfeb16436f",
@@ -3845,10 +3823,11 @@
       "image": "https://cdn.snkrdunk.com/images/ogp/og-image.png",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-26T22:10:22.386Z",
-      "summary": null,
+      "summary": "SNKRDUNKのコムデギャルソン オムプリュス ブランド専用ページ。同ブランドの新品・中古アパレルをカテゴリ別に閲覧できる一覧ページ。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "991684a1d064c867",
@@ -4501,8 +4480,12 @@
       "image": "https://data2.nssmag.com/images/galleries/46975/nssgclub-Christian-Astuguevieille.webp",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-26T22:10:22.853Z",
-      "summary": null,
-      "tags": []
+      "summary": "コムデギャルソンの香水クリエイティブディレクター、クリスチャン・アストゥゲヴィエイユ氏が2月13日に79歳で死去。1994年から川久保玲と組み、実験的な「アンチ・パフューム」を約30年間手掛けてきた。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2,
+      "cluster": "astuguevieille-obituary"
     },
     {
       "id": "31baad1c4ac4973d",
@@ -4513,7 +4496,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-26T22:10:22.386Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ",
         "ショー/コレクション",
@@ -4545,7 +4528,8 @@
         "その他"
       ],
       "image": "https://wwd.com/wp-content/uploads/2026/02/C.A.-Portrait-2-Cedric-Delaunoy.jpg?crop=0px%2C325px%2C2996px%2C1682px&resize=1000%2C563",
-      "importance": 3
+      "importance": 3,
+      "cluster": "astuguevieille-obituary"
     },
     {
       "id": "5067d9ebfddc0973",
