@@ -1,13 +1,21 @@
-# CDG Watch デイリーダイジェスト 2026-07-27
+# CDG Watch デイリーダイジェスト 2026-07-28
 
-- **SNKRDUNKにブラック コムデギャルソンのバッグが¥20,600で中古出品**
-  状態C(内側に汚れあり)。真贋鑑定付きの中古マーケットプレイスにて。
-  https://snkrdunk.com/apparel-free-used-items/48392314
+- **⚠古 コムデギャルソン×ナイキ、新コラボ「Air Max Dolce SP」を発表**
+  ローファー調のトゥボックスやパテントレザー使いが特徴。ホワイト・ブラックの2色展開予定。
+  https://www.highsnobiety.com/p/nike-comme-des-garcons-air-max-dolce-sp/
 
-- **コムデギャルソン オム×ニューバランス「CT300」ブラックが¥13,880で中古出品**
-  29cm、状態C(箱・包装紙なし)。SNKRDUNKにて真贋鑑定付きで販売。
-  https://snkrdunk.com/products/CT300JU3/used/48374809
+- **COMME des GARCONS「JOHNSON LEATHERS」スタジャンの中古がSNKRDUNKに出品**
+  黒・XSサイズ、状態C、38,600円。
+  https://snkrdunk.com/apparel-free-used-items/48417878
 
-- **コムデギャルソン シャツ「EVA Resin Pocket Tuck Shorts」ブラックが新品・中古とも¥38,000〜**
-  品番CDGSH-0111。SNKRDUNKで取り扱い中。
-  https://snkrdunk.com/apparels/816702
+- **AD2009パッチワークデザインノースリーブカットソーの中古がSNKRDUNKに出品**
+  黒・Sサイズ、状態B、36,300円。
+  https://snkrdunk.com/apparel-free-used-items/48403824
+
+- **コムデギャルソン オムプリュス×サロモン SR90の中古スニーカーがSNKRDUNKに出品**
+  ブラック、29cm、5万円。
+  https://snkrdunk.com/products/L4716240030/used/48399052
+
+- **⚠古 コムデギャルソン AD2014のレイヤードカーディガンの中古がSNKRDUNKに出品**
+  黒・EU Mサイズ、状態C、15,300円。
+  https://snkrdunk.com/apparel-free-used-items/47612624
