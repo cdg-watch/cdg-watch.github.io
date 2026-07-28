@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T22:18:03.594Z",
+  "updatedAt": "2026-07-28T22:12:10.453Z",
   "items": [
     {
       "id": "5111c1600cbe5b95",
@@ -615,6 +615,21 @@
         "二次流通"
       ],
       "importance": 1
+    },
+    {
+      "id": "aaf7296567226192",
+      "title": "【動画】大橋めりさ、渋谷クロスFM『Tokyo Shibuya Collection PRESS』でコムデギャルソンとの出会い、おすすめの夏ファッション語る！ - ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/wwschannel/entertainment/wwschannel-656763",
+      "publishedAt": "2026-07-22T10:45:00.000Z",
+      "publisher": "ｄメニューニュース",
+      "image": "https://pub-6e6736ba37d64d4aa5ae63b074884090.r2.dev/2026/07/ohashi00.jpg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-07-28T22:11:56.952Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション",
+        "インタビュー"
+      ]
     },
     {
       "id": "a3bcf52930d71ecd",
@@ -3513,6 +3528,20 @@
       "importance": 2
     },
     {
+      "id": "f4d939e50ecfccfe",
+      "title": "A BATHING APE x COMME des GARCONS Screen Tee \"Black\"の新品/中古服・ブランド古着通販｜スニダン - SNKRDUNK",
+      "url": "https://snkrdunk.com/apparels/813869",
+      "publishedAt": "2026-04-29T07:00:00.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/0acdfffd-eebe-4074-89e0-78a60c7270ff.webp",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-07-28T22:11:56.952Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
+    },
+    {
       "id": "d1cbb611e898a2f9",
       "title": "A BATHING APE x COMME des GARCONS By Bathing Ape Socks \"Black\"の新品/中古服・ブランド古着通販｜スニダン - SNKRDUNK",
       "url": "https://snkrdunk.com/apparels/813880",
@@ -4227,6 +4256,18 @@
       ],
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/571fc4cf-51cb-43f6-aee9-896deaa03585.webp",
       "importance": 1
+    },
+    {
+      "id": "aa0f42b44ad3c09e",
+      "title": "コムデギャルソンやシュプリームなど - 三軒茶屋経済新聞",
+      "url": "https://sancha.keizai.biz/photoflash/2722/",
+      "publishedAt": "2026-03-18T07:00:00.000Z",
+      "publisher": "三軒茶屋経済新聞",
+      "image": "https://images.keizai.biz/sancha_keizai/photonews/1773803605_b.jpg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-07-28T22:11:56.952Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "af5bb468e99e19e7",
