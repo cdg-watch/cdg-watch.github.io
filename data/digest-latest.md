@@ -1,21 +1,21 @@
-# CDG Watch デイリーダイジェスト 2026-07-28
+# CDG Watch デイリーダイジェスト 2026-07-29
 
-- **⚠古 コムデギャルソン×ナイキ、新コラボ「Air Max Dolce SP」を発表**
-  ローファー調のトゥボックスやパテントレザー使いが特徴。ホワイト・ブラックの2色展開予定。
-  https://www.highsnobiety.com/p/nike-comme-des-garcons-air-max-dolce-sp/
+- **⚠古 川久保玲、パリメンズ後インタビューで「ブラックホール」コレクションを語る**
+  社会情勢への懸念と個人的な葛藤から黒基調のコムデギャルソン・オムプリュス最新コレクションを制作したと明かした。
+  https://senken.co.jp/posts/comme-des-garcons-260127
 
-- **COMME des GARCONS「JOHNSON LEATHERS」スタジャンの中古がSNKRDUNKに出品**
-  黒・XSサイズ、状態C、38,600円。
-  https://snkrdunk.com/apparel-free-used-items/48417878
+- **⚠古 「コムデギャルソンシャツ」新作、箔やキルティングのアイテム充実**
+  箔をあしらったジャケット・シャツやキルティングベスト(ラベンハムとの協業)など、26-27年秋冬の新作を紹介。
+  https://senken.co.jp/posts/comme-des-garcons-260202
 
-- **AD2009パッチワークデザインノースリーブカットソーの中古がSNKRDUNKに出品**
-  黒・Sサイズ、状態B、36,300円。
-  https://snkrdunk.com/apparel-free-used-items/48403824
+- **⚠古 コム デ ギャルソン、メキシカーナとコラボしたメキシコブーツを発表**
+  "CDG"メタルチャーム付き、ブラックとひび割れ加工ホワイトの2色、85,800円。2026年2月4日より青山店ほかで順次発売。
+  https://www.fashion-press.net/news/142404
 
-- **コムデギャルソン オムプリュス×サロモン SR90の中古スニーカーがSNKRDUNKに出品**
-  ブラック、29cm、5万円。
-  https://snkrdunk.com/products/L4716240030/used/48399052
+- **⚠古 26-27年秋冬パリ・メンズファッションウィーク総括、コムデギャルソン・オムプリュスは黒を解体するデザインを展開**
+  フレアクロップやニッカーボッカーなど造形的なボリュームのパンツも披露。
+  https://senken.co.jp/posts/paris-fw-260127
 
-- **⚠古 コムデギャルソン AD2014のレイヤードカーディガンの中古がSNKRDUNKに出品**
-  黒・EU Mサイズ、状態C、15,300円。
-  https://snkrdunk.com/apparel-free-used-items/47612624
+- **⚠古 BLACK COMME des GARÇONS×ナイキ「LD-1000」コラボが判明、スピリットピンクの配色**
+  黒メッシュ+起毛スエードにピンクのレザーディテール。2018年のエアマックス180と同系統の配色を踏襲。
+  https://www.highsnobiety.com/p/comme-des-garcons-nike-ld-1000/
