@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T22:12:08.597Z",
+  "updatedAt": "2026-07-29T22:14:38.234Z",
   "items": [
     {
       "id": "bf152cf97cd585cb",
@@ -10,7 +10,7 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGOM-0417.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-29T22:11:49.683Z",
-      "summary": null,
+      "summary": "SNKRDUNKにCOMME des GARCONS HOMMEのブラックニット(セーター)が新品・中古合わせて¥49,159から出品されている。",
       "tags": [
         "二次流通"
       ]
@@ -24,7 +24,7 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/282b9039-63b5-4469-85d6-8bdc95d4c222/977133.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-29T22:11:49.683Z",
-      "summary": null,
+      "summary": "SNKRDUNKにコムデギャルソンの1986年復刻Tシャツ(白・Sサイズ)の中古品が出品。表参道店購入・数回着用で状態はB、価格¥12,000。",
       "tags": [
         "二次流通"
       ]
@@ -188,7 +188,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-29T22:11:50.346Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -3918,7 +3918,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-29T22:11:49.684Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "インタビュー"
       ]
@@ -4073,8 +4073,12 @@
       "image": "https://images.keizai.biz/sancha_keizai/photonews/1773803605_b.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-29T22:11:49.684Z",
-      "summary": null,
-      "tags": []
+      "summary": "三軒茶屋経済新聞のフォトニュース。リユースショップ「セカンドストリート三軒茶屋店」が3月19日にキャロットタワー2階で開店し、コムデギャルソンやシュプリームなどのブランド古着を扱う。",
+      "tags": [
+        "店舗",
+        "二次流通"
+      ],
+      "importance": 1
     },
     {
       "id": "af5bb468e99e19e7",
@@ -4925,11 +4929,13 @@
       "publisher": "dscene magazine",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "COMME des GARCONS HOMME PLUSの26AWコレクション「Black Hole」を紹介。川久保玲は閉じ込めと脱出をテーマに、切り込みや開口部でクラシックなメンズウェアの構造を再構築した。",
       "tags": [
         "ショー/コレクション"
       ],
-      "image": "https://www.designscene.net/wp-content/uploads/2026/01/Comme-des-Garcons-Homme-Plus-Fall-Winter-2026-00.webp"
+      "image": "https://www.designscene.net/wp-content/uploads/2026/01/Comme-des-Garcons-Homme-Plus-Fall-Winter-2026-00.webp",
+      "cluster": "cdg-hommeplus-26aw-blackhole",
+      "importance": 2
     },
     {
       "id": "adbb8c3a1da8c2ab",
@@ -4939,9 +4945,13 @@
       "publisher": "Sneaker Freaker",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://cdn.sanity.io/images/c1chvb1i/production/a2f05989e5f363edaa754aef9c3b8ce19e14dd30-1100x735.jpg"
+      "summary": "COMME des GARCONS SHIRTとASICSがGEL-1130でコラボ。ホワイトとブラックの2色展開でロゴを控えめに配し、2026年後半〜2027年初頭に発売予定。",
+      "tags": [
+        "コラボ",
+        "新作"
+      ],
+      "image": "https://cdn.sanity.io/images/c1chvb1i/production/a2f05989e5f363edaa754aef9c3b8ce19e14dd30-1100x735.jpg",
+      "importance": 2
     },
     {
       "id": "09452a2ffe2a9a44",
@@ -4951,11 +4961,12 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "SNKRDUNKにCOMME des GARCONS HOMMEのウールエステルヘリンボーンパンツ(ブラック、定価¥53,900)が出品待ちとして掲載されている。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/20260122015709-0.webp"
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/20260122015709-0.webp",
+      "importance": 1
     },
     {
       "id": "a1e34b316b108a09",
@@ -4965,9 +4976,11 @@
       "publisher": "Dazed",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "COMME des GARCONS HOMME PLUS 26AWコレクションのフォトギャラリー。ホッケーマスクを思わせる不吉な仮面が、コレクション全体の叙情的な雰囲気とあえて対比する演出になっていた。",
       "tags": [],
-      "image": "https://images-prod.dazeddigital.com/1200/0-161-1443-962/azure/dazed-prod/1430/4/1434990.jpg"
+      "image": "https://images-prod.dazeddigital.com/1200/0-161-1443-962/azure/dazed-prod/1430/4/1434990.jpg",
+      "cluster": "cdg-hommeplus-26aw-blackhole",
+      "importance": 2
     },
     {
       "id": "a902ea8e8c805af9",
@@ -4978,7 +4991,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-05T07:41:42.055Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -4989,7 +5002,7 @@
       "publisher": "朝日新聞",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "インタビュー"
       ],
@@ -5003,11 +5016,12 @@
       "publisher": "House of Heat°",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "COMME des GARCONS(HOMME PLUS)とAir Jordan 11がコラボ。Jordan Brand公式によるAJ11初のコラボとして「Black」(IV7639-001)と「White」(IV7639-100)の2色を2026年秋に発売予定。",
       "tags": [
         "コラボ"
       ],
-      "image": "https://cdn.sanity.io/images/pu5wtzfc/production/da8632bde1f965ae8c5604383866b227b792b7dc-1080x1350.jpg?rect=0,392,1080,567&w=1200&h=630"
+      "image": "https://cdn.sanity.io/images/pu5wtzfc/production/da8632bde1f965ae8c5604383866b227b792b7dc-1080x1350.jpg?rect=0,392,1080,567&w=1200&h=630",
+      "importance": 3
     },
     {
       "id": "21c6b3e03a778cdb",
@@ -5018,10 +5032,12 @@
       "image": "https://pausemag.co.uk/wp-content/uploads/2026/01/Screenshot-2026-01-24-at-13.32.40.png",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-12T22:09:31.783Z",
-      "summary": null,
+      "summary": "パリ・ファッションウィークで発表されたCOMME des GARCONS HOMME PLUS 26AWコレクションのルック写真40点以上を掲載するギャラリー記事。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "cluster": "cdg-hommeplus-26aw-blackhole",
+      "importance": 1
     },
     {
       "id": "49e72010e07c3765",
@@ -5031,9 +5047,11 @@
       "publisher": "AnOther Magazine",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "COMME des GARCONS HOMME PLUS 26AWコレクションのレビュー。「黒い穴から抜け出す」をテーマに保護と前向きさを表現し、仮面や重ねの仕立て、スローガン入りシューズを経て純白のフィナーレで締めくくった。",
       "tags": [],
-      "image": "https://images-prod.anothermag.com/1200/0-0-1333-888/azure/another-prod/460/8/468469.JPG"
+      "image": "https://images-prod.anothermag.com/1200/0-0-1333-888/azure/another-prod/460/8/468469.JPG",
+      "cluster": "cdg-hommeplus-26aw-blackhole",
+      "importance": 2
     },
     {
       "id": "fcfa9ec21f209b9c",
@@ -5043,9 +5061,11 @@
       "publisher": "10 Magazine",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "COMME des GARCONS HOMME PLUS 26AWコレクションを紹介。川久保玲は「暗い穴から抜け出そう」をテーマに、ウィッグやホッケーマスク、シルバーやブロケードのスーツを経て、白一色のフィナーレでラッフルが花開くように変化する構成を見せた。",
       "tags": [],
-      "image": "https://10magtesting.10magazine.com/wp-content/uploads/2026/01/Comme-FT-1.jpg"
+      "image": "https://10magtesting.10magazine.com/wp-content/uploads/2026/01/Comme-FT-1.jpg",
+      "cluster": "cdg-hommeplus-26aw-blackhole",
+      "importance": 2
     },
     {
       "id": "c6dc524b463b6cda",
