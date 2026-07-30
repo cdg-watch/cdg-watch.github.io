@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T22:11:48.758Z",
+  "updatedAt": "2026-07-30T22:15:55.435Z",
   "items": [
     {
       "id": "b1f0424b3ed09a58",
@@ -10,10 +10,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/661bbfd0-c569-4edd-b9e1-9ef6f6b02296/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-30T22:11:28.237Z",
-      "summary": null,
+      "summary": "スニーカーダンクに出品されたコムデギャルソンの中古シャツ「GQ-B023」(サイズS、状態C)の販売ページで、価格は45,600円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "6db25aa709ce6e0f",
@@ -24,10 +25,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/GS-0076.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-30T22:11:28.237Z",
-      "summary": null,
+      "summary": "大人向けG-SHOCKコラボモデルを紹介するSNKRDUNKの記事で、コムデギャルソンが2021年に期間限定ショップ「BLACK MARKET」で発売したDW-5600ベースの黒基調モデルが5選の一つとして取り上げられている。",
       "tags": [
-        "二次流通"
-      ]
+        "コラボ"
+      ],
+      "importance": 1
     },
     {
       "id": "e0eeea75e6947737",
@@ -38,10 +40,13 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/4f4feb2f-d615-48ce-9710-11a937b6440f.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-30T22:11:28.238Z",
-      "summary": null,
+      "summary": "COMME des GARCONS HOMME PLUS × Air Jordan 11の最新リーク情報をまとめたSNKRDUNKの記事。オールホワイトとオールブラックの2色で、レザーアッパーにパテントレザーのマッドガードを採用し2026年秋の海外発売が予定されているが、国内の抽選・価格情報は未定。",
       "tags": [
-        "二次流通"
-      ]
+        "コラボ",
+        "新作"
+      ],
+      "cluster": "cdg-airjordan11",
+      "importance": 3
     },
     {
       "id": "c0965dca3eb3dc8a",
@@ -52,8 +57,11 @@
       "image": "https://assets.vogue.ph/wp-content/uploads/2026/07/adrian-joffe-comme-de-garcon-vogue-philippines-L.webp",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-30T22:11:28.613Z",
-      "summary": null,
-      "tags": []
+      "summary": "Vogue Philippinesによるドーバーストリートマーケット/コムデギャルソン会長Adrian Joffeのインタビュー記事。マニラの新フラッグシップ店オープンを機に、創造性や携帯電話依存への懸念、5年計画を立てず有機的に事業を育てる姿勢について語っている。",
+      "tags": [
+        "インタビュー"
+      ],
+      "importance": 2
     },
     {
       "id": "0a28568f3bf0ffae",
@@ -64,10 +72,12 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/cfd27387-e2e1-4128-8c88-c391b080c2cb/7810174.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-30T22:11:28.238Z",
-      "summary": null,
+      "summary": "スニーカーダンクに出品されたCOMME des GARCONS HOMME × New Balance 580(23SSコラボ、27cm)の中古スニーカー販売ページ。状態B、価格25,278円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "cluster": "cdg-nb580",
+      "importance": 1
     },
     {
       "id": "f55f059448aef41c",
@@ -78,10 +88,12 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/572e4fe8-785a-44f0-8015-715cebd30b92/7810174.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-30T22:11:28.237Z",
-      "summary": null,
+      "summary": "スニーカーダンクに出品されたCOMME des GARCONS HOMME × New Balance 580(23SSコラボ、27cm、オフホワイト×ホワイト)の中古スニーカー販売ページ。状態C、価格18,678円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "cluster": "cdg-nb580",
+      "importance": 1
     },
     {
       "id": "d8109b2768a47906",
@@ -92,10 +104,11 @@
       "image": "https://cdn.snkrdunk.com/used_listing/2734432/46cfaac7-f6b3-49ce-9708-83bf7d726110.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-30T22:11:28.237Z",
-      "summary": null,
+      "summary": "スニーカーダンクに出品されたコムデギャルソン オムプリュス × ナイキ ターミネーター ハイ「ブラック」の中古スニーカー(24cm)販売ページ。状態B、価格20,000円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "bf152cf97cd585cb",
@@ -5171,11 +5184,14 @@
       "publisher": "Sole Retriever",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "Sole Retrieverによる報道で、COMME des GARCONSとAir Jordan 11の初コラボが判明。オールホワイトとオールブラックの2色で、2026年秋にドーバーストリートマーケット系列店とNike SNKRSで発売予定、価格は250ドル。",
       "tags": [
-        "コラボ"
+        "コラボ",
+        "新作"
       ],
-      "image": "https://images.soleretriever.com/blog/ce11b37e3bc4f985389e442d198a6d203f7862db-620x380.png?rect=0,27,620,326&w=1200&h=630&fit=fill&auto=format"
+      "image": "https://images.soleretriever.com/blog/ce11b37e3bc4f985389e442d198a6d203f7862db-620x380.png?rect=0,27,620,326&w=1200&h=630&fit=fill&auto=format",
+      "cluster": "cdg-airjordan11",
+      "importance": 3
     },
     {
       "id": "2dfb7a40f32614a6",
@@ -5185,11 +5201,12 @@
       "publisher": "Vogue",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
       ],
-      "image": "https://assets.vogue.com/photos/697494f67d28c9420a33dac2/16:9/pass/00001-comme-des-garcons-shirt-fall-2026-menswear-credit-gorunway.jpg"
+      "image": "https://assets.vogue.com/photos/697494f67d28c9420a33dac2/16:9/pass/00001-comme-des-garcons-shirt-fall-2026-menswear-credit-gorunway.jpg",
+      "importance": 2
     },
     {
       "id": "5ad0e766f1f71c66",
@@ -5199,9 +5216,12 @@
       "publisher": "to Be Magazine",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://tobemagazine.co/wp/wp-content/uploads/2026/01/00041-comme-des-garcons-homme-plus-fall-2026-menswear-credit-gorunway-scaled.webp"
+      "summary": "(要約取得不可)",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "image": "https://tobemagazine.co/wp/wp-content/uploads/2026/01/00041-comme-des-garcons-homme-plus-fall-2026-menswear-credit-gorunway-scaled.webp",
+      "importance": 2
     },
     {
       "id": "5ba9a1b7fe2dcedc",
@@ -5211,11 +5231,13 @@
       "publisher": "WWD",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
       ],
-      "image": "https://wwd.com/wp-content/uploads/2026/01/comme-des-garcons-air-jordan-11-10.jpg?w=1000&h=563&crop=1"
+      "image": "https://wwd.com/wp-content/uploads/2026/01/comme-des-garcons-air-jordan-11-10.jpg?w=1000&h=563&crop=1",
+      "cluster": "cdg-airjordan11",
+      "importance": 3
     },
     {
       "id": "d16164cb41adec05",
@@ -5225,12 +5247,14 @@
       "publisher": "Complex",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "Complexの記事によると、COMME des GARCONSとAir Jordan 11のコラボは2026年内発売予定で、ブラックとホワイトの2色展開。レザーアッパーとパテントレザーのミッドソールが特徴で、パリファッションウィーク中に日本ファッションレーベルのショールームで披露された。",
       "tags": [
         "コラボ",
         "新作"
       ],
-      "image": "https://images.complex.com/complex/image/upload/c_crop,h_969,w_1440,x_0,y_0/g_xy_center,x_720,y_485/v1769271370/sanity-new%2Fimgi_2_621657984_18559905532050859_4688502116497270357_n_omvwwc"
+      "image": "https://images.complex.com/complex/image/upload/c_crop,h_969,w_1440,x_0,y_0/g_xy_center,x_720,y_485/v1769271370/sanity-new%2Fimgi_2_621657984_18559905532050859_4688502116497270357_n_omvwwc",
+      "cluster": "cdg-airjordan11",
+      "importance": 3
     },
     {
       "id": "627b4500b4bfa568",
@@ -5240,11 +5264,13 @@
       "publisher": "Nice Kicks",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
       ],
-      "image": "https://www.nicekicks.com/files/2026/01/imgi_22_621657984_18559905532050859_4688502116497270357_n-1-e1769366048451.jpeg"
+      "image": "https://www.nicekicks.com/files/2026/01/imgi_22_621657984_18559905532050859_4688502116497270357_n-1-e1769366048451.jpeg",
+      "cluster": "cdg-airjordan11",
+      "importance": 3
     },
     {
       "id": "1b58b43f9e687c68",
@@ -5252,13 +5278,14 @@
       "url": "https://www.fashion-press.net/news/142550",
       "publishedAt": "2026-01-23T19:35:00.000Z",
       "publisher": "ファッションプレス",
-      "image": null,
+      "image": "https://www.fashion-press.net/img/news/142550/top.jpg?1769190416",
       "feed": "Fashion Press",
       "fetchedAt": "2026-07-10T03:42:51.428Z",
-      "summary": null,
+      "summary": "ファッションプレスによる、コム デ ギャルソン・オム プリュス2026-27年秋冬コレクションのレポート。「ブラックホール」をテーマに黒基調の質感やラッフル装飾で空間の歪みを表現し、フィナーレでは白のテーラリングで爆発的な光を演出。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 3
     },
     {
       "id": "babef17591dd7203",
@@ -5269,10 +5296,11 @@
       "image": "https://wwd.com/wp-content/uploads/2026/01/comme-des-garcons-fall-26-rtw-men-fr-sf-001_5c56e3.jpeg?crop=0px%2C22px%2C1365px%2C763px&resize=1000%2C563",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-10T03:22:18.124Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "ee58ab76e2942446",

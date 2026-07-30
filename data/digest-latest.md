@@ -1,21 +1,21 @@
-# CDG Watch デイリーダイジェスト 2026-07-30
+# CDG Watch デイリーダイジェスト 2026-07-31
 
-- **⚠古 コム デ ギャルソン、Air Jordan 11と初コラボ**
-  Jordan Brand公式によるAJ11初のコラボとして「Black」(IV7639-001)と「White」(IV7639-100)の2色を2026年秋に発売予定。
-  https://houseofheat.co/jordan/comme-des-grarcons-air-jordan-11-black-white-pack-release-date
+- **ドーバーストリートマーケット/CDG会長 Adrian Joffe、Vogue Philippinesのインタビューに応じる**
+  マニラの新フラッグシップ店オープンを機に、「携帯電話を捨てて本を読むべき」という創造性への提言や、5年計画を立てず有機的に事業を育てる姿勢を語った。
+  https://vogue.ph/fashion/conversation-with-adrian-joffe-of-dover-street-market-and-comme-des-garcons/
 
-- **⚠古 COMME des GARCONS SHIRT×ASICS「GEL-1130」コラボ発表**
-  ホワイトとブラックの2色展開でロゴを控えめに配したミニマルな仕上がり。2026年後半〜2027年初頭に発売予定。
-  https://www.sneakerfreaker.com/releases/comme-des-garcons-shirt-asics-gel-1130-price-buy-release-date
+- **⚠古 COMME des GARCONS HOMME PLUS × Air Jordan 11、Sole Retriever・Complexなど各誌が追加報道**
+  オールホワイト/オールブラックの2色、型番IV7639-001/100、価格250ドルで2026年秋発売予定と判明。ドーバーストリートマーケット系列店とNike SNKRSでの取り扱いが見込まれる。
+  https://www.soleretriever.com/news/articles/comme-des-garcons-cdg-air-jordan-11-collaboration-release-date-fall-winter-2026
 
-- **⚠古 COMME des GARCONS HOMME PLUS 26AW「Black Hole」コレクション、各誌でレビュー**
-  川久保玲は「暗い穴から抜け出そう」をテーマに、仮面や重ねの仕立てを経て純白のフィナーレで締めくくった。
-  https://10magazine.com/comme-des-garcons-homme-plus-menswear-aw26/
+- **⚠古 HOMME PLUS 2026-27年秋冬「ブラックホール」コレクション、ファッションプレスが詳細レポート**
+  黒基調の質感とラッフル装飾で"空間の歪み"を表現し、フィナーレは白のテーラリングで爆発的な光を演出。
+  https://www.fashion-press.net/news/142550
 
-- **SNKRDUNKにコムデギャルソン1986年復刻Tシャツの中古品が出品**
-  表参道店購入・数回着用で状態B、価格¥12,000。
-  https://snkrdunk.com/apparels/26731/used/48382360
+- **大人のG-SHOCKコラボ特集でCDG×G-SHOCK(2021年「BLACK MARKET」限定)が紹介**
+  DW-5600ベースの黒基調モデルが、人とかぶりにくい大人向けコラボ時計の一つとして選出。
+  https://snkrdunk.com/articles/32906/
 
-- **⚠古 三軒茶屋にリユースショップ開店、コムデギャルソンなど扱う**
-  「セカンドストリート三軒茶屋店」が3月19日にキャロットタワー2階でオープン。
-  https://sancha.keizai.biz/photoflash/2722/
+- **SNKRDUNKにコムデギャルソンの中古シャツ・スニーカーが複数出品**
+  「GQ-B023」シャツ(45,600円)や HOMME × New Balance 580(23SS、18,678円/25,278円)など。
+  https://snkrdunk.com/apparel-free-used-items/48526111
