@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T22:10:47.189Z",
+  "updatedAt": "2026-07-31T22:16:38.924Z",
   "items": [
     {
       "id": "a1cf91ae99f82cc9",
@@ -10,10 +10,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/e76cb061-ab0f-410e-9134-ad3aa3b2f702/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-31T22:10:35.306Z",
-      "summary": null,
+      "summary": "SNKRDUNKに出品されたコムデギャルソン「DN-J030」ジャケット(サイズM・ブラック)の中古出品。状態はC(袖に擦れ)、価格は60,600円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "a7ead4f019134826",
@@ -24,10 +25,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/5cfcff75-3e22-4f09-822f-2028edb3ff46/7503476.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-31T22:10:35.307Z",
-      "summary": null,
+      "summary": "SNKRDUNKに出品されたコムデギャルソン シャツのストライプ長袖シャツ(サイズXL・ブルー)の中古出品。状態はB(目立った傷や汚れなし)、価格は25,000円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "703233d9cdf91812",
@@ -38,10 +40,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/72b51c15-a94a-41af-b1d5-a9becc3dae34/7814877.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-31T22:10:35.307Z",
-      "summary": null,
+      "summary": "SNKRDUNKに出品された1980年代のコムデギャルソン ポリエステルスカート(サイズM・ブラック)の中古出品。状態はD(内側ウエストのシミ、太もも部の毛羽立ちなど)、価格は9,350円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "edf712a28b03802e",
@@ -52,10 +55,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/a625753b-3be0-431d-9167-c5cafa782231/7814877.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-31T22:10:35.307Z",
-      "summary": null,
+      "summary": "SNKRDUNKに出品された1988年製コムデギャルソン ポリエステルスカート(サイズM・ダークネイビー)の中古出品。状態はB、価格は17,050円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "b1f0424b3ed09a58",
@@ -81,10 +85,12 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/6592a6b8-cc88-4b2d-ae55-d7236ab7aca2.webp\",\"imageUrls\":{\"l\":\"https://cdn.snkrdunk.com/upload_bg_removed/6592a6b8-cc88-4b2d-ae55-d7236ab7aca2.webp?size=l\",\"m\":\"https://cdn.snkrdunk.com/upload_bg_removed/6592a6b8-cc88-4b2d-ae55-d7236ab7aca2.webp?size=m\",\"s\":\"https://cdn.snkrdunk.com/upload_bg_removed/6592a6b8-cc88-4b2d-ae55-d7236ab7aca2.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-31T22:10:35.307Z",
-      "summary": null,
+      "summary": "SNKRDUNKの記事。コム デ ギャルソン オムとニューバランス「2010」のコラボスニーカーが2026年3月20日にチャコールとクリームの2色で発売、価格は42,900円。Digital MountainとZOTOWNでオンライン予約受付中。",
       "tags": [
-        "二次流通"
-      ]
+        "二次流通",
+        "コラボ"
+      ],
+      "importance": 2
     },
     {
       "id": "6db25aa709ce6e0f",
@@ -3067,8 +3073,11 @@
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3MqkJ5UaD7WaLMXgqHAO4-5mK3Mj2f-Y-21YfeYSfmuZWFFV-_u-SVCvFVRgjdyBMyBZPGtyx3hD5gBRfXi5u4Y1mWiJu-YWFC3k3G3CY4bxeBcyx2bbfJZTaEzXia0GwUPubz0j5VQDZ-bzQ0v-XRA==",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-31T22:10:35.308Z",
-      "summary": null,
-      "tags": []
+      "summary": "Yahoo!ニュース(OCEANS転載)のショーツコーディネート特集記事。5選の一つとして「パンツ＝コムデギャルソン」とスタイリング例中で言及されているのみ。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "a6be2f301134d904",
@@ -5074,10 +5083,13 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/c7ce87cd-7f43-48cd-acdb-f10ad5425323.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-31T22:10:35.308Z",
-      "summary": null,
+      "summary": "SNKRDUNKのリーク記事。コム デ ギャルソン オム プリュスとナイキ「エア ジョーダン11」のコラボがオールブラック・オールホワイトの2色で2026年に海外発売予定と報じられているが、国内の抽選・価格情報は未定でリーク段階のため実現しない可能性もあるとしている。",
       "tags": [
-        "二次流通"
-      ]
+        "コラボ",
+        "新作"
+      ],
+      "importance": 2,
+      "cluster": "cdg-airjordan11"
     },
     {
       "id": "c0d66d9039133f2c",
@@ -5407,20 +5419,12 @@
       "image": "https://media.fashionnetwork.com/cdn-cgi/image/fit=cover,width=600,height=600,format=auto/m/0838/c0df/032c/7b1c/3c0f/5ed9/8186/681a/2856/9e4e/9e4e.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:34:52.844Z",
-      "summary": null,
-      "tags": []
-    },
-    {
-      "id": "19abbe1c0cee2bd9",
-      "title": "Paris menswear Friday: Junya Watanabe, Willy Chavarria, and Comme des Garçons - FashionNetwork France",
-      "url": "https://us.fashionnetwork.com/news/Paris-menswear-friday-junya-watanabe-willy-chavarria-and-comme-des-garcons,1800913.html",
-      "publishedAt": "2026-01-23T08:00:00.000Z",
-      "publisher": "FashionNetwork France",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-05T00:47:55.988Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://media.fashionnetwork.com/cdn-cgi/image/fit=cover,width=600,height=600,format=auto/m/0838/c0df/032c/7b1c/3c0f/5ed9/8186/681a/2856/9e4e/9e4e.jpg"
+      "summary": "(要約取得不可)",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 2,
+      "cluster": "cdg-hommeplus-26aw-blackhole"
     },
     {
       "id": "1dab4fd8d0ea5af6",
@@ -5430,9 +5434,13 @@
       "publisher": "WWD",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://wwd.com/wp-content/uploads/2026/01/comme-des-garcons-fall-2026-rtw-men-r-gg-0001.jpg?w=1000&h=563&crop=1"
+      "summary": "(要約取得不可)",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "image": "https://wwd.com/wp-content/uploads/2026/01/comme-des-garcons-fall-2026-rtw-men-r-gg-0001.jpg?w=1000&h=563&crop=1",
+      "importance": 2,
+      "cluster": "cdg-hommeplus-26aw-blackhole"
     },
     {
       "id": "bb408cac71b13bed",
@@ -5442,9 +5450,13 @@
       "publisher": "Hypebeast",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
-      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F01&#x25;2F23&#x25;2Fcomme-des-garcons-homme-plus-fall-winter-2026-paris-fashion-week-runway-collection-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
+      "summary": "(要約取得不可)",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F01&#x25;2F23&#x25;2Fcomme-des-garcons-homme-plus-fall-winter-2026-paris-fashion-week-runway-collection-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max",
+      "importance": 2,
+      "cluster": "cdg-hommeplus-26aw-blackhole"
     },
     {
       "id": "17383e94e9e12a80",
@@ -5454,12 +5466,12 @@
       "publisher": "fashionsnap.com",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "fashionsnap.comの記事。渋谷パルコ内にコム デ ギャルソンの新店舗がオープン(渋谷区宇田川町15-1、営業時間11:00〜21:00、3階ウィメンズ・2階メンズ)。川久保玲が総合ディレクションと内装デザインを担当し、渋谷の若年層やインバウンド客への訴求を狙う。",
       "tags": [
-        "店舗",
-        "インタビュー"
+        "店舗"
       ],
-      "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2025/04/comme-des-garcons-shop-20250418_049-5019459e-2df6-4d27-874d-0cec1ff0dd12.jpg"
+      "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2025/04/comme-des-garcons-shop-20250418_049-5019459e-2df6-4d27-874d-0cec1ff0dd12.jpg",
+      "importance": 2
     },
     {
       "id": "c4eea34c1b6cd558",
@@ -5470,8 +5482,11 @@
       "image": "https://images.oceans.tokyo.jp/media/snap/11057/images/main_image_f22fe7e2587a1c689883a2e141c1b312a3fcab8a.jpg?h=1200",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-05T07:41:41.492Z",
-      "summary": null,
-      "tags": []
+      "summary": "OCEANSのストリートスナップ企画。44歳の今城克典さんがコム デ ギャルソン オム プリュスのシャツを使ったコーディネートを紹介している。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "61406502b7914144",
@@ -5482,10 +5497,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-11T22:09:22.056Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "新作"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "6137eab58ade79f6",
@@ -5495,9 +5511,12 @@
       "publisher": "OCEANS オーシャンズ",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://images.oceans.tokyo.jp/media/snap/11014/images/main_image_e14d97cb2c631cb89f3f22ae49c43751e26d7c21.jpg?h=1200"
+      "summary": "OCEANSのストリートスナップ企画。27歳の人物がコム デ ギャルソンのコートを使ったコーディネートを紹介している。",
+      "tags": [
+        "その他"
+      ],
+      "image": "https://images.oceans.tokyo.jp/media/snap/11014/images/main_image_e14d97cb2c631cb89f3f22ae49c43751e26d7c21.jpg?h=1200",
+      "importance": 1
     },
     {
       "id": "3d5f976a1c992a46",
