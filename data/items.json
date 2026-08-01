@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T22:11:08.167Z",
+  "updatedAt": "2026-08-01T22:15:13.345Z",
   "items": [
     {
       "id": "59c62b76ce459cce",
@@ -10,10 +10,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/ea7924e4-e841-4897-b427-2a3cdb13d6b7/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-01T22:10:50.727Z",
-      "summary": null,
+      "summary": "コムデギャルソンのTシャツ「KI-T001」(2022年モデル、サイズS)の中古品がSNKRDUNKに出品された。状態はC(やや傷や汚れあり)。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "5cefbc0ed61314c6",
@@ -24,7 +25,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-01T22:10:50.727Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
       ]
@@ -38,24 +39,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/bf1de54d-7500-474f-af3d-afc04cfac7a2/7810174.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-01T22:10:50.727Z",
-      "summary": null,
+      "summary": "ジュンヤワタナベ コムデギャルソン マンの2007年秋冬(07AW)ベルテッドトレンチコートがSNKRDUNKに中古出品された。オールレザーで裏地はカモ柄、状態はD(傷や汚れあり)。",
       "tags": [
         "二次流通"
-      ]
-    },
-    {
-      "id": "ec8f925bb43d885a",
-      "title": "GODSIZE ゴッドサイズ TINY CROSS PENDANT タイニークロス ペンダント ボールチェーン ネックレス シルバー系【中古】 - SNKRDUNK",
-      "url": "https://snkrdunk.com/apparel-free-used-items/48578059",
-      "publishedAt": "2026-08-01T03:41:35.000Z",
-      "publisher": "SNKRDUNK",
-      "image": "https://cdn.snkrdunk.com/apparel_used_listings/2cbaaca6-8ea7-41ac-9c62-1dfaf816316d/7810174.jpeg",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-08-01T22:10:50.727Z",
-      "summary": null,
-      "tags": [
-        "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "de3c812a914e1fe9",
@@ -66,10 +54,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/a3c20748-64ec-4e9a-bc7c-a418ac05e198/7810174.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-01T22:10:50.727Z",
-      "summary": null,
+      "summary": "コムデギャルソン オムの80年代ヴィンテージアーカイブのボタンダウンシャツ(ライトブルー、コットン)がSNKRDUNKに中古出品された。状態はD(傷や汚れあり)。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "a1cf91ae99f82cc9",
@@ -851,18 +840,6 @@
       "tags": [
         "二次流通"
       ]
-    },
-    {
-      "id": "8ed4a5e2c3e38e38",
-      "title": "ファッションを楽しむ20代のリアル。大人も学びたいセンス◎な着こなしをスナップでチェック！ - Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/bee9d4f6cae4218bf30c89115a8644ad1d814f4e/images/009",
-      "publishedAt": "2026-07-19T22:31:09.000Z",
-      "publisher": "Yahoo!ニュース",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3j2Xc-_ypRo_MbDt6ekL9RDQf-MI2132pRvx0zjwMS4nS4RD1ggkbZkVclAzCsyMep6Ciez4Yyg3oZP1zufAV9UVbQP0RTW7DGgt6EkdiH3SYg_b7bh8ZJQE39JCvG4PHyU8jxxY6RYsiqxkWRlb3-w==",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-08-01T22:10:50.727Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "500b38179d3022b6",
@@ -5486,7 +5463,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-08-01T22:10:51.183Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -5621,11 +5598,12 @@
       "image": "https://cdg-freak.com/wp-content/uploads/2023/01/CDG_AOYAMA_2023SS1.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-07-05T00:53:37.337Z",
-      "summary": null,
+      "summary": "CDG FREAKによると、2026年春夏セールは店舗により8月1〜3日または8月1〜4日、秋冬立ち上がりは8月5〜7日を予定。青山・大阪店は8月1〜4日休業しセールなしで8月5日から立ち上がり。",
       "tags": [
         "ショー/コレクション",
         "再販/セール"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "0b571fda7395dcdd",
@@ -5633,14 +5611,15 @@
       "url": "https://www.fashion-press.net/news/141348",
       "publishedAt": "2026-01-15T15:00:00.000Z",
       "publisher": "ファッションプレス",
-      "image": null,
+      "image": "https://www.fashion-press.net/img/news/141348/53g.jpg",
       "feed": "Fashion Press",
       "fetchedAt": "2026-07-10T03:42:51.428Z",
-      "summary": null,
+      "summary": "コム デ ギャルソン・ガール×ミズノのコラボスニーカーが2026年2月に発売。スクールシューズ風デザインでピンクの水玉ミズノロゴをあしらい、価格は31,900円、サイズは22.5〜26.0cm展開。",
       "tags": [
         "コラボ",
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "e9304b47ca64a11a",
@@ -5651,10 +5630,12 @@
       "image": "https://cdn.snkrdunk.com/used_listing/257637/50429b26-9c45-44ca-aa7d-969735322dcc.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-13T22:09:12.791Z",
-      "summary": null,
+      "summary": "コムデギャルソン×ナイキのワッフルレーサー「ブラック」27cmの中古品がSNKRDUNKに出品された。状態はC(やや傷や汚れあり)で、購入後10回程度の着用という。",
       "tags": [
-        "二次流通"
-      ]
+        "二次流通",
+        "コラボ"
+      ],
+      "importance": 1
     },
     {
       "id": "2231aaa89c412152",
@@ -5664,7 +5645,7 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
       ],
@@ -5678,7 +5659,7 @@
       "publisher": "Vogue AU",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [],
       "image": "https://www.vogue.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-vogue-169.svg"
     },
@@ -5690,9 +5671,10 @@
       "publisher": "OCEANS オーシャンズ",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "OCEANSのスナップ企画で、青山にて撮影された28歳男性のコーディネートにコムデギャルソンのコートが登場。具体的なスタイリング解説文はなし。",
       "tags": [],
-      "image": "https://images.oceans.tokyo.jp/media/snap/10798/images/main_image_4ee11fb943d4b7e5504a6a7c34a93480db79c8a9.jpg?h=1200"
+      "image": "https://images.oceans.tokyo.jp/media/snap/10798/images/main_image_4ee11fb943d4b7e5504a6a7c34a93480db79c8a9.jpg?h=1200",
+      "importance": 1
     },
     {
       "id": "02d7899ec6c6c872",
@@ -5702,11 +5684,12 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "コムデギャルソン オムのウールサージ ガーメントシュランクパンツ「ブラック」(参考価格49,500円)がSNKRDUNKのフリマ形式で出品された。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGOM-0141-1.webp"
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGOM-0141-1.webp",
+      "importance": 1
     },
     {
       "id": "6fc262e9f7b092c6",
@@ -5716,22 +5699,8 @@
       "publisher": "Yahoo!ニュース",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
-    },
-    {
-      "id": "d38c4e4c8a02f23e",
-      "title": "K-WAY と Play Comme des Garçons が最新コラボカプセルをドロップ - Hypebae",
-      "url": "https://hypebae.com/jp/2025/12/k-way-comme-des-garcons-play-collaboration-le-vrai-jacket-release-date",
-      "publishedAt": "2025-12-25T08:00:00.000Z",
-      "publisher": "Hypebae",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
-      "tags": [
-        "コラボ"
-      ],
-      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fjp.hypebeast.com&#x25;2Ffiles&#x25;2F2025&#x25;2F12&#x25;2FSingle-Image-562.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
     },
     {
       "id": "baa820e759ff1919",
@@ -5741,7 +5710,7 @@
       "publisher": "Hypebae",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ",
         "新作"
@@ -5756,11 +5725,12 @@
       "publisher": "RUSSH",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "RUSSHのインタビューで、コムデギャルソン パルファムのクリエイティブディレクター、Christian Astuguevieilleが、コンクリートやタールなど日常素材から着想を得る香水製作哲学と川久保玲との協働について語った。",
       "tags": [
         "インタビュー"
       ],
-      "image": "https://www.russh.com/wp-content/uploads/2025/12/Untitled-design-2026-01-26T184514.769.jpg"
+      "image": "https://www.russh.com/wp-content/uploads/2025/12/Untitled-design-2026-01-26T184514.769.jpg",
+      "importance": 2
     },
     {
       "id": "3477d201ace2ea52",

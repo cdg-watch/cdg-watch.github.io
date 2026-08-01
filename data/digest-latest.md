@@ -1,17 +1,17 @@
-# CDG Watch デイリーダイジェスト 2026-08-01
+# CDG Watch デイリーダイジェスト 2026-08-02
 
-- **⚠古 コム デ ギャルソン渋谷パルコ店の詳細が判明、川久保玲が総合ディレクション**
-  西武渋谷店跡に3階ウィメンズ・2階メンズの新店舗。白基調に円錐柱を配したウィメンズ、ブリキの円柱を並べたメンズと、渋谷の若年層・インバウンド客への訴求を狙う内装。
-  https://www.fashionsnap.com/article/cdg-shibuya-parco/
+- **⚠古 CDG FREAK、2026年春夏セール・秋冬立ち上がりスケジュールを更新**
+  青山・大阪店は8/1〜8/4休業しセールなしで8/5立ち上がり、丸の内・京都・福岡など主要店は8/1〜8/3セール・8/6立ち上がりと店舗ごとに日程が異なる。
+  https://cdg-freak.com/comme-des-garcons-newarrival-schedule/
 
-- **COMME des GARÇONS HOMME × New Balance「2010」、Digital Mountain/ZOTOWNで予約情報**
-  チャコール・クリームの2色、税込42,900円。3/20発売分の抽選/販売情報をSNKRDUNKがまとめて紹介。
-  https://snkrdunk.com/articles/29316/
+- **⚠古 コム デ ギャルソン・ガール×ミズノのコラボスニーカー、詳細判明**
+  スクールシューズ風デザインでピンクの水玉ミズノロゴをあしらい、価格31,900円・サイズ22.5〜26.0cm展開。
+  https://www.fashion-press.net/news/141348
 
-- **⚠古 HOMME PLUS × Nike Air Jordan 11、リーク記事が国内未定のまま海外発売見込みと報道**
-  オールブラック/オールホワイトの2色でレザーアッパー・パテントレザーのマッドガード仕様。リーク段階で実現しない可能性もあると注記。
-  https://snkrdunk.com/articles/31273/
+- **⚠古 コムデギャルソン パルファムのクリエイティブディレクター、Christian AstuguevieilleがRUSSHのインタビューに応じる**
+  コンクリートやタールなど日常素材から着想を得る香水製作哲学と、川久保玲との協働について語った。
+  https://www.russh.com/comme-des-garcon-parfums-christian-astugeuvieille/
 
 - **SNKRDUNKにコムデギャルソンの中古品が複数出品**
-  「DN-J030」ジャケット(60,600円)、SHIRTのストライプ長袖シャツ(25,000円)、80年代・1988年製ポリエステルスカート2点(9,350円/17,050円)など。
-  https://snkrdunk.com/apparel-free-used-items/48557656
+  ジュンヤワタナベ マン07AWベルテッドトレンチコート、オムの80年代ヴィンテージアーカイブシャツ、オムのウールサージパンツ(49,500円)、KI-T001 Tシャツなど。
+  https://snkrdunk.com/apparel-free-used-items/48604752
