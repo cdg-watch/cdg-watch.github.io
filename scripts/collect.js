@@ -81,6 +81,63 @@ const SOURCES = [
 const SPAM_URL_RE =
   /richardajkeys\.com|cfecgc-orange\.org|consumerthai\.org|lechodelabaie\.fr|cicus\.us\.es|(?:^|\/\/)(?:www\.)?tennis\.fi\/|radiopiu\.net/i;
 
+// 焼き直し記事ガード(2026-08-02)。同一媒体がほぼ同じタイトル・ほぼ同じ本文の
+// 記事を新しい記事IDで再発行し、publishedAt だけ新しい「新着」に見えるケースを
+// 収集時点で弾く(例: SNKRDUNK が1月のAJ11リーク記事 articles/31273 を7月に
+// articles/32920 としてほぼ同文で再発行。URLもタイトルのハッシュも異なるため
+// 既存の重複排除をすり抜け、importance 3 でSNS候補に上がりかけた)。
+// 判定: 同一媒体(publisher、無ければURLホスト)内で、正規化タイトルの
+// 文字バイグラムDice係数が REHASH_SIM 以上、かつ先頭セグメント(最初の「｜」まで)
+// が一致する場合に焼き直しとみなす。先頭セグメントは記事の状態を表すため
+// (「最新リーク」→「4/18発売」等)、発売日決定などの正当な続報は先頭が変わって
+// 通る(焼き直し=0.955 / 続報=0.907 / 別商品=0.75前後 で、しきい値0.9+先頭一致
+// により焼き直しのみ分離できることを既存519件の全ペア走査で確認済み)
+const REHASH_SIM = 0.9;
+
+export function normTitle(t) {
+  return t
+    .normalize("NFKC")
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[̀-ͯ]/g, "") // GARÇONS/GARCONS 等の表記ゆれを吸収
+    .replace(/[^\p{L}\p{N}]+/gu, "");
+}
+
+function bigrams(s) {
+  const set = new Set();
+  for (let i = 0; i < s.length - 1; i++) set.add(s.slice(i, i + 2));
+  return set;
+}
+
+export function titleSimilarity(a, b) {
+  const A = bigrams(normTitle(a));
+  const B = bigrams(normTitle(b));
+  if (!A.size || !B.size) return 0;
+  let inter = 0;
+  for (const g of A) if (B.has(g)) inter++;
+  return (2 * inter) / (A.size + B.size);
+}
+
+const titleLead = (t) => normTitle(t.split(/[｜|]/)[0]);
+
+function publisherKey(item) {
+  const p = (item.publisher ?? "").toLowerCase().trim();
+  if (p) return p;
+  try {
+    return new URL(item.url).hostname.replace(/^www\./, "");
+  } catch {
+    return "";
+  }
+}
+
+export function isRehashOf(item, prev) {
+  return (
+    publisherKey(item) === publisherKey(prev) &&
+    titleLead(item.title) === titleLead(prev.title) &&
+    titleSimilarity(item.title, prev.title) >= REHASH_SIM
+  );
+}
+
 // URL単位の重複排除の前処理。Yahoo!ニュースの画像サブページ(/images/001 等)は
 // 記事本体と同一記事のため、比較用に本体URLへ正規化する(#11)
 function normalizeUrl(url) {
@@ -450,6 +507,16 @@ async function main() {
     if (SPAM_URL_RE.test(it.url)) continue;
     const normalized = normalizeUrl(it.url);
     if (knownUrls.has(normalized)) continue;
+    // 焼き直し記事(同一媒体・同内容の新ID再発行)は既存項目+今回の採用分と
+    // タイトル類似度で照合して除外する。URL解決後でないとホスト判定が
+    // 中継URLになるため、この位置(Google News URL復元の後)で行う
+    const rehashed = [...existing.items, ...deduped].find((prev) =>
+      isRehashOf(it, prev)
+    );
+    if (rehashed) {
+      console.error(`[rehash] skip: ${it.title} (既出: ${rehashed.url})`);
+      continue;
+    }
     knownUrls.add(normalized);
     deduped.push(it);
   }
