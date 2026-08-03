@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T22:11:18.597Z",
+  "updatedAt": "2026-08-03T22:14:12.558Z",
   "items": [
     {
       "id": "d11d5b55bb736c48",
@@ -25,7 +25,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-03T22:11:03.568Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -37,10 +37,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/740c6ab7-9821-41ca-a13e-8fe30a8cfbc6/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-03T22:11:03.567Z",
-      "summary": null,
+      "summary": "SNKRDUNKにコムデギャルソン RC-T028 Tシャツ(サイズS)が出品中。中古(状態C・やや傷や汚れあり)で価格は15,600円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "a3f609875f5d81de",
@@ -51,10 +52,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/38b92010-0006-4118-8b99-8c5747b58f96/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-03T22:11:03.568Z",
-      "summary": null,
+      "summary": "SNKRDUNKにプレイコムデギャルソン AZ-T166 Tシャツが出品中。中古(状態C・やや傷や汚れあり)で価格は9,600円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "6b10caf18ae516b7",
@@ -110,7 +112,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-03T22:11:03.567Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
       ]
@@ -138,7 +140,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-03T22:11:03.568Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
       ]
@@ -953,18 +955,6 @@
       "tags": [
         "二次流通"
       ]
-    },
-    {
-      "id": "8ed4a5e2c3e38e38",
-      "title": "ファッションを楽しむ20代のリアル。大人も学びたいセンス◎な着こなしをスナップでチェック！ - Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/bee9d4f6cae4218bf30c89115a8644ad1d814f4e/images/009",
-      "publishedAt": "2026-07-19T22:31:09.000Z",
-      "publisher": "Yahoo!ニュース",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3j2Xc-_ypRo_MbDt6ekL9RDQf-MI2132pRvx0zjwMS4nS4RD1ggkbZkVclAzCsyMep6Ciez4Yyg3oZP1zufAV9UVbQP0RTW7DGgt6EkdiH3SYg_b7bh8ZJQE39JCvG4PHyU8jxxY6RYsiqxkWRlb3-w==",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-08-03T22:11:03.568Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "500b38179d3022b6",
@@ -2550,13 +2540,14 @@
       "url": "https://snkrdunk.com/apparels/837216",
       "publishedAt": "2026-06-29T10:15:28.000Z",
       "publisher": "SNKRDUNK",
-      "image": null,
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0920.webp?size=l",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-03T22:11:03.568Z",
-      "summary": null,
+      "summary": "SNKRDUNKにコムデギャルソン Crochet Pocket Shirt(白)が掲載。現在は「出品待ち」状態で価格は未公開。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "7ca1269252c135d7",
@@ -4656,8 +4647,11 @@
       "image": "https://senken.co.jp/production/uploads/file_content/file/402644/medium_1736.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-03T22:11:03.568Z",
-      "summary": null,
-      "tags": []
+      "summary": "繊研新聞が26-27年秋冬パリコレのコムデギャルソンを報道。黒を基調に、ジョーゼットにたっぷりギャザーを寄せた曲線的なドレスで、光と陰影を生かした表現を展開したと伝える。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 2
     },
     {
       "id": "3e67e00e07ccb8f0",
@@ -5923,7 +5917,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-03T22:11:03.569Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
       ]
@@ -5966,11 +5960,13 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "SNKRDUNKにクロムハーツ×コムデギャルソンのクロスボールボタンレザー長袖シャツ(黒・S)が出品中。中古(状態D・傷や色あせあり)で価格は419,000円。",
       "tags": [
-        "二次流通"
+        "二次流通",
+        "コラボ"
       ],
-      "image": "https://cdn.snkrdunk.com/apparel_used_listings/83048dfb-e42c-484e-a381-9c53bedd018f/567268.jpeg"
+      "image": "https://cdn.snkrdunk.com/apparel_used_listings/83048dfb-e42c-484e-a381-9c53bedd018f/567268.jpeg",
+      "importance": 1
     },
     {
       "id": "139b2dc94f026ac0",
@@ -5981,8 +5977,12 @@
       "image": "https://www.recycle-tsushin.com/store/assets_c/2025/12/12023_01-thumb-1200xauto-30940.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-15T22:10:10.791Z",
-      "summary": null,
-      "tags": []
+      "summary": "リユース経済新聞が古着店ONtheCORNERを紹介。コムデギャルソンとヨウジヤマモトのみを扱い、品揃えの7割をコムデギャルソンが占めるという店づくりを取り上げている。",
+      "tags": [
+        "店舗",
+        "二次流通"
+      ],
+      "importance": 1
     },
     {
       "id": "cd853b39585a3e3c",
@@ -6004,11 +6004,14 @@
       "url": "https://www.fashion-press.net/news/141424",
       "publishedAt": "2025-12-17T06:00:00.000Z",
       "publisher": "ファッションプレス",
-      "image": null,
+      "image": "https://www.fashion-press.net/img/news/141424/d64.jpg",
       "feed": "Fashion Press",
       "fetchedAt": "2026-07-10T03:42:51.428Z",
-      "summary": null,
-      "tags": []
+      "summary": "コム デ ギャルソンから新作ウォレット「デニム ポケット」が2025年12月20日発売。ラムレザーにデニム転写プリントを施した財布・ポーチシリーズで、二つ折りジップ財布61,600円など。",
+      "tags": [
+        "新作"
+      ],
+      "importance": 2
     },
     {
       "id": "874df9dd240de578",
@@ -6018,11 +6021,13 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "SNKRDUNKにCOMME des GARCONS CDG×G-DRAGON「Übermensch」コラボのコーチジャケット(ナイロン・黒)が出品中。新品で価格は24,500円〜(定価23,100円)。",
       "tags": [
-        "二次流通"
+        "二次流通",
+        "コラボ"
       ],
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/20251228053917-0.webp"
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/20251228053917-0.webp",
+      "importance": 2
     },
     {
       "id": "72b4cbca890e25ea",
@@ -6033,10 +6038,12 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0776-2.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-07T02:34:52.165Z",
-      "summary": null,
+      "summary": "SNKRDUNKにCOMME des GARCONS×NGVのトートバッグ(青)が掲載。現在は「出品待ち」状態で価格は未公開。",
       "tags": [
-        "二次流通"
-      ]
+        "二次流通",
+        "コラボ"
+      ],
+      "importance": 1
     },
     {
       "id": "4606a75ebdbda996",
@@ -6047,10 +6054,13 @@
       "image": "https://www.tokyoweekender.com/wp-content/uploads/2025/12/collab.jpeg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-16T22:09:33.468Z",
-      "summary": null,
+      "summary": "Tokyo WeekenderがCDGとG-DRAGONの日本限定コラボを報道。G-DRAGONのワールドツアー「Übermensch」を記念し、2025年12月24〜31日に伊勢丹新宿本店限定で11点のカプセルコレクションを販売すると伝える。",
       "tags": [
-        "ショー/コレクション"
-      ]
+        "ショー/コレクション",
+        "コラボ",
+        "新作"
+      ],
+      "importance": 2
     },
     {
       "id": "450babc84768ad5f",

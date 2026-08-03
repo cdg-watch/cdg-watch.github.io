@@ -1,21 +1,21 @@
-# CDG Watch デイリーダイジェスト 2026-08-03
+# CDG Watch デイリーダイジェスト 2026-08-04
 
-- **⚠古 Wallet COMME des GARÇONS、新作『TRANSPARENT SNAKE』が国内で再販**
-  蛇柄型押しの透明素材ウォレット・ポーチが2026年6月28日に再販。価格は15,620〜31,460円で、ZOZOTOWNやDSMG E-SHOPなど複数店舗で展開。
-  https://uptodate.tokyo/wallet-comme-des-garcons-snake-transparent/
+- **⚠古 コムデギャルソンが26-27年秋冬パリコレで「黒」に回帰**
+  繊研新聞が報道。ジョーゼットにギャザーを寄せた曲線的な黒のドレスで、光と陰影を生かした表現を展開。
+  https://senken.co.jp/posts/comme-des-garcons-260310
 
-- **⚠古 コムデギャルソンオムプリュス×ナイキ「センス96スペシャル」、ブラックコムデギャルソン×ナイキ「エアフォース1」を紹介**
-  センス96スペシャルが53,900円、エアフォース1が40,700円で発売予定と紹介されたコラボまとめ記事。
-  https://cdg-freak.com/comme-des-garcons-nike/
+- **⚠古 コム デ ギャルソンから新作ウォレット「デニム ポケット」**
+  ラムレザーにデニム転写プリントを施した財布・ポーチシリーズ。二つ折りジップ財布61,600円など。
+  https://www.fashion-press.net/news/141424
 
-- **⚠古 青山店限定でPLAY COMME des GARCONSの新作Tシャツ6型が発売**
-  ワンポイント刺繍が8,800円、3色プリントや単色エンブレム×プリントが12,100円。
-  https://cdg-freak.com/apyama-play-25ss/
+- **⚠古 CDG×G-DRAGON「Übermensch」日本限定コラボ、伊勢丹新宿本店限定で発売**
+  G-DRAGONのワールドツアーを記念し、11点のカプセルコレクションを2025年12月24〜31日に限定販売。
+  https://www.tokyoweekender.com/art_and_culture/fashion/comme-des-garcons-g-dragon-limited-collection/
 
-- **⚠古 コムデギャルソン×Nemeth、国内5店舗で期間限定ショップを展開**
-  青山・丸の内・大阪・京都・福岡で、コートやジャケット、プリントTシャツなどコラボアイテムを販売。
-  https://cdg-freak.com/cdg-nemeth-2024/
+- **⚠古 SNKRDUNKにCDG×G-DRAGON「Übermensch」コーチジャケットが新品出品**
+  ナイロン素材の黒コーチジャケットが24,500円〜(定価23,100円)で出品中。
+  https://snkrdunk.com/apparels/741531
 
-- **⚠古 川久保玲がデザインを手掛けるコムデギャルソン仙台路面店がオープン**
-  BLACK COMME des GARCONSは仙台エリア初の常設取り扱いとなる新店舗。
-  https://cdg-freak.com/cdg-sendai-open/
+- **⚠古 リユース経済新聞、コムデギャルソン専門の古着店ONtheCORNERを紹介**
+  品揃えの7割をコムデギャルソンが占める店づくりを取材した記事。
+  https://www.recycle-tsushin.com/store/detail_12026.php
