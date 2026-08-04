@@ -150,6 +150,21 @@ function normalizeUrl(url) {
   }
 }
 
+// au PAY マーケット(africa-express.info)は客寄せの見出し語を変えつつ同一商品を
+// 別URLで再出品するため、通常のURL正規化(normalizeUrl)では重複を検知できない
+// (2026-08-03 監督指示 Issue #24)。URL末尾の数字セグメント(商品ID)が一致すれば
+// 同一商品とみなす。他ドメインで同様のパターンが見つかれば対象を広げること
+function africaExpressProductId(url) {
+  try {
+    const u = new URL(url);
+    if (!/(^|\.)africa-express\.info$/.test(u.hostname)) return null;
+    const seg = u.pathname.split("/").filter(Boolean).pop();
+    return seg && /^\d+$/.test(seg) ? seg : null;
+  } catch {
+    return null;
+  }
+}
+
 // 二次流通(リセール・中古・フリマ)系の出典は収集時点で自動タグ付けする。
 // 日本語の業者名だけでなくドメイン表記(mercari, 2ndstreet 等)も併記すること
 // (2026-07-24: ドメイン表記しか手がかりの無い項目がニュース側にすり抜けた対策)。
@@ -438,6 +453,9 @@ async function main() {
     : { updatedAt: null, items: [] };
   const known = new Set(existing.items.map((i) => i.id));
   const knownUrls = new Set(existing.items.map((i) => normalizeUrl(i.url)));
+  const knownAfricaExpressIds = new Set(
+    existing.items.map((i) => africaExpressProductId(i.url)).filter(Boolean)
+  );
   const added = [];
 
   for (const source of SOURCES) {
@@ -507,6 +525,11 @@ async function main() {
     if (SPAM_URL_RE.test(it.url)) continue;
     const normalized = normalizeUrl(it.url);
     if (knownUrls.has(normalized)) continue;
+    const africaExpressId = africaExpressProductId(it.url);
+    if (africaExpressId && knownAfricaExpressIds.has(africaExpressId)) {
+      console.error(`[dup-product] skip: ${it.title} (既出商品ID: ${africaExpressId})`);
+      continue;
+    }
     // 焼き直し記事(同一媒体・同内容の新ID再発行)は既存項目+今回の採用分と
     // タイトル類似度で照合して除外する。URL解決後でないとホスト判定が
     // 中継URLになるため、この位置(Google News URL復元の後)で行う
@@ -518,6 +541,7 @@ async function main() {
       continue;
     }
     knownUrls.add(normalized);
+    if (africaExpressId) knownAfricaExpressIds.add(africaExpressId);
     deduped.push(it);
   }
   added.length = 0;

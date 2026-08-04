@@ -1,21 +1,21 @@
-# CDG Watch デイリーダイジェスト 2026-08-04
+# CDG Watch デイリーダイジェスト 2026-08-05
 
-- **⚠古 コムデギャルソンが26-27年秋冬パリコレで「黒」に回帰**
-  繊研新聞が報道。ジョーゼットにギャザーを寄せた曲線的な黒のドレスで、光と陰影を生かした表現を展開。
-  https://senken.co.jp/posts/comme-des-garcons-260310
+- **コムデギャルソンオム 26FWコレクションが8月5日発売、BATONERと初コラボ**
+  ニットブランドBATONERとの初コラボによるニット3型・小物2型を含む26FWコレクションが直営店で8/5、マークオンラインストアで8/7に発売。
+  https://snkrdunk.com/articles/32954/
 
-- **⚠古 コム デ ギャルソンから新作ウォレット「デニム ポケット」**
-  ラムレザーにデニム転写プリントを施した財布・ポーチシリーズ。二つ折りジップ財布61,600円など。
-  https://www.fashion-press.net/news/141424
+- **コムデギャルソン大阪、フェルメール『真珠の耳飾りの少女』コラボTシャツを8/5発売**
+  限定配色Tシャツを8月5日11時発売。コラージュアーティスト河村康輔とのスペシャルTシャツも同時展開。
+  https://www.fullress.com/comme-des-garcons-osaka-johannes-vermeer-girl-with-a-pearl-earring-tee/
 
-- **⚠古 CDG×G-DRAGON「Übermensch」日本限定コラボ、伊勢丹新宿本店限定で発売**
-  G-DRAGONのワールドツアーを記念し、11点のカプセルコレクションを2025年12月24〜31日に限定販売。
-  https://www.tokyoweekender.com/art_and_culture/fashion/comme-des-garcons-g-dragon-limited-collection/
+- **アルファ インダストリーズ×CDG、50周年記念MA-1ジャケットが8/5発売**
+  ネイビー/オレンジの「BIAS DESIGNED MA-1 JACKET」(61,600円)が8月5日発売。
+  https://www.fullress.com/alpha-industries-cdg-2026-bias-designed-ma-1-jacket/
 
-- **⚠古 SNKRDUNKにCDG×G-DRAGON「Übermensch」コーチジャケットが新品出品**
-  ナイロン素材の黒コーチジャケットが24,500円〜(定価23,100円)で出品中。
-  https://snkrdunk.com/apparels/741531
+- **CDGからオーバーサイズTシャツ×半袖スウェットの新作**
+  コムデギャルソン50周年記念ライン「CDG」から新作アイテムが発売予定(発売日・価格は記事未記載)。
+  https://www.fullress.com/cdg-2026-oversized-tee-x-short-sleeve-sweat/
 
-- **⚠古 リユース経済新聞、コムデギャルソン専門の古着店ONtheCORNERを紹介**
-  品揃えの7割をコムデギャルソンが占める店づくりを取材した記事。
-  https://www.recycle-tsushin.com/store/detail_12026.php
+- **⚠古 コムデギャルソン×G-DRAGON「Übermensch」記念コラボコレクション**
+  ワールドツアーを記念したコラボコレクションを2025年12月24日発売。伊勢丹新宿店ポップアップとCDG E-shopで展開、コート・バッグ・ストールなど10型。
+  https://spur.hpplus.jp/fashion/news/ayjazw/
