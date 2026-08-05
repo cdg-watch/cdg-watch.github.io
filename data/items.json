@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T22:14:12.223Z",
+  "updatedAt": "2026-08-05T22:17:14.655Z",
   "items": [
     {
       "id": "a534783a0d8fd328",
@@ -10,10 +10,12 @@
       "image": "https://www.fashion-press.net/img/news/149474/top.jpg?1785830116",
       "feed": "Fashion Press",
       "fetchedAt": "2026-08-05T22:14:03.647Z",
-      "summary": null,
+      "summary": "ザ・ビートルズ・コム デ ギャルソンから、黒のシンセティックレザーにドット柄を配した新作アイコンバッグ(中・小2サイズ)が登場。2026年8月5日に青山店で先行発売され、価格は中12万1000円・小10万7800円。",
       "tags": [
-        "新作"
-      ]
+        "新作",
+        "コラボ"
+      ],
+      "importance": 2
     },
     {
       "id": "95e50ef564c86d19",
@@ -39,10 +41,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/696127a2-4b94-4723-b965-c5a48aec895a/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-05T22:14:04.329Z",
-      "summary": null,
+      "summary": "スニダンにコムデギャルソンのブルー系カードケースが中古出品されている(内側に汚れあり)。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "82ea37560a14ee27",
@@ -178,21 +181,6 @@
       "fetchedAt": "2026-08-03T22:11:03.568Z",
       "summary": "(要約取得不可)",
       "tags": []
-    },
-    {
-      "id": "1cb0dc1e36102ac1",
-      "title": "『お買得価格』コムデギャルソン ノアール フリル パール シアーブラウス ホワイト S 長袖トップス｜au PAY マーケット - africa-express.info",
-      "url": "https://www.africa-express.info/shop/pg/3exception/668",
-      "publishedAt": "2026-08-02T15:26:55.000Z",
-      "publisher": "africa-express.info",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-08-04T22:14:08.734Z",
-      "summary": "(要約取得不可)",
-      "tags": [
-        "二次流通"
-      ],
-      "importance": 1
     },
     {
       "id": "4afa3d45f4c2c6ef",
@@ -551,10 +539,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-05T22:14:04.329Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "994d47d871804596",
@@ -594,11 +583,12 @@
       "image": "https://www.nicekicks.com/files/2026/08/imgi_1_imgi_46_621812829_18559905547050859_457535129751202659_n-1-e1785967651132.jpeg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-08-05T22:14:04.743Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "dbd086d33b13d734",
@@ -6302,11 +6292,14 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "スニダンにコムデギャルソン×NGV(ナショナル・ギャラリー・オブ・ヴィクトリア)コラボの白Tシャツが、サイズXS〜XXLで出品されている。",
       "tags": [
-        "二次流通"
+        "二次流通",
+        "コラボ"
       ],
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0784.webp"
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0784.webp",
+      "importance": 1,
+      "cluster": "cdg-ngv-tee"
     },
     {
       "id": "1046e6046ee480d0",
@@ -6317,10 +6310,13 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0785.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-07T22:08:59.295Z",
-      "summary": null,
+      "summary": "スニダンにコムデギャルソン×NGVコラボの白Tシャツが別出品として掲載されている(サイズ展開あり)。",
       "tags": [
-        "二次流通"
-      ]
+        "二次流通",
+        "コラボ"
+      ],
+      "importance": 1,
+      "cluster": "cdg-ngv-tee"
     },
     {
       "id": "c19a9abb091136f5",
@@ -6330,11 +6326,12 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "スニダンにコムデギャルソン オムの白コットンオックスフォードシャツが出品されている(定価5万2800円)。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGOM-0136.webp"
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGOM-0136.webp",
+      "importance": 1
     },
     {
       "id": "667e1c532561bd9f",
@@ -6345,10 +6342,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0507-1.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-04T22:14:08.735Z",
-      "summary": null,
+      "summary": "スニダンにコムデギャルソン オムのネイビーウールジャケットが出品されている(定価9万6800円)。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "2be6ad543c3a6c19",
@@ -6359,8 +6357,9 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-11T22:09:22.056Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [],
+      "importance": 1
     },
     {
       "id": "aad1efc462631f4b",
@@ -6371,10 +6370,13 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20251228053830-0.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-07T22:08:59.295Z",
-      "summary": null,
+      "summary": "コムデギャルソンのディフュージョンライン「CDG」とG-DRAGONが、ワールドツアー「Übermensch」を記念したコラボコレクションを発表。伊勢丹新宿店限定で2025年12月24日より発売された。",
       "tags": [
-        "二次流通"
-      ]
+        "コラボ",
+        "新作"
+      ],
+      "importance": 2,
+      "cluster": "cdg-gdragon-cdgdc"
     },
     {
       "id": "3466b66648b94b3f",
@@ -6385,8 +6387,9 @@
       "image": "https://superfuture.com/wp-content/uploads/2025/12/cdg-pocket-athens-03.png",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-05T22:09:13.844Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [],
+      "importance": 1
     },
     {
       "id": "e4a92b01bbd7b428",
@@ -6396,9 +6399,12 @@
       "publisher": "Highsnobiety",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://www.highsnobiety.com/static-assets/dato/1764694746-comme-des-garcons-play.jpg"
+      "summary": "コムデギャルソン PLAYが、定番のシンプルなデザインから一転、透け感のあるメッシュ素材Tシャツを新作として発表した。",
+      "tags": [
+        "新作"
+      ],
+      "image": "https://www.highsnobiety.com/static-assets/dato/1764694746-comme-des-garcons-play.jpg",
+      "importance": 2
     },
     {
       "id": "dc42c73e4e3fa48a",
@@ -6408,12 +6414,13 @@
       "publisher": "Branding in Asia",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ",
         "新作"
       ],
-      "image": "https://www.brandinginasia.com/wp-content/uploads/2025/12/Onitsuka-Tiger-COMME-des-GARCONS-Collab-.webp"
+      "image": "https://www.brandinginasia.com/wp-content/uploads/2025/12/Onitsuka-Tiger-COMME-des-GARCONS-Collab-.webp",
+      "importance": 1
     },
     {
       "id": "3c00c153bf253e85",
@@ -6439,10 +6446,13 @@
       "image": "https://ascii.jp/img/2025/11/28/4379699/l/0186d06c4a4d9a7d.png?2023101601",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-07T02:34:52.166Z",
-      "summary": null,
+      "summary": "オニツカタイガーとコムデギャルソンのコラボ商品が、丸の内店の期間限定POP-UPショップ(2025年12月1日〜28日、世界7店舗限定)で販売された。",
       "tags": [
-        "コラボ"
-      ]
+        "コラボ",
+        "店舗"
+      ],
+      "importance": 1,
+      "cluster": "onitsuka-cdg-2025dec"
     },
     {
       "id": "fcbc6f086ae7d36a",
@@ -6452,11 +6462,13 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "スニダンにオニツカタイガー×コムデギャルソンコラボの黒黄プリント半袖Tシャツ(定価2万7500円、2025年12月1日発売)が出品されている。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0763.webp"
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0763.webp",
+      "importance": 1,
+      "cluster": "onitsuka-cdg-2025dec"
     },
     {
       "id": "8ed5437766928aef",

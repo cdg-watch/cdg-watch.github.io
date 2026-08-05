@@ -1,21 +1,17 @@
-# CDG Watch デイリーダイジェスト 2026-08-05
+# CDG Watch デイリーダイジェスト 2026-08-06
 
-- **コムデギャルソンオム 26FWコレクションが8月5日発売、BATONERと初コラボ**
-  ニットブランドBATONERとの初コラボによるニット3型・小物2型を含む26FWコレクションが直営店で8/5、マークオンラインストアで8/7に発売。
-  https://snkrdunk.com/articles/32954/
+- **ザ・ビートルズ・コム デ ギャルソン、新作アイコンバッグ(ドット柄・中小2サイズ)発売**
+  黒のシンセティックレザーにドット柄を配した新作バッグが8月5日に青山店で先行発売。価格は中12万1000円・小10万7800円、その後国内路面店で順次販売。
+  https://www.fashion-press.net/news/149474
 
-- **コムデギャルソン大阪、フェルメール『真珠の耳飾りの少女』コラボTシャツを8/5発売**
-  限定配色Tシャツを8月5日11時発売。コラージュアーティスト河村康輔とのスペシャルTシャツも同時展開。
-  https://www.fullress.com/comme-des-garcons-osaka-johannes-vermeer-girl-with-a-pearl-earring-tee/
+- **⚠古 コムデギャルソン PLAY、透け感メッシュ素材Tシャツを新作発表**
+  定番のシンプルなデザイン方針から一転し、透き通ったメッシュ素材のTシャツを新作として発表。
+  https://www.highsnobiety.com/p/cdg-play-mesh-tshirt/
 
-- **アルファ インダストリーズ×CDG、50周年記念MA-1ジャケットが8/5発売**
-  ネイビー/オレンジの「BIAS DESIGNED MA-1 JACKET」(61,600円)が8月5日発売。
-  https://www.fullress.com/alpha-industries-cdg-2026-bias-designed-ma-1-jacket/
+- **⚠古 オニツカタイガー×コムデギャルソン、丸の内店限定POP-UPで販売**
+  世界7店舗限定の激レアコラボアイテムを、丸の内店の期間限定POP-UPショップ(2025年12月1日〜28日)で販売。
+  https://lovewalker.jp/elem/000/004/355/4355933/
 
-- **CDGからオーバーサイズTシャツ×半袖スウェットの新作**
-  コムデギャルソン50周年記念ライン「CDG」から新作アイテムが発売予定(発売日・価格は記事未記載)。
-  https://www.fullress.com/cdg-2026-oversized-tee-x-short-sleeve-sweat/
-
-- **⚠古 コムデギャルソン×G-DRAGON「Übermensch」記念コラボコレクション**
-  ワールドツアーを記念したコラボコレクションを2025年12月24日発売。伊勢丹新宿店ポップアップとCDG E-shopで展開、コート・バッグ・ストールなど10型。
-  https://spur.hpplus.jp/fashion/news/ayjazw/
+- **⚠古 コムデギャルソン×NGV(ナショナル・ギャラリー・オブ・ヴィクトリア)コラボTシャツ、スニダンに複数出品**
+  美術館コラボの白Tシャツがサイズ展開ありでリセール市場に複数出品されているのを確認。
+  https://snkrdunk.com/apparels/739963
