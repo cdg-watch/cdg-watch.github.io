@@ -1,17 +1,13 @@
-# X投稿ドラフト 2026-08-05
+# X投稿ドラフト 2026-08-06
 
 ## 本日の投稿(確定)
 
 ```
-【CDG】アルファ インダストリーズ×コムデギャルソン、50周年記念MA-1が本日発売
-ネイビー×オレンジ配色の「BIAS DESIGNED MA-1 JACKET」(61,600円)。
+【CDG】ザ・ビートルズ×CDG、アップル柄アイコンバッグ新作
+黒の光沢シンセティックレザーにドット柄。中12万1000円・小10万7800円の2サイズで8/5に青山店先行発売、以降国内路面店で順次展開。
 ▼記事
-https://www.fullress.com/alpha-industries-cdg-2026-bias-designed-ma-1-jacket/
+https://www.fashion-press.net/news/149474
 #コムデギャルソン #CommeDesGarcons #CDG
 ```
 
-選定理由: 本日8/5発売の一次情報3件(BATONERコラボ・大阪フェルメールT・アルファ インダストリーズMA-1)から選定。
-BATONERコラボは出典が二次流通媒体(snkrdunk.com)のため、より編集色の強いfullress.com発の他2件を優先。
-大阪フェルメールTシャツは大阪店限定で読者の行動可能性が限定的なため見送り、価格が判明していて全国的に
-購入可能なアルファ インダストリーズ×CDG 50周年記念MA-1を採用。いずれも重複投稿ではない新規トピック
-(posted-log.md/excluded-log.mdに該当なし)。
+補足: 木曜のため単体トピック1本(補足4)。digest-latest.mdの他3件はいずれも⚠古(公開が古い、または出来事自体が数ヶ月前)のため見送り。items.json直近の新着も本記事以外はSNKRDUNK・au PAYマーケットの二次流通出品が中心で対象外。posted-log.md/excluded-log.mdに該当なしの新規トピック。
