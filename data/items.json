@@ -1,6 +1,75 @@
 {
-  "updatedAt": "2026-08-05T22:17:14.655Z",
+  "updatedAt": "2026-08-06T22:13:45.297Z",
   "items": [
+    {
+      "id": "693eddd6c280f0a4",
+      "title": "COMME des GARÇONS x Air Jordan 11: Two Colors, One Luxury Drop - Men's Journal",
+      "url": "https://www.mensjournal.com/style/air-jordan-11-comme-des-garcons-release",
+      "publishedAt": "2026-08-06T21:08:26.000Z",
+      "publisher": "Men's Journal",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-08-06T22:13:35.870Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "新作"
+      ]
+    },
+    {
+      "id": "2ec59622344e9326",
+      "title": "【C (やや傷や汚れあり)】コムデギャルソン COMME des GARCONS RP-T027 スカート Lのブランド古着・中古服通販｜スニダン - SNKRDUNK",
+      "url": "https://snkrdunk.com/apparel-free-used-items/48755079",
+      "publishedAt": "2026-08-06T14:29:00.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/apparel_used_listings/84ac2e9a-1dda-4527-8de4-1125cc3c3353/8198509.jpeg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-08-06T22:13:35.369Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
+    },
+    {
+      "id": "fd78519719c0f528",
+      "title": "COMME des GARCONS × Salomon XT-Whisper Void Platform \"Triple Black\"の新品/中古フリマ(通販)｜スニダン - SNKRDUNK",
+      "url": "https://snkrdunk.com/products/L45451600",
+      "publishedAt": "2026-08-06T08:52:09.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/63bfd523-8000-4bb9-9d4e-4cf7db3fd6f5.webp",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-08-06T22:13:35.369Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
+    },
+    {
+      "id": "515dd59c8f07f2f2",
+      "title": "コムデギャルソン × ナイキ エア フットスケープ NM \"ブラック\" - SNKRDUNK",
+      "url": "https://snkrdunk.com/products/BV0075-001/used/48740409",
+      "publishedAt": "2026-08-06T04:56:57.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/used_listing/558043/7b89db27-ef26-4a3a-b269-d3330c8046f0.jpeg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-08-06T22:13:35.369Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
+    },
+    {
+      "id": "5fe96c51d181f349",
+      "title": "フェルメール《真珠の耳飾りの少女》の再構築Tシャツ、コム デ ギャルソン 大阪店限定で",
+      "url": "https://www.fashion-press.net/news/149544",
+      "publishedAt": "2026-08-06T03:05:00.000Z",
+      "publisher": "ファッションプレス",
+      "image": "https://www.fashion-press.net/img/news/149544/top.jpg?1785982039",
+      "feed": "Fashion Press",
+      "fetchedAt": "2026-08-06T22:13:34.681Z",
+      "summary": null,
+      "tags": []
+    },
     {
       "id": "a534783a0d8fd328",
       "title": "ザ・ビートルズ・コム デ ギャルソン「アップル柄」バッグに“カバー付き”の新作",
@@ -1519,6 +1588,20 @@
         "コラボ"
       ],
       "importance": 1
+    },
+    {
+      "id": "3662ab6809d7aab6",
+      "title": "COMME des GARCONS HOMME Nylon Tussah \"Khaki\"の新品/中古服・ブランド古着通販｜スニダン - SNKRDUNK",
+      "url": "https://snkrdunk.com/apparels/671678",
+      "publishedAt": "2026-07-13T23:08:16.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGOM-0096-3.webp",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-08-06T22:13:35.370Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
     },
     {
       "id": "a2faf82fe506dc69",
@@ -3683,6 +3766,20 @@
       ],
       "image": null,
       "importance": 1
+    },
+    {
+      "id": "f30707a1ba1f5126",
+      "title": "COMME des GARCONS Polo Shirt \"Black\"の新品/中古服・ブランド古着通販｜スニダン - SNKRDUNK",
+      "url": "https://snkrdunk.com/apparels/819009",
+      "publishedAt": "2026-05-11T20:46:52.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/apparel_used_listings/06ad791b-e4d2-4135-b8ad-591eef96bafb/8198509.jpeg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-08-06T22:13:35.370Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
     },
     {
       "id": "420583ad4d6ddc08",
