@@ -6,5 +6,3 @@ SNS運用エージェントが「公式コラボでない」「意見記事で�
 記事が7日ウィンドウ(鮮度判定)から外れたら該当行は削除してよい。
 
 形式: `YYYY-MM-DD  URL  理由`
-
-2026-07-29  https://topics.smt.docomo.ne.jp/article/wwschannel/entertainment/wwschannel-656763  タレント大橋めりさのラジオ出演告知記事。CDGとの個人的な出会いを語るのみで発売日・価格等の核心情報なし(意見記事に準ずる)
