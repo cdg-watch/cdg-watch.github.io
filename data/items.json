@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T22:13:45.297Z",
+  "updatedAt": "2026-08-06T22:17:00.044Z",
   "items": [
     {
       "id": "693eddd6c280f0a4",
@@ -10,11 +10,12 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-08-06T22:13:35.870Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "importance": 3
     },
     {
       "id": "2ec59622344e9326",
@@ -25,10 +26,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/84ac2e9a-1dda-4527-8de4-1125cc3c3353/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-06T22:13:35.369Z",
-      "summary": null,
+      "summary": "スニーカーダンクにコムデギャルソンRP-T027スカート(Lサイズ、状態C)の中古出品があり、価格は33,600円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "fd78519719c0f528",
@@ -39,10 +41,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/63bfd523-8000-4bb9-9d4e-4cf7db3fd6f5.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-06T22:13:35.369Z",
-      "summary": null,
+      "summary": "スニーカーダンクにコムデギャルソン×サロモン「XT-Whisper Void Platform Triple Black」の新品/中古出品があり、価格は89,800円から。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "515dd59c8f07f2f2",
@@ -53,10 +56,11 @@
       "image": "https://cdn.snkrdunk.com/used_listing/558043/7b89db27-ef26-4a3a-b269-d3330c8046f0.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-06T22:13:35.369Z",
-      "summary": null,
+      "summary": "スニーカーダンクにコムデギャルソン×ナイキ「エア フットスケープ NM ブラック」(29.5cm、状態A+)の中古出品があり、価格は26,999円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "5fe96c51d181f349",
@@ -67,8 +71,12 @@
       "image": "https://www.fashion-press.net/img/news/149544/top.jpg?1785982039",
       "feed": "Fashion Press",
       "fetchedAt": "2026-08-06T22:13:34.681Z",
-      "summary": null,
-      "tags": []
+      "summary": "コム デ ギャルソン大阪店限定で、フェルメール《真珠の耳飾りの少女》をモチーフにした再構築デザインTシャツ5種を発売。価格は13,200円〜18,700円。",
+      "tags": [
+        "新作",
+        "店舗"
+      ],
+      "importance": 2
     },
     {
       "id": "a534783a0d8fd328",
@@ -1598,10 +1606,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGOM-0096-3.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-06T22:13:35.370Z",
-      "summary": null,
+      "summary": "スニーカーダンクにコムデギャルソン オム「ナイロン タッサー カーキ」(2025年8月8日発売、定価40,700円)の出品ページが掲載。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "a2faf82fe506dc69",
@@ -3776,10 +3785,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/06ad791b-e4d2-4135-b8ad-591eef96bafb/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-06T22:13:35.370Z",
-      "summary": null,
+      "summary": "スニーカーダンクにコムデギャルソン ポロシャツ「ブラック」の新品/中古出品があり、価格は27,223円から。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "420583ad4d6ddc08",
@@ -6575,11 +6585,12 @@
       "publisher": "MEN'S NON-NO WEB",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "プレイ・コム デ ギャルソンが2025年12月1日、シアーなメッシュ素材のTシャツ2型(黒・赤エンブレム、14,740円・15,180円)を青山店を除く取扱店で発売。",
       "tags": [
         "新作"
       ],
-      "image": "https://www.mensnonno.jp/wp-content/uploads/2025/11/03.jpeg"
+      "image": "https://www.mensnonno.jp/wp-content/uploads/2025/11/03.jpeg",
+      "importance": 1
     },
     {
       "id": "a00c56f681ceddbe",
@@ -6590,8 +6601,12 @@
       "image": null,
       "feed": "Fashion Press",
       "fetchedAt": "2026-07-10T03:42:51.428Z",
-      "summary": null,
-      "tags": []
+      "summary": "西武池袋本店6階に2025年11月28日、コム デ ギャルソン オムやジュンヤ ワタナベなどを集めたウィメンズ&メンズ複合ストア(55.6坪)がオープン。エリア初のノワール ケイ ニノミヤも入居。",
+      "tags": [
+        "店舗",
+        "新作"
+      ],
+      "importance": 2
     },
     {
       "id": "e5d521c98b1d6933",
@@ -6602,12 +6617,14 @@
       "image": "https&#x3A;&#x2F;&#x2F;img-spur.hpplus.jp&#x2F;image&#x2F;f5&#x2F;f599c3d8-3c65-42f1-96cc-9b64c335f80d-1200x630.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-05T22:09:13.363Z",
-      "summary": null,
+      "summary": "コム デ ギャルソンの路面店5店舗(青山・大阪・丸の内・京都・福岡)で2025年12月1日〜28日、オニツカタイガーとのコラボポップアップを開催。MEXICO 66シューズ4型とアパレル8型を展開。",
       "tags": [
         "コラボ",
         "新作",
         "店舗"
-      ]
+      ],
+      "cluster": "cdg-onitsukatiger-mexico66",
+      "importance": 2
     },
     {
       "id": "3ca4c27736db7605",
@@ -6617,13 +6634,14 @@
       "publisher": "Hypebeast",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ",
         "ショー/コレクション",
         "新作"
       ],
-      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fjp.hypebeast.com&#x25;2Ffiles&#x25;2F2025&#x25;2F11&#x25;2F28&#x25;2Ftrading-museum-comme-des-garcons-bajowoo-illumination-collection-release-info-01-1.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
+      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fjp.hypebeast.com&#x25;2Ffiles&#x25;2F2025&#x25;2F11&#x25;2F28&#x25;2Ftrading-museum-comme-des-garcons-bajowoo-illumination-collection-release-info-01-1.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max",
+      "importance": 2
     },
     {
       "id": "081888f50a7ffb37",
@@ -6634,10 +6652,12 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20251128024300-0.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-25T22:10:31.483Z",
-      "summary": null,
+      "summary": "スニーカーダンクにコムデギャルソン×オニツカタイガー メキシコ66「3D Modeling Parts」(2025年12月1日発売、定価51,700円)の新品/中古フリマ出品があり、価格は62,000円から。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "cluster": "cdg-onitsukatiger-mexico66",
+      "importance": 1
     },
     {
       "id": "55f5b7b10d9393db",
@@ -6648,10 +6668,12 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20251128024231-0.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-16T22:09:32.962Z",
-      "summary": null,
+      "summary": "スニーカーダンクにコムデギャルソン×オニツカタイガー メキシコ66「Splash Hand Paint」(2025年12月1日発売、定価38,500円)の新品/中古フリマ出品があり、価格は100,000円から。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "cluster": "cdg-onitsukatiger-mexico66",
+      "importance": 1
     },
     {
       "id": "aaf8a1946e9e0502",
@@ -6662,10 +6684,14 @@
       "image": "https://www.fashion-press.net/img/news/140640/top.jpg?1764150708",
       "feed": "Fashion Press",
       "fetchedAt": "2026-07-10T22:09:18.581Z",
-      "summary": null,
+      "summary": "コム デ ギャルソン×オニツカタイガーのメキシコ66「タイガーイエロー」カスタムを2025年12月1日〜28日、青山・大阪・丸の内・京都・福岡の路面店で販売。スニーカーは28,600円〜51,700円、ウェア・バッグも展開。",
       "tags": [
-        "コラボ"
-      ]
+        "コラボ",
+        "新作",
+        "店舗"
+      ],
+      "cluster": "cdg-onitsukatiger-mexico66",
+      "importance": 1
     },
     {
       "id": "f580ec21d9fe0b5d",
@@ -6676,10 +6702,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-09T22:10:31.293Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "インタビュー"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "562541849adb12f0",
