@@ -6,3 +6,7 @@ SNS運用エージェントが「公式コラボでない」「意見記事で�
 記事が7日ウィンドウ(鮮度判定)から外れたら該当行は削除してよい。
 
 形式: `YYYY-MM-DD  URL  理由`
+
+2026-08-08  https://snkrdunk.com/apparels/875813  二次流通媒体(SNKRDUNK)出典のため見送り。定価と取引価格を併記する記事(8/5投稿済みのアルファ インダストリーズ×CDG「BIAS DESIGNED MA-1 JACKET」と同一コラボの色違い「ネイビー」、8/7発売)
+2026-08-08  https://snkrdunk.com/apparels/875817  二次流通媒体(SNKRDUNK)出典のため見送り。定価と取引価格を併記する記事(CDGオーバーサイズ長袖Tシャツ「ブラック」8/7発売)
+2026-08-08  https://snkrdunk.com/articles/32954/  二次流通媒体の編集記事(COMME des GARCONS HOMME 26FWコレクション、8/5発売案内。BATONERコラボ含む複数アイテム紹介)
