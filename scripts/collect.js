@@ -78,8 +78,11 @@ const SOURCES = [
 // 伊のラジオ局)がハッキング/汚染されキーワード羅列タイトルでGoogle Newsに
 // 混入したもの。日次要約時に計8件開いて確認したところ大半が404/503で本文取得不可、
 // 唯一開けたradiopiu.netの1件もコムデギャルソンと無関係な内容だった
+// 2026-08-09: bosnewslife.com を追加。ctype/shop/配下の「フリマアイテム一覧」を
+// 装ったキーワード羅列タイトル(単語順がでたらめ)で3件混入したが、いずれも
+// 該当URLは404で本文取得不可。同種のSEOスパム混入と判断
 const SPAM_URL_RE =
-  /richardajkeys\.com|cfecgc-orange\.org|consumerthai\.org|lechodelabaie\.fr|cicus\.us\.es|(?:^|\/\/)(?:www\.)?tennis\.fi\/|radiopiu\.net/i;
+  /richardajkeys\.com|cfecgc-orange\.org|consumerthai\.org|lechodelabaie\.fr|cicus\.us\.es|(?:^|\/\/)(?:www\.)?tennis\.fi\/|radiopiu\.net|bosnewslife\.com/i;
 
 // 焼き直し記事ガード(2026-08-02)。同一媒体がほぼ同じタイトル・ほぼ同じ本文の
 // 記事を新しい記事IDで再発行し、publishedAt だけ新しい「新着」に見えるケースを

@@ -1,17 +1,21 @@
-# CDG Watch デイリーダイジェスト 2026-08-08
+# CDG Watch デイリーダイジェスト 2026-08-09
 
-- **CDG×アルファインダストリーズ、コラボMA-1ジャケット「ネイビー」が発売**
-  定価56,000円のバイアス切替MA-1ジャケットが8月7日発売。SNKRDUNKでは64,900円からの取引価格。
-  https://snkrdunk.com/apparels/875813
+- **CDG×アンチソーシャルソーシャルクラブのコラボTシャツがSNKRDUNKのフリマに出品**
+  XLサイズ・未使用に近い状態で1万2000円。
+  https://snkrdunk.com/apparel-free-used-items/48817689
 
-- **サロモン×コムデギャルソンのXT-Whisper Void Platform「トリプルホワイト」が登場**
-  SNKRDUNKに出品待ち状態で掲載。コラボスニーカーの新色展開とみられる。
-  https://snkrdunk.com/products/L45451700
+- **⚠古 BLACK COMME des GARCONS×Nike「Field General」、Dover Street Marketで販売中**
+  歪んだスウッシュと黒CDGロゴを配したカウハイドレザーのコラボスニーカー。価格は145ポンド。
+  https://www.highsnobiety.com/p/black-comme-des-garcons-nike-field-general/
 
-- **CDGのオーバーサイズ長袖Tシャツ「ブラック」が8月7日発売**
-  定価1万円。SNKRDUNKでは19,800円からの取引価格で取引が始まっている。
-  https://snkrdunk.com/apparels/875817
+- **⚠古 コムデギャルソン×ヨウジヤマモトのアーカイブショー「2.1 THE SHOW」が横浜で開催**
+  両ブランドの古着のみで構成されたランウェイイベント。テリー伊藤氏がスペシャルゲストモデルとして出演。
+  https://newscast.jp/smart/news/3390047
 
-- **コムデギャルソン オム プリュス×ナイキ エアマックス97「グレイシャー グレー」が中古市場に**
-  28.5cmサイズがSNKRDUNKで状態B・29,800円にて出品。
-  https://snkrdunk.com/products/DX6932-001/used/48791012
+- **⚠古 コムデギャルソン オムのウーステッドウールジャージーがSNKRDUNKに掲載**
+  ブラックカラー、定価8万6900円。
+  https://snkrdunk.com/apparels/726987
+
+- **⚠古 CDG×ザ・ビートルズのロゴTシャツ「ホワイト」がSNKRDUNKに掲載**
+  定価9900円の半袖Tシャツ。
+  https://snkrdunk.com/apparels/649033
