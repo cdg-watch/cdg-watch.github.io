@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T22:12:22.131Z",
+  "updatedAt": "2026-08-09T22:15:02.887Z",
   "items": [
     {
       "id": "cb8906a6fc2072a9",
@@ -10,10 +10,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/38ea7248-ee26-4c3f-ada0-2e938b43bab8/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-09T22:12:01.198Z",
-      "summary": null,
+      "summary": "SNKRDUNKにコムデギャルソンの中古バッグ「OZ-K 224」(状態C・やや傷や汚れあり、ブラック)が¥25,600で出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "b451804e7da2e277",
@@ -21,13 +22,14 @@
       "url": "https://www.webuomo.jp/fashion/matome/ovzAKg/",
       "publishedAt": "2026-08-09T11:00:00.000Z",
       "publisher": "UOMO",
-      "image": "https&#x3A;&#x2F;&#x2F;img.webuomo.jp&#x2F;article&#x2F;sns&#x2F;image&#x2F;2f&#x2F;2f912b29-02c6-43b9-bc31-d7b67d8b6f9d-1200x629.jpg",
+      "image": "https://img.webuomo.jp/article/sns/image/2f/2f912b29-02c6-43b9-bc31-d7b67d8b6f9d-1200x629.jpg",
       "feed": "WEB UOMO (Google News経由)",
       "fetchedAt": "2026-08-09T22:12:00.762Z",
-      "summary": null,
+      "summary": "UOMOの2026年夏新作バッグまとめ記事で、コムデギャルソン オムのナイロンリップストップキルティングショルダーバッグ(¥23,100、8月上旬発売)が紹介されている。前シーズン品の完売を受け新素材で再展開したモデル。",
       "tags": [
         "新作"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "5bc226919d093e67",
@@ -38,7 +40,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-09T22:12:01.198Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -222,7 +224,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-08-09T22:12:01.686Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -1403,7 +1405,7 @@
       "url": "https://www.webuomo.jp/uomolist/white-sneaker-2026summer/FxUrBA/",
       "publishedAt": "2026-07-19T21:00:00.000Z",
       "publisher": "UOMO",
-      "image": "https&#x3A;&#x2F;&#x2F;img.webuomo.jp&#x2F;article&#x2F;sns&#x2F;image&#x2F;fe&#x2F;fe2e0f26-5f4e-4145-a541-0cc26a07e762-1200x630.jpg",
+      "image": "https://img.webuomo.jp/article/sns/image/fe/fe2e0f26-5f4e-4145-a541-0cc26a07e762-1200x630.jpg",
       "feed": "WEB UOMO (Google News経由)",
       "fetchedAt": "2026-07-19T22:09:41.414Z",
       "summary": "コム デ ギャルソン シャツとアシックスのコラボスニーカー「GEL-1130」が発表され、2026年秋冬コレクションのランウェイで披露された。トリプルホワイトを基調にY2K的なメッシュ素材と本革オーバーレイを組み合わせたハイブリッドデザインで、価格は58,300円。",
@@ -1480,7 +1482,7 @@
       "url": "https://www.webuomo.jp/fashion/highbrand/_ruU-Q/",
       "publishedAt": "2026-07-17T21:00:00.000Z",
       "publisher": "UOMO",
-      "image": "https&#x3A;&#x2F;&#x2F;img.webuomo.jp&#x2F;article&#x2F;sns&#x2F;image&#x2F;bc&#x2F;bc2294b3-493d-4e0f-a3f6-6b395be8ae0b-1200x630.jpg",
+      "image": "https://img.webuomo.jp/article/sns/image/bc/bc2294b3-493d-4e0f-a3f6-6b395be8ae0b-1200x630.jpg",
       "feed": "WEB UOMO (Google News経由)",
       "fetchedAt": "2026-07-19T22:09:41.414Z",
       "summary": "コム デ ギャルソンの2026年秋冬コレクションから、完売必至とされるブラック小物9点を紹介する記事。バナナ型キルティングバッグやウエストリグバッグ、タクマ フジサキとのコラボチャーム、サンダースとのコラボシューズなどが8月上旬から11月中旬にかけて順次発売される。",
@@ -2862,7 +2864,7 @@
       "tags": [
         "コラボ"
       ],
-      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F06&#x25;2F30&#x25;2Fcomme-des-garcons-homme-new-balance-1226-new-silhouette-collaboration-paris-fashion-week-ss27-exclusive-first-look-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F06%2F30%2Fcomme-des-garcons-homme-new-balance-1226-new-silhouette-collaboration-paris-fashion-week-ss27-exclusive-first-look-tw.jpg?w=1080&cbr=1&q=90&fit=max",
       "cluster": "nb-1226-ss27"
     },
     {
@@ -3171,7 +3173,7 @@
       "tags": [
         "その他"
       ],
-      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F06&#x25;2F26&#x25;2Fcomme-des-garcons-homme-plus-ss27-paris-fashion-week-runway-collection-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F06%2F26%2Fcomme-des-garcons-homme-plus-ss27-paris-fashion-week-runway-collection-tw.jpg?w=1080&cbr=1&q=90&fit=max",
       "importance": 2,
       "cluster": "cdg-hommeplus-ss27-show"
     },
@@ -3902,10 +3904,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20260130091625-0.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-09T22:12:01.199Z",
-      "summary": null,
+      "summary": "SNKRDUNKでPLAY COMME des GARCONSの定番Tシャツ「ホワイト」が相場¥8,111前後で取引されている、ブランド内でも人気の高いモデル。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "f196a5af04303c1f",
@@ -4081,10 +4084,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/6592a6b8-cc88-4b2d-ae55-d7236ab7aca2.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-09T22:12:01.199Z",
-      "summary": null,
+      "summary": "SNKRDUNKにCOMME des GARCONS HOMMEのポリエステルベスト(ブラック)が掲載されているが、現時点で出品待ち状態。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "8f9358f26536d183",
@@ -4215,10 +4219,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/6592a6b8-cc88-4b2d-ae55-d7236ab7aca2.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-09T22:12:01.199Z",
-      "summary": null,
+      "summary": "SNKRDUNKにCOMME des GARCONS HOMMEのウェザークロス素材ガーメントダイイージーショーツ(ネイビー)が掲載されているが、現時点で出品待ち状態。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "e5319de13ffbb205",
@@ -4555,10 +4560,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGOM-0132.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-09T22:12:01.199Z",
-      "summary": null,
+      "summary": "SNKRDUNKにCOMME des GARCONS HOMMEのウールメルトン×ナイロンキルティング ダッフルコート(ブラック、参考価格¥136,400)が掲載されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "286edf93475d0996",
@@ -4945,7 +4951,7 @@
       "tags": [
         "コラボ"
       ],
-      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fjp.hypebeast.com&#x25;2Ffiles&#x25;2F2026&#x25;2F03&#x25;2F23&#x25;2Fcomme-des-garcons-parfums-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fjp.hypebeast.com%2Ffiles%2F2026%2F03%2F23%2Fcomme-des-garcons-parfums-tw.jpg?w=1080&cbr=1&q=90&fit=max",
       "importance": 2
     },
     {
@@ -5115,7 +5121,7 @@
         "コラボ",
         "新作"
       ],
-      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fjp.hypebeast.com&#x25;2Ffiles&#x25;2F2026&#x25;2F03&#x25;2F13&#x25;2Fcomme-des-garcons-homme-new-balance-abzorb-2010-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fjp.hypebeast.com%2Ffiles%2F2026%2F03%2F13%2Fcomme-des-garcons-homme-new-balance-abzorb-2010-tw.jpg?w=1080&cbr=1&q=90&fit=max",
       "importance": 3
     },
     {
@@ -5130,7 +5136,7 @@
       "tags": [
         "コラボ"
       ],
-      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F03&#x25;2F13&#x25;2Fcomme-des-garcons-homme-new-balance-abzorb-2010-release-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F03%2F13%2Fcomme-des-garcons-homme-new-balance-abzorb-2010-release-tw.jpg?w=1080&cbr=1&q=90&fit=max",
       "importance": 2
     },
     {
@@ -5162,7 +5168,7 @@
         "インタビュー",
         "ショー/コレクション"
       ],
-      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F03&#x25;2F11&#x25;2Ftwcomme-des-garcons-fall-winter-2026-runway-collection-paris-fashion-week.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F03%2F11%2Ftwcomme-des-garcons-fall-winter-2026-runway-collection-paris-fashion-week.jpg?w=1080&cbr=1&q=90&fit=max",
       "importance": 3
     },
     {
@@ -5204,10 +5210,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/6592a6b8-cc88-4b2d-ae55-d7236ab7aca2.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-09T22:12:01.199Z",
-      "summary": null,
+      "summary": "SNKRDUNKにCOMME des GARCONS HOMMEのコットンリネン モッズコート(グレー、参考価格¥108,900)が掲載されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "eacb42f8f102f2d5",
@@ -5364,7 +5371,7 @@
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": "(要約取得不可)",
       "tags": [],
-      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F03&#x25;2F03&#x25;2Ftwcomme-des-garcons-kyoto-store-reopening.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F03%2F03%2Ftwcomme-des-garcons-kyoto-store-reopening.jpg?w=1080&cbr=1&q=90&fit=max"
     },
     {
       "id": "a3e04d42730dbafd",
@@ -5606,7 +5613,7 @@
       "tags": [
         "コラボ"
       ],
-      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F02&#x25;2F13&#x25;2Fjah-jah-studio-comme-des-garcons-shirt-reunite-ss26-capsule-collaboration-release-info-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F02%2F13%2Fjah-jah-studio-comme-des-garcons-shirt-reunite-ss26-capsule-collaboration-release-info-tw.jpg?w=1080&cbr=1&q=90&fit=max",
       "importance": 2
     },
     {
@@ -5861,7 +5868,7 @@
       "tags": [
         "コラボ"
       ],
-      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F01&#x25;2F27&#x25;2Fcomme-des-garcons-homme-new-balance-u1890a-black-charcoal-beige-orange-exclusive-closer-look-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F01%2F27%2Fcomme-des-garcons-homme-new-balance-u1890a-black-charcoal-beige-orange-exclusive-closer-look-tw.jpg?w=1080&cbr=1&q=90&fit=max"
     },
     {
       "id": "f28bd17e3aa8a1a1",
@@ -5892,7 +5899,7 @@
       "tags": [
         "コラボ"
       ],
-      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F01&#x25;2F27&#x25;2Fcomme-des-garcons-black-x-nike-ld-1000-spirit-pink-black-white-spirit-pink-iu7936-001-release-info-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F01%2F27%2Fcomme-des-garcons-black-x-nike-ld-1000-spirit-pink-black-white-spirit-pink-iu7936-001-release-info-tw.jpg?w=1080&cbr=1&q=90&fit=max"
     },
     {
       "id": "d353249930b790c4",
@@ -6302,7 +6309,7 @@
       "tags": [
         "ショー/コレクション"
       ],
-      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2026&#x25;2F01&#x25;2F23&#x25;2Fcomme-des-garcons-homme-plus-fall-winter-2026-paris-fashion-week-runway-collection-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F01%2F23%2Fcomme-des-garcons-homme-plus-fall-winter-2026-paris-fashion-week-runway-collection-tw.jpg?w=1080&cbr=1&q=90&fit=max",
       "importance": 2,
       "cluster": "cdg-hommeplus-26aw-blackhole"
     },
@@ -6506,7 +6513,7 @@
         "コラボ",
         "新作"
       ],
-      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fbae.hypebeast.com&#x25;2Ffiles&#x25;2F2025&#x25;2F12&#x25;2F23&#x25;2FSingle-Image-562.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fbae.hypebeast.com%2Ffiles%2F2025%2F12%2F23%2FSingle-Image-562.jpg?w=1080&cbr=1&q=90&fit=max"
     },
     {
       "id": "d75e632183f05f17",
@@ -6639,7 +6646,7 @@
       "url": "https://spur.hpplus.jp/fashion/news/ayjazw/",
       "publishedAt": "2025-12-15T08:00:00.000Z",
       "publisher": "SPUR（シュプール）",
-      "image": "https&#x3A;&#x2F;&#x2F;img-spur.hpplus.jp&#x2F;image&#x2F;9f&#x2F;9fb3c5a3-aa8d-4286-9319-d48765a147a9-1200x630.jpg",
+      "image": "https://img-spur.hpplus.jp/image/9f/9fb3c5a3-aa8d-4286-9319-d48765a147a9-1200x630.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-11T22:09:21.592Z",
       "summary": "コムデギャルソンがG-DRAGONのワールドツアー「Übermensch」記念コラボコレクションを12月24日発売。伊勢丹新宿店でのポップアップとCDG E-shopで展開し、コート・バッグ・ストールなど10型をラインナップ。",
@@ -6665,7 +6672,7 @@
         "ショー/コレクション",
         "新作"
       ],
-      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2025&#x25;2F12&#x25;2F14&#x25;2Fcomme-des-garcons-g-dragon-collaboration-collection-release-info-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F12%2F14%2Fcomme-des-garcons-g-dragon-collaboration-collection-release-info-tw.jpg?w=1080&cbr=1&q=90&fit=max",
       "importance": 3,
       "cluster": "cdg-gdragon-ubermensch"
     },
@@ -6755,10 +6762,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0507-1.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-09T22:12:01.199Z",
-      "summary": null,
+      "summary": "SNKRDUNKにコムデギャルソンの2025年ホリデー ドッキング トートバッグ(ブラック/ホワイト、2025年12月1日発売)が掲載されているが、現時点で出品待ち状態。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "aad1efc462631f4b",
@@ -6906,7 +6914,7 @@
       "url": "https://spur.hpplus.jp/fashion/news/2025-11-28-ZHNcvA/",
       "publishedAt": "2025-11-28T08:00:00.000Z",
       "publisher": "SPUR（シュプール）",
-      "image": "https&#x3A;&#x2F;&#x2F;img-spur.hpplus.jp&#x2F;image&#x2F;f5&#x2F;f599c3d8-3c65-42f1-96cc-9b64c335f80d-1200x630.jpg",
+      "image": "https://img-spur.hpplus.jp/image/f5/f599c3d8-3c65-42f1-96cc-9b64c335f80d-1200x630.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-05T22:09:13.363Z",
       "summary": "コム デ ギャルソンの路面店5店舗(青山・大阪・丸の内・京都・福岡)で2025年12月1日〜28日、オニツカタイガーとのコラボポップアップを開催。MEXICO 66シューズ4型とアパレル8型を展開。",
@@ -6932,7 +6940,7 @@
         "ショー/コレクション",
         "新作"
       ],
-      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fjp.hypebeast.com&#x25;2Ffiles&#x25;2F2025&#x25;2F11&#x25;2F28&#x25;2Ftrading-museum-comme-des-garcons-bajowoo-illumination-collection-release-info-01-1.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fjp.hypebeast.com%2Ffiles%2F2025%2F11%2F28%2Ftrading-museum-comme-des-garcons-bajowoo-illumination-collection-release-info-01-1.jpg?w=1080&cbr=1&q=90&fit=max",
       "importance": 2
     },
     {
@@ -7114,7 +7122,7 @@
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": "(要約取得不可)",
       "tags": [],
-      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2025&#x25;2F11&#x25;2F17&#x25;2Fcomme-des-garcons-shirt-asics-gel-kayano-14-white-1203b005-100-release-info-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F11%2F17%2Fcomme-des-garcons-shirt-asics-gel-kayano-14-white-1203b005-100-release-info-tw.jpg?w=1080&cbr=1&q=90&fit=max"
     },
     {
       "id": "0342bb8fa9549f66",
@@ -7139,7 +7147,7 @@
       "publisher": "Vogue",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
       ],
@@ -7165,7 +7173,7 @@
       "publisher": "朝日新聞",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "インタビュー"
       ],
@@ -7179,11 +7187,12 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "SNKRDUNKにCDG バイアスプルオーバー(ブラック、参考価格¥25,300、2025年10月10日発売)の中古/フリマ品が相場¥34,800前後で取引されている。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGCDG-0008.webp"
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGCDG-0008.webp",
+      "importance": 1
     },
     {
       "id": "4faa21f64d1e534f",
@@ -7194,10 +7203,12 @@
       "image": "https://www.fashion-headline.com/images/migration/2014/04/761cf1b306c0d04f276dabba8eb14d5a.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-07T02:34:52.165Z",
-      "summary": null,
+      "summary": "プレイ・コムデギャルソンが新宿伊勢丹本館で「MARKET」をテーマにしたポップアップを開催し、初披露のリュック(¥17,000)やバッグ(¥16,000)、過去製品をリメイクしたトップスなど、青山店では扱わない限定アイテムを販売した。",
       "tags": [
-        "新作"
-      ]
+        "新作",
+        "店舗"
+      ],
+      "importance": 2
     },
     {
       "id": "ce270e2f179d5601",
@@ -7208,10 +7219,11 @@
       "image": "https://www.fashion-headline.com/images/migration/2013/03/6fb27b79649ece2bdf4495cf08405a24.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-07T02:34:52.166Z",
-      "summary": null,
+      "summary": "コムデギャルソンの13-14年秋冬パリコレクションは「テーラリングの無限の可能性」をテーマに、千鳥格子やストライプのスーツ地を用いたジャケット・パンツを、大胆に膨らませたシルエットや装飾で展開した。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "f60d50352a65faff",
@@ -7262,7 +7274,7 @@
       "fetchedAt": "2026-07-04T23:44:37.628Z",
       "summary": null,
       "tags": [],
-      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2025&#x25;2F10&#x25;2F27&#x25;2Fcomme-des-garcons-homme-goldwin-w-name-special-release-info-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F10%2F27%2Fcomme-des-garcons-homme-goldwin-w-name-special-release-info-tw.jpg?w=1080&cbr=1&q=90&fit=max"
     },
     {
       "id": "e65a9489c0397fa0",
@@ -7414,7 +7426,7 @@
         "コラボ",
         "新作"
       ],
-      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fjp.hypebeast.com&#x25;2Ffiles&#x25;2F2025&#x25;2F10&#x25;2F10&#x25;2Fnew-balance-comme-des-garcons-homme-collabo-shoes-release-info-01-1.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fjp.hypebeast.com%2Ffiles%2F2025%2F10%2F10%2Fnew-balance-comme-des-garcons-homme-collabo-shoes-release-info-01-1.jpg?w=1080&cbr=1&q=90&fit=max"
     },
     {
       "id": "98ab4141ad4ef51b",
@@ -7618,7 +7630,7 @@
         "コラボ",
         "ショー/コレクション"
       ],
-      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fjp.hypebeast.com&#x25;2Ffiles&#x25;2F2025&#x25;2F09&#x25;2F17&#x25;2Fbape-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fjp.hypebeast.com%2Ffiles%2F2025%2F09%2F17%2Fbape-tw.jpg?w=1080&cbr=1&q=90&fit=max"
     },
     {
       "id": "558812c8ec78da35",
@@ -7633,7 +7645,7 @@
         "ショー/コレクション",
         "新作"
       ],
-      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fhypebeast.com&#x25;2Fimage&#x25;2F2025&#x25;2F09&#x25;2F21&#x25;2Fbape-comme-des-garcons-osaka-limited-edition-collaboration-collection-release-info-tw.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F09%2F21%2Fbape-comme-des-garcons-osaka-limited-edition-collaboration-collection-release-info-tw.jpg?w=1080&cbr=1&q=90&fit=max"
     },
     {
       "id": "059aa9f98ee50438",
@@ -7648,7 +7660,7 @@
         "コラボ",
         "新作"
       ],
-      "image": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fjp.hypebeast.com&#x25;2Ffiles&#x25;2F2025&#x25;2F09&#x25;2F17&#x25;2Fcomme-des-garcons-homme-plus-nike-air-rejuven8-00.jpg&#x3F;w&#x3D;1080&cbr&#x3D;1&q&#x3D;90&fit&#x3D;max"
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fjp.hypebeast.com%2Ffiles%2F2025%2F09%2F17%2Fcomme-des-garcons-homme-plus-nike-air-rejuven8-00.jpg?w=1080&cbr=1&q=90&fit=max"
     },
     {
       "id": "97319cd683c27e46",

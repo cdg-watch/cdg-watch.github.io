@@ -1,21 +1,21 @@
-# CDG Watch デイリーダイジェスト 2026-08-09
+# CDG Watch デイリーダイジェスト 2026-08-10
 
-- **CDG×アンチソーシャルソーシャルクラブのコラボTシャツがSNKRDUNKのフリマに出品**
-  XLサイズ・未使用に近い状態で1万2000円。
-  https://snkrdunk.com/apparel-free-used-items/48817689
+- **UOMO、2026年夏の新作バッグ特集でコムデギャルソン オムのナイロンキルティングショルダーを紹介**
+  前シーズン完売を受け新素材で再展開。¥23,100、8月上旬発売。
+  https://www.webuomo.jp/fashion/matome/ovzAKg/
 
-- **⚠古 BLACK COMME des GARCONS×Nike「Field General」、Dover Street Marketで販売中**
-  歪んだスウッシュと黒CDGロゴを配したカウハイドレザーのコラボスニーカー。価格は145ポンド。
-  https://www.highsnobiety.com/p/black-comme-des-garcons-nike-field-general/
+- **コムデギャルソンの中古バッグ「OZ-K 224」がSNKRDUNKに出品**
+  状態C(やや傷や汚れあり)・ブラック、¥25,600。
+  https://snkrdunk.com/apparel-free-used-items/48857138
 
-- **⚠古 コムデギャルソン×ヨウジヤマモトのアーカイブショー「2.1 THE SHOW」が横浜で開催**
-  両ブランドの古着のみで構成されたランウェイイベント。テリー伊藤氏がスペシャルゲストモデルとして出演。
-  https://newscast.jp/smart/news/3390047
+- **⚠古 プレイ・コムデギャルソンが新宿伊勢丹で「MARKET」テーマのポップアップを開催**
+  初披露のリュック(¥17,000)やバッグ(¥16,000)、リメイクトップスなど、青山店では扱わない限定アイテムを販売。
+  https://www.fashion-headline.com/ja/article/12050
 
-- **⚠古 コムデギャルソン オムのウーステッドウールジャージーがSNKRDUNKに掲載**
-  ブラックカラー、定価8万6900円。
-  https://snkrdunk.com/apparels/726987
+- **⚠古 コムデギャルソン13-14年秋冬パリコレは「テーラリングの無限の可能性」がテーマ**
+  千鳥格子やストライプのスーツ地を大胆なシルエットと装飾で展開。
+  https://www.fashion-headline.com/ja/article/6693
 
-- **⚠古 CDG×ザ・ビートルズのロゴTシャツ「ホワイト」がSNKRDUNKに掲載**
-  定価9900円の半袖Tシャツ。
-  https://snkrdunk.com/apparels/649033
+- **⚠古 PLAY COMME des GARCONSの定番Tシャツ「ホワイト」がSNKRDUNKで人気**
+  相場¥8,111前後、ブランド内でも人気モデルとして2,200件以上のお気に入り登録。
+  https://snkrdunk.com/apparels/819610
