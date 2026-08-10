@@ -1,31 +1,22 @@
-# X投稿ドラフト 2026-08-10
+# X投稿ドラフト 2026-08-11
 
 ## 本日の投稿(確定)
 
+### 第1投稿(単体トピック)
 ```
-【CDG】コム デ ギャルソン オムのナイロンキルティングショルダーバッグ、新素材で再展開
-2025年秋冬発の完売バナナ型シルエットを、ナイロンリップストップ×中綿で今季も。¥23,100、8月上旬発売。
+【CDG】コムデギャルソン オム×BATONERが初コラボ
+ソリッドウール素材のニット・小物計5型。ミリタリー調デザインと畦編みラインを融合。8/5・8/7発売、伊勢丹やZOZOVILLAなどで取扱(BATONER直営なし)。
 ▼記事
-https://www.webuomo.jp/fashion/matome/ovzAKg/
+https://hypebeast.com/2026/8/comme-des-garcons-cdg-homme-batoner-collaboration-collection-release-info
 #コムデギャルソン #CommeDesGarcons #CDG
 ```
 
-補足: 月曜のため単体トピック1本(補足4)。make-post.jsの叩き台(案A)は「UOMOが紹介」という体裁だったため、
-読者が記事を開かなくても核心情報(完売後の再展開・素材・価格・発売時期)が分かるよう製品情報を先出しに
-書き直した。他候補はdigest-latest.mdの残り4件中、SNKRDUNKの中古バッグ出品1件(二次流通のため対象外)、
-⚠古2件(新宿伊勢丹MARKETポップアップ・13-14AWパリコレ特集はいずれも出来事が古い)、SNKRDUNKの
-PLAY Tシャツ人気記事1件(二次流通媒体+出来事が古い)で不採用。items.json直近7日分も確認したが、
-Esquire Philippines記事は本文403で主題未確認、Men's Journal AJ11記事も3日連続403で核心情報確認不可、
-fullressのオーバーサイズTシャツ×スウェット(8/4)は発売日・価格の記載が今回も見られず、いずれも見送り。
-posted-log.md/excluded-log.mdに該当なしの新規トピック。「8月上旬発売」は年月日までの具体的日付ではないが、
-記事公開(8/9)自体が新しく出来事も現在進行中(数週間以上前ではない)ため、鮮度例外規定を使わず通常の
-鮮度基準で採用。
-
-## 今週の改善メモ
-
-Men's JournalのAJ11(コムデギャルソン×エア ジョーダン11)記事が8/6・8/7・8/8・8/10と4日連続で
-本文403となり核心情報(発売日・価格)を確認できないまま見送りが続いている。SNKRDUNKの先行リーク(7/30)は
-二次流通媒体のため使えないが、次回は同コラボを扱う別の一次情報媒体(sneakerfiles、highsnobiety等の
-過去投稿実績ソース)をWebSearchで探す、またはGoogleキャッシュ/archive.orgでMen's Journal記事本文の
-閲覧を試すことを検討したい。403が続く限りこのトピックは自然消滅するため、鮮度ウィンドウが切れる前に
-一度別ルートを試す価値がある。
+補足: digest-latest.md の新着5件はすべて⚠古(公開2025-06〜2025-10)のため不採用。
+items.json 直近7日分を確認し、Hypebeast「BATONER x COMME des GARÇONS HOMME Fuse Solid Wool
+and Military Design in Their First Collab」(2026-08-10配信、初コラボと明記)を採用。
+同コラボは 2026-08-08 excluded-log 記載のSNKRDUNK編集記事(二次流通媒体出典のため見送り済み)
+でも触れられていたが、今回は一次メディア(Hypebeast)の記事かつ未投稿のため候補に採用。
+本文に価格記載がなかったため、uptodate.tokyo の記事で発売日・取扱店・ラインアップを補強確認
+(価格はfor記事側も非公開のため投稿文には含めず)。
+他候補: Men's Journal のAir Jordan 11記事は本日も本文403で核心情報未確認のため見送り
+(8/7以降複数日連続)。cognitee.com・SNKRDUNK・au PAYマーケット系の新着は二次流通のため除外。
