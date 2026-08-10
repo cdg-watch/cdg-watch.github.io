@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T22:15:03.144Z",
+  "updatedAt": "2026-08-10T22:19:13.340Z",
   "items": [
     {
       "id": "1e48d8e3a0df087a",
@@ -10,10 +10,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-10T22:14:40.729Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "34e3026457db1b7e",
@@ -24,10 +25,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-08-10T22:14:41.207Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "ebf235c008d03c03",
@@ -38,8 +40,9 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-10T22:14:40.728Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [],
+      "importance": 1
     },
     {
       "id": "117e4aa7629e1c94",
@@ -50,8 +53,9 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-10T22:14:40.729Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [],
+      "importance": 1
     },
     {
       "id": "cb8906a6fc2072a9",
@@ -77,10 +81,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/0c603b7d-2b30-46b8-a247-d9e07eb12031/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-10T22:14:40.729Z",
-      "summary": null,
+      "summary": "状態C(やや傷や汚れあり)のコムデギャルソン「OZ-K207」バッグが、鑑定付きでスニダンに28,600円で出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "b451804e7da2e277",
@@ -846,10 +851,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGOM-0040.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-10T22:14:40.729Z",
-      "summary": null,
+      "summary": "COMME des GARCONS HOMMEのコットンエステル ブロードストライプシャツ「サックス」が、鑑定付きでスニダンに出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "994d47d871804596",
@@ -5462,10 +5468,11 @@
       "image": "https://cdn.snkrdunk.com/images/ogp/og-image.png",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-10T22:14:40.730Z",
-      "summary": null,
+      "summary": "BLACK COMME des GARCONSの財布・バッグ・ネックレスなど各種アイテムの新品/中古出品を集めたスニダンのブランド一覧ページ。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "a3e04d42730dbafd",
@@ -7327,9 +7334,12 @@
       "publisher": "Highsnobiety",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://www.highsnobiety.com/static-assets/dato/1761733259-goldwin_comme-des-garcons.jpg"
+      "summary": "COMME des GARÇONSとゴールドウィンのコラボは、GORE-TEXと650フィルパワーダウンを使い装飾を抑えた機能重視のハイキングギアで、11月1日発売・価格は約1,760〜2,600ドル。",
+      "tags": [
+        "コラボ"
+      ],
+      "image": "https://www.highsnobiety.com/static-assets/dato/1761733259-goldwin_comme-des-garcons.jpg",
+      "importance": 2
     },
     {
       "id": "8b064a54b7671943",
@@ -7354,9 +7364,12 @@
       "publisher": "W Magazine",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.627Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://imgix.bustle.com/uploads/image/2025/10/24/75ec6dc8/wm202505seda01.jpeg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.5021&fp-y=0.525"
+      "summary": "エッセイストのデイヴィッド・セダリスが、コムデギャルソンの奇抜なデザインを着こなす自信を持てるようになるまでの葛藤と喜びを綴ったエッセイ。",
+      "tags": [
+        "その他"
+      ],
+      "image": "https://imgix.bustle.com/uploads/image/2025/10/24/75ec6dc8/wm202505seda01.jpeg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.5021&fp-y=0.525",
+      "importance": 2
     },
     {
       "id": "154efda2e7b6fd4f",
@@ -7366,9 +7379,10 @@
       "publisher": "Hypebeast",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [],
-      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F10%2F27%2Fcomme-des-garcons-homme-goldwin-w-name-special-release-info-tw.jpg?w=1080&cbr=1&q=90&fit=max"
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F10%2F27%2Fcomme-des-garcons-homme-goldwin-w-name-special-release-info-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+      "importance": 1
     },
     {
       "id": "e65a9489c0397fa0",
@@ -7379,8 +7393,11 @@
       "image": "https://images.oceans.tokyo.jp/media/article/52877/images/editor/ef2cc38f0a295f41e67ceb7399ff524896a41ee0.jpg?w=850",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-05T22:09:13.363Z",
-      "summary": null,
-      "tags": []
+      "summary": "30〜40代の男性3人が、あえてTシャツを選んだりオールブラックでまとめたりと、流行に左右されず自分らしくコムデギャルソンを楽しむ様子を紹介する記事。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "e90ea2258db11fc9",
@@ -7391,10 +7408,11 @@
       "image": "https://cdn.sanity.io/images/c1chvb1i/production/d4f6a7e758e7413ceea363afac056772a87ecdc1-1960x1320.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-05T01:22:35.160Z",
-      "summary": null,
+      "summary": "コムデギャルソンとニューバランスのコラボスニーカー「509」がロンドンのドーバー・ストリート・マーケットで先行発売され、今後より広く展開される予定。",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "4af2f6add8fa6735",
@@ -7404,9 +7422,12 @@
       "publisher": "繊研新聞",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://senken.co.jp/production/uploads/file_content/file/386828/large_019_Piasa_Comme%2Bdes%2BGarc_ons_1980S__c_%2BSimon%2BNarita.png"
+      "summary": "パリの競売会社ピアザが開催した川久保玲/コムデギャルソンのヴィンテージ作品オークションで出品の75%が落札され総額35万ユーロに達し、80年頃のコットンドレスがブランド史上最高額の1万4432ユーロで落札された。",
+      "tags": [
+        "その他"
+      ],
+      "image": "https://senken.co.jp/production/uploads/file_content/file/386828/large_019_Piasa_Comme%2Bdes%2BGarc_ons_1980S__c_%2BSimon%2BNarita.png",
+      "importance": 3
     },
     {
       "id": "3a94450cd9d569f1",
@@ -7416,11 +7437,12 @@
       "publisher": "朝日新聞",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "川久保玲が2026年春夏コレクションについて、完成されたものにあえてダメージを与え新しい前向きな表現を目指したと語った(有料記事、冒頭のみ閲覧)。",
       "tags": [
         "インタビュー"
       ],
-      "image": "https://imgopt.asahi.com/ogp/AS20251018001833_comm.jpg"
+      "image": "https://imgopt.asahi.com/ogp/AS20251018001833_comm.jpg",
+      "importance": 3
     },
     {
       "id": "e70c24d6d11c3923",
@@ -7430,12 +7452,13 @@
       "publisher": "朝日新聞",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "記者が2026年春夏パリ・コレクション取材の一日を振り返る連載日記。悪天候の中で行われた過酷な取材日程とショーの模様を綴っている(有料記事、冒頭のみ閲覧)。",
       "tags": [
         "ショー/コレクション",
         "インタビュー"
       ],
-      "image": "https://imgopt.asahi.com/ogp/AS20251017003251_comm.jpg"
+      "image": "https://imgopt.asahi.com/ogp/AS20251017003251_comm.jpg",
+      "importance": 2
     },
     {
       "id": "d32d99fa302063de",
