@@ -1,21 +1,17 @@
-# CDG Watch デイリーダイジェスト 2026-08-11
+# CDG Watch デイリーダイジェスト 2026-08-12
 
-- **⚠古 パリの競売でコムデギャルソンのヴィンテージ作品が総額35万ユーロで落札**
-  約500点のうち75%が落札、80年頃のコットンドレスがブランド史上最高額の1万4432ユーロを記録。
-  https://senken.co.jp/posts/comme-des-garcons-251021
+- **コムデギャルソン・シャツ×アシックス「GEL-1130」新作コラボスニーカー**
+  2026年秋冬発売、トリプルホワイト基調のY2Kムードなミニマルデザイン、価格58,300円。
+  https://www.webuomo.jp/sneaker/matome/b3bbfA/
 
-- **⚠古 川久保玲、2026年春夏コレクションについて「完成されたものにダメージを与える」意図を語る**
-  新しく前向きな表現を目指した制作意図に言及するインタビュー記事(朝日新聞、有料）。
-  https://www.asahi.com/articles/ASTBL1C96TBLUCVL05JM.html
+- **⚠古 コムデギャルソン2026年春夏コレクション「After the Dust」レビュー**
+  川久保玲は破損から生まれる価値を掲げ、キャンバスや麻など粗い素材で彫刻的な作品を発表。
+  https://www.designscene.net/2025/10/comme-des-garcons-spring-summer-2026.html
 
-- **⚠古 COMME des GARÇONSとゴールドウィンがGORE-TEX素材のハイキングギアで協業**
-  ロゴを抑え機能性を重視したデザインで、11月1日発売・価格は約1,760〜2,600ドル。
-  https://www.highsnobiety.com/p/comme-des-garcons-goldwin/
+- **⚠古 コム デ ギャルソン・オム × ニューバランス「U509」発売済み**
+  グレー×ホワイトのミニマルデザイン、価格30,800円、全国のCDGオム取扱店で販売。
+  https://www.fashionsnap.com/article/2025-10-10/comme-des-garcons-homme-newbalance-509/
 
-- **⚠古 コムデギャルソン×ニューバランス「509」がロンドンのドーバー・ストリート・マーケットで先行発売**
-  今後より広い地域での展開が予定されている。
-  https://www.sneakerfreaker.com/releases/comme-des-garcons-new-balance-509-price-buy-release-date
-
-- **⚠古 デイヴィッド・セダリスが綴る、コムデギャルソンを着こなす勇気**
-  奇抜なデザインに戸惑いながらも自信を持って着る喜びを語るエッセイ(W Magazine)。
-  https://www.wmagazine.com/fashion/david-sedaris-comme-des-garcons-essay
+- **⚠古 ステューシー×コムデギャルソン パルファム「Laguna Beach」が再入荷**
+  日本のCDGパルファム旗艦店とドーバーストリートマーケット銀座で静かに再登場、海外展開も見込む。
+  https://www.highsnobiety.com/p/stussy-comme-des-garcons-fragrance/

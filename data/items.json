@@ -10,11 +10,12 @@
       "image": "https://img.webuomo.jp/article/sns/image/ec/ecde3d8c-c216-464e-ba7b-5541cd241fba-1200x630.jpg",
       "feed": "WEB UOMO (Google News経由)",
       "fetchedAt": "2026-08-11T22:12:10.850Z",
-      "summary": null,
+      "summary": "2026年秋冬発売のコムデギャルソン・シャツ×アシックスのコラボスニーカー「GEL-1130」がwebuomoのまとめ記事で紹介された。トリプルホワイトを基調にしたY2Kムードのミニマルなデザインで、価格は58,300円。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "173119964baef693",
@@ -25,7 +26,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-08-11T22:12:11.940Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -37,8 +38,10 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-11T22:12:11.490Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "二次流通"
+      ]
     },
     {
       "id": "1e48d8e3a0df087a",
@@ -3785,7 +3788,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-11T22:12:11.491Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "新作"
       ]
@@ -4879,8 +4882,11 @@
       "image": "https://images.oceans.tokyo.jp/media/snap/11533/images/main_image_cf2774b789a5865f5e740c3ac2efb289f0f18924.jpg?h=1200",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-11T22:12:11.491Z",
-      "summary": null,
-      "tags": []
+      "summary": "OCEANSのスナップ企画で仙台在住の30歳男性が紹介され、コムデギャルソンオムのジャケットとTシャツにマルニのパンツを合わせた春夏コーディネートが掲載された。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "df1502298cbf9fe9",
@@ -7549,7 +7555,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-05T22:09:13.363Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ",
         "ショー/コレクション",
@@ -7564,9 +7570,13 @@
       "publisher": "Highsnobiety",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://www.highsnobiety.com/static-assets/dato/1760023817-stussy-comme-des-garcons-fragrance-2.jpg"
+      "summary": "ステューシー×コムデギャルソン パルファムのフレグランス「Laguna Beach」が10月上旬、日本のコムデギャルソン パルファム旗艦店とドーバーストリートマーケット銀座で静かに再入荷したとHighsnobietyが報じた。今後海外展開も見込まれる。",
+      "tags": [
+        "コラボ",
+        "再販/セール"
+      ],
+      "image": "https://www.highsnobiety.com/static-assets/dato/1760023817-stussy-comme-des-garcons-fragrance-2.jpg",
+      "importance": 2
     },
     {
       "id": "62928498737a2d25",
@@ -7576,9 +7586,12 @@
       "publisher": "Yahoo!ニュース",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/saruwatariyuki/02399163/title-1760229645738.jpeg?exp=10800"
+      "summary": "俳優ダイアン・キートンがインタビューでコムデギャルソンの大ファンだと語り、川久保玲のショーをスケジュールの都合で見逃したことを残念がっていたエピソードをYahoo!ニュースのコラムが紹介した。",
+      "tags": [
+        "その他"
+      ],
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/saruwatariyuki/02399163/title-1760229645738.jpeg?exp=10800",
+      "importance": 1
     },
     {
       "id": "b2ccd9af9403d0ee",
@@ -7589,26 +7602,12 @@
       "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2025/10/commedesgalcons-new-balance-001-050cc9b6-d6e1-440d-a3fc-f4d0eb85fd2d.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-05T22:09:13.363Z",
-      "summary": null,
-      "tags": [
-        "コラボ",
-        "新作"
-      ]
-    },
-    {
-      "id": "dbdd1a9e6baa587b",
-      "title": "New Balance x COMME des GARÇONS HOMME によるグレーとホワイトのコラボスニーカーが登場 - Hypebeast",
-      "url": "https://hypebeast.com/jp/2025/10/new-balance-comme-des-garcons-homme-collabo-shoes-release-info",
-      "publishedAt": "2025-10-10T07:00:00.000Z",
-      "publisher": "Hypebeast",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "コム デ ギャルソン・オムとニューバランスのコラボスニーカー「U509」が2025年10月17日、全国のコム デ ギャルソン・オム取扱店で発売された。グレー×ホワイトのミニマルなデザインで価格は30,800円。",
       "tags": [
         "コラボ",
         "新作"
       ],
-      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fjp.hypebeast.com%2Ffiles%2F2025%2F10%2F10%2Fnew-balance-comme-des-garcons-homme-collabo-shoes-release-info-01-1.jpg?w=1080&cbr=1&q=90&fit=max"
+      "importance": 2
     },
     {
       "id": "98ab4141ad4ef51b",
@@ -7618,8 +7617,10 @@
       "publisher": "Financial Times",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "その他"
+      ]
     },
     {
       "id": "8ffe1a8a296ced1b",
@@ -7629,9 +7630,12 @@
       "publisher": "dscene magazine",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://www.designscene.net/wp-content/uploads/2025/10/Courtesy-of-COMME-des-GARCONS-Spring-Summer-2026-00.webp"
+      "summary": "コムデギャルソン2026年春夏コレクション「After the Dust」をdesignscene.netが特集。川久保玲は「完璧なものが壊れることから生まれる価値」を掲げ、キャンバスや麻など粗い天然素材を用い、破れや裂け目をあえて意匠に取り入れた彫刻的な作品を発表した。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "image": "https://www.designscene.net/wp-content/uploads/2025/10/Courtesy-of-COMME-des-GARCONS-Spring-Summer-2026-00.webp",
+      "importance": 2
     },
     {
       "id": "9b4f5e3a612705a5",
@@ -7641,8 +7645,10 @@
       "publisher": "Dazed",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
+      "summary": "(要約取得不可)",
+      "tags": [
+        "ショー/コレクション"
+      ],
       "image": "https://images-prod.dazeddigital.com/1200/0-312-1365-910/azure/dazed-prod/1420/6/1426796.jpg"
     },
     {
@@ -7654,8 +7660,10 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-05T07:41:42.055Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "ショー/コレクション"
+      ]
     },
     {
       "id": "7252efff4841dbdb",
@@ -7665,9 +7673,12 @@
       "publisher": "OCEANS オーシャンズ",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://images.oceans.tokyo.jp/media/snap/10248/images/main_image_e6ba64038c5cb1e7c897775091c9883d9611d9a4.jpeg?h=1200"
+      "summary": "OCEANSのスナップ企画で中目黒在住の38歳男性が紹介され、コムデギャルソンのTシャツにジーユーのパンツ、プレイコムデギャルソン×コンバースのスニーカーを合わせたカジュアルな春夏コーディネートが掲載された。",
+      "tags": [
+        "その他"
+      ],
+      "image": "https://images.oceans.tokyo.jp/media/snap/10248/images/main_image_e6ba64038c5cb1e7c897775091c9883d9611d9a4.jpeg?h=1200",
+      "importance": 1
     },
     {
       "id": "ea51b48fb10ea608",
