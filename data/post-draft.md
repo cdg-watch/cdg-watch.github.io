@@ -1,22 +1,23 @@
-# X投稿ドラフト 2026-08-11
+# X投稿ドラフト 2026-08-12
 
 ## 本日の投稿(確定)
 
-### 第1投稿(単体トピック)
-```
-【CDG】コムデギャルソン オム×BATONERが初コラボ
-ソリッドウール素材のニット・小物計5型。ミリタリー調デザインと畦編みラインを融合。8/5・8/7発売、伊勢丹やZOZOVILLAなどで取扱(BATONER直営なし)。
-▼記事
-https://hypebeast.com/2026/8/comme-des-garcons-cdg-homme-batoner-collaboration-collection-release-info
-#コムデギャルソン #CommeDesGarcons #CDG
-```
+本日は**投稿を見送り**ます。
 
-補足: digest-latest.md の新着5件はすべて⚠古(公開2025-06〜2025-10)のため不採用。
-items.json 直近7日分を確認し、Hypebeast「BATONER x COMME des GARÇONS HOMME Fuse Solid Wool
-and Military Design in Their First Collab」(2026-08-10配信、初コラボと明記)を採用。
-同コラボは 2026-08-08 excluded-log 記載のSNKRDUNK編集記事(二次流通媒体出典のため見送り済み)
-でも触れられていたが、今回は一次メディア(Hypebeast)の記事かつ未投稿のため候補に採用。
-本文に価格記載がなかったため、uptodate.tokyo の記事で発売日・取扱店・ラインアップを補強確認
-(価格はfor記事側も非公開のため投稿文には含めず)。
-他候補: Men's Journal のAir Jordan 11記事は本日も本文403で核心情報未確認のため見送り
-(8/7以降複数日連続)。cognitee.com・SNKRDUNK・au PAYマーケット系の新着は二次流通のため除外。
+理由: digest-latest.mdの新着4件のうち1件(webuomo.jp「2026年夏に買うべき新作6選」)はコム デ ギャルソン・シャツ×アシックス「GEL-1130」を含むまとめ記事だが、価格(58,300円)・発売時期(2026年秋冬)とも7/20投稿済みの発表記事と同一内容で新情報なし(重複防止のため見送り)。残る3件はいずれも⚠古(公開2025-10〜2025-06、出来事も同時期)。
+
+items.json直近7日分(8/5〜8/11、24件)も確認しましたが、
+- cognitee.com(2件)・SNKRDUNK(複数) — いずれも古着・中古品の二次流通のため方針上対象外
+- コムデギャルソン×エア ジョーダン11(Men's Journal) — 記事本文が403で取得不可(8/7から6日連続、核心情報未確認のため見送り継続)
+- Vogue Adria「Inside Nejc Prah's creative world, from Comme des Garçons to a Utah ski resort」 — 元CDGスタッフのデザイナーが現在はユタ州のスキーリゾートで活動する、という人物特集。本文が403で取得不可のためCDGに関する核心情報を確認できず、内容もCDG自体のニュースというより個人のキャリア紹介に近いため見送り
+- Esquire Philippines「Why Comme des Garcons Refuses to Play the Fashion Rules」 — 本文が403で取得不可。URLに「glorietta」(マニラのモール名)を含み、7/23に取り下げ済みの海外ローカル店舗トピックと同種の可能性があるが確認できず、安全側で見送り
+
+新規に鮮度・方針基準を満たす一次情報は本日0本でした。無理に基準を下げず、翌日以降の新着を待ちます。
+
+なお、posted-log.mdの最新行(2026-08-11)と本Issueの直近コメント日付(2026-08-11分)は一致しており、未通知の欠落はありませんでした。
+
+---
+
+🤝 本日のエンゲージメント候補(手動でどうぞ・各1タップ)
+- フォロー候補: くねたん (@cune_cune_) — 伊勢丹の夏セールでCOMME des GARÇONS SHIRT×BE@RBRICKコラボシャツを購入したと写真付きで投稿する個人ファンアカウント https://x.com/cune_cune_
+- いいね/リプ候補: https://x.com/search?q=コムデギャルソン%20セール%20買った&f=live 、 https://x.com/search?q=ギャルソン%20購入品&f=live
