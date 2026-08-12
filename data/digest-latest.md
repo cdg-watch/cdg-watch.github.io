@@ -1,17 +1,13 @@
-# CDG Watch デイリーダイジェスト 2026-08-12
+# CDG Watch デイリーダイジェスト 2026-08-13
 
-- **コムデギャルソン・シャツ×アシックス「GEL-1130」新作コラボスニーカー**
-  2026年秋冬発売、トリプルホワイト基調のY2Kムードなミニマルデザイン、価格58,300円。
-  https://www.webuomo.jp/sneaker/matome/b3bbfA/
+- **Dazed Club × ドーバーストリートマーケットが「コムデギャルソン プレイ」限定販売イベント**
+  2026年8月7日ロンドンDSMを一夜限りジャック、会員向けにプレイの限定ピースを販売しスタイリング撮影も実施。
+  https://www.dazeddigital.com/fashion/article/70798/1/dazed-club-takeover-dover-street-market-commes-des-garcons
 
-- **⚠古 コムデギャルソン2026年春夏コレクション「After the Dust」レビュー**
-  川久保玲は破損から生まれる価値を掲げ、キャンバスや麻など粗い素材で彫刻的な作品を発表。
-  https://www.designscene.net/2025/10/comme-des-garcons-spring-summer-2026.html
+- **⚠古 コムデギャルソン2025年秋冬コレクション「小さきことは強い」レビュー**
+  伝統的なメンズ生地を曲面的に再構築し、積層ベルベット・サテンドレスなど巨大な構造をわずか20ルックで表現。
+  https://www.anothermag.com/fashion-beauty/16235/comme-des-garcons-autumn-winter-2025-aw25-rei-kawakubo-review
 
-- **⚠古 コム デ ギャルソン・オム × ニューバランス「U509」発売済み**
-  グレー×ホワイトのミニマルデザイン、価格30,800円、全国のCDGオム取扱店で販売。
-  https://www.fashionsnap.com/article/2025-10-10/comme-des-garcons-homme-newbalance-509/
-
-- **⚠古 ステューシー×コムデギャルソン パルファム「Laguna Beach」が再入荷**
-  日本のCDGパルファム旗艦店とドーバーストリートマーケット銀座で静かに再登場、海外展開も見込む。
-  https://www.highsnobiety.com/p/stussy-comme-des-garcons-fragrance/
+- **⚠古 コムデギャルソン パルファム30周年、愛用者7人インタビュー特集**
+  1992年の川久保玲とクリスチャン・アストゥグヴィエイユの出会いから生まれた「アンチ香水」の哲学を、記念書籍刊行に合わせて振り返る。
+  https://www.anothermag.com/fashion-beauty/16066/comme-des-garcons-scents-interview-30th-anniversary

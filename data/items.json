@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T22:12:11.801Z",
+  "updatedAt": "2026-08-12T22:14:37.468Z",
   "items": [
     {
       "id": "e5ca48af45cb2b93",
@@ -10,8 +10,11 @@
       "image": "https://images-prod.dazeddigital.com/1197/0-383-1197-798/azure/dazed-prod/1450/1/1451192.jpg",
       "feed": "Dazed",
       "fetchedAt": "2026-08-12T22:11:58.434Z",
-      "summary": null,
-      "tags": []
+      "summary": "Dazed Clubが2026年8月7日、ロンドンのドーバー・ストリート・マーケットを一夜限りジャック。会員向けにコムデギャルソン プレイの限定コレクションを販売し、スタイリング撮影や飲食も提供された。",
+      "tags": [
+        "店舗"
+      ],
+      "importance": 1
     },
     {
       "id": "575278fc14c6d343",
@@ -7614,7 +7617,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-12T22:12:06.374Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ",
         "新作"
@@ -7984,7 +7987,7 @@
       "image": "https://wwd.com/wp-content/uploads/2025/06/comme-des-garcons-homme-plus-men-ss26-rtw-r-gg-001.jpeg?crop=0px%2C58px%2C1365px%2C763px&resize=1000%2C563",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -8022,7 +8025,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -8049,8 +8052,11 @@
       "image": "https://images-prod.anothermag.com/1200/0-75-1500-1000/azure/another-prod/450/8/458758.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
-      "tags": []
+      "summary": "2025年秋冬コレクションで川久保玲は「小さきことは強い」をテーマに、伝統的なメンズ生地を曲面的に再構築。積層したベルベットやサテンドレスなど巨大な構造を、わずか20ルックの小規模ショーで表現した。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 2
     },
     {
       "id": "9b4e35d7d3dd6040",
@@ -8061,7 +8067,7 @@
       "image": "https://tobemagazine.co/wp/wp-content/uploads/2025/03/comme_des_garcons_winter25_12-scaled.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -8073,7 +8079,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
       ]
@@ -8087,7 +8093,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -8129,7 +8135,7 @@
       "image": "https://wwd.com/wp-content/uploads/2025/01/comme-des-garcons-men-f25-r-men-rtw-gg-10001.jpg?crop=0px%2C52px%2C1363px%2C763px&resize=1000%2C563",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "インタビュー"
       ]
@@ -8143,8 +8149,11 @@
       "image": "https://images-prod.anothermag.com/1200/0-417-2250-1500/azure/another-prod/450/4/454762.jpeg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
-      "tags": []
+      "summary": "コムデギャルソン パルファムの30周年を記念し、写真家やスタイリストなど愛用者7人へのインタビューを掲載。1992年の川久保玲とクリスチャン・アストゥグヴィエイユの出会いから生まれた「アンチ香水」の哲学と、記念書籍の刊行を紹介している。",
+      "tags": [
+        "インタビュー"
+      ],
+      "importance": 1
     },
     {
       "id": "265c6f0e105f695d",
@@ -8186,7 +8195,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
       ]
@@ -8200,7 +8209,7 @@
       "image": "https://wwd.com/wp-content/uploads/2024/09/comme-des-garcons-rtw-spring-2025-gg-001.jpg?crop=0px%2C38px%2C1365px%2C763px&resize=1000%2C563",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -8212,7 +8221,7 @@
       "image": "https://wwd.com/wp-content/uploads/2024/09/1P1440030-3.jpg?crop=0px%2C349px%2C3648px%2C2041px&resize=1000%2C563",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-11T22:09:22.056Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -8327,7 +8336,7 @@
       "image": "https://imgopt.asahi.com/ogp/AS20240122001742_comm.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-10T03:22:18.097Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "新作",
         "インタビュー"
@@ -8369,7 +8378,7 @@
       "image": "https://imgopt.asahi.com/ogp/AS20231109002310_comm.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-10T03:22:18.097Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "インタビュー"
       ]
