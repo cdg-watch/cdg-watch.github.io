@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T22:16:30.457Z",
+  "updatedAt": "2026-08-13T22:19:44.054Z",
   "items": [
     {
       "id": "e5ca48af45cb2b93",
@@ -153,10 +153,11 @@
       "image": "https://img.webuomo.jp/article/sns/image/2f/2f912b29-02c6-43b9-bc31-d7b67d8b6f9d-1200x629.jpg",
       "feed": "WEB UOMO (Google News経由)",
       "fetchedAt": "2026-08-13T22:16:22.099Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "新作"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "b451804e7da2e277",
@@ -409,10 +410,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-13T22:16:22.558Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "8a16c4dd640ba7f3",
@@ -7746,11 +7748,12 @@
       "publisher": "Vogue",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
       ],
-      "image": "https://assets.vogue.com/photos/68e1683970bf01d0febb4bf0/16:9/pass/00001-comme-des-garcons-spring-2026-ready-to-wear-credit-gorunway.jpg"
+      "image": "https://assets.vogue.com/photos/68e1683970bf01d0febb4bf0/16:9/pass/00001-comme-des-garcons-spring-2026-ready-to-wear-credit-gorunway.jpg",
+      "importance": 2
     },
     {
       "id": "36f752818fec4930",
@@ -7760,9 +7763,10 @@
       "publisher": "to Be Magazine",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [],
-      "image": "https://tobemagazine.co/wp/wp-content/uploads/2025/10/00001-comme-des-garcons-spring-2026-ready-to-wear-credit-gorunway-scaled.webp"
+      "image": "https://tobemagazine.co/wp/wp-content/uploads/2025/10/00001-comme-des-garcons-spring-2026-ready-to-wear-credit-gorunway-scaled.webp",
+      "importance": 2
     },
     {
       "id": "b4fc40dc91aec162",
@@ -7772,9 +7776,10 @@
       "publisher": "WWD",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [],
-      "image": "https://wwd.com/wp-content/uploads/2025/10/comme-des-garcons-spring-26-r-gg-001.jpeg?crop=0px%2C0px%2C1365px%2C763px&resize=1000%2C563"
+      "image": "https://wwd.com/wp-content/uploads/2025/10/comme-des-garcons-spring-26-r-gg-001.jpeg?crop=0px%2C0px%2C1365px%2C763px&resize=1000%2C563",
+      "importance": 2
     },
     {
       "id": "b8e1309f4776e5ef",
@@ -7784,9 +7789,10 @@
       "publisher": "Vogue",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [],
-      "image": "https://assets.vogue.com/photos/55d7a20effaf5abf26397cf4/16:9/w_1280,c_limit/COMME-DES-GARCONS-SPRING-1997-RTW-06.jpg"
+      "image": "https://assets.vogue.com/photos/55d7a20effaf5abf26397cf4/16:9/w_1280,c_limit/COMME-DES-GARCONS-SPRING-1997-RTW-06.jpg",
+      "importance": 2
     },
     {
       "id": "9c3024790e907109",
@@ -7796,9 +7802,12 @@
       "publisher": "Hube magazine",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://hubemag.com/wp-content/uploads/2025/09/Dover-Street-Market-Paris-unveils-Georgia-OKeeffe-installation-by-Comme-des-Garcons_hube_01.jpg"
+      "summary": "レイ・カワクボがキュレーションしたインスタレーション「ジョージア・オキーフ by コム デ ギャルソン」が、パリファッションウィーク期間中の9月29日からドーバーストリートマーケット・パリの中庭で公開される。オキーフの絵画と写真を重ね合わせる展示で、カワクボによる同店中庭プロジェクトの4作目。",
+      "tags": [
+        "店舗"
+      ],
+      "image": "https://hubemag.com/wp-content/uploads/2025/09/Dover-Street-Market-Paris-unveils-Georgia-OKeeffe-installation-by-Comme-des-Garcons_hube_01.jpg",
+      "importance": 2
     },
     {
       "id": "969c47b51b0ceb22",
@@ -7808,9 +7817,12 @@
       "publisher": "WWDJAPAN",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://media.wwdjapan.com/wp-content/uploads/2025/10/26150311/og%E7%94%A8%E9%9B%9B%E5%BD%A21200pix%C3%97630pix-5.jpg"
+      "summary": "群馬県前橋のセレクトショップ「マール」店主・奈良幸江さんを紹介する記事。学生時代にコム デ ギャルソンの服に惹かれ販売員となり、1987年に独立してマールを開業、38年間にわたり地元で同ブランドを扱い続けている。",
+      "tags": [
+        "店舗"
+      ],
+      "image": "https://media.wwdjapan.com/wp-content/uploads/2025/10/26150311/og%E7%94%A8%E9%9B%9B%E5%BD%A21200pix%C3%97630pix-5.jpg",
+      "importance": 1
     },
     {
       "id": "51ce830dfbd28c0a",
@@ -7850,11 +7862,12 @@
       "publisher": "FashionNetwork France",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-05T00:47:55.988Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "新作"
       ],
-      "image": "https://media.fashionnetwork.com/cdn-cgi/image/fit=cover,width=600,height=600,format=auto/m/1431/199e/d69a/53e5/87c8/f099/6ed1/896f/f5ce/1be1/1be1.jpg"
+      "image": "https://media.fashionnetwork.com/cdn-cgi/image/fit=cover,width=600,height=600,format=auto/m/1431/199e/d69a/53e5/87c8/f099/6ed1/896f/f5ce/1be1/1be1.jpg",
+      "importance": 2
     },
     {
       "id": "52edf61721937e45",
@@ -7865,8 +7878,11 @@
       "image": "https://images.oceans.tokyo.jp/media/snap/10202/images/main_image_4052682f92337e96ad5ed671f1560fecd56829a6.jpg?h=1200",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-05T22:09:13.363Z",
-      "summary": null,
-      "tags": []
+      "summary": "中目黒でのスナップコーディネート企画。42歳男性がコム デ ギャルソンのTシャツとトートバッグを、他ブランドのパンツやシューズと合わせた春夏の大人カジュアルコーデとして紹介している。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "3802e53bd0c31a69",
@@ -7876,12 +7892,14 @@
       "publisher": "Hypebeast",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ",
         "ショー/コレクション"
       ],
-      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fjp.hypebeast.com%2Ffiles%2F2025%2F09%2F17%2Fbape-tw.jpg?w=1080&cbr=1&q=90&fit=max"
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fjp.hypebeast.com%2Ffiles%2F2025%2F09%2F17%2Fbape-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+      "cluster": "bape-cdg-osaka-5th",
+      "importance": 2
     },
     {
       "id": "558812c8ec78da35",
@@ -7891,12 +7909,14 @@
       "publisher": "Hypebeast",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション",
         "新作"
       ],
-      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F09%2F21%2Fbape-comme-des-garcons-osaka-limited-edition-collaboration-collection-release-info-tw.jpg?w=1080&cbr=1&q=90&fit=max"
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F09%2F21%2Fbape-comme-des-garcons-osaka-limited-edition-collaboration-collection-release-info-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+      "cluster": "bape-cdg-osaka-5th",
+      "importance": 2
     },
     {
       "id": "059aa9f98ee50438",
@@ -7906,12 +7926,13 @@
       "publisher": "Hypebeast",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-04T23:44:37.062Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ",
         "新作"
       ],
-      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fjp.hypebeast.com%2Ffiles%2F2025%2F09%2F17%2Fcomme-des-garcons-homme-plus-nike-air-rejuven8-00.jpg?w=1080&cbr=1&q=90&fit=max"
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fjp.hypebeast.com%2Ffiles%2F2025%2F09%2F17%2Fcomme-des-garcons-homme-plus-nike-air-rejuven8-00.jpg?w=1080&cbr=1&q=90&fit=max",
+      "importance": 2
     },
     {
       "id": "97319cd683c27e46",
@@ -7921,11 +7942,12 @@
       "publisher": "SNKRDUNK",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-05T00:47:55.389Z",
-      "summary": null,
+      "summary": "スニーカーダンクに出品されているコム デ ギャルソン「CDG」クルーネックスウェット(ピンクロゴ・グレー)の商品ページ。2025年9月12日発売・定価17,600円で、新品/中古が29,900円前後から取引されている。",
       "tags": [
         "二次流通"
       ],
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGCDG-0002-2.webp"
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGCDG-0002-2.webp",
+      "importance": 1
     },
     {
       "id": "3d4d2b67737eeb63",
@@ -7949,9 +7971,12 @@
       "publisher": "10 Magazine",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": null,
-      "tags": [],
-      "image": "https://10magazine.com/wp-content/uploads/2025/09/Comme-FT.jpg"
+      "summary": "コム デ ギャルソンのAW25コレクションをリチャード・バーブリッジが撮影した写真特集。「Smaller Is Stronger」をテーマに、ピンストライプスーツの変形カッティングや帽子を重ねたヘッドピースなど、企業文化を皮肉るデザインをモデル6人で表現している。",
+      "tags": [
+        "その他"
+      ],
+      "image": "https://10magazine.com/wp-content/uploads/2025/09/Comme-FT.jpg",
+      "importance": 1
     },
     {
       "id": "4f79a7350667b244",
