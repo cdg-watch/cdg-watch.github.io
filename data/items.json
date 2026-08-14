@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T22:13:31.813Z",
+  "updatedAt": "2026-08-14T22:17:07.375Z",
   "items": [
     {
       "id": "8eec26d3379ec300",
@@ -10,10 +10,11 @@
       "image": "https://wwd.com/wp-content/uploads/2026/08/comme-des-garcons-air-jordan-11-all-white-all-black-001.jpg?w=1000&h=563&crop=1",
       "feed": "Google News (English)",
       "fetchedAt": "2026-08-14T22:13:21.017Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "importance": 3
     },
     {
       "id": "e5ca48af45cb2b93",
@@ -289,11 +290,11 @@
       "image": "https://s.yimg.com/lo/mysterio/api/38eaa14d84b472e6bbc4c8b7b8fda405d373d2459e8ed83d623de76c298016fe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2Fe2a8383f0362c208f541151ec1362c61",
       "feed": "Google News (English)",
       "fetchedAt": "2026-08-14T22:13:21.018Z",
-      "summary": null,
+      "summary": "コムデギャルソン×エアジョーダン11のコラボスニーカーが2026年9月に発売予定で、黒/白・白/黒の2色展開、価格は各250ドル。従来のメッシュ素材を高級レザーに置き換え、デボス加工のJumpmanロゴを施したのが特徴。",
       "tags": [
-        "コラボ",
-        "二次流通"
-      ]
+        "コラボ"
+      ],
+      "importance": 3
     },
     {
       "id": "693eddd6c280f0a4",
@@ -7084,10 +7085,12 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20190912104234-13.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-14T22:13:20.622Z",
-      "summary": null,
+      "summary": "コムデギャルソン×オニツカタイガーのポリエステルジャージーパンツ(ブラック/イエロー)がSNKRDUNKに出品。2025年12月1日発売、定価37,400円。",
       "tags": [
-        "二次流通"
-      ]
+        "二次流通",
+        "コラボ"
+      ],
+      "importance": 1
     },
     {
       "id": "3c00c153bf253e85",
@@ -7479,8 +7482,11 @@
       "image": "https://www.fashion-headline.com/images/migration/2014/10/4a46fbdf7f10009f1b4c0582acf3d686.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-14T22:13:20.622Z",
-      "summary": null,
-      "tags": []
+      "summary": "ジュンヤワタナベ コムデギャルソンの2015年春夏ウィメンズコレクションを紹介する全44枚の写真ギャラリー記事(36枚目)。精緻な技巧を凝らした作品を収録。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 1
     },
     {
       "id": "ce270e2f179d5601",
@@ -7948,10 +7954,12 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CH-1196.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-14T22:13:20.622Z",
-      "summary": null,
+      "summary": "クロムハーツ×コムデギャルソン×ドーバーストリートマーケット限定の半袖Tシャツ(ブラック)がSNKRDUNKに出品。価格は94,800円から。",
       "tags": [
-        "二次流通"
-      ]
+        "二次流通",
+        "コラボ"
+      ],
+      "importance": 1
     },
     {
       "id": "3802e53bd0c31a69",
@@ -8083,10 +8091,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20260305091236-0.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-05T22:09:13.363Z",
-      "summary": null,
+      "summary": "PLAY COMME des GARCONS AX-T070-051(ホワイト)のTシャツがSNKRDUNKに新品/中古で出品中。定価7,920円、2024年9月6日発売で、相場は11,111円から。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "384fc983cb54fca0",
@@ -8370,8 +8379,11 @@
       "image": "https://wwd.com/wp-content/uploads/2024/06/comme-des-garcons-spring-2025-mens-001.jpeg?crop=0px%2C46px%2C1365px%2C763px&resize=1000%2C563",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 2
     },
     {
       "id": "75db8793bc27dfd6",
@@ -8382,8 +8394,11 @@
       "image": "https://images-prod.dazeddigital.com/1164/116-123-1164-776/azure/dazed-prod/1370/7/1377186.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
-      "tags": []
+      "summary": "コムデギャルソンのブランド名は、創業者レイ・カワクボが敬愛したフランソワーズ・アルディの1963年のヒット曲「Tous les Garçons et les Filles」に由来する。PlayラインやShirtラインのボーダー柄・クロップド丈にもアルディの美学が反映されているという。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "d3858831cb8550fa",
@@ -8394,10 +8409,11 @@
       "image": "https://cdg-freak.com/wp-content/uploads/2024/04/IMG_1106.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-07-05T00:53:37.337Z",
-      "summary": null,
+      "summary": "コムデギャルソンがイタリア製レザーの新バッグコレクションを発表。台形シルエットのミニマルなデザインで、スモール176,000円・ミディアム198,000円(税込)。青山店・大阪店・丸の内店・京都店・福岡店とDOVER STREET MARKET GINZAで取扱い。",
       "tags": [
-        "ショー/コレクション"
-      ]
+        "新作"
+      ],
+      "importance": 2
     },
     {
       "id": "de80750be586e0bc",
@@ -8408,8 +8424,9 @@
       "image": "https://tsl.news/wp-content/uploads/2024/03/Claremont-Core-Quinn-Nachtrieb-1-1024x768.png",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [],
+      "importance": 1
     },
     {
       "id": "28d063c607f110a5",
@@ -8420,8 +8437,11 @@
       "image": "https://wwd.com/wp-content/uploads/2024/03/comme-des-garcons-fall-2024-ready-to-wear-001.jpg?crop=0px%2C26px%2C1365px%2C763px&resize=1000%2C563",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 2
     },
     {
       "id": "68a30944b45d0c46",
@@ -8432,8 +8452,11 @@
       "image": "https://10magazine.com/wp-content/uploads/2024/03/Comme-FT.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
-      "tags": []
+      "summary": "コムデギャルソン2024年秋冬コレクションは「怒り」がテーマ。川久保玲は「世界のすべて、特に自分自身への怒り」を表現したと語る。肩を極端に誇張したジャケット、PVCの膨張素材、18世紀風かつら、端切れを貼り合わせたコラージュなど黒基調のデザインで構成。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 2
     },
     {
       "id": "cfac794c0bd31b4e",
@@ -8444,10 +8467,11 @@
       "image": "https://cdg-freak.com/wp-content/uploads/2024/02/39w-1-1.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-07-05T00:53:37.337Z",
-      "summary": null,
+      "summary": "プレイコムデギャルソン初の半袖ニットが2024年3月1日発売。ハートマーク入りニット(33,000円)やポロネックニット(36,300円)、K-WAYコラボジャケット(29,700〜35,200円)などを、青山店を除く全国の取扱店で販売。",
       "tags": [
         "新作"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "615cc6e9db639814",
@@ -8473,8 +8497,11 @@
       "image": "https://wwd.com/wp-content/uploads/2024/01/comme-des-garcons-homme-plus-mens-fall-24-001.jpeg?crop=0px%2C42px%2C1365px%2C763px&resize=1000%2C563",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 2
     },
     {
       "id": "32d8cce9169702e5",
@@ -8485,11 +8512,12 @@
       "image": "https://cdg-freak.com/wp-content/uploads/2023/11/tmcdg_renewal-7.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-07-05T00:53:37.337Z",
-      "summary": null,
+      "summary": "表参道GYRE内の「TRADING MUSEUM Comme des Garçons」が2023年11月17日に増床リニューアル。床面積を約1.5倍に拡大し内装を一新、COMME des GARÇONS GIRLの取扱いを新たに開始。PORTERやPHILEO、Jamie Reidとのコラボアイテムも展開。",
       "tags": [
         "新作",
         "店舗"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "cfcd710840d2251c",
