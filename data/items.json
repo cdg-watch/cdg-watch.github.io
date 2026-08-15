@@ -10,10 +10,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/3703e97d-94d4-4c68-bbc6-d832071c7350/572183.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-15T22:12:33.597Z",
-      "summary": null,
+      "summary": "CDG丸の内店オープン記念として発売されたステューシーとのコラボTシャツ(サイズM、状態B)がSNKRDUNKに中古出品されている(価格11,000円)。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "8eec26d3379ec300",
@@ -54,8 +55,11 @@
       "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/08/10/https___m_crank-in_net_news_189372.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-15T22:12:33.597Z",
-      "summary": null,
-      "tags": []
+      "summary": "俳優の片岡鶴太郎(71)がコムデギャルソンを取り入れた最新コーディネートを披露し、SNSで「かっこいい」と反響を呼んでいることを紹介する記事。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "575278fc14c6d343",
@@ -1404,10 +1408,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20250717085715-3.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-15T22:12:33.597Z",
-      "summary": null,
+      "summary": "コム デ ギャルソン オムのコンパクトコットンカーゴパンツ(ブラック、品番CDGOM-0091、参考価格47,300円)のSNKRDUNK出品待ちページ。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "16f6f2a3a191a57a",
@@ -4694,10 +4699,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGOM-0066.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-15T22:12:33.597Z",
-      "summary": null,
+      "summary": "コム デ ギャルソン オムのナイロンツイルジャケット(カーキ、品番CDGOM-0066、参考価格96,800円)のSNKRDUNK出品待ちページ。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "2e0dd1d1f47a9ef0",
@@ -8596,8 +8602,12 @@
       "image": "https://wwd.com/wp-content/uploads/2023/09/comme-des-garcons-rtw-spring-24-pfw-0001.jpg?crop=0px%2C32px%2C1363px%2C763px&resize=1000%2C563",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 2,
+      "cluster": "cdg-rtw-ss24"
     },
     {
       "id": "a24c78407997a4d3",
@@ -8608,10 +8618,12 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 2,
+      "cluster": "cdg-rtw-ss24"
     },
     {
       "id": "bf8219f6432d27ed",
@@ -8622,8 +8634,11 @@
       "image": "https://wwd.com/wp-content/uploads/2023/06/comme-des-garcons-hoome-plus-mens-spring-2024-paris001.jpg?crop=0px%2C24px%2C1365px%2C763px&resize=1000%2C563",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 2
     },
     {
       "id": "aad6b44a0bff937f",
@@ -8634,8 +8649,11 @@
       "image": "https://culted.com/cdn-cgi/image/width=1200,height=630,fit=cover,format=auto/https://cms.culted.com/api/media/file/Untitled-2-48.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
-      "tags": []
+      "summary": "コムデギャルソンの主要ディフュージョンライン(Homme、Homme Plus、Homme Deux、Shirt、Play、Black、CDGなど)の成り立ちと特徴をまとめた入門ガイド記事。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "c9b2bd188b3592a4",
@@ -8646,8 +8664,11 @@
       "image": "https://images-prod.anothermag.com/1200/58-80-1920-1280/azure/another-prod/430/2/432475.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
-      "tags": []
+      "summary": "ミシェル・ラミーやA$AP Nastら著名人5人が、それぞれコムデギャルソンを愛用する理由を語るインタビュー企画記事。",
+      "tags": [
+        "インタビュー"
+      ],
+      "importance": 1
     },
     {
       "id": "4c0eb8b2daef7606",
@@ -8658,8 +8679,11 @@
       "image": "https://wwd.com/wp-content/uploads/2023/03/comme-des-garcons-rtw-fall-23-vb-0001.jpg?crop=0px%2C342px%2C1366px%2C764px&resize=1000%2C563",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 2
     },
     {
       "id": "cc66181c9fdad050",
@@ -8670,8 +8694,11 @@
       "image": "https://cdn.mos.cms.futurecdn.net/L5Ghjh83nJfM2axAsPDJFa-707-80.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
-      "tags": []
+      "summary": "ニューヨーク・チェルシーのコムデギャルソン旗艦店が1999年の開店以来初の大規模改装を実施し、川久保玲が「金色」をテーマに内装を一新したことを紹介する記事。",
+      "tags": [
+        "店舗"
+      ],
+      "importance": 2
     },
     {
       "id": "898195c42188b578",
@@ -8682,8 +8709,11 @@
       "image": "https://wwd.com/wp-content/uploads/2022/10/CommeDesGarcons-rtwss23-001.jpg?crop=0px%2C80px%2C1365px%2C763px&resize=1000%2C563",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 2
     },
     {
       "id": "9d70c45767b299b1",
@@ -8694,8 +8724,11 @@
       "image": "https://wwd.com/wp-content/uploads/2022/06/comme-des-garcons-homme-plus-mens-ss23-paris0001.jpg?crop=0px%2C60px%2C1365px%2C763px&resize=1000%2C563",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 2
     },
     {
       "id": "d1bcddff3a9e836c",
@@ -8706,8 +8739,11 @@
       "image": "https://wwd.com/wp-content/uploads/2022/01/CommeDesGarconsHommePlus-mens-fw22-001.jpg?w=1000&h=563&crop=1",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 2
     },
     {
       "id": "ab555b54c7a7b7d6",
@@ -8730,8 +8766,11 @@
       "image": "https://wwd.com/wp-content/uploads/2021/10/comme-des-garcons-s22-21.jpg?crop=0px%2C426px%2C3001px%2C1679px&resize=1000%2C563",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 2
     },
     {
       "id": "4afd03a1b8598067",
