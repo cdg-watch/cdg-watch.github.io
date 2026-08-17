@@ -1,6 +1,99 @@
 {
-  "updatedAt": "2026-08-15T22:12:44.177Z",
+  "updatedAt": "2026-08-17T22:10:05.067Z",
   "items": [
+    {
+      "id": "716899d5c8fe7301",
+      "title": "Rei Kawakubo's Iconic Designs Are Going Up For Auction - L'OFFICIEL USA",
+      "url": "https://www.lofficielusa.com/fashion/commes-des-garcons-auction-rare-pieces-photos-collection-prices-kerry-taylor-auctions",
+      "publishedAt": "2026-08-17T16:00:24.000Z",
+      "publisher": "L'OFFICIEL USA",
+      "image": "https://www.datocms-assets.com/39109/1724159404-1627053013-rei-kawakubo-comme-des-garcons-art-of-the-in-between-mostra-met-lofficielitalia.jpeg?auto=format&fit=max&w=1200",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-08-17T22:09:48.431Z",
+      "summary": null,
+      "tags": [
+        "インタビュー"
+      ]
+    },
+    {
+      "id": "47e4c8171bf2786f",
+      "title": "EXCLUSIVE: A Stash of Rare Comme des Garçons Is Going Up for Auction - WWD",
+      "url": "https://wwd.com/fashion-news/designer-luxury/comme-des-garcons-auction-london-kerry-taylor-1239086395/",
+      "publishedAt": "2026-08-17T14:01:22.000Z",
+      "publisher": "WWD",
+      "image": "https://wwd.com/wp-content/uploads/2026/07/dot-comme-e1786977664766.jpg?crop=0px%2C0px%2C7313px%2C4092px&resize=1000%2C563",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-08-17T22:09:48.431Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "afa00d7503f4c5ff",
+      "title": "Rihanna Flaunts Curves & Bikini in COMME des GARCONS Dress With Big Cutouts - theFashionSpot",
+      "url": "https://www.thefashionspot.com/fashion-news/966889-rihanna-flaunt-curves-bikini-cutout-dress-kids-photos/",
+      "publishedAt": "2026-08-17T10:01:51.000Z",
+      "publisher": "theFashionSpot",
+      "image": "https://www.thefashionspot.com/wp-content/uploads/sites/11/2026/08/Untitled-design-14-8.jpg?resize=1200,630",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-08-17T22:09:48.431Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "352de8d5a8730a64",
+      "title": "\"I’ve Learned That I’m Crazy:” CDG's Ultimate Archivist Plots His Biggest Sale Yet",
+      "url": "https://www.highsnobiety.com/p/comme-des-garcon-auction/",
+      "publishedAt": "2026-08-17T08:24:32.000Z",
+      "publisher": null,
+      "image": "https://www.highsnobiety.com/static-assets/dato/1786719519-october2667-2.jpg",
+      "feed": "Highsnobiety",
+      "fetchedAt": "2026-08-17T22:09:36.725Z",
+      "summary": null,
+      "tags": [
+        "再販/セール"
+      ]
+    },
+    {
+      "id": "818e8b0d1537bdd2",
+      "title": "Calling All Rei Kawakubo Fans—dot COMME Is Auctioning 265 Pieces of His Epic Collection - Vogue",
+      "url": "https://www.vogue.com/article/calling-all-rei-kawakubo-fan-comme-is-auctioning-pieces-of-his-epic-collection",
+      "publishedAt": "2026-08-17T06:05:00.000Z",
+      "publisher": "Vogue",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-08-17T22:09:48.431Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション",
+        "インタビュー"
+      ]
+    },
+    {
+      "id": "ef75e885bcccc9a0",
+      "title": "Black is back: the timeless allure of fashion’s most powerful shade - South China Morning Post",
+      "url": "https://www.scmp.com/magazines/style/fashion/trends/article/3363920/black-reigns-supreme-chanel-and-hermes-yohji-yamamoto-and-comme-des-garcons",
+      "publishedAt": "2026-08-16T02:00:08.000Z",
+      "publisher": "South China Morning Post",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_style/public/d8/images/canvas/2026/08/13/09263eb5-f915-4dad-9f3e-0db41efbea1a_56ab15cc.jpg?itok=l3V2Cnv3&v=1786613843",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-08-17T22:09:48.431Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "daeed2b06b26f9a4",
+      "title": "シュプリーム × コムデギャルソン シャツ × ナイキ エアフォース1 ロー \"ブラック/ホワイト\" (2018) - SNKRDUNK",
+      "url": "https://snkrdunk.com/products/AR7623-001/used/49069457",
+      "publishedAt": "2026-08-15T23:57:42.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/used_listing/40435/f3767a99-084e-41d2-8a1b-48a275d3db90.jpeg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-08-17T22:09:48.002Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
+    },
     {
       "id": "7826ad4839dc6a60",
       "title": "【B (目立った傷や汚れなし)】CDG丸の内店オープン記念 stussy コラボTシャツ Mのブランド古着・中古服通販｜スニダン - SNKRDUNK",
@@ -386,6 +479,18 @@
         "二次流通"
       ],
       "importance": 1
+    },
+    {
+      "id": "9960cb501ac07e89",
+      "title": "Furniture Comme Des Garcons 1990 Instagram Vintage Brand Comme Des Garcons Shirt 1990s - diocesisdesalamanca.com",
+      "url": "https://www.diocesisdesalamanca.com/?g",
+      "publishedAt": "2026-08-06T07:00:00.000Z",
+      "publisher": "diocesisdesalamanca.com",
+      "image": "https://www.diocesisdesalamanca.com/wp-content/uploads/2025/08/Fa-x.png",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-08-17T22:09:48.431Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "515dd59c8f07f2f2",
@@ -3781,6 +3886,20 @@
       "importance": 1
     },
     {
+      "id": "67855af49f1bd897",
+      "title": "COMME des GARCONS SHIRT x FRED PERRY Polo Shirt Strong Will \"Sky Blue\" - SNKRDUNK",
+      "url": "https://snkrdunk.com/apparels/634347",
+      "publishedAt": "2026-06-14T20:41:51.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/20241211053408-0.webp",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-08-17T22:09:48.002Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
+    },
+    {
       "id": "d94dce99c7ca4337",
       "title": "COMME des GARCONS CDG Classic Crew Neck Sweatshirt With Zip \"Black\"の新品/中古フリマ(通販)｜スニダン - SNKRDUNK",
       "url": "https://snkrdunk.com/apparels/840593",
@@ -5937,6 +6056,20 @@
         "二次流通"
       ],
       "importance": 1
+    },
+    {
+      "id": "992bc3a0438021ad",
+      "title": "COMME des GARCONS HOMME Leather Collar Coverall Jacket \"Black\"の新品/中古服・ブランド古着通販｜スニダン - SNKRDUNK",
+      "url": "https://snkrdunk.com/apparels/759892",
+      "publishedAt": "2026-02-06T08:00:00.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/20260207035430-0.webp",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-08-17T22:09:48.002Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
     },
     {
       "id": "c9b267dbb191cb4d",
