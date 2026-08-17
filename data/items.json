@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T22:10:05.067Z",
+  "updatedAt": "2026-08-17T22:13:30.252Z",
   "items": [
     {
       "id": "716899d5c8fe7301",
@@ -10,10 +10,12 @@
       "image": "https://www.datocms-assets.com/39109/1724159404-1627053013-rei-kawakubo-comme-des-garcons-art-of-the-in-between-mostra-met-lofficielitalia.jpeg?auto=format&fit=max&w=1200",
       "feed": "Google News (English)",
       "fetchedAt": "2026-08-17T22:09:48.431Z",
-      "summary": null,
+      "summary": "オーストラリアの古着コレクター「dot COMME」(Octavius la Rosa氏)が所蔵する川久保玲デザインの希少アイテム200点超が、Kerry Taylor Auctionsを通じて競売にかけられる。",
       "tags": [
-        "インタビュー"
-      ]
+        "二次流通"
+      ],
+      "cluster": "dotcomme-kerrytaylor-auction2026",
+      "importance": 2
     },
     {
       "id": "47e4c8171bf2786f",
@@ -24,8 +26,12 @@
       "image": "https://wwd.com/wp-content/uploads/2026/07/dot-comme-e1786977664766.jpg?crop=0px%2C0px%2C7313px%2C4092px&resize=1000%2C563",
       "feed": "Google News (English)",
       "fetchedAt": "2026-08-17T22:09:48.431Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "二次流通"
+      ],
+      "cluster": "dotcomme-kerrytaylor-auction2026",
+      "importance": 2
     },
     {
       "id": "afa00d7503f4c5ff",
@@ -36,8 +42,11 @@
       "image": "https://www.thefashionspot.com/wp-content/uploads/sites/11/2026/08/Untitled-design-14-8.jpg?resize=1200,630",
       "feed": "Google News (English)",
       "fetchedAt": "2026-08-17T22:09:48.431Z",
-      "summary": null,
-      "tags": []
+      "summary": "リアーナが子どもたちとの外出時に、コムデギャルソン1984年春夏コレクションのグレーのドレスを着用。大胆なカットアウトと非対称ネックラインが特徴のヴィンテージピース。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "352de8d5a8730a64",
@@ -48,10 +57,12 @@
       "image": "https://www.highsnobiety.com/static-assets/dato/1786719519-october2667-2.jpg",
       "feed": "Highsnobiety",
       "fetchedAt": "2026-08-17T22:09:36.725Z",
-      "summary": null,
+      "summary": "コレクター「dot COMME」Octavius la Rosa氏のアーカイブから、40年以上にわたるコムデギャルソンの希少アイテム265ロットが9月15日にKerry Taylor Auctionsで競売にかけられる。売上はパリへの拠点移転とメルボルン店舗拡張に充てるという。",
       "tags": [
-        "再販/セール"
-      ]
+        "二次流通"
+      ],
+      "cluster": "dotcomme-kerrytaylor-auction2026",
+      "importance": 2
     },
     {
       "id": "818e8b0d1537bdd2",
@@ -62,11 +73,12 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-08-17T22:09:48.431Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
-        "ショー/コレクション",
-        "インタビュー"
-      ]
+        "二次流通"
+      ],
+      "cluster": "dotcomme-kerrytaylor-auction2026",
+      "importance": 2
     },
     {
       "id": "ef75e885bcccc9a0",
@@ -77,8 +89,11 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_style/public/d8/images/canvas/2026/08/13/09263eb5-f915-4dad-9f3e-0db41efbea1a_56ab15cc.jpg?itok=l3V2Cnv3&v=1786613843",
       "feed": "Google News (English)",
       "fetchedAt": "2026-08-17T22:09:48.431Z",
-      "summary": null,
-      "tags": []
+      "summary": "サウスチャイナ・モーニング・ポストが黒の魅力を特集する記事で、川久保玲が2026年秋コレクションを前に「黒こそ自分にとって最も強い色」と語ったことを紹介。ショーでは黒基調の16ルックに続けて対照的なピンクの6ルックを発表したという。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 2
     },
     {
       "id": "daeed2b06b26f9a4",
@@ -89,10 +104,11 @@
       "image": "https://cdn.snkrdunk.com/used_listing/40435/f3767a99-084e-41d2-8a1b-48a275d3db90.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-17T22:09:48.002Z",
-      "summary": null,
+      "summary": "スニダンにシュプリーム×コムデギャルソン シャツ×ナイキ エアフォース1ロー「ブラック/ホワイト」(2018年)の中古品が出品。27cm・Cランク(やや傷や汚れあり)で¥27,000、他サイズは¥50,000前後から取引されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "7826ad4839dc6a60",
@@ -479,18 +495,6 @@
         "二次流通"
       ],
       "importance": 1
-    },
-    {
-      "id": "9960cb501ac07e89",
-      "title": "Furniture Comme Des Garcons 1990 Instagram Vintage Brand Comme Des Garcons Shirt 1990s - diocesisdesalamanca.com",
-      "url": "https://www.diocesisdesalamanca.com/?g",
-      "publishedAt": "2026-08-06T07:00:00.000Z",
-      "publisher": "diocesisdesalamanca.com",
-      "image": "https://www.diocesisdesalamanca.com/wp-content/uploads/2025/08/Fa-x.png",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-08-17T22:09:48.431Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "515dd59c8f07f2f2",
@@ -3894,10 +3898,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20241211053408-0.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-17T22:09:48.002Z",
-      "summary": null,
+      "summary": "スニダンにコムデギャルソン シャツ×フレッドペリーのポロシャツ「Strong Will スカイブルー」が掲載。現在は出品待ちで、同コラボの中古品は状態に応じ¥7,100〜¥35,600で取引されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "d94dce99c7ca4337",
@@ -6066,10 +6071,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20260207035430-0.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-17T22:09:48.002Z",
-      "summary": null,
+      "summary": "スニダンにコムデギャルソン オムのレザーカラー・カバーオールジャケット「ブラック」(品番CDGOM-0201、定価¥132,000、2026年2月6日発売)が掲載。現在は出品待ち。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "c9b267dbb191cb4d",
@@ -8914,8 +8920,11 @@
       "image": "https://www.asahicom.jp/articles/images/AS20211004002043_comm.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-05T07:41:41.492Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 1
     },
     {
       "id": "bc6c32c8975829e1",
@@ -8926,8 +8935,11 @@
       "image": "https://wwd.com/wp-content/uploads/2020/07/cdg-homme-plus-s21-1.jpg?w=1000&h=563&crop=1",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 1
     },
     {
       "id": "ffff8bef219e8ff0",
@@ -8950,8 +8962,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "0becc05358b00b89",
@@ -8962,10 +8977,11 @@
       "image": "https://www.interviewmagazine.com/wp-content/uploads/2019/03/section-7782-_06-PC-Erinn-Hermsen.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "インタビュー"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "728eb02e2d0f3293",
@@ -8976,8 +8992,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "ed512c776039373a",

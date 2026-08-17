@@ -1,18 +1,15 @@
-# CDG Watch 日次ダイジェスト 2026-08-16
+# CDG Watch 日次ダイジェスト 2026-08-18
 
-- **俳優・片岡鶴太郎(71)、コムデギャルソン取り入れた最新コーデに反響** — SNSで「かっこいい」の声。ヤングな着こなしが話題。
-  https://article.auone.jp/03bcb3d7-3db8-4394-bd4a-28d93018df4f
+- **コレクター「dot COMME」所蔵の川久保玲アーカイブ265点、9月15日にKerry Taylor Auctionsで競売へ** — Octavius la Rosa氏が17年かけて集めた40年分の希少ピース。売上はパリ移転とメルボルン店舗拡張に充当(L'OFFICIEL USA・WWD・Vogueなど複数媒体が同時報道)。
+  https://www.highsnobiety.com/p/comme-des-garcon-auction/
 
-- **CDG丸の内店オープン記念 Stussyコラボ Tシャツ、SNKRDUNKに中古出品** — サイズM・状態B、価格11,000円(二次流通)。
-  https://snkrdunk.com/apparel-free-used-items/49058945
+- **川久保玲「黒こそ自分にとって最も強い色」— 2026年秋コレクションは黒基調16ルックから一転ピンク6ルックへ** — South China Morning Postの黒特集より。
+  https://www.scmp.com/magazines/style/fashion/trends/article/3363920/black-reigns-supreme-chanel-and-hermes-yohji-yamamoto-and-comme-des-garcons
 
-- ⚠古 **著名人5人が語る「なぜコムデギャルソンを愛用するのか」** — ミシェル・ラミー、A$AP Nastらが登場するAnOtherのインタビュー企画。
-  https://www.anothermag.com/fashion-beauty/14739/five-people-on-why-they-love-wearing-comme-des-garcons-aw23-fw23
+- **リアーナ、コムデギャルソン1984年春夏のヴィンテージドレスを子どもとの外出で着用** — 大胆なカットアウトが話題に。
+  https://www.thefashionspot.com/fashion-news/966889-rihanna-flaunt-curves-bikini-cutout-dress-kids-photos/
 
-- ⚠古 **コムデギャルソンのディフュージョンライン入門ガイド** — Homme、Homme Plus、Play、Blackなど主要ラインの成り立ちをCultedが解説。
-  https://culted.com/fashion/culted-101-a-guide-to-comme-des-garcons-diffusion-lines/
+- **スニダンにシュプリーム×コムデギャルソンシャツ×ナイキ エアフォース1ロー(2018)の中古品が出品** — 27cm・Cランクで¥27,000、状態により¥50,000前後まで(二次流通)。
+  https://snkrdunk.com/products/AR7623-001/used/49069457
 
-- ⚠古 **NYチェルシー旗艦店、開店以来初の大規模改装** — 川久保玲が「金色」をテーマに内装を一新(wallpaper.com)。
-  https://www.wallpaper.com/fashion/inside-comme-des-garons-refurbished-chelsea-new-york-boutique
-
-> 注記: 今回もバックログ消化(要約取得不可制限撤廃)を優先したため⚠古が多め。当日発表分としては片岡鶴太郎コーデ記事とSNKRDUNKの丸の内店限定コラボTシャツ出品が最新。
+> 注記: 08-17(月, JST)分の日次収集が未実行だった件(Issue #26)を受け、本セッションで収集・要約・月曜恒例のstoreLaunches走査をまとめて実施。CDG FREAKのスケジュールページは2026年秋冬シーズン以降の立ち上がり日がまだ未掲載のため、今回のstoreLaunches追加はなし。要約枠(15件)はdot COMME競売関連の速報を優先し、2015〜2021年の古いバックログ記事(⚠古該当)は取得不可のものが多く残り9件を翌日以降に繰り越し。
