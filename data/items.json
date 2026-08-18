@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T22:10:29.936Z",
+  "updatedAt": "2026-08-18T22:16:03.654Z",
   "items": [
     {
       "id": "5546dd88a304978f",
@@ -10,8 +10,12 @@
       "image": "https://cdn.mos.cms.futurecdn.net/Nc8giNaczEmwUES33knKnR-1539-80.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-08-18T22:10:06.684Z",
-      "summary": null,
-      "tags": []
+      "summary": "メルボルンの古着専門店「ドットコム」創業者オクタビウス・ラ・ローザが、20年かけて集めたコムデギャルソンの稀少アーカイブ265点をロンドンのケリー・テイラー・オークションズで売却する。1973年の創業初期から2005年の「ブロークン・ブライド」まで幅広い時代の作品が対象で、開催日は2026年9月15日。",
+      "tags": [
+        "二次流通"
+      ],
+      "cluster": "dotcomme-kerrytaylor-auction-2026",
+      "importance": 2
     },
     {
       "id": "b8bf76324b5ce32a",
@@ -22,8 +26,12 @@
       "image": "https://www.tokyoweekender.com/wp-content/uploads/2026/08/dot-comme-des-garcons-auction-collection.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-08-18T22:10:06.684Z",
-      "summary": null,
-      "tags": []
+      "summary": "メルボルン在住のコレクター、オクタビウス・ラ・ローザ(dot Comme)が約20年かけて集めた4000〜5000点のコムデギャルソン・アーカイブから265点を、2026年9月15日にロンドンのケリー・テイラー・オークションズで売却する。売却益はパリへの拠点移転や新規収集資金に充てる予定という。",
+      "tags": [
+        "二次流通"
+      ],
+      "cluster": "dotcomme-kerrytaylor-auction-2026",
+      "importance": 2
     },
     {
       "id": "5232118e88bfbb36",
@@ -34,12 +42,13 @@
       "image": "https://www.fullress.com/wp-content/uploads/2026/08/1sdgfzsd4g5-1.jpg",
       "feed": "Fullress",
       "fetchedAt": "2026-08-18T22:09:53.631Z",
-      "summary": null,
+      "summary": "「コム デ ギャルソン・シャツ」と英「フレッドペリー」のコラボレーションアイテムが2026年8月21日12時にフレッドペリー オンラインストアで発売される。2026年秋冬コレクションとして展開。",
       "tags": [
         "コラボ",
         "ショー/コレクション",
         "新作"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "81d59090a061c427",
@@ -50,8 +59,12 @@
       "image": "https://data2.nssmag.com/images/galleries/49222/cover-h-cdg.webp",
       "feed": "Google News (English)",
       "fetchedAt": "2026-08-18T22:10:06.684Z",
-      "summary": null,
-      "tags": []
+      "summary": "ヴィンテージ専門店「ドットコム」創業者オクタビウス・ラ・ローザが所蔵する1970年代から現在までのコムデギャルソン265点が、2026年9月15日よりロンドンのケリー・テイラー・オークションズで展示・競売される。1970年代の作品18点は市場にほとんど出回らない希少品という。",
+      "tags": [
+        "二次流通"
+      ],
+      "cluster": "dotcomme-kerrytaylor-auction-2026",
+      "importance": 2
     },
     {
       "id": "e316fc63d7aa64e2",
@@ -62,10 +75,13 @@
       "image": "https://media.wwdjapan.com/wp-content/uploads/2026/08/13173732/3a5fb743-5bc7-4319-9b34-9ba47d749f2d-150x150.jpg",
       "feed": "WWD JAPAN",
       "fetchedAt": "2026-08-18T22:09:48.811Z",
-      "summary": null,
+      "summary": "オーストラリアの専門店「ドットコム」創業者が約20年かけて集めた約4000点のコムデギャルソン・アーカイブから265ロットを、ロンドンのケリー・テイラー・オークションズに出品する。創業者はメルボルンの店舗をパリに移転し、アーカイブの記録・資料化を本格化させる計画を語っている。",
       "tags": [
-        "インタビュー"
-      ]
+        "インタビュー",
+        "二次流通"
+      ],
+      "cluster": "dotcomme-kerrytaylor-auction-2026",
+      "importance": 2
     },
     {
       "id": "e2f04ab84e2be63f",
@@ -76,8 +92,12 @@
       "image": "https://fashionsnap-assets.com/asset/format=auto,fit=crop,width=300,height=300/article/images/2026/08/a20f145f-5cd8-4120-b475-54d1028de4ab.jpg",
       "feed": "FASHIONSNAP",
       "fetchedAt": "2026-08-18T22:09:49.302Z",
-      "summary": null,
-      "tags": []
+      "summary": "英ケリー・テイラー・オークションズが、ヴィンテージディーラー「ドットコム」創業者オクタヴィアス・ラ・ローザ収集のコムデギャルソン265ロットを2026年9月15日午前10時(英国時間)にロンドンで競売にかける。1970年代の「パイレーツ」など初期の代表作を含み、主要作品の予想落札価格は2000〜3000ポンド(約43万〜64万円)。",
+      "tags": [
+        "二次流通"
+      ],
+      "cluster": "dotcomme-kerrytaylor-auction-2026",
+      "importance": 2
     },
     {
       "id": "716899d5c8fe7301",
@@ -583,7 +603,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-08-18T22:10:06.684Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -9097,7 +9117,7 @@
       "image": "https://wwd.com/wp-content/uploads/2018/09/comme-rtw-spring-2019-paris-fashion-week2388.jpg?w=1000&h=563&crop=1",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -9109,7 +9129,7 @@
       "image": "https://wwd.com/wp-content/uploads/2018/06/cdg-shirt-rtw-spring-summer-2019-mens-paris-fashion-week-643.jpg?w=1000&h=563&crop=1",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -9121,7 +9141,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -9145,7 +9165,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -9154,11 +9174,13 @@
       "url": "https://coveteur.com/comme-des-garcons-resurrection-vintage-katy-rodriguez",
       "publishedAt": "2017-05-01T07:00:00.000Z",
       "publisher": "Coveteur",
-      "image": null,
+      "image": "https://assets.coveteur.com/wp-content/uploads/2017/05/25313292.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
-      "tags": []
+      "summary": "ニューヨークのヴィンテージショップ「Resurrection Vintage」共同創設者カティ・ロドリゲスが、コムデギャルソンの服への理解が深まっていく過程を6段階に分けて語る記事。同店は1996年創業で100点以上のコムデギャルソン作品を扱っており、ファッション業界から感情的なデザインが失われつつあることへの懸念も述べられている。",
+      "tags": [
+        "その他"
+      ]
     },
     {
       "id": "ef320bf45b53ff22",
@@ -9169,7 +9191,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -9181,8 +9203,10 @@
       "image": "https://images-prod.anothermag.com/1200/0-0-1402-934/azure/another-prod/350/8/358291.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
-      "tags": []
+      "summary": "写真家ニック・ナイトが撮影したコムデギャルソン2016年秋冬コレクション「18世紀パンク」を振り返る記事。フランス革命期のモード集団に着想を得たコンセプトで、イタリア・フランス・スイス製の27種の生地とブランド代表色のバブルガムピンクPVCを使用したことが紹介されている。",
+      "tags": [
+        "ショー/コレクション"
+      ]
     },
     {
       "id": "be1ccaf821ce2709",
@@ -9193,7 +9217,7 @@
       "image": "https://wwd.com/wp-content/uploads/2016/06/comme-des-garcons-homme-plus-mens-spring-2017-1.jpg?w=682&h=563&crop=1",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -9205,7 +9229,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
       ]
