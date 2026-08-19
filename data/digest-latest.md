@@ -1,9 +1,10 @@
-# CDG Watch 日次ダイジェスト 2026-08-19
+# CDG Watch 日次ダイジェスト 2026-08-20
 
-- **dot COMME所蔵アーカイブ265点のケリー・テイラー・オークションズ競売、詳細続報** — 9月15日午前10時(英国時間)ロンドンで開催、主要作品の予想落札価格は2,000〜3,000ポンド(約43万〜64万円)。1970年代「パイレーツ」など初期作を含む(FASHIONSNAP・WWD JAPAN・wallpaper.com・Tokyo Weekender・nssmagが同時報道)。
-  https://www.fashionsnap.com/article/2026-08-18/kerry-taylor-auctions-dot-comme/
+- **コムデギャルソンの上質な「ミニ財布」愛用レビュー、経年変化も紹介** — ねとらぼ(Fav-Log by ITmedia)が、5年間愛用中の「アウトサイドポケット Lジップウォレット」をレビュー。カード19枚と鍵を収納しても厚さ約2.8cmに収まる機能性と、ファスナー持ち手の革部分の経年変化を紹介。
+  https://nlab.itmedia.co.jp/fav/articles/3980023/2/
 
-- **COMME des GARÇONS SHIRT × FRED PERRY 2026年秋冬コラボ、8月21日12時発売** — FRED PERRY オンラインストアにて。
-  https://www.fullress.com/comme-des-garcons-shirt-fred-perry-2026-fw/
+- ⚠古 **PLAY COMME des GARCONS ハートプリントTシャツ(ネイビー)、SNKRDUNKに7,000円台〜で出品** — フリマアプリ「SNKRDUNK」にて真贋鑑定済みで販売中(初出は2026年2月)。
+  https://snkrdunk.com/apparels/757248
 
-> 注記: 本日の新着7件はすべて要約済み(うち1件は本文取得不可のためスパム疑いで確認したが接続不可、要約取得不可として保持)。バックログの要約待ち(⚠古該当を含む)は現在ゼロ件。ケリー・テイラー・オークションズの記事5本は同一イベントの複数媒体報道のため `cluster: dotcomme-kerrytaylor-auction-2026` で束ねた。
+> 注記: 本日の収集は新着6件。うち3件(Yahoo!ニュース・dメニューニュース・ねとらぼ画像一覧ページ)は上記ミニ財布レビューと同一記事の重複配信のため削除。1件(SNKRDUNKのシュプリーム26FWボックスロゴ記事)はコムデギャルソンが名前のみ言及される無関係記事のため削除。残り2件を要約。バックログの要約待ちは現在ゼロ件。
+> また、既存項目のうちスペイン語スパムドメイン(diocesisdesalamanca.com、要約取得不可のまま残存)を無関係記事として削除し、`SPAM_URL_RE` に同ドメインを追加(監督指示 Issue #21 に準拠)。
