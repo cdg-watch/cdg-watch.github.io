@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T22:10:42.418Z",
+  "updatedAt": "2026-08-20T22:13:34.569Z",
   "items": [
     {
       "id": "177be023a308ca5f",
@@ -10,8 +10,11 @@
       "image": "https://images-prod.dazeddigital.com/1200/0-390-2000-1333/azure/dazed-prod/1450/1/1451549.jpg",
       "feed": "Dazed",
       "fetchedAt": "2026-08-20T22:10:21.371Z",
-      "summary": null,
-      "tags": []
+      "summary": "Dazed ClubがドーバーストリートマーケットNYCで初のテイクオーバーイベントを開催し、コミュニティメンバーに新作コムデギャルソン プレイのTシャツやスウェットが無料提供された。",
+      "tags": [
+        "店舗"
+      ],
+      "importance": 1
     },
     {
       "id": "69e7bc140716b98b",
@@ -22,46 +25,13 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-20T22:10:29.046Z",
-      "summary": null,
+      "summary": "COMME des GARCONS SHIRTとFred Perryのコラボポロシャツが2026年8月21日12時よりFred Perryオンラインストアで発売。黒地にローレルリーフとCDGロゴをグリーン・ピンクの刺繍で配したデザイン。",
       "tags": [
-        "二次流通"
-      ]
-    },
-    {
-      "id": "3f06efd26cc59894",
-      "title": "「19枚のカードと鍵も入る」コムデギャルソンの上質な「ミニ財布」を愛用レビュー 経年変化も紹介（Fav-Log by ITmedia） - Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/b613d7ea6aa4a931546f6356233600513bc9546e",
-      "publishedAt": "2026-08-19T11:12:00.000Z",
-      "publisher": "Yahoo!ニュース",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260819-10164607-it_favlog-000-1-view.jpg?exp=10800",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-08-20T22:10:29.046Z",
-      "summary": null,
-      "tags": []
-    },
-    {
-      "id": "bc15f8746dc50862",
-      "title": "「19枚のカードと鍵も入る」コムデギャルソンの上質な「ミニ財布」を愛用レビュー　経年変化も紹介 - ｄメニューニュース",
-      "url": "https://topics.smt.docomo.ne.jp/article/favlog/trend/favlog-3980023?page",
-      "publishedAt": "2026-08-19T11:12:00.000Z",
-      "publisher": "ｄメニューニュース",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-08-20T22:10:29.046Z",
-      "summary": null,
-      "tags": []
-    },
-    {
-      "id": "06d5cf2c61a5eb09",
-      "title": "画像一覧 - ねとらぼ",
-      "url": "https://nlab.itmedia.co.jp/fav/articles/3980023/image/",
-      "publishedAt": "2026-08-19T11:12:00.000Z",
-      "publisher": "ねとらぼ",
-      "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/08/1787040505_IMG_6212-scaled.jpeg",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-08-20T22:10:29.046Z",
-      "summary": null,
-      "tags": []
+        "二次流通",
+        "コラボ",
+        "新作"
+      ],
+      "importance": 2
     },
     {
       "id": "ce7edbd32eaa293f",

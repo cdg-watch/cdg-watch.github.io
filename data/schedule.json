@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T22:16:41.075Z",
+  "updatedAt": "2026-08-20T22:13:04.589Z",
   "storeLaunches": [
     {
       "date": "2026-02-01",
@@ -183,6 +183,14 @@
       "price": "中 121,000円 / 小 107,800円",
       "where": "青山店(先行)、その後国内路面店",
       "url": "https://www.fashion-press.net/news/149474"
+    },
+    {
+      "date": "2026-08-21",
+      "title": "COMME des GARCONS SHIRT × Fred Perry コラボポロシャツ",
+      "brand": "COMME des GARCONS SHIRT x Fred Perry",
+      "price": null,
+      "where": "Fred Perryオンラインストア",
+      "url": "https://snkrdunk.com/articles/33075/"
     }
   ]
 }
