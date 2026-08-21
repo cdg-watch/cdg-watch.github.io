@@ -1,9 +1,9 @@
-# CDG Watch 日次ダイジェスト 2026-08-21
+# CDG Watch 日次ダイジェスト 2026-08-22
 
-- **COMME des GARCONS SHIRT × Fred Perry コラボポロシャツ、8/21発売** — 黒地にローレルリーフとCDGロゴをグリーン・ピンクの刺繍で配したデザイン。Fred Perryオンラインストアにて8/21 12:00より発売開始。
-  https://snkrdunk.com/articles/33075/
+- **COMME des GARCONS SHIRT × Fred Perryのコラボポロシャツ、海外メディアでも紹介** — Hypebeastが同コラボのポロシャツをネオンカラーのアクセント使いとして紹介。8/21発売の同アイテムは前日のダイジェストでも既報(記事本文は取得不可のためタイトル情報のみ)。
+  https://hypebeast.com/2026/8/comme-des-garcons-shirt-fred-perry-release-info
 
-- **Dazed ClubがドーバーストリートマーケットNYCで初のテイクオーバーイベント** — コミュニティメンバー向けに新作コムデギャルソン プレイのTシャツ・スウェットを無料提供する企画を実施。
-  https://www.dazeddigital.com/fashion/article/70826/1/what-went-down-at-dazed-club-s-first-takeover-of-dover-street-market-nyc
+- **⚠古 スニーカーダンクにCOMME des GARCONS SHIRTのロゴTシャツが出品待ちで掲載** — CDGシャツロゴプリントの長袖Tシャツ(ブラック、定価13,200円)が二次流通プラットフォームに掲載。現在は出品待ち状態。
+  https://snkrdunk.com/apparels/634343
 
-> 注記: 本日の収集は新着5件。うち2件(dメニューニュース・ねとらぼ画像一覧ページ)はミニ財布レビュー記事の同一内容重複のため削除。さらにYahoo!ニュース版のミニ財布レビュー(要約済み)も、2026-08-19時点で既にねとらぼ版が要約済みの重複記事と判明したため削除(古い方=ねとらぼ版を残置)。残り2件を要約。バックログの要約待ちは現在ゼロ件。
+> 注記: 本日の新着収集5件のうち3件(Yahoo!ニュース・dメニューニュース・ねとらぼ画像一覧)は、既に要約済みのねとらぼ本記事(2026-08-19収集分)と同一内容の重複と判明したため削除。実質的な新規要約は上記2件のみで、3〜5件の目安に届かず。要約待ちバックログは現在ゼロ件。
