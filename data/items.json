@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T22:10:01.820Z",
+  "updatedAt": "2026-08-22T22:13:04.340Z",
   "items": [
     {
       "id": "3e242002ef8527a5",
@@ -10,8 +10,12 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-08-22T22:09:47.028Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "コラボ"
+      ],
+      "cluster": "cdg-shirt-fredperry-polo-2026",
+      "importance": 2
     },
     {
       "id": "77eb435b90003967",
@@ -61,42 +65,6 @@
       ],
       "importance": 2,
       "cluster": "cdg-shirt-fredperry-polo-2026"
-    },
-    {
-      "id": "3f06efd26cc59894",
-      "title": "「19枚のカードと鍵も入る」コムデギャルソンの上質な「ミニ財布」を愛用レビュー 経年変化も紹介（Fav-Log by ITmedia） - Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/b613d7ea6aa4a931546f6356233600513bc9546e",
-      "publishedAt": "2026-08-19T11:12:00.000Z",
-      "publisher": "Yahoo!ニュース",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260819-10164607-it_favlog-000-1-view.jpg?exp=10800",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-08-22T22:09:46.471Z",
-      "summary": null,
-      "tags": []
-    },
-    {
-      "id": "bc15f8746dc50862",
-      "title": "「19枚のカードと鍵も入る」コムデギャルソンの上質な「ミニ財布」を愛用レビュー　経年変化も紹介 - ｄメニューニュース",
-      "url": "https://topics.smt.docomo.ne.jp/article/favlog/trend/favlog-3980023?page",
-      "publishedAt": "2026-08-19T11:12:00.000Z",
-      "publisher": "ｄメニューニュース",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-08-22T22:09:46.472Z",
-      "summary": null,
-      "tags": []
-    },
-    {
-      "id": "06d5cf2c61a5eb09",
-      "title": "画像一覧 - ねとらぼ",
-      "url": "https://nlab.itmedia.co.jp/fav/articles/3980023/image/",
-      "publishedAt": "2026-08-19T11:12:00.000Z",
-      "publisher": "ねとらぼ",
-      "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/08/1787040505_IMG_6212-scaled.jpeg",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-08-22T22:09:46.472Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "ce7edbd32eaa293f",
@@ -3582,8 +3550,11 @@
       "image": "https://www.designscene.net/wp-content/uploads/2026/06/COMME-des-GARCONS-HOMME-PLUS-SS27.webp",
       "feed": "Google News (English)",
       "fetchedAt": "2026-08-22T22:09:47.029Z",
-      "summary": null,
-      "tags": []
+      "summary": "レイ・カワクボ率いるコムデギャルソン オム プリュスの27年春夏コレクションは「If The War Were To End..」をテーマに、パステルカラーの迷彩柄やストライプのオーバーサイズコート、SS15以来復活したメキシカン風ダンスブーツなどで戦争の余波を独自に解釈した。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 2
     },
     {
       "id": "7ca1269252c135d7",
@@ -4737,10 +4708,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/6592a6b8-cc88-4b2d-ae55-d7236ab7aca2.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-22T22:09:46.472Z",
-      "summary": null,
+      "summary": "COMME des GARCONS HOMMEのベージュ系トラウザーズ(型番CDGOM-0383)が、二次流通マーケットのSNKRDUNKで新品・中古ともに61,511円からで出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "920349987190e7e6",
@@ -5165,10 +5137,11 @@
       "image": "https://www.highsnobiety.com/static-assets/dato/1775573192-comme-des-garcons-nike-ld-waffle-1.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-08-22T22:09:47.028Z",
-      "summary": null,
+      "summary": "CDG Blackが1977年発のNikeランニングシューズ「LD-1000」を再解釈し、黒基調にピンクのスウッシュとヒールタブを効かせた新色を約110ドルで発売、早くも半数のサイズが完売するなど人気を集めている。",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "ae3d1f233553ffad",
@@ -7875,7 +7848,7 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20251114022654-0.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-22T22:09:46.472Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
       ]
@@ -8020,10 +7993,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGOM-0107.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-22T22:09:46.472Z",
-      "summary": null,
+      "summary": "COMME des GARCONS HOMMEとGoldwinのコラボで、両腕のベルクロパネルや襟の収納式フードを備えたGORE-TEX製ミリタリー調ダウンジャケット(税込242,000円、ブラック/カーキ)とダウンシャツが2025年11月1日にGoldwin公式サイトとZOZOTOWNで発売された。",
       "tags": [
-        "二次流通"
-      ]
+        "コラボ"
+      ],
+      "importance": 2
     },
     {
       "id": "8b064a54b7671943",
