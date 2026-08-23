@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T22:10:56.822Z",
+  "updatedAt": "2026-08-23T22:13:13.707Z",
   "items": [
     {
       "id": "4182356dc7825a4a",
@@ -10,11 +10,12 @@
       "image": "https://img.webuomo.jp/article/sns/image/3e/3e9a281f-bb80-4ae5-b7c6-dbe613af8aef-1200x630.jpg",
       "feed": "WEB UOMO (Google News経由)",
       "fetchedAt": "2026-08-23T22:10:43.479Z",
-      "summary": null,
+      "summary": "UOMOの記事で、コム デ ギャルソン×アシックスの新作コラボスニーカー「GEL-1130」(58,300円)が紹介されている。2026年秋冬コレクションで発表された、トリプルホワイトでまとめたY2Kテイストのモデル。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "cbf235ddc0a8573b",
@@ -25,8 +26,11 @@
       "image": "https://img.webuomo.jp/article/sns/image/8e/8e102896-0daf-4c49-bbe7-feb08ec742d5-1200x630.jpg",
       "feed": "WEB UOMO (Google News経由)",
       "fetchedAt": "2026-08-23T22:10:43.479Z",
-      "summary": null,
-      "tags": []
+      "summary": "UOMOの連載記事で、スタイリストが愛用するコム デ ギャルソンの黒レザーベルトが紹介されている。一見シンプルながらレザーの厚みやバックルのバランスに優れ、カジュアルからきれいめまで幅広く使えると評されている。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "3e242002ef8527a5",
@@ -102,32 +106,11 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260819-10164607-it_favlog-000-1-view.jpg?exp=10800",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-23T22:10:43.921Z",
-      "summary": null,
-      "tags": []
-    },
-    {
-      "id": "06d5cf2c61a5eb09",
-      "title": "画像一覧 - ねとらぼ",
-      "url": "https://nlab.itmedia.co.jp/fav/articles/3980023/image/",
-      "publishedAt": "2026-08-19T11:12:00.000Z",
-      "publisher": "ねとらぼ",
-      "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/08/1787040505_IMG_6212-scaled.jpeg",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-08-23T22:10:43.921Z",
-      "summary": null,
-      "tags": []
-    },
-    {
-      "id": "bc15f8746dc50862",
-      "title": "「19枚のカードと鍵も入る」コムデギャルソンの上質な「ミニ財布」を愛用レビュー　経年変化も紹介 - ｄメニューニュース",
-      "url": "https://topics.smt.docomo.ne.jp/article/favlog/trend/favlog-3980023?page",
-      "publishedAt": "2026-08-19T11:12:00.000Z",
-      "publisher": "ｄメニューニュース",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-08-23T22:10:43.922Z",
-      "summary": null,
-      "tags": []
+      "summary": "コム デ ギャルソンの「アウトサイドポケット Lジップウォレット」(28,050円)の愛用レビュー記事。19枚のカードが収まる収納力ながら厚さ約2.8cmに抑えられており、経年変化の様子も紹介されている。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "ce7edbd32eaa293f",
@@ -913,10 +896,11 @@
       "image": "https://cdn.snkrdunk.com/used_listing/2984254/57d06b19-f224-4c14-8ce6-987d4e6969c0.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-23T22:10:43.922Z",
-      "summary": null,
+      "summary": "SNKRDUNKに出品されたシュプリーム×コム デ ギャルソン SHIRT×ナイキ エアフォース1 ロー\"ホワイト\"の中古品(26cm)の販売ページ。掲載の1点は35,000円で売却済みで、他サイズは8万〜11万円台で出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "2f045e52b656473e",
@@ -1436,10 +1420,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20260107093725-0.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-23T22:10:43.922Z",
-      "summary": null,
+      "summary": "SNKRDUNKによる2026年上半期Tシャツ売上ランキングTOP50の記事で、プレイ コム デ ギャルソンのハートTシャツ(黒・白)が2位・4位など複数点で上位を占め、シュプリームやヒューマンメイドと並ぶ人気ブランドとして紹介されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "1f0097f1169a52ae",
@@ -5909,10 +5894,11 @@
       "image": "https://cdn.snkrdunk.com/used_listing/272566/7cd69cee-f54c-4a1b-8a78-67b9012e0b02.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-23T22:10:43.922Z",
-      "summary": null,
+      "summary": "SNKRDUNKに出品されたコム デ ギャルソン オム×ニューバランス990V6\"ブラック\"(27cm)の中古品販売ページ。掲載の1点は56,000円で売却済みで、他サイズは79,000円〜で出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "ecc7820e38f1e4fd",
