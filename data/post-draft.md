@@ -1,30 +1,37 @@
 # X投稿ドラフト 2026-08-25
 
-> このファイルは自動生成の叩き台。SNSエージェントが推敲し、実投稿またはsnowの手動投稿に使う。
-> 目安: 日本語は全角1文字=2カウント、上限280カウント(=全角約140字)。URLは23カウント固定。
+## 本日の投稿(確定)
 
-## 案A: 単体トピック(推奨・画像1枚添付想定)
-```
-【CDG】Fred Perry×COMME des GARÇONS SHIRT、協業20周年で新作ポロ
-定番ピケポロにネオングリーン・ネオンピンクの刺繍アクセントを加えたモデルを発表(130ポンド)。
-▼記事
-https://stupiddope.com/2026/08/fred-perry-x-comme-des-garcons-reframes-the-polo-through-neon-embroidery/
-#コムデギャルソン #CommeDesGarcons #CDG
-```
-関連画像: (サイトの該当記事サムネを添付)
+本日は**見送り**。
 
-## 案B: 今日のまとめ
-```
-今日のコムデギャルソン(2026-08-25)
-・Fred Perry×COMME des GARÇONS SHIRT、協業20周年で新作ポロ
-・⚠古 繊研新聞コラム「世界への道・NY編」でコム デ ギャルソンに言及
-▼まとめ
-https://cdg-watch.github.io/
-#コムデギャルソン #CommeDesGarcons #CDG
-```
+digest-latest.md(2026-08-25)の新着2件を確認:
+- Fred Perry×COMME des GARÇONS SHIRT、協業20周年で新作ポロ(stupiddope、ネオングリーン/
+  ネオンピンクの刺繍アクセント・130ポンド) — WebSearchで裏取りしたところ、同一商品(UK
+  Fred Perry公式で販売中の8/21発売コラボ)の紹介記事。デザイン詳細(ネオン刺繍)・価格
+  情報とも、8/19投稿済み(fullress、発売日時)に加え8/21・8/22に「同一トピックの重複・
+  新規核心情報なし」として見送り済みのHypebeast/Trend Hunter記事と同じ内容の範囲内。
+  「協業20周年」の記載はstupiddope独自の見出しでWebSearchでは裏付けが取れず、単体投稿の
+  根拠にできる新規事実ではないため見送り。`data/excluded-log.md` に追記。
+- ⚠古 繊研新聞コラム「世界への道・NY編」でコム デ ギャルソンに言及 — 有料会員限定記事
+  (2026-07-21掲載分)で、川久保玲氏インタビューやパリ・メンズコレクションでの反戦
+  メッセージ(数週間以上前の出来事)への言及。出来事が古く、かつ本文が読めないため
+  核心情報も確認できず見送り。
 
-## 元トピック
-- Fred Perry×COMME des GARÇONS SHIRT、協業20周年で新作ポロ
-  https://stupiddope.com/2026/08/fred-perry-x-comme-des-garcons-reframes-the-polo-through-neon-embroidery/
-- ⚠古 繊研新聞コラム「世界への道・NY編」でコム デ ギャルソンに言及
-  https://senken.co.jp/posts/yamma-260721
+items.json直近7日分(8/18〜8/25)も確認:
+- webuomo「差がつく大人の白スニーカー」コラボ3選まとめ(CDG×アシックス GEL-1130等) —
+  7/20投稿済みトピックの再掲。
+- webuomo「黒レザーベルト愛用品」 — 8/24に核心情報(価格・取扱店)なしと判定済みの同一
+  記事。
+- Dazed Club×DSM NYCテイクオーバー — 海外ローカル話題(会員限定・終了済み)のため
+  excluded-log記載どおり見送り継続。
+- dot COMMEアーカイブオークション関連(WWD/highsnobiety/Vogue/wallpaper.com/nssmag/
+  Tokyo Weekender/L'OFFICIEL USA/fashionsnap) — 私設コレクションの競売のため二次流通
+  除外に該当、excluded-log記載どおり見送り継続。
+- リアーナ着用記事、SCMP黒特集 — 8/17公開でいずれも7日ウィンドウ外(今日で9日経過)。
+
+鮮度・方針基準を満たす新規の一次情報が0本だったため、本日は単体トピックも見送り。
+
+なお、posted-log.mdの最新行(2026-08-24)と本Issueの直近コメント日付(2026-08-24分、
+作成日時2026-08-23T22:41:18Z=JST 08-24 07:41)は一致しており、未通知の欠落はなし。
+
+本日は火曜のため週次振り返りは対象外。
