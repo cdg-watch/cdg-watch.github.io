@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T22:11:03.158Z",
+  "updatedAt": "2026-08-24T22:14:25.390Z",
   "items": [
     {
       "id": "455eb0d77c5173d8",
@@ -10,10 +10,12 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-08-24T22:10:55.149Z",
-      "summary": null,
+      "summary": "Fred PerryとCOMME des GARÇONS SHIRTが協業20周年を記念し、定番ポロシャツにネオングリーン・ネオンピンクの刺繍アクセントを加えた新作を発表。価格は130ポンド。",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "cluster": "cdg-shirt-fredperry-polo-2026",
+      "importance": 2
     },
     {
       "id": "4182356dc7825a4a",
@@ -55,7 +57,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-08-22T22:09:47.028Z",
-      "summary": "(要約取得不可)",
+      "summary": "Fred PerryとCOMME des GARÇONS SHIRTが協業20周年を記念し、定番ポロシャツにネオングリーン・ネオンピンクの刺繍アクセントを加えた新作を発表。価格は130ポンド。",
       "tags": [
         "コラボ"
       ],
@@ -110,30 +112,6 @@
       ],
       "importance": 2,
       "cluster": "cdg-shirt-fredperry-polo-2026"
-    },
-    {
-      "id": "06d5cf2c61a5eb09",
-      "title": "画像一覧 - ねとらぼ",
-      "url": "https://nlab.itmedia.co.jp/fav/articles/3980023/image/",
-      "publishedAt": "2026-08-19T11:12:00.000Z",
-      "publisher": "ねとらぼ",
-      "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/08/1787040505_IMG_6212-scaled.jpeg",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-08-24T22:10:54.739Z",
-      "summary": null,
-      "tags": []
-    },
-    {
-      "id": "bc15f8746dc50862",
-      "title": "「19枚のカードと鍵も入る」コムデギャルソンの上質な「ミニ財布」を愛用レビュー　経年変化も紹介 - ｄメニューニュース",
-      "url": "https://topics.smt.docomo.ne.jp/article/favlog/trend/favlog-3980023?page",
-      "publishedAt": "2026-08-19T11:12:00.000Z",
-      "publisher": "ｄメニューニュース",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-08-24T22:10:54.739Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "3f06efd26cc59894",
@@ -2015,8 +1993,11 @@
       "image": "https://senken.co.jp/production/uploads/file_content/file/416986/medium_760570__42_.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-24T22:10:54.740Z",
-      "summary": null,
-      "tags": []
+      "summary": "繊研新聞のコラム「世界への道・NY編」。川久保玲氏のインタビューに触れつつ、パリのメンズコレクションで反戦メッセージとして「希望」を意味するカラフルな展開をしたことなどを紹介している(有料会員限定記事のため詳細は非公開)。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 1
     },
     {
       "id": "5e446d583580eb23",

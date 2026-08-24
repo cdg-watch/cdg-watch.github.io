@@ -11,11 +11,35 @@ const SITE = "https://cdg-watch.github.io/";
 const TAGS = "#コムデギャルソン #CommeDesGarcons #CDG";
 
 function parseDigest(md) {
-  // "- **見出し**\n  本文\n  URL" の箇条書きを拾う
+  // 箇条書きを拾う。現行形式「- **見出し** — 本文\n  URL」と、
+  // 旧形式「- **見出し**\n  本文\n  URL」(見出し・本文が別行)の両方に対応する
+  // (2026-08-24 Issue #27: 現行digest形式にparseDigest()が追従しておらず失敗していた不具合の修正)。
+  const lines = md.split("\n");
   const blocks = [];
-  const re = /- \*\*(.+?)\*\*\s*\n\s*(.+?)\n\s*(https?:\/\/\S+)/g;
-  let m;
-  while ((m = re.exec(md))) blocks.push({ title: m[1].trim(), body: m[2].trim(), url: m[3].trim() });
+  for (let i = 0; i < lines.length; i++) {
+    const titleM = lines[i].match(/^-\s*\*\*(.+?)\*\*\s*(?:—\s*(.*))?$/);
+    if (!titleM) continue;
+    const title = titleM[1].trim();
+    let body = (titleM[2] || "").trim();
+    let j = i + 1;
+    if (!body) {
+      // 本文が同一行にない(旧形式) → 次の非空行を本文として拾う
+      while (j < lines.length && !lines[j].trim()) j++;
+      if (j < lines.length && !/^https?:\/\//.test(lines[j].trim())) {
+        body = lines[j].trim();
+        j++;
+      }
+    }
+    // URL行を探す(次の項目やまとめの注記に入ってしまったら諦める)
+    while (j < lines.length && !/^https?:\/\//.test(lines[j].trim())) {
+      const t = lines[j].trim();
+      if (t.startsWith("-") || t.startsWith(">")) { j = -1; break; }
+      j++;
+    }
+    if (j < 0 || j >= lines.length) continue;
+    const urlM = lines[j].trim().match(/^(https?:\/\/\S+)/);
+    if (urlM) blocks.push({ title, body, url: urlM[1] });
+  }
   return blocks;
 }
 
