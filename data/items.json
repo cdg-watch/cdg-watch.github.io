@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-08-23T22:13:13.707Z",
+  "updatedAt": "2026-08-24T22:11:03.158Z",
   "items": [
+    {
+      "id": "455eb0d77c5173d8",
+      "title": "Fred Perry x COMME des GARÇONS Reframes the Polo Through Neon Embroidery - stupidDOPE",
+      "url": "https://stupiddope.com/2026/08/fred-perry-x-comme-des-garcons-reframes-the-polo-through-neon-embroidery/",
+      "publishedAt": "2026-08-24T12:56:51.000Z",
+      "publisher": "stupidDOPE",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-08-24T22:10:55.149Z",
+      "summary": null,
+      "tags": [
+        "コラボ"
+      ]
+    },
     {
       "id": "4182356dc7825a4a",
       "title": "【差がつく大人の白スニーカー】コンバース×ノンネイティブ、コム デ ギャルソン×アシックス、ホカ®×ビームス。買うべき「新作コラボ」3選 - UOMO",
@@ -96,6 +110,30 @@
       ],
       "importance": 2,
       "cluster": "cdg-shirt-fredperry-polo-2026"
+    },
+    {
+      "id": "06d5cf2c61a5eb09",
+      "title": "画像一覧 - ねとらぼ",
+      "url": "https://nlab.itmedia.co.jp/fav/articles/3980023/image/",
+      "publishedAt": "2026-08-19T11:12:00.000Z",
+      "publisher": "ねとらぼ",
+      "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/08/1787040505_IMG_6212-scaled.jpeg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-08-24T22:10:54.739Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "bc15f8746dc50862",
+      "title": "「19枚のカードと鍵も入る」コムデギャルソンの上質な「ミニ財布」を愛用レビュー　経年変化も紹介 - ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/favlog/trend/favlog-3980023?page",
+      "publishedAt": "2026-08-19T11:12:00.000Z",
+      "publisher": "ｄメニューニュース",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-08-24T22:10:54.739Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "3f06efd26cc59894",
@@ -1967,6 +2005,18 @@
         "コラボ"
       ],
       "importance": 2
+    },
+    {
+      "id": "7b2aa4d1b900d8ba",
+      "title": "《世界への道・NY編⑩》果たして何が「格好いい」のか - 繊研新聞",
+      "url": "https://senken.co.jp/posts/yamma-260721",
+      "publishedAt": "2026-07-21T07:00:00.000Z",
+      "publisher": "繊研新聞",
+      "image": "https://senken.co.jp/production/uploads/file_content/file/416986/medium_760570__42_.jpg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-08-24T22:10:54.740Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "5e446d583580eb23",
