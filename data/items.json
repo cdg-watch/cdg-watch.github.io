@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T22:13:49.755Z",
+  "updatedAt": "2026-08-25T22:16:06.700Z",
   "items": [
     {
       "id": "c39dcd50490b8bf5",
@@ -10,8 +10,11 @@
       "image": "https://images.oceans.tokyo.jp/media/snap/12481/images/main_image_86334b8e25adebe9b343d24cf1e50d5bb3fcebbd.jpg?h=1200",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-25T22:13:29.487Z",
-      "summary": null,
-      "tags": []
+      "summary": "渋谷でのスナップ企画で、48歳男性がコムデギャルソンシャツのストライプシャツ・ハーフパンツ・バッグを中心に、シューズもコムデギャルソンで揃えたワンブランドコーデを披露している。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "455eb0d77c5173d8",
@@ -134,20 +137,11 @@
       "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/08/1787040505_IMG_6212-scaled.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-25T22:13:29.487Z",
-      "summary": null,
-      "tags": []
-    },
-    {
-      "id": "bc15f8746dc50862",
-      "title": "「19枚のカードと鍵も入る」コムデギャルソンの上質な「ミニ財布」を愛用レビュー　経年変化も紹介 - ｄメニューニュース",
-      "url": "https://topics.smt.docomo.ne.jp/article/favlog/trend/favlog-3980023?page",
-      "publishedAt": "2026-08-19T11:12:00.000Z",
-      "publisher": "ｄメニューニュース",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-08-25T22:13:29.487Z",
-      "summary": null,
-      "tags": []
+      "summary": "ライター谷脇カナ氏がコムデギャルソンの「アウトサイドポケット Lジップウォレット」のレビュー画像を紹介。カード19枚と鍵も収納できる実用性と、経年使用による革の変化を写真で伝えている。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "3f06efd26cc59894",
@@ -5265,10 +5259,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-25T22:13:29.488Z",
-      "summary": null,
+      "summary": "スニダンにCOMME des GARCONS HOMMEの「ナイロン ガーメントダイ ペインターパンツ(ブラック)」が新品・中古で出品待ち状態として掲載されている。定価は5万600円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "13cdc2f085633586",
@@ -7991,11 +7986,14 @@
       "url": "https://oggi.jp/7632675",
       "publishedAt": "2025-11-19T08:00:00.000Z",
       "publisher": "Oggi.jp",
-      "image": null,
+      "image": "https://oggi.jp/wp-content/uploads/2025/11/muffler.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-25T22:13:29.488Z",
-      "summary": null,
-      "tags": []
+      "summary": "Oggi編集部員が、レトロなムードのスクールマフラーをイメージしたコムデギャルソン シャツの新作マフラー(14,850円)を冬の愛用品として紹介している。",
+      "tags": [
+        "新作"
+      ],
+      "importance": 1
     },
     {
       "id": "cade986bc1f929e0",
