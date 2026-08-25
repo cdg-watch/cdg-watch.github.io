@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-24T22:14:25.390Z",
+  "updatedAt": "2026-08-25T22:13:49.755Z",
   "items": [
+    {
+      "id": "c39dcd50490b8bf5",
+      "title": "コムデギャルソンシャツのシャツコーディネート | 260824-0944-32 - OCEANS オーシャンズ",
+      "url": "https://oceans.tokyo.jp/snap/detail/12481",
+      "publishedAt": "2026-08-25T14:08:24.000Z",
+      "publisher": "OCEANS オーシャンズ",
+      "image": "https://images.oceans.tokyo.jp/media/snap/12481/images/main_image_86334b8e25adebe9b343d24cf1e50d5bb3fcebbd.jpg?h=1200",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-08-25T22:13:29.487Z",
+      "summary": null,
+      "tags": []
+    },
     {
       "id": "455eb0d77c5173d8",
       "title": "Fred Perry x COMME des GARÇONS Reframes the Polo Through Neon Embroidery - stupidDOPE",
@@ -112,6 +124,30 @@
       ],
       "importance": 2,
       "cluster": "cdg-shirt-fredperry-polo-2026"
+    },
+    {
+      "id": "06d5cf2c61a5eb09",
+      "title": "画像一覧 - ねとらぼ",
+      "url": "https://nlab.itmedia.co.jp/fav/articles/3980023/image/",
+      "publishedAt": "2026-08-19T11:12:00.000Z",
+      "publisher": "ねとらぼ",
+      "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/08/1787040505_IMG_6212-scaled.jpeg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-08-25T22:13:29.487Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "bc15f8746dc50862",
+      "title": "「19枚のカードと鍵も入る」コムデギャルソンの上質な「ミニ財布」を愛用レビュー　経年変化も紹介 - ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/favlog/trend/favlog-3980023?page",
+      "publishedAt": "2026-08-19T11:12:00.000Z",
+      "publisher": "ｄメニューニュース",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-08-25T22:13:29.487Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "3f06efd26cc59894",
@@ -5221,6 +5257,20 @@
       "importance": 1
     },
     {
+      "id": "bb0e228ac7020c0a",
+      "title": "COMME des GARCONS HOMME Nylon Garment Dye Painter Pants \"Black\"の新品/中古服・ブランド古着通販｜スニダン - SNKRDUNK",
+      "url": "https://snkrdunk.com/apparels/738078",
+      "publishedAt": "2026-04-14T15:58:34.000Z",
+      "publisher": "SNKRDUNK",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-08-25T22:13:29.488Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
+    },
+    {
       "id": "13cdc2f085633586",
       "title": "なぜコムデギャルソンで涙が止まらなかったのか 服の美しさをどう言葉にする - 繊研新聞",
       "url": "https://senken.co.jp/posts/comme-des-garcons-260413",
@@ -7934,6 +7984,18 @@
         "二次流通"
       ],
       "importance": 1
+    },
+    {
+      "id": "443725c116326092",
+      "title": "今年の冬のマフラーはレトロムードで♪【チームOggiのハマリモノ】 - Oggi.jp",
+      "url": "https://oggi.jp/7632675",
+      "publishedAt": "2025-11-19T08:00:00.000Z",
+      "publisher": "Oggi.jp",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-08-25T22:13:29.488Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "cade986bc1f929e0",
