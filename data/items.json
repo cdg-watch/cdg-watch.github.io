@@ -10,10 +10,11 @@
       "image": "https://img.webuomo.jp/article/sns/image/dd/dd23001f-1110-4dcc-bb0c-90cb7a6a8de5-1200x630.jpg",
       "feed": "WEB UOMO (Google News経由)",
       "fetchedAt": "2026-08-26T22:10:39.386Z",
-      "summary": null,
+      "summary": "ブラック コム デ ギャルソンから、コーデュラナイロン素材の新作ショルダーバッグが登場。底面がスクエア型、トップがラウンド型の実用的なフォルムで、価格は42,900円。",
       "tags": [
         "新作"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "c39dcd50490b8bf5",
@@ -86,10 +87,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0462.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-26T22:10:39.822Z",
-      "summary": null,
+      "summary": "コムデギャルソン オムの「ナイロンタフタ トリプルレイヤーパンツ ブラック」(定価62,700円)が、二次流通マーケット「スニーカーダンク」で新品・中古の出品として販売されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "96a73bf3dd4ea486",
@@ -100,10 +102,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20250318080227-1.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-26T22:10:39.822Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "3e242002ef8527a5",
@@ -179,20 +182,9 @@
       "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/08/1787040505_IMG_6212-scaled.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-26T22:10:39.822Z",
-      "summary": null,
-      "tags": []
-    },
-    {
-      "id": "bc15f8746dc50862",
-      "title": "「19枚のカードと鍵も入る」コムデギャルソンの上質な「ミニ財布」を愛用レビュー　経年変化も紹介 - ｄメニューニュース",
-      "url": "https://topics.smt.docomo.ne.jp/article/favlog/trend/favlog-3980023?page",
-      "publishedAt": "2026-08-19T11:12:00.000Z",
-      "publisher": "ｄメニューニュース",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-08-26T22:10:39.822Z",
-      "summary": null,
-      "tags": []
+      "summary": "コムデギャルソンの「アウトサイドポケット Lジップウォレット」のレビュー記事。厚さ約2.8cmと薄型ながら19枚のカードと鍵も収納できる実用性の高さが紹介されている。",
+      "tags": [],
+      "importance": 1
     },
     {
       "id": "06d5cf2c61a5eb09",
@@ -685,10 +677,11 @@
       "image": "https://cdn.snkrdunk.com/images/ogp/og-image.png",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-26T22:10:39.822Z",
-      "summary": null,
+      "summary": "二次流通マーケット「スニーカーダンク」にあるコムデギャルソンのシューズ商品一覧カテゴリページ。個別のニュースではなく、新品・中古シューズを検索・閲覧できる一覧。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "ca7055b4825115b1",
@@ -8285,10 +8278,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-26T22:10:39.822Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "ba51eece3867eec7",
