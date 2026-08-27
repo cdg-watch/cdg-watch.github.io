@@ -1,15 +1,12 @@
-# CDG Watch 日次ダイジェスト 2026-08-27
+# CDG Watch 日次ダイジェスト 2026-08-28
 
-- **ブラック コム デ ギャルソン、コーデュラナイロンの新作ショルダーバッグ** — 底面スクエア・トップラウンドの実用フォルムで価格42,900円。
-  https://www.webuomo.jp/uomolist/blackbag-2026/tz7-Eg/
+- **川久保玲、Dazed誌のインタビューでAI・黒・若手デザイナーへの助言を語る** — 2026年秋冬コレクション「Ultimately Black」に触れ、黒を「抵抗と正義と独立の色」と位置づけ。AIには個性の均一化への懸念を示した。
+  https://www.dazeddigital.com/fashion/article/70830/1/comme-des-garcons-aw26-show-rei-kawakubo-interview-quotes-ai-black
 
-- **Fred Perry x COMME des GARÇONS SHIRT、協業20周年でネオン刺繍ポロを発表** — ネオングリーン・ネオンピンクの刺繍を効かせた新作ポロ、価格130ポンド。
-  https://stupiddope.com/2026/08/fred-perry-x-comme-des-garcons-reframes-the-polo-through-neon-embroidery/
+- **⚠古 スニダンにコムデギャルソン オムのコットンナイロン ショルダーバッグが中古出品** — 型番HP-K206-051、参考価格30,800円(2025年11月発売)。
+  https://snkrdunk.com/apparels/726991
 
-- **コム デ ギャルソン×アシックス「GEL-1130」、大人の白スニーカー特集で紹介** — 2026年秋冬発表のトリプルホワイトY2Kモデル、価格58,300円。
-  https://www.webuomo.jp/sneaker/matome/2026-08-15-4JvEWg/
+- **⚠古 スニダンにコムデギャルソン オムのナイロン ガーメントダイ ペインターパンツが出品待ち** — ブラック、定価50,600円。
+  https://snkrdunk.com/apparels/738078
 
-- **スニダンにコムデギャルソン オムのナイロンタフタ トリプルレイヤーパンツが出品** — 定価62,700円のブラックパンツが新品・中古で購入可能。
-  https://snkrdunk.com/apparels/519815
-
-> 注記: 本日の新着収集は7件。要約待ちはゼロ件からのスタートで、要約対象は新着分の6件(1件は要約取得不可、1件は前日既出記事(ねとらぼ版)と同一内容のｄメニューニュース版のため重複削除)。ダイジェストには本日要約分に加え、直近数日で要約済みだが未掲載だったコラボ2件を採用。
+> 注記: 本日の新着収集は6件。うち1件(kalisz24.info.pl)はコムデギャルソンと無関係な海外地域ニュースサイトと判明したため削除。3件(ecoconscience.tv/docomo/fuelcarmagazine.com)はアクセス不可(要約取得不可)で見送り。要約できたのはDazed川久保玲インタビューとSNKRDUNK出品1件の計2件で、いずれも一次情報としては弱いため、直近数日で要約済みだが未掲載だった二次流通1件を補って掲載。
