@@ -1,12 +1,13 @@
-# CDG Watch 日次ダイジェスト 2026-08-28
+# CDG Watch 日次ダイジェスト 2026-08-29
 
-- **川久保玲、Dazed誌のインタビューでAI・黒・若手デザイナーへの助言を語る** — 2026年秋冬コレクション「Ultimately Black」に触れ、黒を「抵抗と正義と独立の色」と位置づけ。AIには個性の均一化への懸念を示した。
-  https://www.dazeddigital.com/fashion/article/70830/1/comme-des-garcons-aw26-show-rei-kawakubo-interview-quotes-ai-black
+- **UOMOがコム デ ギャルソン・オム 2026年秋冬のトップス＆パンツを厳選紹介** — フロントジップのストライプシャツやバルーンシルエットのデニムなど、素材とディテールにひねりを効かせたアイテム計8点を掲載。
+  https://www.webuomo.jp/fashion/highbrand/_8a-Eg/
 
-- **⚠古 スニダンにコムデギャルソン オムのコットンナイロン ショルダーバッグが中古出品** — 型番HP-K206-051、参考価格30,800円(2025年11月発売)。
-  https://snkrdunk.com/apparels/726991
+- **⚠古 ウォレット コム デ ギャルソンの新作「Snake Transparent L Zip Wallet」、初回入荷は即完売** — ヘビ柄を型押しした透明なポリウレタン素材の財布。SPURのレビューによれば再入荷分も品薄が続く人気ぶり。
+  https://spur.hpplus.jp/fashion/smallgoodthings/2026-08-09-Ti2F-g/
 
-- **⚠古 スニダンにコムデギャルソン オムのナイロン ガーメントダイ ペインターパンツが出品待ち** — ブラック、定価50,600円。
-  https://snkrdunk.com/apparels/738078
+- **コムデギャルソンの二つ折り財布がAmazonセールで21%オフ** — ウォーカープラスが紹介。
+  https://www.walkerplus.com/article/1154044/image12115853.html
 
-> 注記: 本日の新着収集は6件。うち1件(kalisz24.info.pl)はコムデギャルソンと無関係な海外地域ニュースサイトと判明したため削除。3件(ecoconscience.tv/docomo/fuelcarmagazine.com)はアクセス不可(要約取得不可)で見送り。要約できたのはDazed川久保玲インタビューとSNKRDUNK出品1件の計2件で、いずれも一次情報としては弱いため、直近数日で要約済みだが未掲載だった二次流通1件を補って掲載。
+> 注記: 本日の新着収集は5件。うち1件(Vogue Adria)はアクセス不可(要約取得不可)で見送り。
+> また監督Issue #28(2026-08-27夜検出)に対応: SEOスパムドメイン ecoconscience.tv / fuelcarmagazine.com 由来の記事2件を「無関係記事」として削除し、`SPAM_URL_RE` に両ドメインを追加。加えて要約作業中に、ストリートコーデ記事(OCEANS)がコムデギャルソンをコーデ内での言及のみで無関係と判明したため1件削除(フィルタ誤検知)。

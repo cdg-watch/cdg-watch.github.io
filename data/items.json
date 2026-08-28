@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T22:11:17.883Z",
+  "updatedAt": "2026-08-28T22:12:50.439Z",
   "items": [
     {
       "id": "43ff6a9a233b1af0",
@@ -10,8 +10,11 @@
       "image": "https://img.webuomo.jp/article/sns/image/7a/7ac139e1-d8f1-4eb5-8927-c3ed88101bdd-1200x630.jpg",
       "feed": "WEB UOMO (Google News経由)",
       "fetchedAt": "2026-08-28T22:11:09.747Z",
-      "summary": null,
-      "tags": []
+      "summary": "UOMOが2026年秋冬のコム デ ギャルソン・オムから、トップス4点・パンツ4点を厳選紹介。フロントジップのストライプシャツやバルーンシルエットのデニムなど、素材とディテールにひねりを効かせたアイテムが並ぶ。",
+      "tags": [
+        "新作"
+      ],
+      "importance": 2
     },
     {
       "id": "80e58bedbd80c031",
@@ -22,10 +25,11 @@
       "image": "https://news.walkerplus.com/article/1154044/12115877_615.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-28T22:11:10.180Z",
-      "summary": null,
+      "summary": "コムデギャルソンの二つ折り財布がAmazonのセールで21%オフになっていることを紹介する記事。",
       "tags": [
         "再販/セール"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "fbdba19058c532af",
@@ -36,7 +40,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-08-28T22:11:10.634Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -208,20 +212,6 @@
         "店舗"
       ],
       "importance": 1
-    },
-    {
-      "id": "0e0a2322c7dffa8a",
-      "title": "COMME des GARCONS(コムデギャルソン) 1999AW Polka-dot S/S T-shirt ドット デザイン 半袖 Tシャツ KT-910010 表記無(M程度) ネイビー×ブルー AD1999 青山限定 - www.ecoconscience.tv",
-      "url": "https://ecoconscience.tv/?g",
-      "publishedAt": "2026-08-20T10:27:40.000Z",
-      "publisher": "www.ecoconscience.tv",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-08-27T22:10:49.461Z",
-      "summary": "(要約取得不可)",
-      "tags": [
-        "コラボ"
-      ]
     },
     {
       "id": "69e7bc140716b98b",
@@ -549,20 +539,6 @@
       "importance": 3
     },
     {
-      "id": "401df35713cbf4aa",
-      "title": "Pink Air Max 180 Cdg Replica NIKE AIR MAX 180 CDG ピンク コムデギャルソン オム プリュス 28 - fuelcarmagazine",
-      "url": "https://fuelcarmagazine.com/?x",
-      "publishedAt": "2026-08-13T07:00:00.000Z",
-      "publisher": "fuelcarmagazine",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-08-27T22:10:49.462Z",
-      "summary": "(要約取得不可)",
-      "tags": [
-        "コラボ"
-      ]
-    },
-    {
       "id": "e5ca48af45cb2b93",
       "title": "What went down at Dazed Club’s latest takeover of Dover Street Market",
       "url": "https://www.dazeddigital.com/fashion/article/70798/1/dazed-club-takeover-dover-street-market-commes-des-garcons?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=what-went-down-at-dazed-club-s-latest-takeover-of-dover-street-market",
@@ -759,10 +735,11 @@
       "image": "https://img-spur.hpplus.jp/image/45/458e8e4d-227b-409a-b535-5fe4aa97d99f-3427x1799.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-28T22:11:10.180Z",
-      "summary": null,
+      "summary": "ウォレット コム デ ギャルソンの新作「Snake Transparent L Zip Wallet」を紹介。ヘビ柄を型押しした透明なポリウレタン素材でオープンスペース2カ所とコインスペースを備え、初回入荷は即完売するほどの人気という。",
       "tags": [
         "新作"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "5bc226919d093e67",
@@ -8070,18 +8047,6 @@
         "インタビュー"
       ],
       "importance": 2
-    },
-    {
-      "id": "59c0fbe1fbb51e32",
-      "title": "「真っ黒だけじゃダメですか？」ストリートで目立っていた全身黒好きは“シルエットメイク”が秀逸だった！ - OCEANS オーシャンズ",
-      "url": "https://oceans.tokyo.jp/article/detail/53149",
-      "publishedAt": "2025-11-25T08:00:00.000Z",
-      "publisher": "OCEANS オーシャンズ",
-      "image": "https://images.oceans.tokyo.jp/media/article/53149/images/editor/f9db6986f5dd33e643af909f8af9c6ba0702a0c7.jpg?w=850",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-08-28T22:11:10.180Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "562541849adb12f0",
