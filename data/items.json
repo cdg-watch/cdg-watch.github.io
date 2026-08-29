@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T22:12:50.439Z",
+  "updatedAt": "2026-08-29T22:09:00.830Z",
   "items": [
     {
       "id": "43ff6a9a233b1af0",
@@ -8047,6 +8047,18 @@
         "インタビュー"
       ],
       "importance": 2
+    },
+    {
+      "id": "59c0fbe1fbb51e32",
+      "title": "「真っ黒だけじゃダメですか？」ストリートで目立っていた全身黒好きは“シルエットメイク”が秀逸だった！ - OCEANS オーシャンズ",
+      "url": "https://oceans.tokyo.jp/article/detail/53149",
+      "publishedAt": "2025-11-25T08:00:00.000Z",
+      "publisher": "OCEANS オーシャンズ",
+      "image": "https://images.oceans.tokyo.jp/media/article/53149/images/editor/f9db6986f5dd33e643af909f8af9c6ba0702a0c7.jpg?w=850",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-08-29T22:08:56.404Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "562541849adb12f0",
