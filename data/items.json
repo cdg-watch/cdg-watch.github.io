@@ -1,17 +1,20 @@
 {
-  "updatedAt": "2026-08-30T22:10:28.411Z",
+  "updatedAt": "2026-08-30T22:11:47.178Z",
   "items": [
     {
       "id": "4da2763f3710fbfd",
       "title": "夏は“ド派手なカラー”でカマすのが正解！ 派手色”の攻略法を街角調査してみた結果 (OCEANS) - Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/f14e37a31d65b3114cc85056314ad3ee54b3cdaf/images/004",
+      "url": "https://news.yahoo.co.jp/articles/f14e37a31d65b3114cc85056314ad3ee54b3cdaf",
       "publishedAt": "2026-08-30T00:06:11.000Z",
       "publisher": "Yahoo!ニュース",
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3h9uiCojScY7SLYgxmEygY34HaSrl2-curVKklza1fh6sk1Bac0esmPKlEcTTuKYlaEsyzcnq5_C2JHeAjyQt42Aem4zT5DjDBZC26VKRVn6zRS5PVcHwoJKQ97fYjBUAbGbho4Vti_xhsIhZz_JdgQ==",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-30T22:10:21.524Z",
-      "summary": null,
-      "tags": []
+      "summary": "夏の派手色コーディネート特集で、街角スナップの一例としてコムデギャルソン オム プリュスのシャツとコムデギャルソンのパンツが着用例に登場。コムデギャルソン単独の話題ではなく、複数ブランドを使った配色テクニック紹介記事の一部。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "379a804cbb83f6e9",
@@ -22,22 +25,23 @@
       "image": "https://ocnjdaily.com/wp-content/uploads/2026/05/cropped-OCNJ.webp",
       "feed": "Google News (English)",
       "fetchedAt": "2026-08-30T22:10:21.965Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
       "id": "ab256c9ceb6092a5",
       "title": "画像1 / 17＞個性的なデザインでコンパクト収納【コムデギャルソン】2つ折財布 「Amazon特選タイムセール」にて28%OFF - ウォーカープラス",
-      "url": "https://www.walkerplus.com/article/1158593/image12211356.html",
+      "url": "https://www.walkerplus.com/article/1158593/",
       "publishedAt": "2026-08-29T15:05:35.000Z",
       "publisher": "ウォーカープラス",
       "image": "https://news.walkerplus.com/article/1158593/12211356_615.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-30T22:10:21.524Z",
-      "summary": null,
+      "summary": "コムデギャルソンの2つ折財布(EMBOSSED FOREST・黒レザー・並行輸入品)がAmazon特選タイムセールで28%OFFの23,040円になっていることを紹介する記事。",
       "tags": [
         "再販/セール"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "43ff6a9a233b1af0",
@@ -136,10 +140,11 @@
       "image": "https://cdn.snkrdunk.com/used_listing/241118/3dea16d2-4a0c-4b3c-b7d2-5a66c02888cb.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-30T22:10:21.524Z",
-      "summary": null,
+      "summary": "コムデギャルソン×ナイキ エアフォース1 ミッド\"ホワイト\"の中古品(28cm・状態B)がスニーカーダンクに出品。着用1回、箱・包装紙付きで価格は34,800円。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "455eb0d77c5173d8",
