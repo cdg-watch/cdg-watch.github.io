@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T22:11:07.044Z",
+  "updatedAt": "2026-08-31T22:12:01.804Z",
   "items": [
     {
       "id": "9a3a8273b5487505",
@@ -10,7 +10,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-08-31T22:11:00.510Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -22,10 +22,11 @@
       "image": "https://fashionsnap-assets.com/asset/format=auto,fit=crop,width=300,height=300/article/images/2026/08/19d5859f-8a57-41d2-ba96-35aa845c2e58.jpg",
       "feed": "FASHIONSNAP",
       "fetchedAt": "2026-08-31T22:10:44.487Z",
-      "summary": null,
+      "summary": "ステューシーとアイ ジュンヤ ワタナベ マンのコラボが発売、全32型。スピワックやリーバイスとのトリプルコラボアイテムも含み、コム デ ギャルソン店舗やドーバー ストリート マーケット ギンザなどで取り扱い。",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "4da2763f3710fbfd",

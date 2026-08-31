@@ -199,7 +199,7 @@ let items = [], schedule = { storeLaunches: [], productDrops: [] };
 const STALE_DAYS = 14;
 // 要約が長期間つかない項目はデフォルト一覧から間引く(データは削除しない)。
 // 検索(q)や☆保存タブでは明示的な絞り込みのため除外しない。
-const isStale = i => !i.summary &&
+const isStale = i => (!i.summary || i.summary === "(要約取得不可)") &&
   (Date.now() - new Date(i.fetchedAt ?? i.publishedAt).getTime()) > STALE_DAYS * 86400000;
 let view = "news", cat = "__official", feed = "", q = "", calPast = false;
 let favs = new Set(JSON.parse(localStorage.getItem("cdg_favs") || "[]"));
