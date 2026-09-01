@@ -1,20 +1,6 @@
 {
-  "updatedAt": "2026-09-01T22:12:46.372Z",
+  "updatedAt": "2026-09-01T22:14:41.196Z",
   "items": [
-    {
-      "id": "0c33c72bfc80c4cf",
-      "title": "Rei Kawakubo Comme Des Garcons 94 Femme Rei Kawakubo/Comme Des Garçons: Art Of The In-Between At The Met Woman Around Town - krepsiniozinios",
-      "url": "https://krepsiniozinios.lt/?u",
-      "publishedAt": "2026-09-01T06:31:58.000Z",
-      "publisher": "krepsiniozinios",
-      "image": "https://krepsiniozinios.lt/images/banners/gerr.png",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-09-01T22:12:35.465Z",
-      "summary": null,
-      "tags": [
-        "インタビュー"
-      ]
-    },
     {
       "id": "9a3a8273b5487505",
       "title": "大人気，新品 COMME des GARCONS/長袖ニット/JUNYA WATANABE/レッド/コムデギャルソン - Piacenza24",
@@ -123,8 +109,9 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-01T22:12:35.465Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [],
+      "importance": 1
     },
     {
       "id": "fbdba19058c532af",
@@ -317,10 +304,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20251010031045-0.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-01T22:12:35.035Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "177be023a308ca5f",
@@ -532,10 +520,11 @@
       "image": "https://www.datocms-assets.com/39109/1724159404-1627053013-rei-kawakubo-comme-des-garcons-art-of-the-in-between-mostra-met-lofficielitalia.jpeg?auto=format&fit=max&w=1200",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-01T22:12:35.465Z",
-      "summary": null,
+      "summary": "オーストラリアの収集家「dot COMME」がKerry Taylor Auctionsと提携し、レイ・カワクボ/コムデギャルソンの象徴的なデザイン200点以上をオークションに出品する。",
       "tags": [
-        "インタビュー"
-      ]
+        "二次流通"
+      ],
+      "importance": 2
     },
     {
       "id": "716899d5c8fe7301",
@@ -3921,10 +3910,11 @@
       "image": "https://senken.co.jp/production/uploads/file_content/file/414940/large_1713__1_.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-01T22:12:35.035Z",
-      "summary": null,
+      "summary": "27年春夏パリ・メンズファッションウィークで、川久保玲率いるコムデギャルソン・オムプリュスは「もし、戦争が終わったら」をテーマに、従来の暗転演出から一転しエメラルドやピンクなど鮮やかな色使いのポジティブなコレクションを発表した。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 3
     },
     {
       "id": "e2afb82ed60e00ab",
@@ -4811,18 +4801,6 @@
         "その他"
       ],
       "importance": 1
-    },
-    {
-      "id": "d484d2e5a168970c",
-      "title": "議論勃発中の「おじさんショーツ問題」、休日の爽やかなスタイルサンプル5選 - OCEANS オーシャンズ",
-      "url": "https://oceans.tokyo.jp/article/detail/54621",
-      "publishedAt": "2026-05-24T07:00:00.000Z",
-      "publisher": "OCEANS オーシャンズ",
-      "image": "https://images.oceans.tokyo.jp/media/article/54621/images/editor/8a32af234ba37963ecf3b575b396e6d27684a0d1.jpg?h=851",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-09-01T22:12:35.035Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "0845e6a5f020087a",
@@ -7982,10 +7960,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20250406095235-0.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-01T22:12:35.035Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "3466b66648b94b3f",
