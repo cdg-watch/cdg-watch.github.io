@@ -1,34 +1,6 @@
 {
-  "updatedAt": "2026-09-02T22:11:45.157Z",
+  "updatedAt": "2026-09-02T22:15:00.324Z",
   "items": [
-    {
-      "id": "da1bfdbe219f1d5d",
-      "title": "【ヴィンテージ】コムデギャルソンオムプリュス GARCONS HOMME plus ニット HOMME des PLUS プリュスは、最強のスーツを着たパワフルな 2019年春夏 Pants - pappaspost.com",
-      "url": "https://www.pappaspost.com/?r",
-      "publishedAt": "2026-09-02T19:33:00.000Z",
-      "publisher": "pappaspost.com",
-      "image": "https://pappaspost.com/wp-content/uploads/2024/02/pulse-category.png",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-09-02T22:11:19.063Z",
-      "summary": null,
-      "tags": [
-        "ショー/コレクション"
-      ]
-    },
-    {
-      "id": "0c33c72bfc80c4cf",
-      "title": "Rei Kawakubo Comme Des Garcons 94 Femme Rei Kawakubo/Comme Des Garçons: Art Of The In-Between At The Met Woman Around Town - krepsiniozinios",
-      "url": "https://krepsiniozinios.lt/?u",
-      "publishedAt": "2026-09-01T06:31:58.000Z",
-      "publisher": "krepsiniozinios",
-      "image": "https://krepsiniozinios.lt/images/banners/gerr.png",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-09-02T22:11:19.587Z",
-      "summary": null,
-      "tags": [
-        "インタビュー"
-      ]
-    },
     {
       "id": "9a3a8273b5487505",
       "title": "大人気，新品 COMME des GARCONS/長袖ニット/JUNYA WATANABE/レッド/コムデギャルソン - Piacenza24",
@@ -162,8 +134,11 @@
       "image": "https://images-prod.dazeddigital.com/1035/0-0-1035-690/azure/dazed-prod/1450/1/1451577.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-02T22:11:19.587Z",
-      "summary": null,
-      "tags": []
+      "summary": "Dazedが特集した「Comme des Garçons – The Autumn 2026 Issue」のギャラリー記事。パオロ・ロヴェルシの撮影とイムルア・アシャのスタイリングで、レイ・カワクボがデザインしたA/W26コレクションを紹介している。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 2
     },
     {
       "id": "097eb9e47d2ead7c",
@@ -297,10 +272,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0253.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-02T22:11:19.063Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "96a73bf3dd4ea486",
@@ -406,8 +382,11 @@
       "image": "https://media.image.infoseek.co.jp/isnews/photos/itmedia_favlog/itmedia_favlog_3980023_0.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-02T22:11:19.063Z",
-      "summary": null,
-      "tags": []
+      "summary": "コムデギャルソンの「アウトサイドポケット Lジップウォレット」を愛用するレビュー記事。カード19枚収納時でも厚さ約2.8cmに収まる収納力や、外ポケットに鍵も入る機能性、経年変化を紹介している。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "bc15f8746dc50862",
@@ -970,10 +949,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGOM-0041.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-02T22:11:19.064Z",
-      "summary": null,
+      "summary": "SNKRDUNK掲載のCOMME des GARCONS HOMME「コットンフリース×ナイロンタッサーフーディー Black」(品番HO-T001-051、定価48,400円)の販売ページ。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "ca7055b4825115b1",
@@ -1831,11 +1811,12 @@
       "image": "https://www.nicekicks.com/files/2026/08/imgi_1_imgi_47_621400893_18559905559050859_1777427157555890801_n-1-e1785967105848.jpeg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-02T22:11:19.587Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "7ec251bc0859d817",
@@ -4548,8 +4529,11 @@
       "image": "https://hubemag.com/wp-content/uploads/2026/06/CDG_TO_VETIVER_3508x2378_CREATIVE_2-1_web.png",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-02T22:11:19.587Z",
-      "summary": null,
-      "tags": []
+      "summary": "Hube magazineによる、コムデギャルソン パルファムの新香水「To Vetiver」に関するマスターパフューマー、アントワーヌ・メゾンディユへのインタビュー記事。故クリスチャン・アストゥギュヴィエイユに捧げられ、ベチバーやスパイス、ムスク、ミルラを含む香りとして紹介されている。",
+      "tags": [
+        "インタビュー"
+      ],
+      "importance": 2
     },
     {
       "id": "6296974649a8ab7a",
@@ -5222,10 +5206,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20241211053408-0.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-02T22:11:19.064Z",
-      "summary": null,
+      "summary": "SNKRDUNK掲載のCOMME des GARCONS SHIRT x Fred Perryコラボ「ポロシャツ Lime Stone」(品番FOT502S252)の販売ページ。価格帯は3万円台前半から。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "9b77f9e6ea340ee1",
@@ -5604,10 +5589,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-02T22:11:19.064Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "新作"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "f939675e892bc5ab",
@@ -5618,8 +5604,11 @@
       "image": "https://wwd.com/wp-content/uploads/2026/04/commeddesgarconA.jpg?crop=0px%2C90px%2C2000px%2C1119px&resize=1000%2C563",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-02T22:11:19.587Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "98ac14546caaabea",
@@ -7088,11 +7077,12 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-02T22:11:19.587Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "8f582d6add87fe76",
@@ -7112,13 +7102,14 @@
       "url": "https://snkrdunk.com/articles/31333/",
       "publishedAt": "2026-02-02T08:00:00.000Z",
       "publisher": "SNKRDUNK",
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/20260128040341-0.webp\",\"imageUrls\":{\"l\":\"https://cdn.snkrdunk.com/upload_bg_removed/20260128040341-0.webp?size=l\",\"m\":\"https://cdn.snkrdunk.com/upload_bg_removed/20260128040341-0.webp?size=m\",\"s\":\"https://cdn.snkrdunk.com/upload_bg_removed/20260128040341-0.webp",
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/20260128040341-0.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-02T22:11:19.064Z",
-      "summary": null,
+      "summary": "SNKRDUNKによるBlack COMME des GARCONS x Nike LD-1000 SP「Black/Spirit Pink」(品番IU7936-001、定価29,700円)のリーク情報記事。2026年4月4日発売予定とされるが、リーク情報のため実現しない可能性もあると注記されている。",
       "tags": [
-        "二次流通"
-      ]
+        "新作"
+      ],
+      "importance": 2
     },
     {
       "id": "5d3b8b9697b26bfc",
@@ -7144,10 +7135,12 @@
       "image": "https://selectabisso.com/wp-content/uploads/2026/01/comme-des-garcons-homme-new-balance-1890a-1068x757-1.webp",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-02T22:11:19.587Z",
-      "summary": null,
+      "summary": "Comme des Garçons x New Balance 1890Aのコラボスニーカー・ローファー記事。ABZORBクッショニングを搭載し、オール黒とウィートカラーの2色のスエード展開で、2026年を通じて順次発売予定。価格は未発表。",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "cluster": "cdg-newbalance-1890a",
+      "importance": 2
     },
     {
       "id": "199d3443105071c7",
@@ -7207,10 +7200,12 @@
       "image": "https://wnqjelklwcclokznfoyh.supabase.co/storage/v1/object/public/general/jordan_blog.jpeg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-02T22:11:19.587Z",
-      "summary": null,
+      "summary": "Sole RetrieverによるComme des Garçons x New Balance 1890Aの紹介記事。プレミアム素材とABZORB搭載ソールのスポーティなモカシンで、ブラウンとブラックの2色展開。発売日・価格は未発表だが2026年秋冬コレクションに含まれ、年後半の発売が見込まれる。",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "cluster": "cdg-newbalance-1890a",
+      "importance": 2
     },
     {
       "id": "c4491a271452047b",
