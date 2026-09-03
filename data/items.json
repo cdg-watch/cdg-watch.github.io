@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T22:11:16.328Z",
+  "updatedAt": "2026-09-03T22:15:23.875Z",
   "items": [
     {
       "id": "9c694cd72a073059",
@@ -10,10 +10,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-03T22:10:49.353Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "cluster": "cdg-hommeplus-airjordan11"
     },
     {
       "id": "89cf57b4c06b1aaf",
@@ -24,10 +25,13 @@
       "image": "https://selectabisso.com/wp-content/uploads/2026/09/www.selectabisso.com_.ordan-11-comme-des-garcons-black-IV7639-001-5.www_.selectabisso.com_.pg_.webp",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-03T22:10:49.353Z",
-      "summary": null,
+      "summary": "コムデギャルソンとジョーダンブランド初のコラボとなるAir Jordan 11が2026年9月5日発売。ブラック/ホワイトの2色展開で、プレミアムカウハイドとパテントレザーを使い光沢加工をミッドソールまで拡張、タンラベルも再デザインされている。",
       "tags": [
-        "コラボ"
-      ]
+        "コラボ",
+        "新作"
+      ],
+      "cluster": "cdg-hommeplus-airjordan11",
+      "importance": 3
     },
     {
       "id": "b9df0d143a5c9c4b",
@@ -38,10 +42,11 @@
       "image": "https://wwd.com/wp-content/uploads/2026/09/comme-des-garcons-air-jordan-11-0001.jpg?w=1000&h=563&crop=1",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-03T22:10:49.353Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "cluster": "cdg-hommeplus-airjordan11"
     },
     {
       "id": "8df1401ff9ee5b88",
@@ -52,10 +57,12 @@
       "image": "https://images-prod.anothermag.com/1200/0-204-2001-1334/azure/another-prod/470/6/476896.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-03T22:10:49.353Z",
-      "summary": null,
+      "summary": "AnOther Magazineによる、コムデギャルソン オムプリュス×Air Jordan 11コラボスニーカーを撮り下ろしたフォトギャラリー記事。",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "cluster": "cdg-hommeplus-airjordan11",
+      "importance": 2
     },
     {
       "id": "e71595d9d04891e9",
@@ -66,11 +73,12 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-03T22:10:48.853Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "cluster": "cdg-hommeplus-airjordan11"
     },
     {
       "id": "009fd27754bfb8ca",
@@ -81,11 +89,14 @@
       "image": "https://images.soleretriever.com/blog/9775bd302d013db151fd82e0fa0d4c0909f4201a-1240x760.png?rect=0,55,1240,651&w=1200&h=630&fit=fill&auto=format",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-03T22:10:49.353Z",
-      "summary": null,
+      "summary": "COMME des GARÇONS Homme Plus×Air Jordan 11レトロパックが2026年9月5日発売、価格は1足358ドル。ブラック/ブラック(IV7639-001)とホワイト/ホワイト(IV7639-100)の2色展開で、Dover Street Market各店舗とオンラインストアで取り扱う。",
       "tags": [
         "コラボ",
-        "新作"
-      ]
+        "新作",
+        "店舗"
+      ],
+      "cluster": "cdg-hommeplus-airjordan11",
+      "importance": 3
     },
     {
       "id": "5a381f106da9d562",
@@ -96,10 +107,12 @@
       "image": "https://www.highsnobiety.com/static-assets/dato/1788450739-comme-des-garcons-homme-plus-x-air-jordan-11-campaign-2.jpg",
       "feed": "Highsnobiety",
       "fetchedAt": "2026-09-03T22:10:41.890Z",
-      "summary": null,
+      "summary": "Air Jordan 11史上初となるコムデギャルソンとのコラボについて、川久保玲らしい最小限の改変でシューズの本質を保ちながらバリスティックナイロンをレザーに置き換えた点を評価する論考記事。",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "cluster": "cdg-hommeplus-airjordan11",
+      "importance": 2
     },
     {
       "id": "b4089c59191b4c74",
@@ -110,10 +123,14 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-03T22:10:49.353Z",
-      "summary": null,
+      "summary": "コムデギャルソン×Air Jordan 11は2026年9月5日午前11時発売、価格は280ポンド。ブラックとホワイトのモノクロ2色展開で、光沢仕上げのミッドソールとパテントレザーの質感が特徴。Dover Street Marketなどで販売予定。",
       "tags": [
-        "コラボ"
-      ]
+        "コラボ",
+        "新作",
+        "店舗"
+      ],
+      "cluster": "cdg-hommeplus-airjordan11",
+      "importance": 3
     },
     {
       "id": "b2f833099c9aff9c",
@@ -124,10 +141,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-03T22:10:49.353Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "cluster": "cdg-hommeplus-airjordan11"
     },
     {
       "id": "0f6384a6c938e40d",
@@ -138,36 +156,12 @@
       "image": "https://images-prod.anothermag.com/1200/0-1393-1820-1214/azure/another-prod/470/6/476899.jpg",
       "feed": "AnOther",
       "fetchedAt": "2026-09-03T22:10:42.719Z",
-      "summary": null,
+      "summary": "AnOther誌がコムデギャルソン×Air Jordan 11コラボのキャンペーンを紹介。東京・青山本店で撮影されたモノクロ写真で、川久保玲の2026年秋冬コレクションテーマ「黒い穴から抜け出そう」と連動させた世界観を展開している。",
       "tags": [
         "コラボ"
-      ]
-    },
-    {
-      "id": "1a7b77533518adfd",
-      "title": "des COMME GARCONS GARCONS⁄コムデギャルソンから風格漂う黒のダブルコートの ギャルソンのテーマは「不確実な将来」。透明性の中に希望を宿 Tシャツ COMME des GARCONS/コムデギャルソン アシンメトリー サルエルパンツ GA-P053 AD2007/SS /060 - pappaspost.com",
-      "url": "https://www.pappaspost.com/?r",
-      "publishedAt": "2026-09-03T13:37:16.000Z",
-      "publisher": "pappaspost.com",
-      "image": "https://pappaspost.com/wp-content/uploads/2024/02/pulse-category.png",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-09-03T22:10:48.853Z",
-      "summary": null,
-      "tags": []
-    },
-    {
-      "id": "b23ca6a2bcbb4877",
-      "title": "Rei Kawakubo Comme Des Garcons 94 Femme Rei Kawakubo/Comme Des Garçons: Art Of The In-Between At The Met Woman Around Town - Krepšinio žinios",
-      "url": "https://krepsiniozinios.lt/?u",
-      "publishedAt": "2026-09-01T06:31:58.000Z",
-      "publisher": "Krepšinio žinios",
-      "image": "https://_dc-mx.ce33bf98a3a5.krepsiniozinios.lt/images/banners/gerr.png",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-09-03T22:10:49.353Z",
-      "summary": null,
-      "tags": [
-        "インタビュー"
-      ]
+      ],
+      "cluster": "cdg-hommeplus-airjordan11",
+      "importance": 2
     },
     {
       "id": "9a3a8273b5487505",
@@ -205,11 +199,13 @@
       "image": "https://cdn.sanity.io/images/pu5wtzfc/production/2afb733711e461e2e02ea233ad732b62c7276495-1440x1800.jpg?rect=0,522,1440,756&w=1200&h=630",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-03T22:10:49.353Z",
-      "summary": null,
+      "summary": "2026年9月発売予定のAir Jordan一覧記事の中で、コムデギャルソンとのコラボモデルが9月10日発売予定として一項目挙げられている(詳細説明はなし。他の主要ソースは9月5日発売と報じており日付にばらつきあり)。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "cluster": "cdg-hommeplus-airjordan11",
+      "importance": 1
     },
     {
       "id": "4da2763f3710fbfd",
@@ -409,10 +405,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-03T22:10:48.854Z",
-      "summary": null,
+      "summary": "コムデギャルソン オムプリュスのウール混コットン小格子柄ショーツ(刺繍入り、ブラック/ホワイト、定価73,700円)の中古相場情報ページ。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "4182356dc7825a4a",
@@ -439,10 +436,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-03T22:10:48.854Z",
-      "summary": null,
+      "summary": "コムデギャルソン シャツのコットンジャージー無地Tシャツ(胸にCDGロゴプリント、カーキ、定価13,750円)の販売ページ。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "cbf235ddc0a8573b",
@@ -468,10 +466,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGOM-0078.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-03T22:10:48.854Z",
-      "summary": null,
+      "summary": "コムデギャルソン オムのナイロンスパンツイル素材ペインターパンツ(ホワイト、品番CDGOM-0078)の売買相場情報ページ。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "25ce9ad8119616bc",
@@ -497,10 +496,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGBK-0216.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-03T22:10:48.854Z",
-      "summary": null,
+      "summary": "ブラック コムデギャルソンのラッフルショートパンツ(ブラック、定価99,100円)の売買相場情報ページ。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "468c855c95e5ccf0",
