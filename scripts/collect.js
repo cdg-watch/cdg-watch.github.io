@@ -81,8 +81,13 @@ const SOURCES = [
 // 2026-08-09: bosnewslife.com を追加。ctype/shop/配下の「フリマアイテム一覧」を
 // 装ったキーワード羅列タイトル(単語順がでたらめ)で3件混入したが、いずれも
 // 該当URLは404で本文取得不可。同種のSEOスパム混入と判断
+// 2026-09-05: onmotor.es(スペイン語の自動車専門サイト)、krepsiniozinios.lt
+// (リトアニア語のバスケットボールニュースサイト)を追加。いずれもキーワード
+// 羅列タイトルでGoogle Newsから3件混入したが、実際に開くとコムデギャルソンと
+// 無関係な本来のサイト内容(自動車ニュース/バスケ記事)が表示され、該当記事は
+// 存在しない(1件は404)。同種のSEOスパム/URL偽装と判断
 const SPAM_URL_RE =
-  /richardajkeys\.com|cfecgc-orange\.org|consumerthai\.org|lechodelabaie\.fr|cicus\.us\.es|(?:^|\/\/)(?:www\.)?tennis\.fi\/|radiopiu\.net|bosnewslife\.com|diocesisdesalamanca\.com|ecoconscience\.tv|fuelcarmagazine\.com/i;
+  /richardajkeys\.com|cfecgc-orange\.org|consumerthai\.org|lechodelabaie\.fr|cicus\.us\.es|(?:^|\/\/)(?:www\.)?tennis\.fi\/|radiopiu\.net|bosnewslife\.com|diocesisdesalamanca\.com|ecoconscience\.tv|fuelcarmagazine\.com|onmotor\.es|krepsiniozinios\.lt/i;
 
 // 焼き直し記事ガード(2026-08-02)。同一媒体がほぼ同じタイトル・ほぼ同じ本文の
 // 記事を新しい記事IDで再発行し、publishedAt だけ新しい「新着」に見えるケースを

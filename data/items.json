@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T22:10:26.766Z",
+  "updatedAt": "2026-09-04T22:14:32.034Z",
   "items": [
     {
       "id": "7b2a62c91700372f",
@@ -10,11 +10,12 @@
       "image": "https://img.webuomo.jp/article/sns/image/86/86bc3a73-9e68-4224-b477-b2b20882e0dc-1200x630.jpg",
       "feed": "WEB UOMO (Google News経由)",
       "fetchedAt": "2026-09-04T22:10:06.179Z",
-      "summary": null,
+      "summary": "UOMOが2026年秋冬シーズンの「eYe ジュンヤ ワタナベ マン」による8つのコラボをまとめて紹介。ステューシーとの第2弾Tシャツ、リーバイスの赤耳復刻デニム、ザ・ノース・フェイスのボンバー/マウンテンジャケット、マムートとの初コラボモッズコートなどが並ぶ。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "da6917e90fe69c33",
@@ -25,10 +26,13 @@
       "image": "https://pausemag.co.uk/wp-content/uploads/2026/09/COMME-des-GARCONS-Homme-Plus-x-Air-Jordan-11-Campaign-2-scaled.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-04T22:10:07.054Z",
-      "summary": null,
+      "summary": "PAUSE Onlineが、2026年9月5日発売のコム デ ギャルソン オム プリュス×エア ジョーダン11(ブラック/ホワイト)を紹介。パテントレザー調の艶やかなミッドソールとタン部の「Homme Plus」ロゴが特徴で、東京・青山店での撮影ビジュアルとともに解説している。",
       "tags": [
-        "コラボ"
-      ]
+        "コラボ",
+        "新作"
+      ],
+      "cluster": "cdg-hommeplus-airjordan11",
+      "importance": 3
     },
     {
       "id": "a40e938c03638b63",
@@ -39,10 +43,13 @@
       "image": "https://data2.nssmag.com/images/galleries/49411/orizzontale-92.webp",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-04T22:10:07.054Z",
-      "summary": null,
+      "summary": "nssmag.comが、コム デ ギャルソン オム プリュスによるエア ジョーダン11の再解釈モデルを紹介。フルグレインとパテントレザーを組み合わせたアッパーやエンボス加工ロゴが特徴で、ドーバー ストリート マーケット各店やコムデギャルソン店舗などで発売されるとしている。",
       "tags": [
-        "コラボ"
-      ]
+        "コラボ",
+        "新作"
+      ],
+      "cluster": "cdg-hommeplus-airjordan11",
+      "importance": 3
     },
     {
       "id": "1d767b60f6c69b28",
@@ -53,7 +60,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-04T22:10:07.054Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
       ]
@@ -67,21 +74,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-04T22:10:06.605Z",
-      "summary": null,
-      "tags": [
-        "ショー/コレクション"
-      ]
-    },
-    {
-      "id": "ab22e2275149bfa8",
-      "title": "robe de chambre COMME des GARCONS 03aw ラップスカートパンツ 中綿スター ローブドシャンブルコムデギャルソン 2003aw AD2003 de des chambre Robe Etsy jacket - onmotor.es",
-      "url": "http://onmotor.es/?k",
-      "publishedAt": "2026-09-04T09:37:48.000Z",
-      "publisher": "onmotor.es",
-      "image": "https://onmotor.es/wp-content/uploads/2017/09/Banner-Autoclub-ONMOTOR.jpg",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-09-04T22:10:06.605Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
       ]
@@ -95,11 +88,13 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-04T22:10:07.054Z",
-      "summary": null,
+      "summary": "Athlon Sportsが、コム デ ギャルソン×エア ジョーダン11「トリプルホワイト」(型番IV7639-100)を解説。9月5日にドーバー ストリート マーケットで先行発売され、9月10日からナイキSNKRSでも販売開始。同時期に「トリプルブラック」(IV7639-001)も予定されているという。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "cluster": "cdg-hommeplus-airjordan11",
+      "importance": 3
     },
     {
       "id": "5c8ab298b0564878",
@@ -110,12 +105,13 @@
       "image": "https://s.yimg.com/lo/mysterio/api/4fcd0ae9426ae13c3de4cc889c51d6d163d9cb9264b8bdd1a182555c7ff282c5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fathlon_sports_articles_610%2F78ea1f24a46b7590ab4b51fd0b0f5598.png",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-04T22:10:07.054Z",
-      "summary": null,
+      "summary": "Yahoo Shoppingが、コム デ ギャルソン×エア ジョーダン11「トリプルホワイト」の発売情報を紹介。2026年9月5日(土)発売、ブラック&ホワイト配色で、ロンドン・銀座・LA・NY・パリなどのドーバー ストリート マーケット各店で取り扱われるとしている。",
       "tags": [
         "コラボ",
-        "新作",
-        "二次流通"
-      ]
+        "新作"
+      ],
+      "cluster": "cdg-hommeplus-airjordan11",
+      "importance": 3
     },
     {
       "id": "9c694cd72a073059",
@@ -173,11 +169,12 @@
       "image": "https://justfreshkicks.com/wp-content/uploads/2026/09/air-jordan-11.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-04T22:10:07.053Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "cluster": "cdg-hommeplus-airjordan11"
     },
     {
       "id": "8df1401ff9ee5b88",
@@ -293,18 +290,6 @@
       ],
       "cluster": "cdg-hommeplus-airjordan11",
       "importance": 2
-    },
-    {
-      "id": "d5f80c32155eee6b",
-      "title": "Haute Couture Comme Des Garcons 2019 Comme Des Garçons Fall/Winter 2018/19 PFW - Krepšinio žinios",
-      "url": "https://krepsiniozinios.lt/?u",
-      "publishedAt": "2026-09-01T18:02:22.000Z",
-      "publisher": "Krepšinio žinios",
-      "image": "https://_dc-mx.ce33bf98a3a5.krepsiniozinios.lt/images/banners/sportonamai.png",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-09-04T22:10:07.054Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "9a3a8273b5487505",
@@ -654,10 +639,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDG-0656.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-03T22:10:48.854Z",
-      "summary": null,
+      "summary": "スニダンに掲載されたコム デ ギャルソン×ザ・ビートルズ長袖Tシャツ「グレー」(品番VZ-T030-051)の商品ページ。定価は¥14,850で、現在の中古相場・買取価格の記載はない。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "8bfb2287d8a520d0",
@@ -695,13 +681,14 @@
       "url": "https://snkrdunk.com/apparels/794658/sales-histories",
       "publishedAt": "2026-08-22T04:26:32.000Z",
       "publisher": "SNKRDUNK",
-      "image": null,
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGOM-0248.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-03T22:10:48.854Z",
-      "summary": null,
+      "summary": "スニダンに掲載されたコム デ ギャルソン オムのコットンシームパッカードジャケット「ブラック」(品番CDGOM-0248)の商品ページ。定価は¥75,900で、相場・買取価格のデータは掲載されていない。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "d98bd49a729439d0",
@@ -712,10 +699,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-04T22:10:06.605Z",
-      "summary": null,
+      "summary": "スニダンに掲載されたコム デ ギャルソン×ドーバー ストリート マーケット限定パリ コットンジャージーTシャツ「ホワイト」(品番ZM-T101-102)の商品ページ。定価は¥12,650で、現在の取引相場の記載はない。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "3e242002ef8527a5",
@@ -1067,8 +1055,11 @@
       "image": "https://hermes.media.static.aol.com/media/2026/08/17/5ab114b9-a40c-3633-8c18-95620b83886d/b0bf8d1f-4b38-4386-90d2-025a5df3f663.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-04T22:10:07.054Z",
-      "summary": null,
-      "tags": []
+      "summary": "AOL.comが、リアーナが家族との外出時にコム デ ギャルソンの1984年春夏コレクションのヴィンテージドレスを着用したと報道。非対称ネックラインと大胆なカットアウトが特徴の一着で、下に着た黒のビキニがのぞく着こなしだったという。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "818e8b0d1537bdd2",
@@ -1085,18 +1076,6 @@
       ],
       "cluster": "dotcomme-kerrytaylor-auction2026",
       "importance": 2
-    },
-    {
-      "id": "3287174beefe975f",
-      "title": "Garcons Fall 1994 Comme Des Garcons 94 Femme Comme Des Garçons Fall 1994 Ready-to-Wear Fashion Show - Krepšinio žinios",
-      "url": "https://www.krepsiniozinios.lt/product/category/view_more/15108129071390",
-      "publishedAt": "2026-08-16T07:00:00.000Z",
-      "publisher": "Krepšinio žinios",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-09-04T22:10:07.054Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "ef75e885bcccc9a0",

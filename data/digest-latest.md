@@ -1,19 +1,10 @@
-# CDG Watch 日次ダイジェスト 2026-09-04
+# CDG Watch 日次ダイジェスト 2026-09-05
 
-- **COMME des GARÇONS Homme Plus × Air Jordan 11、ジョーダンブランドとの初コラボが9月5日発売** — ブラック/ホワイトの2色展開、価格は358ドル(英280ポンド/欧370ユーロ)。パテントレザーと光沢仕上げのミッドソールが特徴で、Dover Street Market各店(ロンドン/銀座/LA/NY/パリ)とオンラインストアで取り扱う。国内外の主要メディアが一斉に発売情報を報道。
-  https://www.soleretriever.com/news/articles/comme-des-garcons-homme-plus-x-air-jordan-11-retro-release-date-september-2026
+- **コム デ ギャルソン オム プリュス×エア ジョーダン11「トリプルホワイト」が9/5発売** — PAUSE Online、nssmag.com、Athlon Sports、Yahoo Shoppingなど複数媒体が報道。パテントレザー調の艶やかなミッドソールとタン部の「Homme Plus」ロゴが特徴。ドーバー ストリート マーケット各店で先行発売され、9/10からナイキSNKRSでも展開予定。
+  https://pausemag.co.uk/2026/09/comme-des-garcons-homme-plus-reworks-the-air-jordan-11/
 
-- **ステューシーがアイ ジュンヤ ワタナベ マンとコラボ、全32型を発表** — ジュンヤ・ワタナベ率いるアイ ジュンヤ ワタナベ マンとステューシーのコラボレーションが展開。
-  https://www.fashion-press.net/news/152000
+- **UOMOが「eYe ジュンヤ ワタナベ マン」の2026年秋冬コラボ8選を特集** — ステューシー第2弾Tシャツ、リーバイス赤耳復刻デニム、ザ・ノース・フェイスのボンバー/マウンテンジャケット、マムートとの初コラボモッズコートなどを紹介。
+  https://www.webuomo.jp/fashion/highbrand/0wKyqw/
 
-- **⚠古 川久保玲、AIや黒という色、若手デザイナーへのアドバイスを語るインタビュー** — 創作におけるAIへの向き合い方や、コムデギャルソンを象徴する黒という色について語った。(初出8/27)
-  (出典記事より)
-
-- **⚠古 Dazed「Comme des Garçons – The Autumn 2026 Issue」ギャラリー特集** — パオロ・ロヴェルシ撮影、イムルア・アシャのスタイリングで、川久保玲デザインのA/W26コレクションを紹介。
-  https://www.dazeddigital.com/fashion/gallery/37327/4/comme-des-garcons-the-autumn-2026-issue
-
-> 注記: 本日の新着収集は52件。要約は新しい記事から順に15件処理
-> (Hypebeast英語版・日本語版、WWD、Sneaker Newsの計4件はアクセス不可のため
-> 要約取得不可)。pappaspost.com(ギリシャ文化サイト)とkrepsiniozinios.lt
-> (リトアニアのバスケットボールニュースサイト)経由の2件は開いた結果コムデギャルソンと
-> 無関係と判明したため削除。残り約50件のバックログは翌日以降に処理を継続。
+- **⚠古 リアーナが1984年春夏コレクションのヴィンテージドレスを着用** — AOL.comが報道。家族との外出時に、非対称ネックラインと大胆なカットアウトが特徴の一着を着こなした。
+  https://www.aol.com/articles/rihanna-flaunts-curves-bikini-comme-101005000.html
