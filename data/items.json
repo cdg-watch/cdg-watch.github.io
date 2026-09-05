@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T22:09:39.016Z",
+  "updatedAt": "2026-09-05T22:14:02.507Z",
   "items": [
     {
       "id": "5a45b1161462d7fd",
@@ -10,11 +10,13 @@
       "image": "https://kicksundercost.com/images/news/69709e930daa5b2e05ff31a31df8b5589e8c8658.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-05T22:09:30.786Z",
-      "summary": null,
+      "summary": "コムデギャルソン オム プリュスとナイキのAir Jordan 11によるコラボスニーカーが2026年9月5日に発売。ブラックとホワイトの2色展開で、ドーバーストリートマーケットとコムデギャルソン各店で取り扱う。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "cluster": "airjordan11-hommeplus",
+      "importance": 3
     },
     {
       "id": "6eb9b66678e7b8cb",
@@ -25,10 +27,13 @@
       "image": "https://hubemag.com/wp-content/uploads/2026/09/COMME-des-GARCONS-Homme-Plus-Reframes-the-Air-Jordan-11_hube_02-683x1024.png",
       "feed": "HUBE",
       "fetchedAt": "2026-09-05T22:09:28.017Z",
-      "summary": null,
+      "summary": "コムデギャルソン オム プリュス×Air Jordan 11コラボの発売に合わせ、東京・青山フラッグシップ店で撮影されたキャンペーンビジュアルを紹介する記事。黒白2色でロゴを控えめにした仕様が特徴。",
       "tags": [
-        "コラボ"
-      ]
+        "コラボ",
+        "新作"
+      ],
+      "cluster": "airjordan11-hommeplus",
+      "importance": 3
     },
     {
       "id": "851f01ebdf696cfd",
@@ -39,10 +44,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-05T22:09:30.308Z",
-      "summary": null,
+      "summary": "スニダンに出品されているコムデギャルソンのフロースクエア柄ラウンドジップ財布(グリーン系、中古)の二次流通情報。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "7b2a62c91700372f",
@@ -165,10 +171,13 @@
       "image": "https://www.hotnewhiphop.com/imgprst/2292x1200-fit-81-auto/2026/09/wzdsnsdh4wxtrspquwwh-e1788483591285.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-05T22:09:30.785Z",
-      "summary": null,
+      "summary": "コムデギャルソン×Air Jordan 11コラボの公式画像が公開されたと報じる記事。過去30年ほぼ他ブランドとのコラボを許可してこなかったAir Jordan 11の初コラボである点を紹介。",
       "tags": [
-        "コラボ"
-      ]
+        "コラボ",
+        "新作"
+      ],
+      "cluster": "airjordan11-hommeplus",
+      "importance": 3
     },
     {
       "id": "9c694cd72a073059",
@@ -726,10 +735,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-05T22:09:30.308Z",
-      "summary": null,
+      "summary": "スニダンに出品されているコムデギャルソン シャツのストライプ3Dローズ柄シャツの二次流通情報。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "96a73bf3dd4ea486",
@@ -817,10 +827,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-05T22:09:30.308Z",
-      "summary": null,
+      "summary": "スニダンに出品されているコムデギャルソン オムのコットンポリエステル製ギャバジンコート(ベージュ)の二次流通情報。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "f0993ecbd116b82f",
@@ -1675,10 +1686,12 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/5fd39925-9962-4d66-a0a5-d0d933ef1b26.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-03T22:10:48.854Z",
-      "summary": null,
+      "summary": "スニダンに出品されているコムデギャルソン大阪店とマウリッツハイス美術館などとのコラボTシャツ(『真珠の耳飾りの少女』プリント、ブラック)の二次流通情報。",
       "tags": [
-        "二次流通"
-      ]
+        "二次流通",
+        "コラボ"
+      ],
+      "importance": 1
     },
     {
       "id": "a534783a0d8fd328",
@@ -2777,10 +2790,11 @@
       "image": "https://numero.com/wp-content/uploads/2024/06/push-cover_comme-des-parfums-olfactory-library_0-1.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-05T22:09:30.787Z",
-      "summary": null,
+      "summary": "コムデギャルソンが過去の代表的な香水10種を「Olfactory Library」としてまとめ、復刻発売すると報じる記事。",
       "tags": [
-        "ショー/コレクション"
-      ]
+        "再販/セール"
+      ],
+      "importance": 2
     },
     {
       "id": "aaf7296567226192",
@@ -4461,11 +4475,14 @@
       "url": "https://www.anothermag.com/fashion-beauty/gallery/14736/comme-des-garcons-homme-plus-spring-summer-2027/21",
       "publishedAt": "2026-07-01T07:01:05.000Z",
       "publisher": "anothermag.com",
-      "image": null,
+      "image": "https://images-prod.anothermag.com/1200/0-23-2000-1333/azure/another-prod/470/5/475013.jpeg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-03T22:10:49.353Z",
-      "summary": null,
-      "tags": []
+      "summary": "AnOther Magazineがコムデギャルソン オム プリュス2027年春夏コレクションのランウェイ写真ギャラリーを掲載。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 2
     },
     {
       "id": "360c400df27aac61",
@@ -4706,11 +4723,14 @@
       "url": "https://www.dazeddigital.com/fashion/gallery/37182/0/comme-des-garcons-homme-plus-ss27",
       "publishedAt": "2026-06-27T17:23:58.000Z",
       "publisher": "Dazed",
-      "image": null,
+      "image": "https://images-prod.dazeddigital.com/1200/azure/dazed-prod/1440/8/1448328.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-03T22:10:49.353Z",
-      "summary": null,
-      "tags": []
+      "summary": "Dazedがコムデギャルソン オム プリュス2027年春夏コレクションのランウェイ写真ギャラリーを掲載(撮影: Jora Zaria)。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 2
     },
     {
       "id": "01c930884945af68",
@@ -5451,10 +5471,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-05T22:09:30.308Z",
-      "summary": null,
+      "summary": "スニダンに出品されているコムデギャルソンの「live free with strong will」プリントTシャツ(ブラック)の二次流通情報。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "107fb19367cca715",
@@ -6632,10 +6653,11 @@
       "image": "https://wwd.com/wp-content/uploads/2026/03/comme-des-garcons-nike-air-max-dolce-black-1q5171-002-007.jpg?w=1000&h=563&crop=1",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-03T22:10:49.353Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "d7d7bdaaa3bbdde4",
@@ -6828,10 +6850,11 @@
       "image": "https://hubemag.com/wp-content/uploads/2026/03/DIA-COMPOSITION-1024x796.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-03T22:10:49.353Z",
-      "summary": null,
+      "summary": "コムデギャルソン パルファムがDia Art Foundation、アーティストのMeg Websterと共同で香水を開発し、2026年3月19日に発売すると報じる記事。土や塩など自然素材をテーマにした彫刻的なボトル・パッケージが特徴で、コムデギャルソン店舗とドーバーストリートマーケットで先行販売。",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "6fb48ebe9951abf5",
@@ -7257,11 +7280,14 @@
       "url": "https://www.anothermag.com/fashion-beauty/16981/robin-galiegue-robbie-spencer-collections-spring-summer-2026",
       "publishedAt": "2026-03-01T08:00:00.000Z",
       "publisher": "anothermag.com",
-      "image": null,
+      "image": "https://images-prod.anothermag.com/1200/0-473-2197-1464/azure/another-prod/470/0/470100.jpeg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-03T22:10:49.354Z",
-      "summary": null,
-      "tags": []
+      "summary": "AnOther Magazine創刊50周年記念号の表紙撮影で、モデルのロリ・バイーアがコムデギャルソンのジュート素材ドレスなどを着用したと紹介する記事。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "a3e04d42730dbafd",
@@ -7364,8 +7390,9 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-03T22:10:49.354Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [],
+      "importance": 1
     },
     {
       "id": "6656343579e56250",

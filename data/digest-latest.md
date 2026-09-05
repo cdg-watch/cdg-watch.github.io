@@ -1,10 +1,16 @@
-# CDG Watch 日次ダイジェスト 2026-09-05
+# CDG Watch 日次ダイジェスト 2026-09-06
 
-- **コム デ ギャルソン オム プリュス×エア ジョーダン11「トリプルホワイト」が9/5発売** — PAUSE Online、nssmag.com、Athlon Sports、Yahoo Shoppingなど複数媒体が報道。パテントレザー調の艶やかなミッドソールとタン部の「Homme Plus」ロゴが特徴。ドーバー ストリート マーケット各店で先行発売され、9/10からナイキSNKRSでも展開予定。
-  https://pausemag.co.uk/2026/09/comme-des-garcons-homme-plus-reworks-the-air-jordan-11/
+- **コム デ ギャルソン オム プリュス×Air Jordan 11コラボが9/5発売** — KicksUnderCostなど複数媒体が報道。ブラック/ホワイトの2色展開で、ドーバーストリートマーケットとコムデギャルソン各店で取り扱う。青山フラッグシップ店で撮影されたキャンペーンビジュアルも公開。
+  https://kicksundercost.com/news/comme-des-garcons-homme-plus-air-jordan-11-september-2026
 
-- **UOMOが「eYe ジュンヤ ワタナベ マン」の2026年秋冬コラボ8選を特集** — ステューシー第2弾Tシャツ、リーバイス赤耳復刻デニム、ザ・ノース・フェイスのボンバー/マウンテンジャケット、マムートとの初コラボモッズコートなどを紹介。
-  https://www.webuomo.jp/fashion/highbrand/0wKyqw/
+- **同コラボの公式画像が公開、Air Jordan 11初のブランドコラボと話題に** — HotNewHipHopが報道。$358で発売、過去30年ほぼ他ブランドとのコラボを許可してこなかったモデルでの起用。
+  https://www.hotnewhiphop.com/1008476-comme-des-garcons-x-air-jordan-11-sneaker-news-4
 
-- **⚠古 リアーナが1984年春夏コレクションのヴィンテージドレスを着用** — AOL.comが報道。家族との外出時に、非対称ネックラインと大胆なカットアウトが特徴の一着を着こなした。
-  https://www.aol.com/articles/rihanna-flaunts-curves-bikini-comme-101005000.html
+- **⚠古 コムデギャルソン パルファムがDia Art FoundationとMeg Websterによるコラボ香水を発表** — Hube magazineが報道。土や塩など自然素材をテーマにした彫刻的なボトルデザインで、3/19に先行発売。
+  https://hubemag.com/meg-webster-joins-comme-des-garcons-parfums-and-dia-art-foundation-for-a-conceptual-fragrance-collaboration
+
+- **⚠古 コムデギャルソンの代表香水10種を「Olfactory Library」として復刻** — numero.comが報道。
+  https://numero.com/en/beauty/perfume/reedition-comme-des-garcons-perfume-collection-olfactory-library/
+
+- **⚠古 コムデギャルソン オム プリュス2027年春夏コレクションのランウェイギャラリーをAnOther・Dazedが掲載**
+  https://www.anothermag.com/fashion-beauty/gallery/14736/comme-des-garcons-homme-plus-spring-summer-2027/21
