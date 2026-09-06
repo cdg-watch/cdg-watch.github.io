@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T22:10:22.685Z",
+  "updatedAt": "2026-09-06T22:15:44.311Z",
   "items": [
     {
       "id": "bf2a04858b4011d1",
@@ -10,10 +10,11 @@
       "image": "https://cdn.snkrdunk.com/used_listing/114527/c3199d35-8683-4854-bebe-d1c4433fb30c.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-06T22:10:10.322Z",
-      "summary": null,
+      "summary": "コムデギャルソンとVansのOTWバイバンズによるコラボモデル「オーセンティック ホワイト」の中古品が、26cm・C状態(¥15,500)でスニダンに出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "5a45b1161462d7fd",
@@ -73,7 +74,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-06T22:10:10.832Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -163,10 +164,11 @@
       "image": "https://news.walkerplus.com/article/1154044/12115877_615.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-06T22:10:10.322Z",
-      "summary": null,
+      "summary": "「コムデギャルソン 二つ折り財布 ミラーインサイド SA2100MI(並行輸入品)」がAmazonで21%OFFの21,780円になっていることを紹介するセール特集記事。",
       "tags": [
         "再販/セール"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "a091a0d066ac252d",
@@ -228,11 +230,13 @@
       "image": "https://kicksundercost.com/images/news/7c302e522afc97da5ecfe4f0e527b601c91bcfd2.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-06T22:10:10.832Z",
-      "summary": null,
+      "summary": "コムデギャルソンとエア ジョーダン11のコラボスニーカーが2026年9月5日に発売。フルブラックとオールホワイトの2色展開で1足358ドル、ドーバーストリートマーケット各店とコムデギャルソン直営店、公式ECで取り扱われる。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "cluster": "airjordan11-hommeplus",
+      "importance": 3
     },
     {
       "id": "9c694cd72a073059",
@@ -433,7 +437,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-06T22:10:10.322Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -697,10 +701,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20250318080227-0.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-06T22:10:10.322Z",
-      "summary": null,
+      "summary": "コムデギャルソン オムの「コットンポリエステル ウェザーパンツ ブラック」(定価38,500円、品番HO-P021-051)がスニダンに出品待ちとして掲載されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "16d529817df6e2bb",
@@ -7511,11 +7516,14 @@
       "url": "https://10magazine.com/perfumer-christian-astuguevieille-has-died/",
       "publishedAt": "2026-02-17T08:00:00.000Z",
       "publisher": "10 Magazine",
-      "image": null,
+      "image": "https://10magazine.com/wp-content/uploads/2026/02/TW74_Read_10_Noses_07.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-03T22:10:49.353Z",
-      "summary": null,
-      "tags": []
+      "summary": "1993年にレイ・カワクボとコムデギャルソン・パルファムを共同設立し、長年ブランドの香りを手がけてきた調香師クリスチャン・アスチュグエヴィエイユ氏の訃報を伝える記事。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 2
     },
     {
       "id": "48146cb671ee218b",
@@ -7526,7 +7534,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-03T22:10:49.354Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -7779,10 +7787,12 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-03T22:10:48.854Z",
-      "summary": null,
+      "summary": "ザ・ノース・フェイスとコムデギャルソン(CDG)のコラボ第3弾が2026年2月6日にゴールドウインオンラインストアで発売。両ブランドのロゴを鏡合わせに配置したブラック×ホワイトのアパレル・小物全8型で、トートバッグは27,500円。",
       "tags": [
-        "二次流通"
-      ]
+        "コラボ",
+        "新作"
+      ],
+      "importance": 2
     },
     {
       "id": "f54b42ecfce3f746",
@@ -7881,10 +7891,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20260203080735-1.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-03T22:10:48.854Z",
-      "summary": null,
+      "summary": "コムデギャルソン オムとニューバランス1890Aのコラボに関するリーク情報を伝える記事。ブラックとウィートの2色展開とされるが、発売日や価格など詳細は未定。",
       "tags": [
-        "二次流通"
-      ]
+        "コラボ"
+      ],
+      "importance": 2
     },
     {
       "id": "c60ce8bc743df541",
@@ -8081,10 +8092,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-03T22:10:49.353Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "cluster": "nike-ld1000-spiritpink"
     },
     {
       "id": "c6bfe2d24de107e2",
@@ -8095,10 +8107,12 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-03T22:10:49.353Z",
-      "summary": null,
+      "summary": "コムデギャルソンとナイキのコラボスニーカー「LD-1000 スピリットピンク」を紹介する記事。黒メッシュアッパーにピンクのスウォッシュとミッドソールを合わせたデザインで、小売価格は100ドル、発売時期の詳細は未定。",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "cluster": "nike-ld1000-spiritpink",
+      "importance": 2
     },
     {
       "id": "0bdc6b5fbd405f1a",
@@ -8189,10 +8203,13 @@
       "image": "https://cdn.sanity.io/images/c1chvb1i/production/070729991e3815c37ee4b6a23e26cc6b0f7419a6-1980x1320.png",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-03T22:10:49.353Z",
-      "summary": null,
+      "summary": "コムデギャルソンとエア ジョーダン11のコラボスニーカーが2026年9月5日に発売されることを伝える記事。フルブラックとオールホワイトの2色展開で、上質なレザーアッパーとパテントレザーのマッドガードが特徴。",
       "tags": [
-        "コラボ"
-      ]
+        "コラボ",
+        "新作"
+      ],
+      "cluster": "airjordan11-hommeplus",
+      "importance": 3
     },
     {
       "id": "adbb8c3a1da8c2ab",
@@ -8274,12 +8291,13 @@
       "image": "https://www.fullress.com/wp-content/uploads/2026/01/1wfrasd4f5dsds-10.jpg",
       "feed": "Fullress",
       "fetchedAt": "2026-09-03T22:10:39.277Z",
-      "summary": null,
+      "summary": "コム デ ギャルソン・オム プリュス×ナイキ エア ジョーダン11(品番IV7639-001/IV7639-100)が2026年9月5日に国内発売。ホワイト/ブラックのアッパーにかかとのエンボス加工が特徴で、価格は今後発表予定。",
       "tags": [
         "コラボ",
-        "ショー/コレクション",
         "新作"
-      ]
+      ],
+      "cluster": "airjordan11-hommeplus",
+      "importance": 3
     },
     {
       "id": "3a28408de5676318",
@@ -8932,10 +8950,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20190912104234-12.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-02T22:11:19.064Z",
-      "summary": null,
+      "summary": "コムデギャルソンとNGV(ナショナル・ギャラリー・オブ・ヴィクトリア)のコラボマグ「シルバー」(管理番号CDG-0777)がスニダンに出品待ちとして掲載されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "c19a9abb091136f5",
