@@ -1,16 +1,16 @@
-# CDG Watch 日次ダイジェスト 2026-09-07
+# CDG Watch 日次ダイジェスト 2026-09-08
 
-- **コムデギャルソン×エア ジョーダン11コラボが9/5発売** — KicksUnderCostが報道。フルブラック/オールホワイトの2色展開、1足358ドルでドーバーストリートマーケット各店・コムデギャルソン直営店・公式ECにて取り扱い。
-  https://kicksundercost.com/news/comme-des-garcons-air-jordan-11-september-release
+- **⚠古 COMME des GARCONS SHIRT × ASICS「GEL-1130」が発売** — Fullressが報道。シュータン・ヒール・インソールにロゴを配した黒モデルで、9月4日に58,300円で発売。digital-mountainやASICS公式など複数店舗で取り扱い。
+  https://www.fullress.com/comme-des-garcons-shirt-asics-gel-1130-2026-fw-fr-k101-001/
 
-- **コムデギャルソンの二つ折り財布がAmazonセールで21%OFF** — ウォーカープラスが紹介。「ミラーインサイド SA2100MI(並行輸入品)」が21,780円に。
-  https://www.walkerplus.com/article/1154044/image12115836.html
+- **⚠古 COMME des GARÇONS HOMME × New Balance「509」がDover Street Marketで発売** — Sole Retrieverが報道。2025年1月のパリコレでの発表から約10ヶ月を経て、ホワイト/グレー2色を各235ドルでユニセックス展開。
+  https://www.soleretriever.com/news/articles/comme-des-garcons-homme-new-balance-509-collection-release-date-october-2025
 
-- **⚠古 ザ・ノース・フェイス×コムデギャルソン(CDG)コラボ第3弾** — SNKRDUNKが報道。両ブランドのロゴを鏡合わせに配置したブラック×ホワイトのアパレル・小物全8型、トートバッグは27,500円。
-  https://snkrdunk.com/articles/31369/
+- **⚠古 Repetto × COMME des GARÇONS COMME des GARÇONSが20年ぶり再コラボ** — PR TIMESが報道。ポルカドット柄の限定カプセルをRepetto日本公式オンラインストアで数量限定発売(バレリーナ116,600円、メリージェーン129,800円)。
+  https://prtimes.jp/main/html/rd/p/000000792.000095084.html
 
-- **⚠古 コムデギャルソン×ナイキ「LD-1000 スピリットピンク」コラボ** — House of Heat°が報道。黒メッシュアッパーにピンクのスウォッシュとミッドソール、小売価格100ドル。
-  https://houseofheat.co/nike/comme-des-garcons-nike-ld-1000-black-spirit-pink-iu7936-001
+- **⚠古 COMME des GARÇONS × Onitsuka Tiger「Mexico 66」コラボ** — Highsnobietyが報道。黄色い装飾を加えたコラボモデルを日本国内店舗で先行発売後、パリ・ニューヨーク店にも展開。
+  https://www.highsnobiety.com/p/comme-des-garcons-onitsuka-tiger/
 
-- **⚠古 調香師クリスチャン・アスチュグエヴィエイユ氏の訃報** — 10 Magazineが報道。1993年にレイ・カワクボとコムデギャルソン・パルファムを共同設立し、長年ブランドの香りを手がけてきた人物。
-  https://10magazine.com/perfumer-christian-astuguevieille-has-died/
+- **⚠古 Dover Street Market Parisにレイ・カワクボ企画「Georgia O'Keeffe」インスタレーション** — FAD Magazineが報道。中庭の柱に画家Georgia O'Keeffeのアーカイブ写真と代表作を白黒でラッピング、カワクボによるDSMP中庭展示の第4弾。
+  https://fadmagazine.com/2025/09/30/dover-street-market-paris-launches-new-courtyard-installation-georgia-okeeffe-by-comme-des-garcons/

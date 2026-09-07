@@ -1,18 +1,6 @@
 {
-  "updatedAt": "2026-09-07T22:11:26.729Z",
+  "updatedAt": "2026-09-07T22:15:03.193Z",
   "items": [
-    {
-      "id": "339b7f54f0d05980",
-      "title": "”Menswear Needs to Be Very Precise”: Why This Swiss Store Defines Good Taste",
-      "url": "https://www.highsnobiety.com/p/opia-store-interview/",
-      "publishedAt": "2026-09-07T15:04:38.000Z",
-      "publisher": null,
-      "image": "https://www.highsnobiety.com/static-assets/dato/1788770699-image00012.jpg",
-      "feed": "Highsnobiety",
-      "fetchedAt": "2026-09-07T22:11:11.394Z",
-      "summary": null,
-      "tags": []
-    },
     {
       "id": "6540c9b59bff613e",
       "title": "des Junya Comme Mediamatic Fashion 画像43枚 COMME des GARCONS JUNYA WATANABE コムデギャルソン ストライプ コットンパンツ S - pappaspost.com",
@@ -22,8 +10,9 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-07T22:11:17.596Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [],
+      "importance": 1
     },
     {
       "id": "0609ad41e4e31563",
@@ -34,10 +23,12 @@
       "image": "https://snkrdunk.s3.ap-northeast-1.amazonaws.com/en/magazine/wp-content/uploads/2026/09/06104313/43bda1f2-8d85-4cdc-a5f9-c6d76cfa9262.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-07T22:11:17.955Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
-        "二次流通"
-      ]
+        "コラボ",
+        "新作"
+      ],
+      "importance": 2
     },
     {
       "id": "bf2a04858b4011d1",
@@ -2201,10 +2192,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGSH-0213.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-07T22:11:17.597Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "a7ead4f019134826",
@@ -8343,12 +8335,12 @@
       "image": "https://www.fullress.com/wp-content/uploads/2026/01/1sfdsgf4sd5gds54-1.webp",
       "feed": "Fullress",
       "fetchedAt": "2026-09-07T22:11:08.804Z",
-      "summary": null,
+      "summary": "COMME des GARCONS SHIRTとASICSのコラボ「GEL-1130」が2026年9月4日に発売。シュータンやヒール、インソールにロゴを配した黒モデルで、価格は58,300円。digital-mountainやASICS公式など複数店舗で取り扱われた。",
       "tags": [
         "コラボ",
-        "ショー/コレクション",
         "新作"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "0dbd2a9779340a0b",
@@ -9231,8 +9223,12 @@
       "image": "https://www.highsnobiety.com/static-assets/dato/1764347387-onitsuka-tiger.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-02T22:11:19.587Z",
-      "summary": null,
-      "tags": []
+      "summary": "COMME des GARÇONSがOnitsuka Tigerの定番「Mexico 66」をベースに黄色い装飾などを加えたコラボモデルを展開。12月1日に日本国内のCOMME des GARÇONS店舗で先行発売し、12月5日以降パリ・ニューヨーク店にも展開した。",
+      "tags": [
+        "コラボ",
+        "新作"
+      ],
+      "importance": 2
     },
     {
       "id": "8ed5437766928aef",
@@ -9618,10 +9614,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20250408073714-0.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-03T22:10:48.854Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "4faa21f64d1e534f",
@@ -9648,8 +9645,11 @@
       "image": "https://img-spur.hpplus.jp/image/d4/d470bbab-e04c-4852-884c-f23192420bfb-1200x630.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-03T22:10:48.854Z",
-      "summary": null,
-      "tags": []
+      "summary": "コム デ ギャルソンの「HANDLES」シリーズから、まるでミニバッグのようなハンドル付き二つ折り財布「二つ折り ZIP」を紹介。赤を基調に、カードスロット4箇所と紙幣・コイン入れを備えたラウンドジップ仕様。",
+      "tags": [
+        "新作"
+      ],
+      "importance": 1
     },
     {
       "id": "f242d6f44dfdad30",
@@ -9690,11 +9690,12 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-02T22:11:19.064Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "f60d50352a65faff",
@@ -9808,26 +9809,12 @@
       "image": "https://wnqjelklwcclokznfoyh.supabase.co/storage/v1/object/public/general/jordan_blog.jpeg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-02T22:11:19.587Z",
-      "summary": null,
+      "summary": "COMME des GARÇONS HOMMEとNew Balanceのコラボ「509」が、2025年1月のパリ・ファッションウィークでの発表から約10ヶ月を経て、2025年10月22日にDover Street Marketで発売。ホワイトとグレーの2色展開で価格は各235ドル、ユニセックスサイジング。",
       "tags": [
         "コラボ",
         "新作"
-      ]
-    },
-    {
-      "id": "d59a1d97ba9330da",
-      "title": "Comme des Garçons Just Dropped Its Latest New Balance Collaboration - Sneaker News",
-      "url": "https://sneakernews.com/2025/10/22/comme-des-garcons-homme-new-balance-509/",
-      "publishedAt": "2025-10-22T07:00:00.000Z",
-      "publisher": "Sneaker News",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-09-02T22:11:19.587Z",
-      "summary": null,
-      "tags": [
-        "コラボ",
-        "新作"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "e90ea2258db11fc9",
@@ -10132,11 +10119,12 @@
       "image": "https://prcdn.freetls.fastly.net/release_image/95084/792/95084-792-a33d5c44b900d8645c9983c8fe02e7bd-2000x2500.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-03T22:10:48.854Z",
-      "summary": null,
+      "summary": "フランスのシューズブランドRepettoと「COMME des GARÇONS COMME des GARÇONS」が初コラボから20年ぶりに再タッグ。ポルカドット柄の限定カプセルコレクションを2025年10月10日10時よりRepetto日本公式オンラインストアで数量限定発売した(バレリーナ116,600円、メリージェーン129,800円)。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "fb1dd127ad585565",
@@ -10144,13 +10132,15 @@
       "url": "https://snkrdunk.com/articles/26945/",
       "publishedAt": "2025-10-01T07:00:00.000Z",
       "publisher": "SNKRDUNK",
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/20250730031413-0.webp\",\"imageUrls\":{\"l\":\"https://cdn.snkrdunk.com/upload_bg_removed/20250730031413-0.webp?size=l\",\"m\":\"https://cdn.snkrdunk.com/upload_bg_removed/20250730031413-0.webp?size=m\",\"s\":\"https://cdn.snkrdunk.com/upload_bg_removed/20250730031413-0.webp",
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/20250730031413-0.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-02T22:11:19.064Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
-        "二次流通"
-      ]
+        "コラボ",
+        "新作"
+      ],
+      "importance": 2
     },
     {
       "id": "969c47b51b0ceb22",
@@ -10173,13 +10163,14 @@
       "url": "https://fadmagazine.com/2025/09/30/dover-street-market-paris-launches-new-courtyard-installation-georgia-okeeffe-by-comme-des-garcons/",
       "publishedAt": "2025-09-30T07:00:00.000Z",
       "publisher": "FAD Magazine",
-      "image": null,
+      "image": "https://fadmagazine.com/wp-content/uploads/DSMP-Georgia-OKeeffe-Installation_September-2025-24-1200x900.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-03T22:10:49.354Z",
-      "summary": null,
+      "summary": "レイ・カワクボがキュレーションした「Georgia O’Keeffe by Comme des Garçons」が、Dover Street Market Parisの中庭の柱をラッピングする展示として登場。O’Keeffe美術館アーカイブの写真と代表作の描写を白黒で重ねた、カワクボによるDSMP中庭インスタレーション第4弾。",
       "tags": [
-        "新作"
-      ]
+        "店舗"
+      ],
+      "importance": 2
     },
     {
       "id": "51ce830dfbd28c0a",
@@ -10220,10 +10211,12 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-03T22:10:49.354Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
-        "新作"
-      ]
+        "新作",
+        "コラボ"
+      ],
+      "importance": 2
     },
     {
       "id": "b91cddcd229ddbfa",
