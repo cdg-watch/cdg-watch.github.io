@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T22:10:53.369Z",
+  "updatedAt": "2026-09-08T22:14:22.048Z",
   "items": [
     {
       "id": "1083d6fd0b6087b8",
@@ -10,12 +10,13 @@
       "image": "https://s.yimg.com/lo/mysterio/api/5501031819e6e148c914c768672bfc200e6674dc4aa01d327048e6c7c0337768/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F6eb971a352d145bb5538af70ff3d0bb0.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-08T22:10:43.857Z",
-      "summary": null,
+      "summary": "COMME des GARÇONS Homme PlusとAir Jordan 11の初コラボが2026年9月5日発売。オールブラック/オールホワイトの2色展開で、レザーアッパーとパテントレザーのミッドソールが特徴。価格は358ドル、Dover Street Marketとコムデギャルソン直営店で販売。",
       "tags": [
         "コラボ",
-        "新作",
-        "二次流通"
-      ]
+        "新作"
+      ],
+      "cluster": "cdg-air-jordan-11-homme-plus-2026",
+      "importance": 3
     },
     {
       "id": "f287e715a16cc55a",
@@ -26,10 +27,13 @@
       "image": "https://stupiddope.com/wp-content/uploads/2026/09/COMME-des-GARCONS-Homme-00003.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-08T22:10:43.857Z",
-      "summary": null,
+      "summary": "COMME des GARÇONS Homme Plus × Air Jordan 11の詳細レビュー記事。フルグレインレザーのアッパーと光沢ミッドソールで高級感を出しつつ、ブラック/ホワイトの単色展開とデボス加工の控えめなロゴで、既存デザインを活かす「引き算」のアプローチを取ったと分析。2026年9月5日発売、358ドル。",
       "tags": [
-        "コラボ"
-      ]
+        "コラボ",
+        "新作"
+      ],
+      "cluster": "cdg-air-jordan-11-homme-plus-2026",
+      "importance": 2
     },
     {
       "id": "0a968ff3f5d03570",
@@ -40,8 +44,12 @@
       "image": "https://www.highsnobiety.com/static-assets/dato/1788770699-image00012.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-08T22:10:43.858Z",
-      "summary": null,
-      "tags": []
+      "summary": "チューリッヒの高級メンズブティックOpia創業者クラウディア・デサックス氏のインタビュー。2012年頃、当初はショールームに招待すらされなかったコムデギャルソンの買い付けに粘り強く挑戦し、最終的に取引にこぎ着けたエピソードを語っている。",
+      "tags": [
+        "インタビュー",
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "6540c9b59bff613e",
@@ -5962,10 +5970,12 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGSH-0127.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-08T22:10:43.391Z",
-      "summary": null,
+      "summary": "COMME des GARCONS SHIRT × BE@RBRICKの半袖シャツ(ホワイト、品番FOB038S251)のSNKRDUNK出品ページ。真贋鑑定済みの中古/新品として取引される二次流通の商品情報。",
       "tags": [
+        "コラボ",
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "1c883619a4d85606",
@@ -6140,10 +6150,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGOM-0306-1.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-08T22:10:43.392Z",
-      "summary": null,
+      "summary": "COMME des GARCONS HOMMEのリネンストライプジャケット「Estel」(ネイビー、品番HQ-J027-051)のSNKRDUNK出品ページ。定価99,000円、サイズSのみで出品待ち状態の二次流通の商品情報。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "b7e1f9950c644e43",
@@ -10357,13 +10368,16 @@
       "url": "https://highxtar.com/en/bape-and-comme-des-garcons-join-forces-in-an-exclusive-collaboration-in-osaka/",
       "publishedAt": "2025-09-22T07:00:00.000Z",
       "publisher": "HIGHXTAR.",
-      "image": null,
+      "image": "https://highxtar.com/wp-content/uploads/2025/09/Thumb-BAPE-COMME-des-GARCONS-Osaka-1200x675.png",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-03T22:10:49.354Z",
-      "summary": null,
+      "summary": "BAPEとコムデギャルソンが大阪でコラボレーションを展開。BAPE STORE® COMME des GARCONS OSAKAで独占販売され、迷彩フーディーやバーシティジャケットなど黒白基調のアイテムに両ブランドの共同ロゴを配した限定コレクション。",
       "tags": [
-        "コラボ"
-      ]
+        "コラボ",
+        "店舗"
+      ],
+      "cluster": "bape-cdg-osaka-5th",
+      "importance": 2
     },
     {
       "id": "558812c8ec78da35",
@@ -10391,10 +10405,14 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/BAPE-25-1236.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-02T22:11:19.064Z",
-      "summary": null,
+      "summary": "BAPE STORE® COMME des GARCONS OSAKAの5周年記念コラボ第2弾が2025年9月20日発売。裏返すと内側の「CdG CAMO」柄が現れるインサイドアウトTシャツ(17,600円)や5周年ワッペン付きバーシティジャケットなど全9型。9月18〜19日にWEB入店抽選を実施。",
       "tags": [
-        "二次流通"
-      ]
+        "コラボ",
+        "店舗",
+        "新作"
+      ],
+      "cluster": "bape-cdg-osaka-5th",
+      "importance": 2
     },
     {
       "id": "c2daa38e990dfb53",
@@ -10405,10 +10423,14 @@
       "image": "https://prcdn.freetls.fastly.net/release_image/8762/678/8762-678-3ae6acfa8ed5ad6e7c12ca75a1bc21e5-1000x667.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-03T22:10:48.854Z",
-      "summary": null,
+      "summary": "BAPE STORE® COMME des GARCONS OSAKAの5周年記念コラボレーションの公式プレスリリース。2025年9月20日発売、全9アイテムで価格は14,300円〜121,000円。目玉は裏返し仕様の「INSIDE OUT CAMO TEE」とレッド裏地のバーシティジャケット(121,000円)。入店は9月18〜19日の事前抽選制。",
       "tags": [
-        "コラボ"
-      ]
+        "コラボ",
+        "店舗",
+        "新作"
+      ],
+      "cluster": "bape-cdg-osaka-5th",
+      "importance": 3
     },
     {
       "id": "059aa9f98ee50438",
@@ -10521,8 +10543,12 @@
       "image": "https://senken.co.jp/production/uploads/file_content/file/377029/facebook_760570__18_.png",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-03T22:10:48.854Z",
-      "summary": null,
-      "tags": []
+      "summary": "仏の競売会社ピアザが10月1日、パリ・ファッションウィーク期間中に川久保玲のビンテージ作品約500点(1969〜99年、成田博昭氏が約10年かけ収集)をオークションにかける。「パイレーツ」「メタモルフォーゼ」など代表作を含み、推定価格は150〜3000ユーロ。9月26〜30日にパリ8区の同社会場で事前公開。",
+      "tags": [
+        "二次流通",
+        "その他"
+      ],
+      "importance": 2
     },
     {
       "id": "384fc983cb54fca0",
@@ -10545,7 +10571,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-03T22:10:48.854Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "新作",
         "インタビュー"
@@ -10622,12 +10648,12 @@
       "url": "https://www.vogue.co.jp/article/reviews-of-all-comme-des-garcons-fragrances",
       "publishedAt": "2025-05-30T07:00:00.000Z",
       "publisher": "Vogue Japan",
-      "image": null,
+      "image": "https://media.vogue.co.jp/photos/67e8c22476f74e03c43dd2e0/16:9/w_1280,c_limit/1017_0157_ret.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-03T22:10:48.854Z",
-      "summary": null,
+      "summary": "コムデギャルソンの香水事業30周年を機に、1994年の初作「コムデギャルソン オードパルファム」から2024年発売の30周年記念作「ODEUR 10」まで、全44本のフレグランスを香調・価格とともにレビューする特集記事。香りのクリエイティブディレクターは一貫してクリスチャン・アストゥグヴィエイユが担当。",
       "tags": [
-        "新作"
+        "その他"
       ]
     },
     {
@@ -10782,7 +10808,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-03T22:10:48.854Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -10794,7 +10820,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-03T22:10:48.854Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "新作"
       ]
@@ -10919,7 +10945,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-03T22:10:48.854Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "店舗"
       ]
@@ -11038,7 +11064,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-02T22:11:19.064Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "インタビュー"
       ]

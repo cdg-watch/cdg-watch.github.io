@@ -1,16 +1,13 @@
-# CDG Watch 日次ダイジェスト 2026-09-08
+# CDG Watch 日次ダイジェスト 2026-09-09
 
-- **⚠古 COMME des GARCONS SHIRT × ASICS「GEL-1130」が発売** — Fullressが報道。シュータン・ヒール・インソールにロゴを配した黒モデルで、9月4日に58,300円で発売。digital-mountainやASICS公式など複数店舗で取り扱い。
-  https://www.fullress.com/comme-des-garcons-shirt-asics-gel-1130-2026-fw-fr-k101-001/
+- **COMME des GARÇONS Homme Plus × Air Jordan 11 が初コラボ、9/5発売** — Yahoo Shoppingとstupiddopeが報道。オールブラック/オールホワイトの2色展開、レザーアッパーとパテントレザーのミッドソールが特徴。価格358ドル、Dover Street Marketとコムデギャルソン直営店で販売。
+  https://shopping.yahoo.com/style/shoes/articles/comme-des-garcons-x-air-170221242.html
 
-- **⚠古 COMME des GARÇONS HOMME × New Balance「509」がDover Street Marketで発売** — Sole Retrieverが報道。2025年1月のパリコレでの発表から約10ヶ月を経て、ホワイト/グレー2色を各235ドルでユニセックス展開。
-  https://www.soleretriever.com/news/articles/comme-des-garcons-homme-new-balance-509-collection-release-date-october-2025
+- **⚠古 BAPE × コムデギャルソン大阪店、5周年記念コラボ第2弾** — PR TIMESが報道。裏返すと「CdG CAMO」柄が現れる仕掛けのTシャツやレッド裏地のバーシティジャケット(121,000円)など全9型。2025年9月20日発売、事前抽選制。
+  https://prtimes.jp/main/html/rd/p/000000678.000008762.html
 
-- **⚠古 Repetto × COMME des GARÇONS COMME des GARÇONSが20年ぶり再コラボ** — PR TIMESが報道。ポルカドット柄の限定カプセルをRepetto日本公式オンラインストアで数量限定発売(バレリーナ116,600円、メリージェーン129,800円)。
-  https://prtimes.jp/main/html/rd/p/000000792.000095084.html
+- **⚠古 コムデギャルソンのビンテージ約500点、パリでオークションへ** — 繊研新聞が報道。仏競売会社ピアザが10月1日開催、成田博昭氏収集の1969〜99年の archive(「パイレーツ」「メタモルフォーゼ」等)を出品。推定価格150〜3000ユーロ、9/26〜30に事前公開。
+  https://senken.co.jp/posts/comme-des-garcons-250731
 
-- **⚠古 COMME des GARÇONS × Onitsuka Tiger「Mexico 66」コラボ** — Highsnobietyが報道。黄色い装飾を加えたコラボモデルを日本国内店舗で先行発売後、パリ・ニューヨーク店にも展開。
-  https://www.highsnobiety.com/p/comme-des-garcons-onitsuka-tiger/
-
-- **⚠古 Dover Street Market Parisにレイ・カワクボ企画「Georgia O'Keeffe」インスタレーション** — FAD Magazineが報道。中庭の柱に画家Georgia O'Keeffeのアーカイブ写真と代表作を白黒でラッピング、カワクボによるDSMP中庭展示の第4弾。
-  https://fadmagazine.com/2025/09/30/dover-street-market-paris-launches-new-courtyard-installation-georgia-okeeffe-by-comme-des-garcons/
+- **チューリッヒの高級ブティックOpia創業者、コムデギャルソン買い付けの粘り勝ちエピソード** — Highsnobietyが報道。2012年頃、当初はショールームにすら招待されなかった中、粘り強く交渉して取引にこぎ着けた経緯を語る。
+  https://www.highsnobiety.com/p/opia-store-interview/
