@@ -1,13 +1,15 @@
-# CDG Watch 日次ダイジェスト 2026-09-09
+# CDG Watch 日次ダイジェスト 2026-09-10
 
-- **COMME des GARÇONS Homme Plus × Air Jordan 11 が初コラボ、9/5発売** — Yahoo Shoppingとstupiddopeが報道。オールブラック/オールホワイトの2色展開、レザーアッパーとパテントレザーのミッドソールが特徴。価格358ドル、Dover Street Marketとコムデギャルソン直営店で販売。
-  https://shopping.yahoo.com/style/shoes/articles/comme-des-garcons-x-air-170221242.html
+- **コムデギャルソンの二つ折り財布がAmazonで21%オフ** — ウォーカープラスが紹介。「ミラーインサイド SA2100MI」(並行輸入品)が21,780円に値下げ。
+  https://www.walkerplus.com/article/1154044/image12115855.html
 
-- **⚠古 BAPE × コムデギャルソン大阪店、5周年記念コラボ第2弾** — PR TIMESが報道。裏返すと「CdG CAMO」柄が現れる仕掛けのTシャツやレッド裏地のバーシティジャケット(121,000円)など全9型。2025年9月20日発売、事前抽選制。
-  https://prtimes.jp/main/html/rd/p/000000678.000008762.html
+- **⚠古 コムデギャルソン×ナイキ エアヴェイパーマックス、中古品がスニーカーダンクに出品** — ウィメンズ「ホワイト」(29cm、状態C)が15,000円。
+  https://snkrdunk.com/products/924501-002/used/49333086
 
-- **⚠古 コムデギャルソンのビンテージ約500点、パリでオークションへ** — 繊研新聞が報道。仏競売会社ピアザが10月1日開催、成田博昭氏収集の1969〜99年の archive(「パイレーツ」「メタモルフォーゼ」等)を出品。推定価格150〜3000ユーロ、9/26〜30に事前公開。
-  https://senken.co.jp/posts/comme-des-garcons-250731
+- **⚠古 BAPE® × コムデギャルソン、大阪店でショップインショップ展開** — PR TIMESが報道(2022年)。00年代BAPEを代表するカラーカモをあしらった新作BAPE STAなど。
+  https://prtimes.jp/main/html/rd/p/000000388.000008762.html
 
-- **チューリッヒの高級ブティックOpia創業者、コムデギャルソン買い付けの粘り勝ちエピソード** — Highsnobietyが報道。2012年頃、当初はショールームにすら招待されなかった中、粘り強く交渉して取引にこぎ着けた経緯を語る。
-  https://www.highsnobiety.com/p/opia-store-interview/
+- **⚠古 コムデギャルソンとポケモンがコラボ** — マイナビニュースが報道(2022年)。CDG取扱店舗と公式オンラインショップで発売、伊勢丹新宿店で限定イベントも。
+  https://news.mynavi.jp/article/20220914-2454907/
+
+補足: 本日の新着収集は小粒(二次流通・セール系が中心)。過去バックログの要約消化を優先したため⚠古項目が多め。

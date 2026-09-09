@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T22:11:09.808Z",
+  "updatedAt": "2026-09-09T22:14:39.017Z",
   "items": [
     {
       "id": "1083d6fd0b6087b8",
@@ -27,8 +27,11 @@
       "image": "https://fashionsnap-assets.com/asset/format=auto,fit=crop,width=300,height=300/article/images/2026/09/76c466c6-b288-40e6-9ef1-b2c91b470158.webp",
       "feed": "FASHIONSNAP",
       "fetchedAt": "2026-09-09T22:10:41.352Z",
-      "summary": null,
-      "tags": []
+      "summary": "デザイナー・小林裕翔の2027年春夏コレクション「Mermaid's Tears」のレポート記事。人魚姫をテーマにしたコレクションの紹介の中で、コムデギャルソン・シャツとの協業が進行中であることに触れているが、詳細は明らかにされていない。",
+      "tags": [
+        "コラボ"
+      ],
+      "importance": 1
     },
     {
       "id": "f287e715a16cc55a",
@@ -56,10 +59,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-09T22:11:00.914Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "0a968ff3f5d03570",
@@ -115,10 +119,11 @@
       "image": "https://news.walkerplus.com/article/1154044/12115877_615.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-09T22:11:00.914Z",
-      "summary": null,
+      "summary": "コムデギャルソンの二つ折り財布「ミラーインサイド SA2100MI」(並行輸入品)がAmazonで21%オフの21,780円に値下げされていることを紹介する記事。",
       "tags": [
         "再販/セール"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "bf2a04858b4011d1",
@@ -758,10 +763,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/0aaaf2b3-e5f2-459d-a50a-323652152306/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-09T22:11:00.914Z",
-      "summary": null,
+      "summary": "コムデギャルソン オムのコットンナイロンツイルショーツ(ネイビー、品番HO-P010-051、参考価格42,900円)が、真贋鑑定付き通販サイト「スニーカーダンク」に出品されている商品ページ。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "3c16ffb1e58b8575",
@@ -879,10 +885,11 @@
       "image": "https://cdn.snkrdunk.com/used_listing/680252/748bff52-133d-46e4-be45-8eac70398677.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-09T22:11:00.914Z",
-      "summary": null,
+      "summary": "コムデギャルソン×ナイキのウィメンズ エア ヴェイパーマックス「ホワイト」の中古品(29cm、状態C、15,000円)が「スニーカーダンク」に出品されている商品ページ。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "591f478252538274",
@@ -7098,10 +7105,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/288ad3bf-8992-4bd0-abfa-3c3cdfa3713b/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-09T22:11:00.914Z",
-      "summary": null,
+      "summary": "スニーカーダンクによる古着特集記事。コムデギャルソン オム(実用的なカジュアル)、シャツ(フランス製の仕立て)、プレイ(ハートロゴの定番品)という3ラインそれぞれの古着の特徴を紹介している。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "0763a73ecdf9aef5",
@@ -8299,10 +8307,12 @@
       "image": "https://www.highsnobiety.com/static-assets/dato/1769533403-nike-jordan-11-comme-des-garcons-homme-plus.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-09T22:11:01.348Z",
-      "summary": null,
+      "summary": "コムデギャルソン オム・プリュスと史上初となるエア ジョーダン11のコラボを報じる記事。2026年秋冬パリコレクションで発表され、一見無地の黒/白モデルだが牛革アッパーとヒール内側の小さなロゴが特徴という(発売日・価格は当時未公表)。",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "importance": 2,
+      "cluster": "cdg-air-jordan-11-homme-plus-2026"
     },
     {
       "id": "2cef7f6cacd4fdb5",
@@ -11174,10 +11184,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-02T22:11:19.064Z",
-      "summary": null,
+      "summary": "朝日新聞のコレクション日記コラム。2023年秋冬パリ・メンズコレクションの「ギャルソン・デー」で、コムデギャルソン、ジュンヤ・ワタナベ、ノワール ケイ ニノミヤの3ブランドのショーが行われたことを振り返っている。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "1e607a22ceb21333",
@@ -11250,8 +11261,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-02T22:11:19.064Z",
-      "summary": null,
-      "tags": []
+      "summary": "パリ・コレクションに挑む日本人デザイナーを支えるファッションコーディネーター大塚博美さんを取材した朝日新聞の連載記事。コムデギャルソンの服に影響を受けた28歳女性の視点からパリでの活動を紹介している。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "c9b2bd188b3592a4",
@@ -11292,11 +11306,13 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-02T22:11:19.064Z",
-      "summary": null,
+      "summary": "コムデギャルソンが2023年秋冬パリ・メンズコレクションでショーを開催したことを伝える朝日新聞記事。テーマは「アバンギャルドなテーラリング」で、くり抜きや筒状のディテールを用いた新作を発表したと報じている。",
       "tags": [
         "新作",
-        "インタビュー"
-      ]
+        "インタビュー",
+        "ショー/コレクション"
+      ],
+      "importance": 2
     },
     {
       "id": "510a1efb91e1109c",
@@ -11307,8 +11323,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-03T22:10:48.854Z",
-      "summary": null,
-      "tags": []
+      "summary": "俳優・小栗旬が写真家レスリー・キーの撮影でコムデギャルソンやトム ブラウンの衣装をまとったことを伝える朝日新聞記事。NHK大河ドラマ「鎌倉殿の13人」での役柄にも触れている。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "cc66181c9fdad050",
@@ -11334,10 +11353,11 @@
       "image": "https://senken.co.jp/production/uploads/file_content/file/255780/large_Comme_des_Garcons_WSS23_077.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-02T22:11:19.064Z",
-      "summary": null,
+      "summary": "繊研新聞によるコムデギャルソン2023年春夏パリ・コレクションのレビュー記事。静かな音楽の中で抽象的なフォルムの服が登場し、攻撃性を感じさせない「はかなく慈愛に満ちた」表現だったと評している。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "898195c42188b578",
@@ -11363,10 +11383,12 @@
       "image": "https://news.mynavi.jp/article/20220914-2454907/ogp_images/ogp.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-03T22:10:48.854Z",
-      "summary": null,
+      "summary": "コムデギャルソン展開のブランドCDGとポケモンのコラボ商品が2022年9月23日よりCDG取扱店舗と公式オンラインショップで発売されると報じる記事。伊勢丹新宿店では9月14日から20日まで限定コラボイベントも開催されたという。",
       "tags": [
-        "コラボ"
-      ]
+        "コラボ",
+        "店舗"
+      ],
+      "importance": 2
     },
     {
       "id": "f1acc32cf03a139d",
@@ -11377,10 +11399,12 @@
       "image": "https://prcdn.freetls.fastly.net/release_image/8762/388/8762-388-cae0570450a3424ac164f908b0428abd-1000x667.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-02T22:11:19.064Z",
-      "summary": null,
+      "summary": "A BATHING APE®とCOMME des GARCONSのコラボを伝えるPR TIMESのプレスリリース。00年代のBAPEを代表するカラーカモをあしらった新作BAPE STAスニーカーなどが、2022年9月11日よりコムデギャルソン大阪店のショップインショップで発売されたと紹介している。",
       "tags": [
-        "コラボ"
-      ]
+        "コラボ",
+        "店舗"
+      ],
+      "importance": 2
     },
     {
       "id": "9d70c45767b299b1",
@@ -11433,10 +11457,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-03T22:10:48.854Z",
-      "summary": null,
+      "summary": "コムデギャルソンのパリ・コレクション参加40周年を機に、デザイナー川久保玲が前衛性の追求とこれからのもの作りについて語った朝日新聞のインタビュー記事。",
       "tags": [
         "インタビュー"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "8a2f1f62e2996942",
