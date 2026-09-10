@@ -1,18 +1,6 @@
 {
-  "updatedAt": "2026-09-10T22:10:44.043Z",
+  "updatedAt": "2026-09-10T22:13:55.835Z",
   "items": [
-    {
-      "id": "e8ab56c898448cc1",
-      "title": "Comme Des Garcons Asos - ASOS Marketplace Buy sell new pre owned vintage fashion - defensorianna.gob.ar",
-      "url": "https://www.defensorianna.gob.ar/?d",
-      "publishedAt": "2026-09-10T16:03:28.000Z",
-      "publisher": "defensorianna.gob.ar",
-      "image": "https://www.defensorianna.gob.ar/modules/skin/full/img/header.png",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-09-10T22:10:33.954Z",
-      "summary": null,
-      "tags": []
-    },
     {
       "id": "d0b8e4832403bc5a",
       "title": "CDG 2026 FW “Mao collar work jacket & Classic knitwear”が9/11 発売 (シーディージー COMME des GARCONS コム デ ギャルソン)",
@@ -22,11 +10,12 @@
       "image": "https://www.fullress.com/wp-content/uploads/2026/09/111aFA54sfdsS-1.jpg",
       "feed": "Fullress",
       "fetchedAt": "2026-09-10T22:10:16.488Z",
-      "summary": null,
+      "summary": "CDGブランドの2026年秋冬新作として、マオカラーのワークジャケットとクラシックニットウェアが9月11日に発売される。",
       "tags": [
         "ショー/コレクション",
         "新作"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "1083d6fd0b6087b8",
@@ -1910,10 +1899,12 @@
       "image": "https://s.yimg.com/lo/mysterio/api/38eaa14d84b472e6bbc4c8b7b8fda405d373d2459e8ed83d623de76c298016fe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2Fe2a8383f0362c208f541151ec1362c61",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-10T22:10:33.954Z",
-      "summary": null,
+      "summary": "Air Jordan 11とコムデギャルソンのコラボレーションが伝えられており、メッシュ部分をレザーに置き換えた2色展開で2026年9月頃の発売が見込まれるという海外メディアの記事。",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "importance": 2,
+      "cluster": "cdg-air-jordan-11-homme-plus-2026"
     },
     {
       "id": "515dd59c8f07f2f2",
@@ -2358,10 +2349,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20241211053408-0.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-10T22:10:33.374Z",
-      "summary": null,
+      "summary": "COMME des GARCONS SHIRTとKAWSのコラボバックパック「Yellow」が二次流通サイト「スニーカーダンク」に出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "1771187e52debd94",
@@ -11557,10 +11549,12 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-03T22:10:48.854Z",
-      "summary": null,
+      "summary": "朝日新聞の過去記事。コムデギャルソンが東京でショーを開催し、川久保玲デザイナーによる「花」をテーマにした2022年春夏メンズコレクションを発表したという内容。",
       "tags": [
-        "新作"
-      ]
+        "新作",
+        "ショー/コレクション"
+      ],
+      "importance": 1
     },
     {
       "id": "686c995a7e20ad25",
@@ -11571,8 +11565,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-02T22:11:19.064Z",
-      "summary": null,
-      "tags": []
+      "summary": "朝日新聞の過去記事。コムデギャルソンが東京でメンズショーを開催し、「メタル・アウトロー」をイメージした銀色の素材を多用した2021年春夏コレクションを発表したという内容。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 1
     },
     {
       "id": "bc6c32c8975829e1",
@@ -11598,10 +11595,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20250406083220-0.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-03T22:10:48.854Z",
-      "summary": null,
+      "summary": "Supreme×COMME des GARCONS SHIRT×Nike Air Force 1 Low「White」が二次流通サイト「スニーカーダンク」で取引されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "ffff8bef219e8ff0",
@@ -11639,10 +11637,12 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-02T22:11:19.064Z",
-      "summary": null,
+      "summary": "朝日新聞の過去記事。コムデギャルソンのパリ・メンズコレクションを題材に、ファッション表現における男女の性意識のあり方を論じた内容。",
       "tags": [
-        "新作"
-      ]
+        "新作",
+        "ショー/コレクション"
+      ],
+      "importance": 1
     },
     {
       "id": "0becc05358b00b89",

@@ -1,15 +1,15 @@
-# CDG Watch 日次ダイジェスト 2026-09-10
+# CDG Watch 日次ダイジェスト 2026-09-11
 
-- **コムデギャルソンの二つ折り財布がAmazonで21%オフ** — ウォーカープラスが紹介。「ミラーインサイド SA2100MI」(並行輸入品)が21,780円に値下げ。
-  https://www.walkerplus.com/article/1154044/image12115855.html
+- **CDG「Mao collar work jacket」&「Classic knitwear」が9/11発売** — 創設50周年ブランド「CDG」から、波打つロゴを採用した2026年秋冬アイテムが登場。
+  https://www.fullress.com/cdg-2026-fw-mao-collar-work-jacket-classic-knitwear/
 
-- **⚠古 コムデギャルソン×ナイキ エアヴェイパーマックス、中古品がスニーカーダンクに出品** — ウィメンズ「ホワイト」(29cm、状態C)が15,000円。
-  https://snkrdunk.com/products/924501-002/used/49333086
+- **⚠古 COMME des GARCONS SHIRT×KAWSコラボバックパック「Yellow」が二次流通に出品** — スニーカーダンクで¥24,261〜。
+  https://snkrdunk.com/apparels/869101
 
-- **⚠古 BAPE® × コムデギャルソン、大阪店でショップインショップ展開** — PR TIMESが報道(2022年)。00年代BAPEを代表するカラーカモをあしらった新作BAPE STAなど。
-  https://prtimes.jp/main/html/rd/p/000000388.000008762.html
+- **⚠古 過去のコムデギャルソンショー回顧: 「花」テーマの2022年春夏メンズコレクション** — 朝日新聞の記事(初出2021年)。川久保玲デザイナーが花柄の生地を様々な手法で仕立てたショーを紹介。
+  https://www.asahi.com/articles/ASP7D7418P7DULZU01H.html
 
-- **⚠古 コムデギャルソンとポケモンがコラボ** — マイナビニュースが報道(2022年)。CDG取扱店舗と公式オンラインショップで発売、伊勢丹新宿店で限定イベントも。
-  https://news.mynavi.jp/article/20220914-2454907/
+- **⚠古 Supreme×COMME des GARCONS SHIRT×Nike Air Force 1 Low「White」がリセール取引** — スニーカーダンクで¥110,000〜(2017年発売、旧品番923044-100)。
+  https://snkrdunk.com/products/923044-100
 
-補足: 本日の新着収集は小粒(二次流通・セール系が中心)。過去バックログの要約消化を優先したため⚠古項目が多め。
+補足: 本日は新着4件を収集。summary未設定だった過去バックログ7件(2019〜2021年の朝日新聞ショー回顧記事や二次流通出品など)を要約消化したため⚠古項目が多め。無関係と判明した1件(検索スパム化した政府サイト)は削除。CDG新作(Mao collarジャケット/ニット、9/11発売)をリリースカレンダーに追加。
