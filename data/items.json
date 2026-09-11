@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-10T22:13:55.835Z",
+  "updatedAt": "2026-09-11T22:10:47.136Z",
   "items": [
+    {
+      "id": "e4b804823564e551",
+      "title": "These collectors of Japanese fashion are turning heads in L.A. - Yahoo",
+      "url": "https://www.yahoo.com/lifestyle/articles/collectors-japanese-fashion-turning-heads-100000553.html",
+      "publishedAt": "2026-09-11T10:00:00.000Z",
+      "publisher": "Yahoo",
+      "image": "https://s.yimg.com/lo/mysterio/api/1553c7bb81c0b1ed8ee840a5ce9d7eb2d22a625f21747b51b14e3cdfc640e0e9/lightyear_networkapi/resizefill_w840_h560%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fla_times_articles_853%2Ff06a116d485b10a98a49d4068b15254c.jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-09-11T22:10:37.057Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "8c17e980392471a0",
+      "title": "魅力の新作希少 AD2002 コムデギャルソンオム 田中オム 綿シャツ オレンジ L相当トップス｜au PAY マーケット - sakhaparliament.ru",
+      "url": "https://www.sakhaparliament.ru/goods/fashion/i160020111",
+      "publishedAt": "2026-09-10T20:43:54.000Z",
+      "publisher": "sakhaparliament.ru",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-09-11T22:10:36.591Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
+    },
+    {
+      "id": "e8ab56c898448cc1",
+      "title": "Comme Des Garcons Asos - ASOS Marketplace Buy sell new pre owned vintage fashion - defensorianna.gob.ar",
+      "url": "https://www.defensorianna.gob.ar/?d",
+      "publishedAt": "2026-09-10T16:03:28.000Z",
+      "publisher": "defensorianna.gob.ar",
+      "image": "https://www.defensorianna.gob.ar/modules/skin/full/img/header.png",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-09-11T22:10:37.057Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "e1cac59d5e991062",
+      "title": "発売中｜BLACK COMME des GARÇONS × Nike Air Force 1 Low｜抽選/販売/定価情報 - SNKRDUNK",
+      "url": "https://snkrdunk.com/articles/23876/",
+      "publishedAt": "2026-09-10T14:25:01.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/20250312092345-0.webp\",\"imageUrls\":{\"l\":\"https://cdn.snkrdunk.com/upload_bg_removed/20250312092345-0.webp?size=l\",\"m\":\"https://cdn.snkrdunk.com/upload_bg_removed/20250312092345-0.webp?size=m\",\"s\":\"https://cdn.snkrdunk.com/upload_bg_removed/20250312092345-0.webp",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-09-11T22:10:36.591Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
+    },
     {
       "id": "d0b8e4832403bc5a",
       "title": "CDG 2026 FW “Mao collar work jacket & Classic knitwear”が9/11 発売 (シーディージー COMME des GARCONS コム デ ギャルソン)",
@@ -1397,6 +1449,18 @@
       ],
       "cluster": "dotcomme-kerrytaylor-auction2026",
       "importance": 2
+    },
+    {
+      "id": "9de3ff9f9b65d682",
+      "title": "EXCLUSIVE: A Stash of Rare Comme des Garçons Is Going Up for Auction - Yahoo",
+      "url": "https://www.yahoo.com/lifestyle/articles/exclusive-stash-rare-comme-des-050000347.html",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "publisher": "Yahoo",
+      "image": "https://s.yimg.com/lo/mysterio/api/c9d577bcccb6137c408c78f64be49fbaeef06179e002c7b733c29bbf85d820c1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwwd_409%2F22f4070f4e491f2316c1745bc485ba66.jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-09-11T22:10:37.057Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "a0c04083ef9d78ba",
