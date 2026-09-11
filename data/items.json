@@ -10,34 +10,11 @@
       "image": "https://s.yimg.com/lo/mysterio/api/1553c7bb81c0b1ed8ee840a5ce9d7eb2d22a625f21747b51b14e3cdfc640e0e9/lightyear_networkapi/resizefill_w840_h560%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fla_times_articles_853%2Ff06a116d485b10a98a49d4068b15254c.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-11T22:10:37.057Z",
-      "summary": null,
-      "tags": []
-    },
-    {
-      "id": "8c17e980392471a0",
-      "title": "魅力の新作希少 AD2002 コムデギャルソンオム 田中オム 綿シャツ オレンジ L相当トップス｜au PAY マーケット - sakhaparliament.ru",
-      "url": "https://www.sakhaparliament.ru/goods/fashion/i160020111",
-      "publishedAt": "2026-09-10T20:43:54.000Z",
-      "publisher": "sakhaparliament.ru",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-09-11T22:10:36.591Z",
-      "summary": null,
+      "summary": "ロサンゼルスの日本ファッション愛好家4人を紹介する特集記事。コムデギャルソンやイッセイミヤケ、サカイなどを収集する複数のコレクターが、コンセプトや作りへの敬意を語っている。",
       "tags": [
-        "二次流通"
-      ]
-    },
-    {
-      "id": "e8ab56c898448cc1",
-      "title": "Comme Des Garcons Asos - ASOS Marketplace Buy sell new pre owned vintage fashion - defensorianna.gob.ar",
-      "url": "https://www.defensorianna.gob.ar/?d",
-      "publishedAt": "2026-09-10T16:03:28.000Z",
-      "publisher": "defensorianna.gob.ar",
-      "image": "https://www.defensorianna.gob.ar/modules/skin/full/img/header.png",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-09-11T22:10:37.057Z",
-      "summary": null,
-      "tags": []
+        "インタビュー"
+      ],
+      "importance": 2
     },
     {
       "id": "e1cac59d5e991062",
@@ -45,13 +22,15 @@
       "url": "https://snkrdunk.com/articles/23876/",
       "publishedAt": "2026-09-10T14:25:01.000Z",
       "publisher": "SNKRDUNK",
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/20250312092345-0.webp\",\"imageUrls\":{\"l\":\"https://cdn.snkrdunk.com/upload_bg_removed/20250312092345-0.webp?size=l\",\"m\":\"https://cdn.snkrdunk.com/upload_bg_removed/20250312092345-0.webp?size=m\",\"s\":\"https://cdn.snkrdunk.com/upload_bg_removed/20250312092345-0.webp",
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/20250312092345-0.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-11T22:10:36.591Z",
-      "summary": null,
+      "summary": "BLACK COMME des GARÇONS × Nike Air Force 1 Lowが発売中(2025年4月4日発売、税込40,700円)。外側に\"BLACK\"、内側に\"CDG\"ロゴを配したデザインで、SNKRDUNKでは32,999円〜取引されている。",
       "tags": [
-        "二次流通"
-      ]
+        "二次流通",
+        "コラボ"
+      ],
+      "importance": 2
     },
     {
       "id": "d0b8e4832403bc5a",
@@ -1459,8 +1438,11 @@
       "image": "https://s.yimg.com/lo/mysterio/api/c9d577bcccb6137c408c78f64be49fbaeef06179e002c7b733c29bbf85d820c1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwwd_409%2F22f4070f4e491f2316c1745bc485ba66.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-11T22:10:37.057Z",
-      "summary": null,
-      "tags": []
+      "summary": "2026年9月15日、ロンドンのケリー・テイラー・オークションズにてコムデギャルソンの希少品265点が競売にかけられる。1970〜80年代のパリコレ作品や1982年「パイレーツ」コレクションのパンツスーツなど、メルボルンの古着商が厳選した出品。",
+      "tags": [
+        "二次流通"
+      ],
+      "importance": 2
     },
     {
       "id": "a0c04083ef9d78ba",

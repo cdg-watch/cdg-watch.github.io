@@ -1,15 +1,12 @@
-# CDG Watch 日次ダイジェスト 2026-09-11
+# CDG Watch 日次ダイジェスト 2026-09-12
 
-- **CDG「Mao collar work jacket」&「Classic knitwear」が9/11発売** — 創設50周年ブランド「CDG」から、波打つロゴを採用した2026年秋冬アイテムが登場。
-  https://www.fullress.com/cdg-2026-fw-mao-collar-work-jacket-classic-knitwear/
+- **BLACK COMME des GARÇONS × Nike Air Force 1 Lowが二次流通に出品** — 2025年4月発売(定価40,700円)のコラボスニーカーが、SNKRDUNKで32,999円〜取引されている。
+  https://snkrdunk.com/articles/23876/
 
-- **⚠古 COMME des GARCONS SHIRT×KAWSコラボバックパック「Yellow」が二次流通に出品** — スニーカーダンクで¥24,261〜。
-  https://snkrdunk.com/apparels/869101
+- **ロサンゼルスの日本ファッション愛好家特集、コムデギャルソン収集家も登場** — コンセプトと作りへの敬意を語る複数のコレクターを紹介する特集記事。
+  https://www.yahoo.com/lifestyle/articles/collectors-japanese-fashion-turning-heads-100000553.html
 
-- **⚠古 過去のコムデギャルソンショー回顧: 「花」テーマの2022年春夏メンズコレクション** — 朝日新聞の記事(初出2021年)。川久保玲デザイナーが花柄の生地を様々な手法で仕立てたショーを紹介。
-  https://www.asahi.com/articles/ASP7D7418P7DULZU01H.html
+- **⚠古 コムデギャルソン希少品265点、9/15にロンドンでオークション** — ケリー・テイラー・オークションズにて、1970〜80年代のパリコレ作品や1982年「パイレーツ」コレクションのパンツスーツなどメルボルンの古着商が厳選した出品。
+  https://www.yahoo.com/lifestyle/articles/exclusive-stash-rare-comme-des-050000347.html
 
-- **⚠古 Supreme×COMME des GARCONS SHIRT×Nike Air Force 1 Low「White」がリセール取引** — スニーカーダンクで¥110,000〜(2017年発売、旧品番923044-100)。
-  https://snkrdunk.com/products/923044-100
-
-補足: 本日は新着4件を収集。summary未設定だった過去バックログ7件(2019〜2021年の朝日新聞ショー回顧記事や二次流通出品など)を要約消化したため⚠古項目が多め。無関係と判明した1件(検索スパム化した政府サイト)は削除。CDG新作(Mao collarジャケット/ニット、9/11発売)をリリースカレンダーに追加。
+補足: 本日は新着5件を収集。うち2件(sakhaparliament.ru、defensorianna.gob.ar)はロシア/アルゼンチンの無関係な公的機関サイトが乗っ取られてコムデギャルソン二次流通品の転載スパムを掲載していたもので、無関係記事として削除しSPAM_URL_REに追加。残り3件を要約し公開。ケリー・テイラー・オークションズの出品(9/15)をリリースカレンダーに追加。directiveラベルのopen Issue(#32)は月曜のstoreLaunches確認ログ運用についての指示で、次回月曜(9/14)対応のため本日は対象外。

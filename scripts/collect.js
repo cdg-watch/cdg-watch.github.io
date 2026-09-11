@@ -87,7 +87,7 @@ const SOURCES = [
 // 無関係な本来のサイト内容(自動車ニュース/バスケ記事)が表示され、該当記事は
 // 存在しない(1件は404)。同種のSEOスパム/URL偽装と判断
 const SPAM_URL_RE =
-  /richardajkeys\.com|cfecgc-orange\.org|consumerthai\.org|lechodelabaie\.fr|cicus\.us\.es|(?:^|\/\/)(?:www\.)?tennis\.fi\/|radiopiu\.net|bosnewslife\.com|diocesisdesalamanca\.com|ecoconscience\.tv|fuelcarmagazine\.com|onmotor\.es|krepsiniozinios\.lt/i;
+  /richardajkeys\.com|cfecgc-orange\.org|consumerthai\.org|lechodelabaie\.fr|cicus\.us\.es|(?:^|\/\/)(?:www\.)?tennis\.fi\/|radiopiu\.net|bosnewslife\.com|diocesisdesalamanca\.com|ecoconscience\.tv|fuelcarmagazine\.com|onmotor\.es|krepsiniozinios\.lt|sakhaparliament\.ru|defensorianna\.gob\.ar/i;
 
 // 焼き直し記事ガード(2026-08-02)。同一媒体がほぼ同じタイトル・ほぼ同じ本文の
 // 記事を新しい記事IDで再発行し、publishedAt だけ新しい「新着」に見えるケースを
