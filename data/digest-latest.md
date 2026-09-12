@@ -10,3 +10,5 @@
   https://www.yahoo.com/lifestyle/articles/exclusive-stash-rare-comme-des-050000347.html
 
 補足: 本日は新着5件を収集。うち2件(sakhaparliament.ru、defensorianna.gob.ar)はロシア/アルゼンチンの無関係な公的機関サイトが乗っ取られてコムデギャルソン二次流通品の転載スパムを掲載していたもので、無関係記事として削除しSPAM_URL_REに追加。残り3件を要約し公開。ケリー・テイラー・オークションズの出品(9/15)をリリースカレンダーに追加。directiveラベルのopen Issue(#32)は月曜のstoreLaunches確認ログ運用についての指示で、次回月曜(9/14)対応のため本日は対象外。
+
+追記(本日2回目の収集): 追加で新着1件(uponarriving.com経由、Google News)を収集したが、開いて確認したところコムデギャルソンと無関係な旅行系ブログで、URLクエリにキーワードを羅列した同種のSEOスパム/URL偽装と判明。無関係記事として削除しSPAM_URL_REに追加した。要約対象・カレンダー追加はなし。

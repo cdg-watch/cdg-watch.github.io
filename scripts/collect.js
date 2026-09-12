@@ -86,8 +86,12 @@ const SOURCES = [
 // 羅列タイトルでGoogle Newsから3件混入したが、実際に開くとコムデギャルソンと
 // 無関係な本来のサイト内容(自動車ニュース/バスケ記事)が表示され、該当記事は
 // 存在しない(1件は404)。同種のSEOスパム/URL偽装と判断
+// 2026-09-12: uponarriving.com(英語の旅行系ブログ)を追加。URLクエリ文字列に
+// キーワード羅列(「コムデギャルソン オム プリュス...」)を仕込んだリンクが
+// Google Newsに混入したが、実際に開くと旅行・クレジットカード記事のみの
+// 通常のブログで該当記事は存在しない。同種のSEOスパム/URL偽装と判断
 const SPAM_URL_RE =
-  /richardajkeys\.com|cfecgc-orange\.org|consumerthai\.org|lechodelabaie\.fr|cicus\.us\.es|(?:^|\/\/)(?:www\.)?tennis\.fi\/|radiopiu\.net|bosnewslife\.com|diocesisdesalamanca\.com|ecoconscience\.tv|fuelcarmagazine\.com|onmotor\.es|krepsiniozinios\.lt|sakhaparliament\.ru|defensorianna\.gob\.ar/i;
+  /richardajkeys\.com|cfecgc-orange\.org|consumerthai\.org|lechodelabaie\.fr|cicus\.us\.es|(?:^|\/\/)(?:www\.)?tennis\.fi\/|radiopiu\.net|bosnewslife\.com|diocesisdesalamanca\.com|ecoconscience\.tv|fuelcarmagazine\.com|onmotor\.es|krepsiniozinios\.lt|sakhaparliament\.ru|defensorianna\.gob\.ar|uponarriving\.com/i;
 
 // 焼き直し記事ガード(2026-08-02)。同一媒体がほぼ同じタイトル・ほぼ同じ本文の
 // 記事を新しい記事IDで再発行し、publishedAt だけ新しい「新着」に見えるケースを
