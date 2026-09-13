@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T22:10:36.882Z",
+  "updatedAt": "2026-09-13T22:11:36.775Z",
   "items": [
     {
       "id": "cdc80f9c0bb25c42",
@@ -10,10 +10,11 @@
       "image": "https://img.webuomo.jp/article/sns/image/61/618159ab-b007-4560-bf19-2a2d1179033b-1200x630.jpg",
       "feed": "WEB UOMO (Google News経由)",
       "fetchedAt": "2026-09-13T22:10:30.760Z",
-      "summary": null,
+      "summary": "バトナーとの初コラボとなるジップアップニット(¥83,600)をはじめ、コム デ ギャルソン オムの秋アウター7点を紹介する着こなし特集記事。ミリタリーやワークテイストを取り入れたデザインが特徴。",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "e4b804823564e551",

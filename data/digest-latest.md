@@ -1,14 +1,12 @@
-# CDG Watch 日次ダイジェスト 2026-09-12
+# CDG Watch 日次ダイジェスト 2026-09-14
 
-- **BLACK COMME des GARÇONS × Nike Air Force 1 Lowが二次流通に出品** — 2025年4月発売(定価40,700円)のコラボスニーカーが、SNKRDUNKで32,999円〜取引されている。
-  https://snkrdunk.com/articles/23876/
+- **コム デ ギャルソン、バトナーとの初コラボニットなど秋アウター特集** — UOMOが着こなし特集で紹介。ジップアップニット(¥83,600、ウール100%畔編み・ブラック/セージグリーン)を含むオム系アウター7点をピックアップ。
+  https://www.webuomo.jp/fashion/highbrand/xuUGvQ/
 
-- **ロサンゼルスの日本ファッション愛好家特集、コムデギャルソン収集家も登場** — コンセプトと作りへの敬意を語る複数のコレクターを紹介する特集記事。
-  https://www.yahoo.com/lifestyle/articles/collectors-japanese-fashion-turning-heads-100000553.html
+- **CDG「Mao collar work jacket」&「Classic knitwear」が発売中** — 2026年秋冬の新作として9/11に発売。
+  https://www.fullress.com/cdg-2026-fw-mao-collar-work-jacket-classic-knitwear/
 
-- **⚠古 コムデギャルソン希少品265点、9/15にロンドンでオークション** — ケリー・テイラー・オークションズにて、1970〜80年代のパリコレ作品や1982年「パイレーツ」コレクションのパンツスーツなどメルボルンの古着商が厳選した出品。
+- **⚠古 コムデギャルソン希少品265点、明日9/15にロンドンでオークション** — ケリー・テイラー・オークションズにて、1970〜80年代のパリコレ作品や1982年「パイレーツ」コレクションのパンツスーツなどメルボルンの古着商が厳選した出品。
   https://www.yahoo.com/lifestyle/articles/exclusive-stash-rare-comme-des-050000347.html
 
-補足: 本日は新着5件を収集。うち2件(sakhaparliament.ru、defensorianna.gob.ar)はロシア/アルゼンチンの無関係な公的機関サイトが乗っ取られてコムデギャルソン二次流通品の転載スパムを掲載していたもので、無関係記事として削除しSPAM_URL_REに追加。残り3件を要約し公開。ケリー・テイラー・オークションズの出品(9/15)をリリースカレンダーに追加。directiveラベルのopen Issue(#32)は月曜のstoreLaunches確認ログ運用についての指示で、次回月曜(9/14)対応のため本日は対象外。
-
-追記(本日2回目の収集): 追加で新着1件(uponarriving.com経由、Google News)を収集したが、開いて確認したところコムデギャルソンと無関係な旅行系ブログで、URLクエリにキーワードを羅列した同種のSEOスパム/URL偽装と判明。無関係記事として削除しSPAM_URL_REに追加した。要約対象・カレンダー追加はなし。
+補足: 本日は新着1件を収集・要約(UOMOのバトナーコラボアウター特集)。月曜のstoreLaunches確認(directive Issue #32対応)としてCDG FREAKのスケジュールページを確認したが、7月時点から更新はなく新規の立ち上がり日程は見つからなかった(schedule.jsonへの追加なし)。
