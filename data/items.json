@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-09-13T22:11:36.775Z",
+  "updatedAt": "2026-09-14T22:10:45.979Z",
   "items": [
+    {
+      "id": "ecc6f8efaf754f03",
+      "title": "COMME des GARÇONS parfums と DENIM TEARS によるコラボフレグランス “TEARS” が誕生 - Hypebeast",
+      "url": "https://hypebeast.com/jp/2026/9/comme-des-garcons-parfums-denim-tears-eau-de-parfum-tears-info",
+      "publishedAt": "2026-09-14T15:00:05.000Z",
+      "publisher": "Hypebeast",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-09-14T22:10:40.724Z",
+      "summary": null,
+      "tags": [
+        "コラボ"
+      ]
+    },
+    {
+      "id": "7ba2e17fc61d197f",
+      "title": "コム デ ギャルソン・パルファムの新香水「ティアーズ」“雨上がりのコットン畑”着想の香り",
+      "url": "https://www.fashion-press.net/news/151079",
+      "publishedAt": "2026-09-14T15:00:00.000Z",
+      "publisher": "ファッションプレス",
+      "image": "https://www.fashion-press.net/img/news/151079/top.jpg?1789385992",
+      "feed": "Fashion Press",
+      "fetchedAt": "2026-09-14T22:10:40.040Z",
+      "summary": null,
+      "tags": []
+    },
     {
       "id": "cdc80f9c0bb25c42",
       "title": "【コム デ ギャルソン】大人が買うべき秋アウター7選。「バトナー」との初コラボやミリタリーとスタジャンのハイブリッドジャケットに注目 - UOMO",
@@ -15,6 +41,18 @@
         "コラボ"
       ],
       "importance": 2
+    },
+    {
+      "id": "93d29dd410a0badc",
+      "title": "コムデギャルソンのTシャツコーディネート | 260915-0320-04 - OCEANS オーシャンズ",
+      "url": "https://oceans.tokyo.jp/snap/detail/12566?module",
+      "publishedAt": "2026-09-13T07:00:00.000Z",
+      "publisher": "OCEANS オーシャンズ",
+      "image": "https://images.oceans.tokyo.jp/media/snap/12566/images/main_image_e919fb2d02357e4968c72c76f52f941b38ca2a45.jpg?h=1200",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-09-14T22:10:40.724Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "e4b804823564e551",
