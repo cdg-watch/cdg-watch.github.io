@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T22:10:45.979Z",
+  "updatedAt": "2026-09-14T22:12:20.802Z",
   "items": [
     {
       "id": "ecc6f8efaf754f03",
@@ -10,10 +10,13 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-14T22:10:40.724Z",
-      "summary": null,
+      "summary": "コム デ ギャルソン パルファムとデニム ティアーズによるコラボフレグランス「ティアーズ」が登場。雨上がりのジョージア州のコットン畑をイメージした香りで、9月18日から一部店舗で先行発売、10月2日に取扱店舗を拡大する。",
       "tags": [
-        "コラボ"
-      ]
+        "コラボ",
+        "新作"
+      ],
+      "cluster": "cdg-parfums-denimtears-tears",
+      "importance": 2
     },
     {
       "id": "7ba2e17fc61d197f",
@@ -24,8 +27,12 @@
       "image": "https://www.fashion-press.net/img/news/151079/top.jpg?1789385992",
       "feed": "Fashion Press",
       "fetchedAt": "2026-09-14T22:10:40.040Z",
-      "summary": null,
-      "tags": []
+      "summary": "コム デ ギャルソン・パルファムとデニム ティアーズのコラボ香水「ティアーズ」が発表された。雨上がりのジョージア州の田園風景をイメージしたムスク・フローラルの香りで、50mL・31,900円。9月18日に阪急うめだ本店などで先行発売し、10月2日に取扱店舗を拡大する。",
+      "tags": [
+        "新作"
+      ],
+      "cluster": "cdg-parfums-denimtears-tears",
+      "importance": 2
     },
     {
       "id": "cdc80f9c0bb25c42",
@@ -41,18 +48,6 @@
         "コラボ"
       ],
       "importance": 2
-    },
-    {
-      "id": "93d29dd410a0badc",
-      "title": "コムデギャルソンのTシャツコーディネート | 260915-0320-04 - OCEANS オーシャンズ",
-      "url": "https://oceans.tokyo.jp/snap/detail/12566?module",
-      "publishedAt": "2026-09-13T07:00:00.000Z",
-      "publisher": "OCEANS オーシャンズ",
-      "image": "https://images.oceans.tokyo.jp/media/snap/12566/images/main_image_e919fb2d02357e4968c72c76f52f941b38ca2a45.jpg?h=1200",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-09-14T22:10:40.724Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "e4b804823564e551",

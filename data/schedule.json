@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T22:30:00.000Z",
+  "updatedAt": "2026-09-14T22:30:00.000Z",
   "storeLaunches": [
     {
       "date": "2026-02-01",
@@ -104,6 +104,22 @@
     }
   ],
   "productDrops": [
+    {
+      "date": "2026-09-18",
+      "title": "COMME des GARÇONS PARFUMS × DENIM TEARS コラボフレグランス「TEARS」先行発売",
+      "brand": "COMME des GARÇONS PARFUMS x DENIM TEARS",
+      "price": "31,900円(オードパルファム50mL)",
+      "where": "阪急うめだ本店、ドーバー ストリート マーケット ギンザ、コム デ ギャルソン ポケット",
+      "url": "https://www.fashion-press.net/news/151079"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "COMME des GARÇONS PARFUMS × DENIM TEARS「TEARS」取扱店舗を拡大",
+      "brand": "COMME des GARÇONS PARFUMS x DENIM TEARS",
+      "price": "31,900円(オードパルファム50mL)",
+      "where": null,
+      "url": "https://www.fashion-press.net/news/151079"
+    },
     {
       "date": "2026-09-11",
       "title": "CDG「Mao collar work jacket」&「Classic knitwear」(2026年秋冬)",
