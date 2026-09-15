@@ -1,6 +1,68 @@
 {
-  "updatedAt": "2026-09-14T22:12:20.802Z",
+  "updatedAt": "2026-09-15T22:09:45.392Z",
   "items": [
+    {
+      "id": "0e7a48897d27ba9a",
+      "title": "Denim Tears Debuts Fragrance With Comme des Garçons Parfums",
+      "url": "https://wwd.com/sourcing-journal/sj-denim/denim-tears-debuts-fragrance-comme-des-garcons-parfums-1239237121/",
+      "publishedAt": "2026-09-15T21:51:03.000Z",
+      "publisher": null,
+      "image": "https://wwd.com/wp-content/uploads/2026/09/denimtears-perfume.jpg?w=1000&h=563&crop=1",
+      "feed": "WWD",
+      "fetchedAt": "2026-09-15T22:09:28.167Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "6fe74ff414477491",
+      "title": "Denim Tears and COMME des GARÇONS Parfums Give Cotton a Scent in Tears - stupidDOPE",
+      "url": "https://stupiddope.com/2026/09/denim-tears-and-comme-des-garcons-parfums-give-cotton-a-scent-in-tears/",
+      "publishedAt": "2026-09-15T12:50:33.000Z",
+      "publisher": "stupidDOPE",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-09-15T22:09:36.330Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "d87413857b732d9e",
+      "title": "Denim Tears x COMME des GARÇONS Parfums Bottles the Smell of Cotton for Its \"Tears\" Eau de Parfum - Hypebeast",
+      "url": "https://hypebeast.com/2026/9/denim-tears-comme-des-garcons-parfums-tears-eau-de-parfum-release-info",
+      "publishedAt": "2026-09-15T07:37:42.000Z",
+      "publisher": "Hypebeast",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-09-15T22:09:36.330Z",
+      "summary": null,
+      "tags": [
+        "コラボ"
+      ]
+    },
+    {
+      "id": "5adce849a7632c1a",
+      "title": "コムデギャルソンオム パッチワーク 半袖シャツ ダークネイビー HJ-B015 パッチワーク GARCONS 半袖 - Trece Noticias",
+      "url": "https://sinartdigital.com/?x",
+      "publishedAt": "2026-09-15T07:17:29.000Z",
+      "publisher": "Trece Noticias",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-09-15T22:09:35.899Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "93d29dd410a0badc",
+      "title": "コムデギャルソンのTシャツコーディネート | 260915-0320-04 - OCEANS オーシャンズ",
+      "url": "https://oceans.tokyo.jp/snap/detail/12566",
+      "publishedAt": "2026-09-14T20:07:19.000Z",
+      "publisher": "OCEANS オーシャンズ",
+      "image": "https://images.oceans.tokyo.jp/media/snap/12566/images/main_image_e919fb2d02357e4968c72c76f52f941b38ca2a45.jpg?h=1200",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-09-15T22:09:35.899Z",
+      "summary": null,
+      "tags": []
+    },
     {
       "id": "ecc6f8efaf754f03",
       "title": "COMME des GARÇONS parfums と DENIM TEARS によるコラボフレグランス “TEARS” が誕生 - Hypebeast",
@@ -159,6 +221,20 @@
         "コラボ"
       ],
       "importance": 1
+    },
+    {
+      "id": "6b00a8472459e959",
+      "title": "【D (傷や汚れあり)】BLACK COMME des GARCONS ブラックコムデギャルソン 1H-O004 AD2021 ニットベスト ドッキング ノースリーブ ワンピース ブラック系 S【中古】 Sのブランド古着・中古服通販｜スニダン - SNKRDUNK",
+      "url": "https://snkrdunk.com/apparel-free-used-items/49777833",
+      "publishedAt": "2026-09-07T16:09:10.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/apparel_used_listings/b9be561f-9817-4a61-9078-94250adcf2b9/7810174.jpeg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-09-15T22:09:35.899Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
     },
     {
       "id": "0a968ff3f5d03570",
@@ -7849,6 +7925,20 @@
         "その他"
       ],
       "image": "https://cdn.snkrdunk.com/uploads/media/20260217111620-0.jpeg"
+    },
+    {
+      "id": "571c3eb9f76b4fb5",
+      "title": "Lynne Koester, Comme des Garçons, Paris (1984) by Peter Lindbergh - For Sale - Artsy",
+      "url": "https://www.artsy.net/artwork/peter-lindbergh-lynne-koester-comme-des-garcons-paris",
+      "publishedAt": "2026-02-18T10:19:39.000Z",
+      "publisher": "Artsy",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-09-15T22:09:36.332Z",
+      "summary": null,
+      "tags": [
+        "再販/セール"
+      ]
     },
     {
       "id": "740c86d3f5bcc137",
