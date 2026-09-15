@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T22:09:45.392Z",
+  "updatedAt": "2026-09-15T22:13:20.332Z",
   "items": [
     {
       "id": "0e7a48897d27ba9a",
@@ -10,8 +10,13 @@
       "image": "https://wwd.com/wp-content/uploads/2026/09/denimtears-perfume.jpg?w=1000&h=563&crop=1",
       "feed": "WWD",
       "fetchedAt": "2026-09-15T22:09:28.167Z",
-      "summary": null,
-      "tags": []
+      "summary": "Denim TearsとコムデギャルソンパルファムがコラボフレグランスTearsを発表。香りはジョージア州の雨上がりの綿花畑をイメージしたムスクフローラルで、9月18日にDenim Tears公式サイト・Africa Diaspora Goods・一部Dover Street Market・コムデギャルソン店舗で発売、価格180ドル。",
+      "tags": [
+        "コラボ",
+        "新作"
+      ],
+      "cluster": "denimtears-tears-parfum",
+      "importance": 3
     },
     {
       "id": "6fe74ff414477491",
@@ -22,8 +27,12 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-15T22:09:36.330Z",
-      "summary": null,
-      "tags": []
+      "summary": "Denim Tears創設者Tremaine EmoryとコムデギャルソンパルファムによるフレグランスTearsを掘り下げる記事。ジョージア州の雨上がりの綿花畑や赤土をイメージし、ガルバナムやサフラン、ジャスミン、ベチバー等を重ねた香りで、9月18日に世界発売予定と伝えている。",
+      "tags": [
+        "コラボ"
+      ],
+      "cluster": "denimtears-tears-parfum",
+      "importance": 2
     },
     {
       "id": "d87413857b732d9e",
@@ -34,22 +43,12 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-15T22:09:36.330Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
-      ]
-    },
-    {
-      "id": "5adce849a7632c1a",
-      "title": "コムデギャルソンオム パッチワーク 半袖シャツ ダークネイビー HJ-B015 パッチワーク GARCONS 半袖 - Trece Noticias",
-      "url": "https://sinartdigital.com/?x",
-      "publishedAt": "2026-09-15T07:17:29.000Z",
-      "publisher": "Trece Noticias",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-09-15T22:09:35.899Z",
-      "summary": null,
-      "tags": []
+      ],
+      "cluster": "denimtears-tears-parfum",
+      "importance": 2
     },
     {
       "id": "93d29dd410a0badc",
@@ -60,8 +59,11 @@
       "image": "https://images.oceans.tokyo.jp/media/snap/12566/images/main_image_e919fb2d02357e4968c72c76f52f941b38ca2a45.jpg?h=1200",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-15T22:09:35.899Z",
-      "summary": null,
-      "tags": []
+      "summary": "OCEANSのスナップ企画で、50代男性が代官山でコムデギャルソンのTシャツを主役に、パームエンジェルスの帽子やバレンシアガのバッグ・シューズを合わせた秋冬コーディネートを紹介。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "ecc6f8efaf754f03",
@@ -231,10 +233,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/b9be561f-9817-4a61-9078-94250adcf2b9/7810174.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-15T22:09:35.899Z",
-      "summary": null,
+      "summary": "スニダンにブラックコムデギャルソン(1H-O004、AD2021)のノースリーブニットベスト(ワンピース)、サイズSの中古品(鑑定ランクD・傷や汚れあり)が21,978円で出品されている二次流通の販売情報。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "0a968ff3f5d03570",
@@ -7935,10 +7938,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-15T22:09:36.332Z",
-      "summary": null,
+      "summary": "ArtsyでPeter Lindberghが1984年に撮影した写真作品「Lynne Koester, Comme des Garçons, Paris」が、ミュンヘンのギャラリーIra Stehmann Fine Artより出品。ゼラチンシルバープリントで25点限定、直筆サイン・鑑定書付きの販売情報。",
       "tags": [
         "再販/セール"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "740c86d3f5bcc137",

@@ -90,8 +90,13 @@ const SOURCES = [
 // キーワード羅列(「コムデギャルソン オム プリュス...」)を仕込んだリンクが
 // Google Newsに混入したが、実際に開くと旅行・クレジットカード記事のみの
 // 通常のブログで該当記事は存在しない。同種のSEOスパム/URL偽装と判断
+// 2026-09-16: sinartdigital.com(ボリビアの国営放送ニュースサイト「Trece
+// Noticias」、スペイン語)を追加。「コムデギャルソンオム パッチワーク...」という
+// キーワード羅列タイトルでGoogle News(日本語)に混入したが、実際のURLは
+// クエリ文字列のみ(?x)でトップページに転送され、無関係な現地ニュースが
+// 表示される。同種のSEOスパム/URL偽装と判断
 const SPAM_URL_RE =
-  /richardajkeys\.com|cfecgc-orange\.org|consumerthai\.org|lechodelabaie\.fr|cicus\.us\.es|(?:^|\/\/)(?:www\.)?tennis\.fi\/|radiopiu\.net|bosnewslife\.com|diocesisdesalamanca\.com|ecoconscience\.tv|fuelcarmagazine\.com|onmotor\.es|krepsiniozinios\.lt|sakhaparliament\.ru|defensorianna\.gob\.ar|uponarriving\.com/i;
+  /richardajkeys\.com|cfecgc-orange\.org|consumerthai\.org|lechodelabaie\.fr|cicus\.us\.es|(?:^|\/\/)(?:www\.)?tennis\.fi\/|radiopiu\.net|bosnewslife\.com|diocesisdesalamanca\.com|ecoconscience\.tv|fuelcarmagazine\.com|onmotor\.es|krepsiniozinios\.lt|sakhaparliament\.ru|defensorianna\.gob\.ar|uponarriving\.com|sinartdigital\.com/i;
 
 // 焼き直し記事ガード(2026-08-02)。同一媒体がほぼ同じタイトル・ほぼ同じ本文の
 // 記事を新しい記事IDで再発行し、publishedAt だけ新しい「新着」に見えるケースを

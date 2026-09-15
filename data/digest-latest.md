@@ -1,12 +1,12 @@
-# CDG Watch 日次ダイジェスト 2026-09-15
+# CDG Watch 日次ダイジェスト 2026-09-16
 
-- **コム デ ギャルソン・パルファム×デニム ティアーズ、コラボ香水「ティアーズ」を発表** — 雨上がりのジョージア州の田園風景をイメージしたムスク・フローラルの香り(50mL・31,900円)。9/18に阪急うめだ本店などで先行発売し、10/2に取扱店舗を拡大する。
-  https://www.fashion-press.net/news/151079
+- **Denim Tears×コムデギャルソンパルファム、コラボ香水「Tears」を海外向けに発表** — ジョージア州の雨上がりの綿花畑をイメージしたムスクフローラルの香り。9/18にDenim Tears公式サイト・Africa Diaspora Goods・一部Dover Street Market・コムデギャルソン店舗(海外)で発売、価格180ドル。日本での取扱(阪急うめだ本店等・31,900円)は既報。
+  https://wwd.com/sourcing-journal/sj-denim/denim-tears-debuts-fragrance-comme-des-garcons-parfums-1239237121/
 
-- **COMME des GARÇONS Homme Plus × Air Jordan 11、初コラボが9/5に発売** — オールブラック/オールホワイト2色展開、レザーアッパー・パテントレザーミッドソールが特徴。$358でDover Street Marketと直営店で販売中。
-  https://shopping.yahoo.com/style/shoes/articles/comme-des-garcons-x-air-170221242.html
+- **⚠古 Peter Lindbergh撮影の1984年作品「Lynne Koester, Comme des Garçons, Paris」がArtsyに出品** — ミュンヘンのギャラリーIra Stehmann Fine Artより、ゼラチンシルバープリント・25点限定・直筆サイン入りで販売中。
+  https://www.artsy.net/artwork/peter-lindbergh-lynne-koester-comme-des-garcons-paris
 
-- **ロサンゼルスの日本ファッション愛好家、コムデギャルソン等のコレクションを語る** — Yahoo特集記事で、コンセプトや作りへの敬意を語る4人のコレクターを紹介。イッセイミヤケやサカイと並びコムデギャルソンも収集対象に。
-  https://www.yahoo.com/lifestyle/articles/collectors-japanese-fashion-turning-heads-100000553.html
+- **スニダンにブラックコムデギャルソンのニットベスト(AD2021)が二次流通で出品** — サイズS、鑑定ランクD(傷や汚れあり)、21,978円。
+  https://snkrdunk.com/apparel-free-used-items/49777833
 
-補足: 本日は新着3件を収集。うち2件(TEARSコラボ香水の別ソース記事)を要約し、`cluster`で紐付け。OCEANSのスナップ記事1件はコムデギャルソンTシャツの着用が名前として出るのみで実質無関係と判断し削除。TEARSの発売日をproductDropsに追加。月曜(9/14)にstoreLaunches確認済みのため今回は対象外。
+補足: 本日は新着7件を収集、うち1件(sinartdigital.com、ボリビアの無関係ニュースサイトへのSEOスパム)を削除しSPAM_URL_REに追加。残り6件を要約。Tears発表記事3件(WWD/stupidDOPE/Hypebeast)は`cluster`で紐付け、Hypebeast記事はWAFブロックのため要約取得不可。OCEANSのスナップ記事(コムデギャルソンTシャツコーデ)は要約済みだが小ネタのためダイジェストからは割愛。TEARSの発売日は既にproductDropsに登録済みのため追加なし。今日は水曜のためstoreLaunches更新は対象外。
