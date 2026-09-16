@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T22:09:43.161Z",
+  "updatedAt": "2026-09-16T22:14:06.936Z",
   "items": [
     {
       "id": "9cb4a60dc02518a7",
@@ -7,13 +7,14 @@
       "url": "https://snkrdunk.com/articles/8305/",
       "publishedAt": "2026-09-16T17:24:26.000Z",
       "publisher": "SNKRDUNK",
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/20200115023011-0.webp\",\"imageUrls\":{\"l\":\"https://cdn.snkrdunk.com/upload_bg_removed/20200115023011-0.webp?size=l\",\"m\":\"https://cdn.snkrdunk.com/upload_bg_removed/20200115023011-0.webp?size=m\",\"s\":\"https://cdn.snkrdunk.com/upload_bg_removed/20200115023011-0.webp",
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/20200115023011-0.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-16T22:09:31.891Z",
-      "summary": null,
+      "summary": "コムデギャルソン×ナイキのエアマックス95コラボスニーカー(全3色、定価46,200円)の商品情報ページ。2020年にドーバーストリートマーケット銀座でのweb抽選を経て発売されたモデルで、スニーカーダンク上での取引に使われている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "6c69b6650a42d62b",
@@ -24,12 +25,13 @@
       "image": "https://www.fullress.com/wp-content/uploads/2026/09/1wedsgg4ds4NXSC-1.webp",
       "feed": "Fullress",
       "fetchedAt": "2026-09-16T22:09:20.926Z",
-      "summary": null,
+      "summary": "A BATHING APEとコムデギャルソンによる2026年秋冬コラボコレクションが9月23日発売。ブランド初期のBAPE CHECK柄などのアーカイブをコムデギャルソン流に再解釈したウェア・アクセサリー一式を、BAPE STORE COMME des GARCONS OSAKAでのweb抽選のほかBAPE.COMや国内外の通販サイトで展開する。",
       "tags": [
         "コラボ",
         "ショー/コレクション",
         "新作"
-      ]
+      ],
+      "importance": 3
     },
     {
       "id": "dcc80301e05786a1",
@@ -40,8 +42,13 @@
       "image": "https://images.complex.com/complex/image/upload/c_crop,h_1079,w_1919,x_0,y_0/g_auto:aoi_768_432_384_216,ar_1.91,c_fill,q_auto,w_1200/sanity-new/uqugabwirnep726btt9e",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-16T22:09:32.699Z",
-      "summary": null,
-      "tags": []
+      "summary": "Denim TearsとコムデギャルソンパルファムのコラボフレグランスTearsが9月18日発売。雨上がりのジョージア州の綿花畑や赤土をイメージした香りで、Denim Tears公式サイトやAfrican Diaspora Goods、一部ドーバーストリートマーケット、コムデギャルソン店舗などで取り扱われる。",
+      "tags": [
+        "コラボ",
+        "新作"
+      ],
+      "cluster": "denimtears-tears-parfum",
+      "importance": 2
     },
     {
       "id": "0e7a48897d27ba9a",
@@ -211,10 +218,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGOM-0069.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-16T22:09:31.891Z",
-      "summary": null,
+      "summary": "コムデギャルソンオムのボーダーTシャツ(定価27,500円)の中古・相場情報ページ。スニーカーダンク上の売買履歴ページだが、具体的な現在相場の数値はページ内に見当たらない。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "1083d6fd0b6087b8",
@@ -11465,18 +11473,6 @@
       "tags": [
         "インタビュー"
       ]
-    },
-    {
-      "id": "e2ba31e6f1aacd89",
-      "title": "「コムデギャルソン」などの刺しゅうレース製品製造のサン・ハイノ（佐野）に破産手続き開始決定 設備投資で資金繰り困難に - 下野新聞社",
-      "url": "https://www.shimotsuke.co.jp/articles/-/803711",
-      "publishedAt": "2023-10-16T07:00:00.000Z",
-      "publisher": "下野新聞社",
-      "image": "https://soon.ismcdn.jp/mwimgs/d/3/1200wm/img_d352727f750b8ef3bafb59c9841d33d966898.jpg",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-09-16T22:09:31.891Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "035ed66050661702",

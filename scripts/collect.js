@@ -290,8 +290,11 @@ const JUNK_IMG_RE =
 function extractSiteImage(host, html) {
   if (/snkrdunk\.com$/.test(host)) {
     // 中古出品(apparel_used_listings)・新品(upload_bg_removed / images/products)
+    // 非貪欲マッチ: HTML実体参照(&quot;等)でエスケープされたJSON内では
+    // [^"\\ ]では終端を検出できず、後続の imageUrls などまで拾ってしまうため
+    // 拡張子が最初に現れた時点で打ち切る(2026-09-17)
     const m = html.match(
-      /https:\/\/cdn\.snkrdunk\.com\/(?:apparel_used_listings|used_listing|upload_bg_removed|images\/products)\/[^"\\ ]+\.(?:jpe?g|png|webp)/i
+      /https:\/\/cdn\.snkrdunk\.com\/(?:apparel_used_listings|used_listing|upload_bg_removed|images\/products)\/[^"\\ ]+?\.(?:jpe?g|png|webp)/i
     );
     return m ? m[0] : null;
   }

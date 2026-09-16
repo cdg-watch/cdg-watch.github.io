@@ -1,12 +1,12 @@
-# CDG Watch 日次ダイジェスト 2026-09-16
+# CDG Watch 日次ダイジェスト 2026-09-17
 
-- **Denim Tears×コムデギャルソンパルファム、コラボ香水「Tears」を海外向けに発表** — ジョージア州の雨上がりの綿花畑をイメージしたムスクフローラルの香り。9/18にDenim Tears公式サイト・Africa Diaspora Goods・一部Dover Street Market・コムデギャルソン店舗(海外)で発売、価格180ドル。日本での取扱(阪急うめだ本店等・31,900円)は既報。
-  https://wwd.com/sourcing-journal/sj-denim/denim-tears-debuts-fragrance-comme-des-garcons-parfums-1239237121/
+- **A BATHING APE×コムデギャルソン、2026年秋冬コラボコレクションが9/23発売** — ブランド初期のBAPE CHECK柄などのアーカイブをコムデギャルソン流に再解釈したウェア・アクセサリー一式。BAPE STORE COMME des GARCONS OSAKAでのweb抽選のほかBAPE.COM等の通販サイトでも展開、価格帯16,500円〜77,000円。
+  https://www.fullress.com/a-bathing-ape-comme-des-garcons-2026-fw/
 
-- **⚠古 Peter Lindbergh撮影の1984年作品「Lynne Koester, Comme des Garçons, Paris」がArtsyに出品** — ミュンヘンのギャラリーIra Stehmann Fine Artより、ゼラチンシルバープリント・25点限定・直筆サイン入りで販売中。
-  https://www.artsy.net/artwork/peter-lindbergh-lynne-koester-comme-des-garcons-paris
+- **Denim Tears×コムデギャルソンパルファムのコラボ香水「Tears」、Complexも報道** — 9/18発売・180ドルの海外向け発売情報を追認。発売日をproductDropsに登録。
+  https://www.complex.com/style/a/treyalston/denim-tears-comme-des-garcones-perfume
 
-- **スニダンにブラックコムデギャルソンのニットベスト(AD2021)が二次流通で出品** — サイズS、鑑定ランクD(傷や汚れあり)、21,978円。
-  https://snkrdunk.com/apparel-free-used-items/49777833
+- **コムデギャルソンオムのボーダーTシャツが二次流通で取引対象に** — スニーカーダンクの売買履歴ページに掲載。定価27,500円、ページ内に現在相場の具体的な数値は確認できず。
+  https://snkrdunk.com/apparels/632015/sales-histories
 
-補足: 本日は新着7件を収集、うち1件(sinartdigital.com、ボリビアの無関係ニュースサイトへのSEOスパム)を削除しSPAM_URL_REに追加。残り6件を要約。Tears発表記事3件(WWD/stupidDOPE/Hypebeast)は`cluster`で紐付け、Hypebeast記事はWAFブロックのため要約取得不可。OCEANSのスナップ記事(コムデギャルソンTシャツコーデ)は要約済みだが小ネタのためダイジェストからは割愛。TEARSの発売日は既にproductDropsに登録済みのため追加なし。今日は水曜のためstoreLaunches更新は対象外。
+補足: 本日は新着5件を収集、うち1件(下野新聞、コムデギャルソンなど複数ブランドの刺しゅう製造を請け負っていた企業の破産記事で、コムデギャルソンは取引先名として言及されるのみ)は無関係記事として削除し、残り4件を要約。SNKRDUNKのエアマックス95商品情報ページ(2020年発売モデル)は既知の過去モデルの情報ページのため見出しからは割愛。SNKRDUNKのog:image抽出で、HTML実体参照エスケープのJSON内テキストを拾って画像URLに後続のimageUrlsまで混入する不具合を発見し`scripts/collect.js`のextractSiteImage正規表現を非貪欲マッチに修正(対象1件のimageフィールドも修正済み)。今日は木曜のためstoreLaunches更新・週次PRは対象外。directiveラベルのopen Issueなし。

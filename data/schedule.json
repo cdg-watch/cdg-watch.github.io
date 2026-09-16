@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T22:30:00.000Z",
+  "updatedAt": "2026-09-16T22:14:51.443Z",
   "storeLaunches": [
     {
       "date": "2026-02-01",
@@ -231,6 +231,22 @@
       "price": null,
       "where": "Fred Perryオンラインストア",
       "url": "https://snkrdunk.com/articles/33075/"
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Denim Tears × COMME des GARÇONS Parfums \"Tears\"",
+      "brand": "Denim Tears x COMME des GARÇONS Parfums",
+      "price": "$180",
+      "where": "Denim Tears公式サイト / African Diaspora Goods / 一部Dover Street Market / コムデギャルソン店舗",
+      "url": "https://www.complex.com/style/a/treyalston/denim-tears-comme-des-garcones-perfume"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "A BATHING APE × COMME des GARÇONS 2026FW コラボコレクション",
+      "brand": "A BATHING APE x COMME des GARÇONS",
+      "price": "¥16,500〜¥77,000",
+      "where": "BAPE STORE COMME des GARCONS OSAKA(web抽選) / BAPE.COM / Rakuten Fashion / ZOZOTOWN / SSENSE 他",
+      "url": "https://www.fullress.com/a-bathing-ape-comme-des-garcons-2026-fw/"
     }
   ]
 }
