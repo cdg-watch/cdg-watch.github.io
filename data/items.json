@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-09-16T22:14:06.936Z",
+  "updatedAt": "2026-09-17T22:10:04.540Z",
   "items": [
+    {
+      "id": "07c0b96df1f5d68f",
+      "title": "A BATHING APE × COMME des GARCONS 26FWコレクションが9/23発売！現代的なUKミックスのストリートスタイルを提案 - SNKRDUNK",
+      "url": "https://snkrdunk.com/articles/33337/",
+      "publishedAt": "2026-09-17T09:23:23.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/e40a1013-c5bb-4fdc-a7ea-36bbdff30af9.webp",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-09-17T22:09:52.077Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
+    },
+    {
+      "id": "1c2089cd0a7385ae",
+      "title": "BAPE®︎ x COMME des GARÇONS 2026年秋冬コラボコレクションが国内9月23日より発売 - uptodate.tokyo",
+      "url": "https://uptodate.tokyo/bape-x-comme-des-garcons-2026fw/",
+      "publishedAt": "2026-09-16T20:26:30.000Z",
+      "publisher": "uptodate.tokyo",
+      "image": "https://uptodate.tokyo/wp-content/uploads/2026/09/IMG_7697-1024x1024.jpeg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-09-17T22:09:52.077Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "ショー/コレクション",
+        "新作"
+      ]
+    },
     {
       "id": "9cb4a60dc02518a7",
       "title": "コム・デ・ギャルソン × ナイキ エアマックス95 全3色【2/7発売】 - SNKRDUNK",
@@ -8442,6 +8472,20 @@
       "importance": 2
     },
     {
+      "id": "05290958b35512cf",
+      "title": "First Look At The Comme des Garçons x New Balance 1890A - Sneaker News",
+      "url": "https://sneakernews.com/2026/01/29/comme-des-garcons-homme-new-balance-1890a/",
+      "publishedAt": "2026-01-30T08:00:00.000Z",
+      "publisher": "Sneaker News",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-09-17T22:09:52.970Z",
+      "summary": null,
+      "tags": [
+        "コラボ"
+      ]
+    },
+    {
       "id": "d2fb6529ec6fc773",
       "title": "Comme des Garçons x New Balance 1890A: the sneaker-loafer makes a statement in two suede colorways - selecta bisso",
       "url": "https://selectabisso.com/en/Comme-des-Gar%C3%A7ons-x-New-Balance-1890a%3A-The-sneaker-loafer-makes-a-statement-in-two-suede-colorways/",
@@ -10968,6 +11012,20 @@
       "tags": []
     },
     {
+      "id": "3a5b6bb9f8ba144f",
+      "title": "川久保玲からの「幸せな千本ノック」 ギャルソンと協業の帽子職人 - 朝日新聞",
+      "url": "https://www.asahi.com/articles/AST6Z15FZT6ZUCVL02YM.html",
+      "publishedAt": "2025-07-01T07:00:00.000Z",
+      "publisher": "朝日新聞",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-09-17T22:09:52.077Z",
+      "summary": null,
+      "tags": [
+        "インタビュー"
+      ]
+    },
+    {
       "id": "c7d7c75eab8d4da8",
       "title": "「シャーマンのような人が必要」 パリの新作 川久保玲が込めた希望 - 朝日新聞",
       "url": "https://www.asahi.com/articles/AST6X2SZWT6XUCVL004M.html",
@@ -11473,6 +11531,18 @@
       "tags": [
         "インタビュー"
       ]
+    },
+    {
+      "id": "e2ba31e6f1aacd89",
+      "title": "「コムデギャルソン」などの刺しゅうレース製品製造のサン・ハイノ（佐野）に破産手続き開始決定 設備投資で資金繰り困難に - 下野新聞社",
+      "url": "https://www.shimotsuke.co.jp/articles/-/803711",
+      "publishedAt": "2023-10-16T07:00:00.000Z",
+      "publisher": "下野新聞社",
+      "image": "https://soon.ismcdn.jp/mwimgs/d/3/1200wm/img_d352727f750b8ef3bafb59c9841d33d966898.jpg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-09-17T22:09:52.077Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "035ed66050661702",
