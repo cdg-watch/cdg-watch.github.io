@@ -1,12 +1,9 @@
-# CDG Watch 日次ダイジェスト 2026-09-17
+# CDG Watch 日次ダイジェスト 2026-09-18
 
-- **A BATHING APE×コムデギャルソン、2026年秋冬コラボコレクションが9/23発売** — ブランド初期のBAPE CHECK柄などのアーカイブをコムデギャルソン流に再解釈したウェア・アクセサリー一式。BAPE STORE COMME des GARCONS OSAKAでのweb抽選のほかBAPE.COM等の通販サイトでも展開、価格帯16,500円〜77,000円。
-  https://www.fullress.com/a-bathing-ape-comme-des-garcons-2026-fw/
+- **A BATHING APE×コムデギャルソン 26FWコラボ、9/23発売を複数媒体が続報** — uptodate.tokyoとSNKRDUNKが発売情報を追認。BAPE STORE COMME des GARCONS OSAKA限定でのweb抽選販売(9/17〜9/18受付)に加え、uptodate.tokyoの記事で11月1日から通信販売も予定と判明。
+  https://uptodate.tokyo/bape-x-comme-des-garcons-2026fw/
 
-- **Denim Tears×コムデギャルソンパルファムのコラボ香水「Tears」、Complexも報道** — 9/18発売・180ドルの海外向け発売情報を追認。発売日をproductDropsに登録。
-  https://www.complex.com/style/a/treyalston/denim-tears-comme-des-garcones-perfume
+- **⚠古 コムデギャルソン等の刺しゅう加工業者サン・ハイノが破産手続き開始(2023年9月)** — 設備投資に伴う資金繰り悪化とコロナ禍の受注減少が要因。負債総額は約2億9900万円。Google Newsフィード経由で本日新着扱いとなったが初出は2023年。
+  https://www.shimotsuke.co.jp/articles/-/803711
 
-- **コムデギャルソンオムのボーダーTシャツが二次流通で取引対象に** — スニーカーダンクの売買履歴ページに掲載。定価27,500円、ページ内に現在相場の具体的な数値は確認できず。
-  https://snkrdunk.com/apparels/632015/sales-histories
-
-補足: 本日は新着5件を収集、うち1件(下野新聞、コムデギャルソンなど複数ブランドの刺しゅう製造を請け負っていた企業の破産記事で、コムデギャルソンは取引先名として言及されるのみ)は無関係記事として削除し、残り4件を要約。SNKRDUNKのエアマックス95商品情報ページ(2020年発売モデル)は既知の過去モデルの情報ページのため見出しからは割愛。SNKRDUNKのog:image抽出で、HTML実体参照エスケープのJSON内テキストを拾って画像URLに後続のimageUrlsまで混入する不具合を発見し`scripts/collect.js`のextractSiteImage正規表現を非貪欲マッチに修正(対象1件のimageフィールドも修正済み)。今日は木曜のためstoreLaunches更新・週次PRは対象外。directiveラベルのopen Issueなし。
+補足: 本日は新着5件を収集し、うち2件(Sneaker News・朝日新聞の記事)はアクセス制限(HTTP 403)により本文取得不可のため要約は「(要約取得不可)」とした。SNKRDUNKのBAPE×CDG記事は自動タグ付けで出典名から誤って`二次流通`が付与されていたため、記事内容(公式コラボ発売告知)に基づき`コラボ`/`新作`へ修正。schedule.jsonのproductDropsには既に9/23発売分が登録済みのため重複追加はせず。今日は木曜のためstoreLaunches更新・週次PRは対象外。directiveラベルのopen Issueなし。

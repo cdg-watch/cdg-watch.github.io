@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T22:10:04.540Z",
+  "updatedAt": "2026-09-17T22:11:01.635Z",
   "items": [
     {
       "id": "07c0b96df1f5d68f",
@@ -10,10 +10,13 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/e40a1013-c5bb-4fdc-a7ea-36bbdff30af9.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-17T22:09:52.077Z",
-      "summary": null,
+      "summary": "A BATHING APE×コムデギャルソンの2026年秋冬コラボが9月23日にBAPE STORE COMME des GARCONS大阪限定で発売。60年代UKモッズ×バッファロースタイルを取り入れ、ボンバージャケット(7.7万円)などを展開する。",
       "tags": [
-        "二次流通"
-      ]
+        "コラボ",
+        "新作"
+      ],
+      "cluster": "bape-cdg-26fw",
+      "importance": 2
     },
     {
       "id": "1c2089cd0a7385ae",
@@ -24,12 +27,14 @@
       "image": "https://uptodate.tokyo/wp-content/uploads/2026/09/IMG_7697-1024x1024.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-17T22:09:52.077Z",
-      "summary": null,
+      "summary": "BAPE×コムデギャルソンの26FWコラボが9月23日に国内発売。COMME des GARÇONS OSAKA内の限定店舗での先行販売の後、11月1日から通信販売も予定。ブラックウォッチ柄のBAPE CHECKを用いたウェアや小物を展開する。",
       "tags": [
         "コラボ",
         "ショー/コレクション",
         "新作"
-      ]
+      ],
+      "cluster": "bape-cdg-26fw",
+      "importance": 2
     },
     {
       "id": "9cb4a60dc02518a7",
@@ -8480,10 +8485,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-17T22:09:52.970Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "d2fb6529ec6fc773",
@@ -11020,10 +11026,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-17T22:09:52.077Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "インタビュー"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "c7d7c75eab8d4da8",
@@ -11541,8 +11548,11 @@
       "image": "https://soon.ismcdn.jp/mwimgs/d/3/1200wm/img_d352727f750b8ef3bafb59c9841d33d966898.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-17T22:09:52.077Z",
-      "summary": null,
-      "tags": []
+      "summary": "コムデギャルソンなどのブランド向けに婦人服の刺しゅう加工を手がけていたサン・ハイノ(佐野市)が2023年9月に破産手続き開始決定を受けた。設備投資に伴う資金繰り悪化とコロナ禍の受注減少が要因で、負債は約2億9900万円。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "035ed66050661702",
