@@ -1,9 +1,12 @@
-# CDG Watch 日次ダイジェスト 2026-09-18
+# CDG Watch 日次ダイジェスト 2026-09-19
 
-- **A BATHING APE×コムデギャルソン 26FWコラボ、9/23発売を複数媒体が続報** — uptodate.tokyoとSNKRDUNKが発売情報を追認。BAPE STORE COMME des GARCONS OSAKA限定でのweb抽選販売(9/17〜9/18受付)に加え、uptodate.tokyoの記事で11月1日から通信販売も予定と判明。
-  https://uptodate.tokyo/bape-x-comme-des-garcons-2026fw/
+- **A BATHING APE×コム デ ギャルソン 26FWコラボ、価格詳細が判明** — WWD JAPANの記事で、9/23発売のコム デ ギャルソン大阪店限定コラボの全ラインアップと価格(Tシャツ16,500円〜ボンバージャケット77,000円等)が判明。ベイプチェック柄が全アイテムのキーモチーフ。
+  https://www.wwdjapan.com/articles/2500969
 
-- **⚠古 コムデギャルソン等の刺しゅう加工業者サン・ハイノが破産手続き開始(2023年9月)** — 設備投資に伴う資金繰り悪化とコロナ禍の受注減少が要因。負債総額は約2億9900万円。Google Newsフィード経由で本日新着扱いとなったが初出は2023年。
-  https://www.shimotsuke.co.jp/articles/-/803711
+- **PLAY コム デ ギャルソンの期間限定ショップ「MARKET PLAY」が伊勢丹新宿店にオープン** — 9/30〜10/13、メンズ館1階にてルイスレザーズとのコラボライダース(58万円台)やハートロゴ入りアイテムを展開。
+  https://www.fashionsnap.com/article/2026-09-18/play-comme-des-garcons-market-play/
 
-補足: 本日は新着5件を収集し、うち2件(Sneaker News・朝日新聞の記事)はアクセス制限(HTTP 403)により本文取得不可のため要約は「(要約取得不可)」とした。SNKRDUNKのBAPE×CDG記事は自動タグ付けで出典名から誤って`二次流通`が付与されていたため、記事内容(公式コラボ発売告知)に基づき`コラボ`/`新作`へ修正。schedule.jsonのproductDropsには既に9/23発売分が登録済みのため重複追加はせず。今日は木曜のためstoreLaunches更新・週次PRは対象外。directiveラベルのopen Issueなし。
+- **ヴィンテージショップ「ライラ」が南青山に新店「ライラ パリス」をオープン** — コム デ ギャルソンなどのアーカイヴ古着やヴィンテージ家具を扱う、複数デザイナーズブランドを扱うコンセプトショップ。
+  https://www.fashionsnap.com/article/2026-09-18/laila-paris-tokyo/
+
+補足: 本日は新着5件を収集。うち1件(SNKRDUNKのコムデギャルソン×ナイキ ショックス紹介記事)はアクセス制限(HTTP 403)により本文取得不可のため要約は「(要約取得不可)」とした。また同一のMARKET PLAYオープンを報じるHypebeast記事は、fashionsnap記事と内容が重複し本文取得も不可だったため重複記事として削除した。BAPE×CDGコラボは9/23発売分としてschedule.jsonに既存登録済み、MARKET PLAYのオープン日(9/30)をproductDropsに追加。今日は土曜のためstoreLaunches更新・週次PRは対象外。directiveラベルのopen Issueなし。

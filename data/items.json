@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T22:09:51.962Z",
+  "updatedAt": "2026-09-18T22:12:24.530Z",
   "items": [
     {
       "id": "07d6491556e4de51",
@@ -10,10 +10,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-18T22:09:46.055Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "8892f4749fe09243",
@@ -24,10 +25,11 @@
       "image": "https://fashionsnap-assets.com/asset/format=auto,fit=crop,width=300,height=300/article/images/2026/09/aec5cebe-a6e1-4187-9587-2964a3f32ffd.jpg",
       "feed": "FASHIONSNAP",
       "fetchedAt": "2026-09-18T22:09:30.794Z",
-      "summary": null,
+      "summary": "プレイ コム デ ギャルソンの期間限定ショップ「MARKET PLAY」が伊勢丹新宿店メンズ館1階に9月30日〜10月13日でオープン。ハートロゴ入りのTシャツやジャケットなど、ルイスレザーズとのコラボ製品を含む商品を展開する。",
       "tags": [
         "店舗"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "1a6f38b5a025367c",
@@ -38,10 +40,12 @@
       "image": "https://fashionsnap-assets.com/asset/format=auto,fit=crop,width=300,height=300/article/images/2026/09/4576e23f-e110-4543-9c25-11a5c4e4b044.jpg",
       "feed": "FASHIONSNAP",
       "fetchedAt": "2026-09-18T22:09:30.794Z",
-      "summary": null,
+      "summary": "ヴィンテージショップ運営の「ライラ」が東京・南青山にコンセプトショップ「ライラ パリス」を開業。コム デ ギャルソンなどのアーカイヴ古着やヴィンテージ家具、関連書籍を扱う。",
       "tags": [
-        "店舗"
-      ]
+        "店舗",
+        "二次流通"
+      ],
+      "importance": 1
     },
     {
       "id": "cb5ae987117e3c51",
@@ -52,25 +56,13 @@
       "image": "https://media.wwdjapan.com/wp-content/uploads/2026/09/18105510/main-66-150x150.jpg",
       "feed": "WWD JAPAN",
       "fetchedAt": "2026-09-18T22:09:30.411Z",
-      "summary": null,
+      "summary": "ア ベイシング エイプとコム デ ギャルソンの2026-27年秋冬コラボが、コム デ ギャルソン大阪店限定で9月23日に発売。ベイプチェック柄を用いたTシャツやボンバージャケットなど、限定数を展開する。",
       "tags": [
-        "ショー/コレクション",
+        "コラボ",
         "新作"
-      ]
-    },
-    {
-      "id": "3e74d8a8658cc00a",
-      "title": "PLAY COMME des GARÇONS の期間限定ショップ MARKET PLAY が伊勢丹新宿店にオープン - Hypebeast",
-      "url": "https://hypebeast.com/jp/2026/9/play-comme-des-garcons-market-play-isetan-shijuku-info",
-      "publishedAt": "2026-09-18T02:00:20.000Z",
-      "publisher": "Hypebeast",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-09-18T22:09:46.055Z",
-      "summary": null,
-      "tags": [
-        "店舗"
-      ]
+      ],
+      "cluster": "bape-cdg-26fw",
+      "importance": 2
     },
     {
       "id": "07c0b96df1f5d68f",
