@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T22:06:41.088Z",
+  "updatedAt": "2026-09-19T22:09:04.182Z",
   "items": [
     {
       "id": "1f2a3cfdfc35b91b",
@@ -7,13 +7,14 @@
       "url": "https://snkrdunk.com/articles/16218/",
       "publishedAt": "2026-09-19T04:28:11.000Z",
       "publisher": "SNKRDUNK",
-      "image": null,
+      "image": "https://cdn.snkrdunk.com/uploads/media/20231026071658-0.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-19T22:06:32.078Z",
-      "summary": null,
+      "summary": "コム デ ギャルソン オム×ニューバランス1906Rの2023年発売コラボスニーカー(定価4万6,200円)が、スニーカーダンクで5万〜7万5,000円で二次流通している。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "07d6491556e4de51",
@@ -39,10 +40,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20211124091015-1.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-19T22:06:32.078Z",
-      "summary": null,
+      "summary": "CDGラインの「COACH JACKET2」ブラック(2021年発売、定価1万6,500円)が、スニーカーダンクで2万3,000円台から新品・中古で出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "8892f4749fe09243",
@@ -91,20 +93,6 @@
       ],
       "cluster": "bape-cdg-26fw",
       "importance": 2
-    },
-    {
-      "id": "3e74d8a8658cc00a",
-      "title": "PLAY COMME des GARÇONS の期間限定ショップ MARKET PLAY が伊勢丹新宿店にオープン - Hypebeast",
-      "url": "https://hypebeast.com/jp/2026/9/play-comme-des-garcons-market-play-isetan-shijuku-info",
-      "publishedAt": "2026-09-18T02:01:16.000Z",
-      "publisher": "Hypebeast",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-09-19T22:06:32.078Z",
-      "summary": null,
-      "tags": [
-        "店舗"
-      ]
     },
     {
       "id": "07c0b96df1f5d68f",

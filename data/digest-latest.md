@@ -1,12 +1,9 @@
-# CDG Watch 日次ダイジェスト 2026-09-19
+# CDG Watch 日次ダイジェスト 2026-09-20
 
-- **A BATHING APE×コム デ ギャルソン 26FWコラボ、価格詳細が判明** — WWD JAPANの記事で、9/23発売のコム デ ギャルソン大阪店限定コラボの全ラインアップと価格(Tシャツ16,500円〜ボンバージャケット77,000円等)が判明。ベイプチェック柄が全アイテムのキーモチーフ。
-  https://www.wwdjapan.com/articles/2500969
+- **コム デ ギャルソン オム×ニューバランス 1906Rが二次流通で5万〜7.5万円** — 2023年発売のコラボスニーカー(定価46,200円)が、スニーカーダンクで再び取引されている。
+  https://snkrdunk.com/articles/16218/
 
-- **PLAY コム デ ギャルソンの期間限定ショップ「MARKET PLAY」が伊勢丹新宿店にオープン** — 9/30〜10/13、メンズ館1階にてルイスレザーズとのコラボライダース(58万円台)やハートロゴ入りアイテムを展開。
-  https://www.fashionsnap.com/article/2026-09-18/play-comme-des-garcons-market-play/
+- **CDG「COACH JACKET2」ブラックが中古市場で2.3万円台〜** — 2021年発売のジャケット(定価16,500円)が、スニーカーダンクで新品・中古問わず複数サイズ出品中。
+  https://snkrdunk.com/apparels/26702
 
-- **ヴィンテージショップ「ライラ」が南青山に新店「ライラ パリス」をオープン** — コム デ ギャルソンなどのアーカイヴ古着やヴィンテージ家具を扱う、複数デザイナーズブランドを扱うコンセプトショップ。
-  https://www.fashionsnap.com/article/2026-09-18/laila-paris-tokyo/
-
-補足: 本日は新着5件を収集。うち1件(SNKRDUNKのコムデギャルソン×ナイキ ショックス紹介記事)はアクセス制限(HTTP 403)により本文取得不可のため要約は「(要約取得不可)」とした。また同一のMARKET PLAYオープンを報じるHypebeast記事は、fashionsnap記事と内容が重複し本文取得も不可だったため重複記事として削除した。BAPE×CDGコラボは9/23発売分としてschedule.jsonに既存登録済み、MARKET PLAYのオープン日(9/30)をproductDropsに追加。今日は土曜のためstoreLaunches更新・週次PRは対象外。directiveラベルのopen Issueなし。
+補足: 本日は新着3件を収集。うち1件(HypebeastのMARKET PLAY紹介記事)は、9/18に取り込み済みのfashionsnap記事(同一イベント: PLAY コム デ ギャルソン「MARKET PLAY」伊勢丹新宿店、9/30〜10/13)と内容が重複し、本文取得も不可(HTTP 202応答で空)だったため重複記事として削除した。残り2件はいずれも過去発売品の二次流通(リセール)情報のため`二次流通`タグを付与し、schedule.jsonへの新規追加はなし。今日は日曜のためstoreLaunches更新・週次改善提案は対象外。directiveラベルのopen Issueなし。
