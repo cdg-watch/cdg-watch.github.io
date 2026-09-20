@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T22:06:46.012Z",
+  "updatedAt": "2026-09-20T22:08:08.811Z",
   "items": [
     {
       "id": "4206f11370451d73",
@@ -10,10 +10,12 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-20T22:06:38.824Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "cluster": "nike-airmaxtl25-cdg",
+      "importance": 2
     },
     {
       "id": "f0354feac5dfb4b4",
@@ -24,8 +26,10 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-20T22:06:38.824Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [],
+      "cluster": "nike-airmaxtl25-cdg",
+      "importance": 2
     },
     {
       "id": "1f2a3cfdfc35b91b",
@@ -85,7 +89,8 @@
       "tags": [
         "店舗"
       ],
-      "importance": 2
+      "importance": 2,
+      "cluster": "playcdg-marketplay-isetan"
     },
     {
       "id": "1a6f38b5a025367c",
@@ -129,10 +134,12 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-20T22:06:38.353Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "店舗"
-      ]
+      ],
+      "importance": 2,
+      "cluster": "playcdg-marketplay-isetan"
     },
     {
       "id": "07c0b96df1f5d68f",
@@ -160,10 +167,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/2e020d48-69b1-4e1a-b799-c8052a91fb36/10258.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-20T22:06:38.353Z",
-      "summary": null,
+      "summary": "シュプリームとコムデギャルソン シャツのコラボによるスプリットボックスロゴTシャツ(ホワイト)の中古品が、フリマアプリSNKRDUNKに約2.2万円で出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "1c2089cd0a7385ae",
@@ -1260,10 +1268,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/71b02150-f9c8-4530-85d9-6f624eb391c3/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-20T22:06:38.354Z",
-      "summary": null,
+      "summary": "コムデギャルソン オムのロゴ入りウエストバッグ(ブラック)が、フリマアプリSNKRDUNKに新品・中古あわせて1.75万円台から複数出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "16c193a70608c0bb",
