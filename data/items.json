@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-09-19T22:09:04.182Z",
+  "updatedAt": "2026-09-20T22:06:46.012Z",
   "items": [
+    {
+      "id": "4206f11370451d73",
+      "title": "Nike Air Max TL 2.5 'CDG Black' — Black Leather Waves, White Mini Swoosh, CDG Heel Stamp: Where to Buy - Men's Journal",
+      "url": "https://www.mensjournal.com/style/nike-air-max-tl-2-5-cdg-black-price-where-to-buy",
+      "publishedAt": "2026-09-20T11:00:00.000Z",
+      "publisher": "Men's Journal",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-09-20T22:06:38.824Z",
+      "summary": null,
+      "tags": [
+        "コラボ"
+      ]
+    },
+    {
+      "id": "f0354feac5dfb4b4",
+      "title": "Air Max TL 2.5 'CDG White' — Monochrome White, Striped Insoles, CDG Heel Stamp: Where to Buy - Men's Journal",
+      "url": "https://www.mensjournal.com/style/nike-air-max-tl-2-5-cdg-white-price-where-to-buy",
+      "publishedAt": "2026-09-20T00:32:00.000Z",
+      "publisher": "Men's Journal",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-09-20T22:06:38.824Z",
+      "summary": null,
+      "tags": []
+    },
     {
       "id": "1f2a3cfdfc35b91b",
       "title": "11/17発売｜COMME des GARÇONS HOMME × New Balance 1906R 2colors｜抽選/販売/定価情報 - SNKRDUNK",
@@ -95,6 +121,20 @@
       "importance": 2
     },
     {
+      "id": "718d20e8893f3479",
+      "title": "PLAY COMME des GARÇONS の期間限定ショップ MARKET PLAY が伊勢丹新宿店にオープン - hypebeast.com",
+      "url": "https://hypebeast.com/jp/2026/9/play-comme-des-garcons-market-play-isetan-shijuku-info",
+      "publishedAt": "2026-09-18T02:01:16.000Z",
+      "publisher": "hypebeast.com",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-09-20T22:06:38.353Z",
+      "summary": null,
+      "tags": [
+        "店舗"
+      ]
+    },
+    {
       "id": "07c0b96df1f5d68f",
       "title": "A BATHING APE × COMME des GARCONS 26FWコレクションが9/23発売！現代的なUKミックスのストリートスタイルを提案 - SNKRDUNK",
       "url": "https://snkrdunk.com/articles/33337/",
@@ -110,6 +150,20 @@
       ],
       "cluster": "bape-cdg-26fw",
       "importance": 2
+    },
+    {
+      "id": "e0ac279db422b519",
+      "title": "シュプリーム x コムデギャルソン シャツ スプリット ボックス ロゴ Tシャツ \"ホワイト\" - SNKRDUNK",
+      "url": "https://snkrdunk.com/apparels/2695/used/50204727",
+      "publishedAt": "2026-09-17T01:41:07.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/apparel_used_listings/2e020d48-69b1-4e1a-b799-c8052a91fb36/10258.jpeg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-09-20T22:06:38.353Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
     },
     {
       "id": "1c2089cd0a7385ae",
@@ -1196,6 +1250,20 @@
         "新作"
       ],
       "importance": 2
+    },
+    {
+      "id": "232fba8cbd36b3b8",
+      "title": "COMME des GARCONS HOMME CdG Homme Logo Waist Bag \"Black\"の新品/中古服・ブランド古着通販｜スニダン - SNKRDUNK",
+      "url": "https://snkrdunk.com/apparels/880255",
+      "publishedAt": "2026-08-23T17:17:09.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/apparel_used_listings/71b02150-f9c8-4530-85d9-6f624eb391c3/8198509.jpeg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-09-20T22:06:38.354Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
     },
     {
       "id": "16c193a70608c0bb",
