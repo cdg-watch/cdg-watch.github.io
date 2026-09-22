@@ -10,8 +10,11 @@
       "image": "https://images.oceans.tokyo.jp/media/snap/12608/images/main_image_6a9f562e7f8f5d5d83b47c4f263b3329d49f51a9.jpeg?h=1200",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-22T22:19:03.492Z",
-      "summary": null,
-      "tags": []
+      "summary": "表参道でのストリートスナップ企画で、50代男性がコムデギャルソンのシアージャケットを黒縁メガネなどと合わせたコーディネートが紹介されている。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "3a15741d82ce8557",
@@ -1461,10 +1464,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGBK-0002.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-22T22:19:03.492Z",
-      "summary": null,
+      "summary": "フリマアプリSNKRDUNKに、BLACK COMME des GARCONSのポリエステル/コットンツイル切替パッチワーク加工ジャケット(定価129,800円)の取引ページが掲載されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "96a73bf3dd4ea486",

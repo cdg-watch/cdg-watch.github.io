@@ -1,6 +1,8 @@
-# CDG Watch 日次ダイジェスト 2026-09-22
+# CDG Watch 日次ダイジェスト 2026-09-23
 
-- **Denim Tears × コムデギャルソン パルファム「Tears」が発売** — ジョージアの赤土と綿畑を雨上がりにイメージした香水で、Denim Tears公式サイトやDover Street Market、コムデギャルソン店舗などで取り扱う。
-  https://shopping.yahoo.com/beauty/fragrance/articles/denim-tears-releasing-perfume-comme-011827944.html
+- **コムデギャルソンのシアージャケット、表参道スナップで紹介** — OCEANSの街角スナップ企画で、50代男性がコムデギャルソンのシアージャケットを黒縁メガネと合わせたコーディネートが取り上げられた。
+  https://oceans.tokyo.jp/snap/detail/12608
+- **⚠古 BLACK COMME des GARCONSのパッチワークジャケット、SNKRDUNKに取引ページ** — フリマアプリSNKRDUNKに定価129,800円のパッチワーク加工ジャケットの二次流通取引ページが掲載されている。
+  https://snkrdunk.com/apparels/644517/sales-histories
 
-補足: 本日の新着収集は1件のみ(要約対象も1件で全て処理済み)。二次流通タグが自動付与されていたが、内容は公式コラボの新作発表だったため`新作`・`コラボ`に修正。schedule.jsonのproductDropsには同記事の発売情報が既に9/18付で登録済みのため追加なし。CDG FREAKスケジュール確認・storeLaunches更新は月曜のみのため本日はスキップ(JST火曜)。directiveラベルのopen Issue・DIRECTIVES.mdともになし。
+補足: 本日の新着収集は2件、要約対象も2件で全て処理済み(バックログのnull summary項目もこの2件のみで残枠消化の必要なし)。schedule.jsonに追加すべき新規の発売日情報はなし(2件とも街角スナップ・二次流通取引情報で発売日の記載なし)。CDG FREAKスケジュール確認・storeLaunches更新は月曜のみのため本日はスキップ(JST水曜)。directiveラベルのopen Issue・DIRECTIVES.mdともになし。
