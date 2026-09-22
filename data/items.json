@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-21T22:07:17.905Z",
+  "updatedAt": "2026-09-22T22:19:10.310Z",
   "items": [
+    {
+      "id": "14970b0eb0e6966b",
+      "title": "コムデギャルソンのジャケットコーディネート | 260922-0710-47 - OCEANS オーシャンズ",
+      "url": "https://oceans.tokyo.jp/snap/detail/12608",
+      "publishedAt": "2026-09-21T23:30:38.000Z",
+      "publisher": "OCEANS オーシャンズ",
+      "image": "https://images.oceans.tokyo.jp/media/snap/12608/images/main_image_6a9f562e7f8f5d5d83b47c4f263b3329d49f51a9.jpeg?h=1200",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-09-22T22:19:03.492Z",
+      "summary": null,
+      "tags": []
+    },
     {
       "id": "3a15741d82ce8557",
       "title": "Denim Tears Is Releasing a New Perfume With Comme Des Garçons - Yahoo",
@@ -1439,6 +1451,20 @@
         "二次流通"
       ],
       "importance": 1
+    },
+    {
+      "id": "52ddab6812a83181",
+      "title": "BLACK COMME des GARCONS Polyester Twill x Cotton Twill Patchwork Garment Treated Jacket \"Black/White\" - SNKRDUNK",
+      "url": "https://snkrdunk.com/apparels/644517/sales-histories",
+      "publishedAt": "2026-08-22T19:04:15.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGBK-0002.webp",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-09-22T22:19:03.492Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
     },
     {
       "id": "96a73bf3dd4ea486",
