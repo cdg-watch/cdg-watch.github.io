@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T22:19:16.821Z",
+  "updatedAt": "2026-09-23T22:20:44.234Z",
   "items": [
     {
       "id": "19a76db86097c24a",
@@ -10,10 +10,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-23T22:19:11.041Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "14970b0eb0e6966b",
@@ -6305,8 +6306,11 @@
       "image": "https://images.oceans.tokyo.jp/media/article/54621/images/editor/8a32af234ba37963ecf3b575b396e6d27684a0d1.jpg?h=851",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-23T22:19:10.654Z",
-      "summary": null,
-      "tags": []
+      "summary": "OCEANSのスタイルスナップ企画で、モデルがコム デ ギャルソンのショーツを主役にしたコーディネートを紹介。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "0845e6a5f020087a",
@@ -8458,8 +8462,11 @@
       "image": "https://images.oceans.tokyo.jp/media/article/53741/images/editor/5141e0c989e75709292df1206e501660b763a305.jpg?w=850",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-23T22:19:10.654Z",
-      "summary": null,
-      "tags": []
+      "summary": "OCEANSの街角スナップ企画で、コム デ ギャルソン オムの定番ウールサージ縮絨コートを着用した冬コーデ例を紹介。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "edc6bcf67bffcf2d",
