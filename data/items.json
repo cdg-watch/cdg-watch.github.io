@@ -1,6 +1,59 @@
 {
-  "updatedAt": "2026-09-23T22:20:44.234Z",
+  "updatedAt": "2026-09-24T22:06:26.057Z",
   "items": [
+    {
+      "id": "dbbc1054b01b1e3c",
+      "title": "Wait, Is CDG Play Getting Serious? - Highsnobiety",
+      "url": "https://www.highsnobiety.com/p/cdg-play-market/",
+      "publishedAt": "2026-09-24T21:22:01.000Z",
+      "publisher": "Highsnobiety",
+      "image": "https://www.highsnobiety.com/static-assets/dato/1790159598-cdg-play-01.jpeg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-09-24T22:06:18.673Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "344b3bdd874e9069",
+      "title": "プレイ・コム デ ギャルソンの青山店限定ハートTシャツ、サークルモチーフ＆一筆書きグラフィック",
+      "url": "https://www.fashion-press.net/news/151270",
+      "publishedAt": "2026-09-24T15:00:00.000Z",
+      "publisher": "ファッションプレス",
+      "image": "https://www.fashion-press.net/img/news/151270/top.jpg?1789712405",
+      "feed": "Fashion Press",
+      "fetchedAt": "2026-09-24T22:06:17.482Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "3906ce3660e0f019",
+      "title": "コム デ ギャルソン・パルファムが「デニム ティアーズ」とコラボ　フレグランス発売",
+      "url": "https://www.fashionsnap.com/article/2026-09-24/comme-des-garcons-tears/",
+      "publishedAt": "2026-09-24T08:13:35.000Z",
+      "publisher": null,
+      "image": "https://fashionsnap-assets.com/asset/format=auto,fit=crop,width=300,height=300/article/images/2026/09/60d02251-e8d3-4428-9f49-2b71034af674.jpg",
+      "feed": "FASHIONSNAP",
+      "fetchedAt": "2026-09-24T22:06:00.942Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "新作"
+      ]
+    },
+    {
+      "id": "fba45ee51aca6b05",
+      "title": "【大人のコム デ ギャルソン】「PLAY」の期間限定店で狙うべきアイテムを一挙掲載！【伊勢丹新宿店メンズ館｜9月30日～10月13日】 - UOMO",
+      "url": "https://www.webuomo.jp/fashion/news/2026-09-21-2QRe-Q/",
+      "publishedAt": "2026-09-24T02:00:00.000Z",
+      "publisher": "UOMO",
+      "image": "https://img.webuomo.jp/article/sns/image/e1/e160f043-faf0-414b-ad01-2a036a3bdd3f-1200x630.jpg",
+      "feed": "WEB UOMO (Google News経由)",
+      "fetchedAt": "2026-09-24T22:06:17.793Z",
+      "summary": null,
+      "tags": [
+        "店舗"
+      ]
+    },
     {
       "id": "19a76db86097c24a",
       "title": "Monochrome Luxury Sneaker Treatments: COMME des GARÇONS and Jordan Reworked the Air… - Trend Hunter",
@@ -236,6 +289,20 @@
       ],
       "cluster": "bape-cdg-26fw",
       "importance": 2
+    },
+    {
+      "id": "b941a92fd45eb428",
+      "title": "ヨウジヤマモト・コムデギャルソン限定の古着屋 中古市場は「狭く広く」 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOCD141N70U6A910C2000000/",
+      "publishedAt": "2026-09-16T20:00:00.000Z",
+      "publisher": "日本経済新聞",
+      "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3593215014092026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.48&fp-y=0.48&h=630&upscale=false&w=1200&s=983b4c85a2e20cf19780c84e31d535b0",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-09-24T22:06:18.202Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
     },
     {
       "id": "9cb4a60dc02518a7",
