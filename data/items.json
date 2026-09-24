@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T22:06:26.057Z",
+  "updatedAt": "2026-09-24T22:07:58.721Z",
   "items": [
     {
       "id": "dbbc1054b01b1e3c",
@@ -10,8 +10,14 @@
       "image": "https://www.highsnobiety.com/static-assets/dato/1790159598-cdg-play-01.jpeg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-24T22:06:18.673Z",
-      "summary": null,
-      "tags": []
+      "summary": "PLAY COMME des GARÇONSの東京ポップアップ「MARKET PLAY」で、ハート装飾を効かせた新コレクションが展開される。目玉はLewis Leathersとのコラボライダースジャケットで、従来の可愛らしいイメージから脱した大胆なデザインとして紹介されている。",
+      "tags": [
+        "新作",
+        "コラボ",
+        "店舗"
+      ],
+      "cluster": "playcdg-marketplay-isetan",
+      "importance": 2
     },
     {
       "id": "344b3bdd874e9069",
@@ -22,8 +28,12 @@
       "image": "https://www.fashion-press.net/img/news/151270/top.jpg?1789712405",
       "feed": "Fashion Press",
       "fetchedAt": "2026-09-24T22:06:17.482Z",
-      "summary": null,
-      "tags": []
+      "summary": "コム デ ギャルソン青山店限定で、サークルモチーフ×ハートのデザインと一筆書きロゴ×ハートのデザインの2種のTシャツ(各12,100円)・ロングスリーブTシャツ(各15,400円)が9月30日に発売される。",
+      "tags": [
+        "新作",
+        "店舗"
+      ],
+      "importance": 1
     },
     {
       "id": "3906ce3660e0f019",
@@ -34,11 +44,13 @@
       "image": "https://fashionsnap-assets.com/asset/format=auto,fit=crop,width=300,height=300/article/images/2026/09/60d02251-e8d3-4428-9f49-2b71034af674.jpg",
       "feed": "FASHIONSNAP",
       "fetchedAt": "2026-09-24T22:06:00.942Z",
-      "summary": null,
+      "summary": "コム デ ギャルソン・パルファムがDenim Tearsとコラボしたフレグランス「ティアーズ」(50mL・31,900円)を発売。雨上がりのコットン畑をイメージした香りで、阪急うめだ本店やドーバーストリートマーケット銀座などで先行販売中、10月1日から取扱店舗で一般発売される。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "cluster": "cdg-parfums-denimtears-tears",
+      "importance": 2
     },
     {
       "id": "fba45ee51aca6b05",
@@ -49,10 +61,13 @@
       "image": "https://img.webuomo.jp/article/sns/image/e1/e160f043-faf0-414b-ad01-2a036a3bdd3f-1200x630.jpg",
       "feed": "WEB UOMO (Google News経由)",
       "fetchedAt": "2026-09-24T22:06:17.793Z",
-      "summary": null,
+      "summary": "伊勢丹新宿店メンズ館の期間限定ショップ「MARKET PLAY」(9月30日〜10月13日)で、赤と緑のハートを効かせたTシャツやバッグ、アウターに加え、Lewis Leathersとのコラボライダースジャケット(580,800円〜598,400円)などが販売される。",
       "tags": [
-        "店舗"
-      ]
+        "店舗",
+        "新作"
+      ],
+      "cluster": "playcdg-marketplay-isetan",
+      "importance": 2
     },
     {
       "id": "19a76db86097c24a",
@@ -299,10 +314,11 @@
       "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3593215014092026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.48&fp-y=0.48&h=630&upscale=false&w=1200&s=983b4c85a2e20cf19780c84e31d535b0",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-24T22:06:18.202Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "9cb4a60dc02518a7",
