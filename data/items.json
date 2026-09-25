@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T22:07:58.721Z",
+  "updatedAt": "2026-09-25T22:07:06.376Z",
   "items": [
     {
       "id": "dbbc1054b01b1e3c",
@@ -98,6 +98,20 @@
         "その他"
       ],
       "importance": 1
+    },
+    {
+      "id": "d02250aaf6785db8",
+      "title": "The Nike Air Max Dolce Stuns In “Electric Blue” - Sneaker News",
+      "url": "https://sneakernews.com/2026/09/21/nike-air-max-dolce-electric-blue-black-ib4527-400/",
+      "publishedAt": "2026-09-21T17:30:02.000Z",
+      "publisher": "Sneaker News",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-09-25T22:06:57.347Z",
+      "summary": null,
+      "tags": [
+        "コラボ"
+      ]
     },
     {
       "id": "3a15741d82ce8557",
@@ -8582,6 +8596,20 @@
       "importance": 1
     },
     {
+      "id": "3beb8db691ca04d7",
+      "title": "COMME des GARCONS HOMME Yarn-Dyed Cotton Serge Jacket \"Dark Brown\" - SNKRDUNK",
+      "url": "https://snkrdunk.com/apparels/759896",
+      "publishedAt": "2026-02-06T08:00:00.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/6592a6b8-cc88-4b2d-ae55-d7236ab7aca2.webp",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-09-25T22:06:56.878Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
+    },
+    {
       "id": "992bc3a0438021ad",
       "title": "COMME des GARCONS HOMME Leather Collar Coverall Jacket \"Black\"の新品/中古服・ブランド古着通販｜スニダン - SNKRDUNK",
       "url": "https://snkrdunk.com/apparels/759892",
@@ -10331,6 +10359,20 @@
       ]
     },
     {
+      "id": "538c463b6cb8c1cb",
+      "title": "「コンバース」とのコラボスニーカー。遊び心ある一足が履くだけで気分が上がる！ - mi-mollet（ミモレ）",
+      "url": "https://mi-mollet.com/articles/-/57248",
+      "publishedAt": "2025-11-22T08:00:00.000Z",
+      "publisher": "mi-mollet（ミモレ）",
+      "image": "https://mi-mollet.ismcdn.jp/mwimgs/a/7/-/img_a7132c97b1138471b756abea9da662a6996480.jpg?rd=202609161712",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-09-25T22:06:56.878Z",
+      "summary": null,
+      "tags": [
+        "コラボ"
+      ]
+    },
+    {
       "id": "8553aaa5ad96c542",
       "title": "COMME des GARCONS HOMME Worsted Wool Jersey \"Black\"の新品/中古服・ブランド古着通販｜スニダン - SNKRDUNK",
       "url": "https://snkrdunk.com/apparels/726987",
@@ -11865,6 +11907,20 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-07-10T03:22:18.097Z",
       "summary": "(要約取得不可)",
+      "tags": [
+        "インタビュー"
+      ]
+    },
+    {
+      "id": "23a167e598c58784",
+      "title": "川久保玲の現在地②酒は飲みますか？「逃げるっていうこと、しない」 - 朝日新聞",
+      "url": "https://www.asahi.com/articles/ASRC25H16RC1ULZU00G.html",
+      "publishedAt": "2023-11-04T07:00:00.000Z",
+      "publisher": "朝日新聞",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-09-25T22:06:56.879Z",
+      "summary": null,
       "tags": [
         "インタビュー"
       ]
