@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T22:07:06.376Z",
+  "updatedAt": "2026-09-25T22:09:29.352Z",
   "items": [
     {
       "id": "dbbc1054b01b1e3c",
@@ -105,13 +105,14 @@
       "url": "https://sneakernews.com/2026/09/21/nike-air-max-dolce-electric-blue-black-ib4527-400/",
       "publishedAt": "2026-09-21T17:30:02.000Z",
       "publisher": "Sneaker News",
-      "image": null,
+      "image": "https://sneakernews.com/wp-content/uploads/2026/09/nike-air-max-dolce-electric-blue-black-IB4527-400.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-25T22:06:57.347Z",
-      "summary": null,
+      "summary": "Nike Air Max Dolceは元々コムデギャルソンとのコラボから生まれたシルエットで、その新色「エレクトリックブルー」(黒との切り替え、170ドル)が2026年秋冬に一般発売される。",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "3a15741d82ce8557",
@@ -8604,10 +8605,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/6592a6b8-cc88-4b2d-ae55-d7236ab7aca2.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-25T22:06:56.878Z",
-      "summary": null,
+      "summary": "コムデギャルソン オムの先染めコットンサージジャケット「ダークブラウン」(定価13万2000円、2026年2月発売、品番HQ-J001-051)がSNKRDUNKで二次流通に出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "992bc3a0438021ad",
@@ -10367,10 +10369,11 @@
       "image": "https://mi-mollet.ismcdn.jp/mwimgs/a/7/-/img_a7132c97b1138471b756abea9da662a6996480.jpg?rd=202609161712",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-25T22:06:56.878Z",
-      "summary": null,
+      "summary": "ファッションブログmi-molletのコーデ記事で、実家で見つけたプレイコムデギャルソン×コンバースのコラボスニーカーを使ったコーディネートが紹介されている。",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "8553aaa5ad96c542",
@@ -11917,13 +11920,14 @@
       "url": "https://www.asahi.com/articles/ASRC25H16RC1ULZU00G.html",
       "publishedAt": "2023-11-04T07:00:00.000Z",
       "publisher": "朝日新聞",
-      "image": null,
+      "image": "https://imgopt.asahi.com/ogp/AS20231102002348_comm.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-25T22:06:56.879Z",
-      "summary": null,
+      "summary": "朝日新聞のインタビュー連載「川久保玲の現在地」第2回。40年以上コレクションを作り続ける中で新しい発想を生み出す難しさや、酒に逃げず仕事に向き合う姿勢について川久保玲氏が語っている。",
       "tags": [
         "インタビュー"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "9b9ffa2e7a35356c",
