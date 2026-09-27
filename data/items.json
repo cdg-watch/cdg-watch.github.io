@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T22:07:53.360Z",
+  "updatedAt": "2026-09-27T22:09:13.577Z",
   "items": [
     {
       "id": "bcace97b1cef195e",
@@ -10,11 +10,12 @@
       "image": "https://img.webuomo.jp/article/sns/image/99/99c1333f-5718-4352-b8db-194df306d37e-1200x630.jpg",
       "feed": "WEB UOMO (Google News経由)",
       "fetchedAt": "2026-09-27T22:07:41.248Z",
-      "summary": null,
+      "summary": "eYe ジュンヤ ワタナベ マン×ザ・ノース・フェイスのコラボから、1970年代アーカイブを基にしたボンバージャケット(176,000円)とマウンテンジャケット(297,000円)が秋の新作アウターとして紹介されている。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "58fe7570c8ccb38a",
@@ -25,8 +26,11 @@
       "image": "https://techbullion.com/wp-content/uploads/2026/09/32-700x600.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-09-27T22:07:42.124Z",
-      "summary": null,
-      "tags": []
+      "summary": "コムデギャルソンのPLAYラインのハートロゴやコンバースとのコラボを例に、同ブランドがストリートウェア文化に与えてきた影響を論じた文化評論記事で、新作や新規コラボの発表は含まれていない。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "dbbc1054b01b1e3c",
@@ -150,10 +154,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/1150dd9e-6ab7-4495-a507-11d775279ddc/10258.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-27T22:07:41.630Z",
-      "summary": null,
+      "summary": "シュプリーム×コムデギャルソン シャツのボックスロゴフーディー(2017年秋冬、黒・Mサイズ)の中古出品で、SNKRDUNK上で20,000円(売り切れ)、目立った傷汚れなしのB評価とされている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "3a15741d82ce8557",
@@ -7628,8 +7633,11 @@
       "image": "https://img-mdpr.freetls.fastly.net/article/MFlm/nm/MFlm8APIUAFFuIZv1CmcvqpsejPA-Tvpc19MMsXFCAk.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-27T22:07:41.630Z",
-      "summary": null,
-      "tags": []
+      "summary": "歌手のアグネス・チャンが30年以上前に発売されたコムデギャルソンのミニ丈ワンピースを着用した近況カットが紹介されており、新作情報ではなくスタイリング紹介記事。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "37fd89ef1233b080",
