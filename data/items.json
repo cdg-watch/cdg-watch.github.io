@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T22:07:08.512Z",
+  "updatedAt": "2026-09-29T22:08:04.498Z",
   "items": [
     {
       "id": "11a2c1bc83b17a9d",
@@ -10,10 +10,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20240717031624-0.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-29T22:07:00.708Z",
-      "summary": null,
+      "summary": "COMME des GARÇONS HOMME PLUS × Nike Air Foamposite One「Olympic」(2024年7月19日発売・定価55,000円)の二次流通価格情報。スニーカーダンクでは99,999円台から購入可能。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "bb193219f5093394",
@@ -24,8 +25,11 @@
       "image": "https://hubemag.com/wp-content/uploads/2026/09/DSMP-YUKIO-NAKAGAWA_Installation_Photography-17-1-1024x769.png",
       "feed": "HUBE",
       "fetchedAt": "2026-09-29T22:06:58.110Z",
-      "summary": null,
-      "tags": []
+      "summary": "Dover Street Market Paris(オテル・ド・クーランジュ)で、いけばな作家・中川幸夫による前衛的なフラワーインスタレーション「Yukio Nakagawa by Comme des Garçons」が9月25日から展開されている。枯れゆく花を用いて生と死を表現する内容。",
+      "tags": [
+        "店舗"
+      ],
+      "importance": 2
     },
     {
       "id": "bcace97b1cef195e",
@@ -2171,8 +2175,11 @@
       "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/streetstyle/images/2026/08/db696ca4-c016-4417-930f-17739c7c831e.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-09-29T22:07:00.708Z",
-      "summary": null,
-      "tags": []
+      "summary": "fashionsnap.comのストリートスナップ企画で、東京在住の男性会社員がCOMME des GARÇONS HOMME PLUSのトップス・ボトムスとCOMME des GARÇONSのインナーを着用したコーディネートを紹介。本人はコムデギャルソン関連のYouTubeチャンネルも運営しているという。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "e5ca48af45cb2b93",
