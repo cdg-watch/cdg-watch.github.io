@@ -11,34 +11,51 @@ const SITE = "https://cdg-watch.github.io/";
 const TAGS = "#コムデギャルソン #CommeDesGarcons #CDG";
 
 function parseDigest(md) {
-  // 箇条書きを拾う。現行形式「- **見出し** — 本文\n  URL」と、
-  // 旧形式「- **見出し**\n  本文\n  URL」(見出し・本文が別行)の両方に対応する
-  // (2026-08-24 Issue #27: 現行digest形式にparseDigest()が追従しておらず失敗していた不具合の修正)。
+  // 箇条書きを拾う。現行形式「- **見出し** — 本文…。[ラベル](URL)」(本文末尾に
+  // インラインMarkdownリンクでURLが埋め込まれる、AGENTS.md手順6の書式)と、
+  // 旧形式「- **見出し**\n  本文\n  URL」(見出し・本文・URLが別行)の両方に対応する
+  // (2026-08-24 Issue #27 → 同一行body化には対応したがインラインリンクは未対応のまま
+  // 残っていた不具合を 2026-09-30 Issue #33 で修正)。
+  // 見出し先頭の「⚠古」(AGENTS.md 2026-07-13指示: 7日超の古い記事につけるマーカー)が
+  // あってもタイトルとして拾えるようにする。
   const lines = md.split("\n");
   const blocks = [];
   for (let i = 0; i < lines.length; i++) {
-    const titleM = lines[i].match(/^-\s*\*\*(.+?)\*\*\s*(?:—\s*(.*))?$/);
+    const titleM = lines[i].match(/^-\s*(?:⚠古\s*)?\*\*(.+?)\*\*\s*(?:—\s*(.*))?$/);
     if (!titleM) continue;
     const title = titleM[1].trim();
     let body = (titleM[2] || "").trim();
+    let url = null;
+
+    // 現行形式: 本文末尾のインラインMarkdownリンク [ラベル](URL) からURLを抽出
+    const inlineM = body.match(/\[[^\]]*\]\((https?:\/\/[^\s)]+)\)\s*$/);
+    if (inlineM) {
+      url = inlineM[1];
+      body = body.slice(0, inlineM.index).trim();
+    }
+
     let j = i + 1;
-    if (!body) {
-      // 本文が同一行にない(旧形式) → 次の非空行を本文として拾う
-      while (j < lines.length && !lines[j].trim()) j++;
-      if (j < lines.length && !/^https?:\/\//.test(lines[j].trim())) {
-        body = lines[j].trim();
+    if (!url) {
+      if (!body) {
+        // 本文が同一行にない(旧形式) → 次の非空行を本文として拾う
+        while (j < lines.length && !lines[j].trim()) j++;
+        if (j < lines.length && !/^https?:\/\//.test(lines[j].trim())) {
+          body = lines[j].trim();
+          j++;
+        }
+      }
+      // URL行を探す(次の項目やまとめの注記に入ってしまったら諦める)
+      while (j < lines.length && !/^https?:\/\//.test(lines[j].trim())) {
+        const t = lines[j].trim();
+        if (t.startsWith("-") || t.startsWith(">")) { j = -1; break; }
         j++;
       }
+      if (j >= 0 && j < lines.length) {
+        const urlM = lines[j].trim().match(/^(https?:\/\/\S+)/);
+        if (urlM) url = urlM[1];
+      }
     }
-    // URL行を探す(次の項目やまとめの注記に入ってしまったら諦める)
-    while (j < lines.length && !/^https?:\/\//.test(lines[j].trim())) {
-      const t = lines[j].trim();
-      if (t.startsWith("-") || t.startsWith(">")) { j = -1; break; }
-      j++;
-    }
-    if (j < 0 || j >= lines.length) continue;
-    const urlM = lines[j].trim().match(/^(https?:\/\/\S+)/);
-    if (urlM) blocks.push({ title, body, url: urlM[1] });
+    if (url) blocks.push({ title, body, url });
   }
   return blocks;
 }
