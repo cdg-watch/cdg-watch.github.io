@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T22:09:42.991Z",
+  "updatedAt": "2026-09-30T22:12:50.858Z",
   "items": [
     {
       "id": "1fdf12f04baf96a9",
@@ -10,11 +10,13 @@
       "image": "https://media.wwdjapan.com/wp-content/uploads/2026/09/30131232/IMG_6379_1200x900-1-150x150.jpg",
       "feed": "WWD JAPAN",
       "fetchedAt": "2026-09-30T22:09:18.525Z",
-      "summary": null,
+      "summary": "伊勢丹新宿店メンズ館で9/30〜10/13開催の期間限定店「マーケット プレイ」に、プレイ・コム デ ギャルソン×ルイスレザーズのコラボ商品(ハート柄ライダースジャケット58万〜60万円など全18型)が登場。初日の事前抽選には300人超が応募し当選は約90人、10/7からは福岡・岩田屋本店でも規模縮小して開催予定。",
       "tags": [
         "コラボ",
         "店舗"
-      ]
+      ],
+      "importance": 2,
+      "cluster": "play-cdg-lewisleathers-isetan"
     },
     {
       "id": "6f172584b0209a66",
@@ -25,10 +27,13 @@
       "image": "https://www.fashion-press.net/img/news/151278/top.jpg?1790583589",
       "feed": "Fashion Press",
       "fetchedAt": "2026-09-30T22:09:31.108Z",
-      "summary": null,
+      "summary": "伊勢丹新宿店メンズ館1階に9/30〜10/13、プレイ・コム デ ギャルソンとルイスレザーズのコラボ商品を扱う期間限定店「マーケット プレイ」がオープン。屋台風什器の会場でハート柄ライダースジャケット(58万円台)やコート、Tシャツなど全18型を販売。",
       "tags": [
-        "コラボ"
-      ]
+        "コラボ",
+        "店舗"
+      ],
+      "importance": 2,
+      "cluster": "play-cdg-lewisleathers-isetan"
     },
     {
       "id": "11a2c1bc83b17a9d",
