@@ -5940,8 +5940,11 @@
       "image": "https://wwd.com/wp-content/uploads/2026/06/comme-des-garcong-ss-27-men-rtw-pfw-fr-sf-0001.jpg?crop=0px%2C107px%2C3168px%2C1772px&resize=1000%2C563",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-02T22:07:22.541Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 1
     },
     {
       "id": "ab3b0a42a4d02ca2",
