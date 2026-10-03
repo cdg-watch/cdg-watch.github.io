@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T22:06:27.426Z",
+  "updatedAt": "2026-10-03T22:07:55.755Z",
   "items": [
     {
       "id": "fd04f1261ca6e10f",
@@ -10,8 +10,12 @@
       "image": "https://wwd.com/wp-content/uploads/2026/10/comme-des-garcons-spring-2027-rtw-r-gg0001.jpg?crop=0px%2C50px%2C1365px%2C763px&resize=1000%2C563",
       "feed": "WWD",
       "fetchedAt": "2026-10-03T22:06:08.651Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 3,
+      "cluster": "cdg-ss2027-paris-show"
     },
     {
       "id": "d4437b29bdd1788a",
@@ -22,10 +26,12 @@
       "image": "https://www.fashion-press.net/img/news/151650/top.jpg?1791053293",
       "feed": "Fashion Press",
       "fetchedAt": "2026-10-03T22:06:17.994Z",
-      "summary": null,
+      "summary": "コム デ ギャルソンが2026年10月3日のパリ2027年春夏コレクションで、デニムやワークウェアなど普段使いの生地を膨らませ、18世紀の宮廷ドレスを思わせる豪華なシルエットへ変貌させた。モデルは巨大な白い王冠を身につけ、日常着と王侯の装いの対比を表現した。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 3,
+      "cluster": "cdg-ss2027-paris-show"
     },
     {
       "id": "845475dcc567e423",
@@ -33,13 +39,15 @@
       "url": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/comme-des-garcons",
       "publishedAt": "2026-10-03T16:09:02.000Z",
       "publisher": "Vogue",
-      "image": null,
+      "image": "https://assets.vogue.com/photos/6ac15095255cb44abc30a9b9/16:9/pass/00001-comme-des-garcons-spring-2027-ready-to-wear-credit-gorunway.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-03T22:06:19.103Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 3,
+      "cluster": "cdg-ss2027-paris-show"
     },
     {
       "id": "25bb72802328bf4a",
