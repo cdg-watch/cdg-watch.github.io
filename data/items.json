@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T22:06:55.066Z",
+  "updatedAt": "2026-10-04T22:09:41.901Z",
   "items": [
     {
       "id": "6dacdc40b8626a88",
@@ -10,7 +10,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-04T22:06:42.129Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -22,10 +22,12 @@
       "image": "https://images-prod.dazeddigital.com/1200/0-451-1362-908/azure/dazed-prod/1450/6/1456893.jpg",
       "feed": "Dazed",
       "fetchedAt": "2026-10-04T22:06:36.302Z",
-      "summary": null,
+      "summary": "川久保玲のSS27ショーを振り返るレビュー。王冠型ヘッドピースや彫刻的なシルエットなど、豪華さと日常性を融合させた表現を評価している。",
       "tags": [
-        "インタビュー"
-      ]
+        "ショー/コレクション"
+      ],
+      "cluster": "cdg-ss27-show-paris",
+      "importance": 3
     },
     {
       "id": "a986056d92f993a7",
@@ -36,7 +38,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-04T22:06:42.129Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -48,8 +50,12 @@
       "image": "https://10magazine.com/wp-content/uploads/2026/10/comme.jpg",
       "feed": "10 Magazine",
       "fetchedAt": "2026-10-04T22:06:37.992Z",
-      "summary": null,
-      "tags": []
+      "summary": "SS27 Ready-to-Wearコレクションのレビュー。生デニムのドレスや縞模様の目打ち生地など、身近な素材を高級に扱う対比の手法を紹介している。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "cluster": "cdg-ss27-show-paris",
+      "importance": 3
     },
     {
       "id": "72731f7216cc8424",
@@ -60,8 +66,12 @@
       "image": "https://www.crash.fr/wp-content/themes/foliogrid-pro/img/facebook.png",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-04T22:06:42.129Z",
-      "summary": null,
-      "tags": []
+      "summary": "SS27ショーのレビュー。丸みを帯びた彫刻的なパーツで身体を拡張する「新しい解剖学」や、王室的な髪型のヘッドピースを紹介している。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "cluster": "cdg-ss27-show-paris",
+      "importance": 3
     },
     {
       "id": "93c6cebf7be89d71",
@@ -72,8 +82,12 @@
       "image": "https://media.wwdjapan.com/wp-content/uploads/2026/10/04152017/20261004_COMME-DES-GARCONS-_og-150x150.jpg",
       "feed": "WWD JAPAN",
       "fetchedAt": "2026-10-04T22:06:30.020Z",
-      "summary": null,
-      "tags": []
+      "summary": "SS27ショーの詳細レポート。貴族的な素材と日常的な水玉・PVCなどを組み合わせ、フィナーレではデニムのみで貴族的なシルエットを表現したと報じている。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "cluster": "cdg-ss27-show-paris",
+      "importance": 3
     },
     {
       "id": "c818063ac1da551a",
@@ -84,7 +98,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-04T22:06:42.129Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -96,10 +110,12 @@
       "image": "https://fashionsnap-assets.com/asset/format=auto,fit=crop,width=300,height=300/collection/images/2026/10/7ec29187-3cea-4b08-8668-eee858a32443.jpg",
       "feed": "FASHIONSNAP",
       "fetchedAt": "2026-10-04T22:06:30.223Z",
-      "summary": null,
+      "summary": "SS27コレクションのルック写真ギャラリー。大衆的なデニムと王族的な過剰装飾を対比させた衣装を多数掲載している。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "cluster": "cdg-ss27-show-paris",
+      "importance": 2
     },
     {
       "id": "ddb13140f9be30d7",
@@ -110,11 +126,12 @@
       "image": "https://fashionsnap-assets.com/asset/format=auto,fit=crop,width=300,height=300/article/images/2026/10/2d045ade-4daf-4b99-ac00-12a46ff1fbeb.jpg",
       "feed": "FASHIONSNAP",
       "fetchedAt": "2026-10-04T22:06:30.223Z",
-      "summary": null,
+      "summary": "SS27ショーの分析記事。デニムの裂け目から覗く赤いフリルなどで権威と日常を衝突させ、「衣服を剥げば誰もが同じ」という平等性を表現したと論じている。",
       "tags": [
-        "ショー/コレクション",
-        "インタビュー"
-      ]
+        "ショー/コレクション"
+      ],
+      "cluster": "cdg-ss27-show-paris",
+      "importance": 3
     },
     {
       "id": "5ccdae6525d29795",
@@ -125,8 +142,12 @@
       "image": "https://theimpression.com/wp-content/uploads/2026/09/oby00683-12055203.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-04T22:06:42.129Z",
-      "summary": null,
-      "tags": []
+      "summary": "SS27ショーのレビュー。王冠と日常素材の対比を「特権への警告」と解釈し、主要評価項目で高得点を付けている。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "cluster": "cdg-ss27-show-paris",
+      "importance": 3
     },
     {
       "id": "fdd0d4b72a321d64",
@@ -137,10 +158,12 @@
       "image": "https://media.wwdjapan.com/wp-content/uploads/2026/10/04085241/COMME-DES-GARCONS-2027SPRING-SUMMER-COLLECTION-og.jpg",
       "feed": "WWD JAPAN",
       "fetchedAt": "2026-10-04T22:06:30.021Z",
-      "summary": null,
+      "summary": "SS27コレクションのルック写真ギャラリー速報。詳細な評論は別記事に委ねる構成で、ショー直後に写真を中心に掲載している。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "cluster": "cdg-ss27-show-paris",
+      "importance": 2
     },
     {
       "id": "fd04f1261ca6e10f",
@@ -199,10 +222,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/2e020d48-69b1-4e1a-b799-c8052a91fb36/10258.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-04T22:06:41.691Z",
-      "summary": null,
+      "summary": "Supreme × COMME des GARÇONS SHIRTのスプリットボックスロゴTシャツ(ホワイト)の中古品が、スニーカーダンクで1.3万円で出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "25bb72802328bf4a",
@@ -1051,10 +1075,11 @@
       "image": "https://cdn.snkrdunk.com/used_listing/246486/2ed9e84d-d88c-4d0e-9f2b-702ecb033dc7.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-04T22:06:41.691Z",
-      "summary": null,
+      "summary": "COMME des GARÇONS HOMME PLUS × Nike Air Foamposite One(ホワイト)の中古品が、スニーカーダンクで4.2万円にて売却済みとなっている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "5a45b1161462d7fd",
@@ -7541,10 +7566,11 @@
       "image": "https://madamefigaro.jp/wp-content/uploads/2026/04/180209-comme_des_garcons-ogp-1.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-04T22:06:41.692Z",
-      "summary": null,
+      "summary": "過去のコムデギャルソンのコラボシューズを紹介する記事。ドクターマーチン、ナイキ、メリッサとの定番コラボを振り返っている。",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "98ac14546caaabea",

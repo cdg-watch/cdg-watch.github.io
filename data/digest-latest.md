@@ -1,7 +1,8 @@
-# CDG Watch 日次ダイジェスト 2026-10-04
+# CDG Watch 日次ダイジェスト 2026-10-05
 
-- **コム デ ギャルソン 2027年春夏ウィメンズコレクション、パリで発表** — デニムやワークウェアなど普段使いの生地を彫刻的に膨らませ、18世紀の宮廷ドレスを思わせる豪華なシルエットへ変貌。モデルは巨大な白い王冠を身につけ、日常着と王侯の装いを対比させた。[Fashion Press](https://www.fashion-press.net/news/151650)
-- **同コレクションをVogueがレビュー** — 同日発表のパリ2027年春夏ショーについての英語媒体によるレビュー記事。本文はアクセス不可のため詳細未確認(og:imageのみ取得)。[Vogue](https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/comme-des-garcons)
-- **同コレクションをWWDがレビュー** — 同ショーについてのレビュー記事。本文はペイウォール(Tollbit、HTTP 402)によりアクセス不可のため詳細未確認。[WWD](https://wwd.com/runway/spring-2027/paris/comme-des-garcons/review/)
+- **コム デ ギャルソン SS27ショー、「王室の生活と日常生活が一つになるとき」をテーマに発表** — デニムやPVCなど日常素材と、王冠型ヘッドピースやブロケードなど貴族的な装飾を対比・融合させたコレクション。フィナーレはデニムのみで貴族的なシルエットを作り上げた。[WWD JAPAN](https://www.wwdjapan.com/articles/2517024)
+- **各海外メディアがSS27ショーを一斉レビュー** — Dazed、10 Magazine、Crash、The Impression、fashionsnapなど複数媒体が同ショームを取り上げ、彫刻的なシルエットや「権威と日常の衝突」といった解釈を展開(`cluster: cdg-ss27-show-paris`で紐付け、計8件)。BoF・Elle・NYTの3件は本文アクセス不可。
+- **Supreme × COMME des GARÇONS SHIRTのTシャツが中古1.3万円で出品** — スニーカーダンクでのリセール情報(二次流通)。[SNKRDUNK](https://snkrdunk.com/apparels/2695/used/50869771)
+- **COMME des GARÇONS HOMME PLUS × Nike Air Foamposite Oneが中古4.2万円で売却済み** — 同じくスニーカーダンクでの二次流通情報。[SNKRDUNK](https://snkrdunk.com/products/DJ7952-100/used/49752262)
 
-補足: 本日の新着収集は3件で、いずれも同一の2027年春夏パリショー(2026年10月3日発表)に関する記事(`cluster: cdg-ss2027-paris-show`で紐付け)。Fashion Press記事のみ本文を確認でき独自要約を記載、Vogue・WWDは本文アクセス不可のため要約は「(要約取得不可)」。全件に`ショー/コレクション`タグと`importance: 3`を付与。リリースカレンダーへの追加対象(発売日情報)なし。storeLaunches更新・週次サイト改善は月曜のみのため本日(JST日曜)はスキップ。`directive`ラベルのopen Issueなし(DIRECTIVES.mdは未作成)。重複記事・1年超の古い項目・無関係記事の削除対象もなし。
+補足: 本日の新着収集は14件。うち11件がSS27パリショー関連(`cluster: cdg-ss27-show-paris`、importance 3〜2)、2件がスニーカーダンクの中古出品(二次流通、importance 1)、1件が過去コラボシューズを振り返る記事(importance 1、publishedAt 2026-04-21のため古い記事扱い)。本文アクセス不可だった3件(BoF・Elle・NYT)は`summary: "(要約取得不可)"`のまま保持。リリースカレンダーへの追加対象(未来の発売日情報)はなし。CDG FREAKのスケジュールページを確認したが9月以降の新規日程掲載はなく、storeLaunchesへの追加もなし。`directive`ラベルのopen Issueなし。重複削除・無関係記事削除・1年超の古い項目削除の対象もなし。
