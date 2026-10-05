@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T22:09:51.706Z",
+  "updatedAt": "2026-10-05T22:15:23.365Z",
   "items": [
     {
       "id": "12aa225d1562f6b8",
@@ -10,25 +10,12 @@
       "image": "https://images-prod.dazeddigital.com/1200/98-120-1710-1140/azure/dazed-prod/1450/6/1456972.JPG",
       "feed": "Dazed",
       "fetchedAt": "2026-10-05T22:09:35.403Z",
-      "summary": null,
+      "summary": "ジュンヤワタナベが2027年春夏コレクションを発表。パンク・サイボーグ・魔女をテーマに、黒とピンクを基調としたスポーツウェア風シルエットに金属装飾を組み合わせ、パリ・ファッションウィークの日本デザイナー特集日にレイ・カワクボのコムデギャルソンらと共に披露された。",
       "tags": [
         "ショー/コレクション"
-      ]
-    },
-    {
-      "id": "f88211d5a9a27dc6",
-      "title": "des Supreme GARCONS SHIRT⁄2018AW⁄Graphic Supreme(シュプリーム) 2018年秋冬コレクションの欧米オンライン完売スピード Supreme シュプリーム 2018AW Comme des Garcons SHIRT コムデギャルソン コラボ ポルトガル製 半袖 Tシャツ M ブラック 袋付き メンズ - lostinanime.com",
-      "url": "https://lostinanime.com/ranking/abhelp/f2dlae1bq45rg3m.phtml",
-      "publishedAt": "2026-10-05T03:51:18.000Z",
-      "publisher": "lostinanime.com",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-10-05T22:09:41.018Z",
-      "summary": null,
-      "tags": [
-        "コラボ",
-        "ショー/コレクション"
-      ]
+      ],
+      "cluster": "junya-watanabe-ss27",
+      "importance": 2
     },
     {
       "id": "0c447a1fada68397",
@@ -36,13 +23,16 @@
       "url": "https://www.asahi.com/articles/ASVB40CZTVB4UCVL00GM.html",
       "publishedAt": "2026-10-05T02:00:00.000Z",
       "publisher": "朝日新聞",
-      "image": null,
+      "image": "https://imgopt.asahi.com/ogp/AS20261004001461_comm.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-05T22:09:41.018Z",
-      "summary": null,
+      "summary": "パリ・ファッションウィークの2027年春夏コレクションで、コムデギャルソンが同ブランドでは珍しいデニムを主役にした新作を発表した(2026年10月3日、朝日新聞報道)。",
       "tags": [
-        "新作"
-      ]
+        "新作",
+        "ショー/コレクション"
+      ],
+      "cluster": "cdg-ss27-show-paris",
+      "importance": 3
     },
     {
       "id": "b58be872f87e161a",
@@ -53,10 +43,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20210930094349-0.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-05T22:09:41.019Z",
-      "summary": null,
+      "summary": "コムデギャルソン・オムとニューバランスのコラボスニーカー「57/40」(2021年発売、税込4万800円)の商品情報まとめ。スニーカーダンクでは3万8000円台から出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "f5a0127cfb7e0208",
@@ -67,8 +58,12 @@
       "image": "https://images-prod.dazeddigital.com/1200/0-0-1362-908/azure/dazed-prod/1450/6/1456873.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-05T22:09:41.437Z",
-      "summary": null,
-      "tags": []
+      "summary": "コムデギャルソン2027年春夏コレクションのランウェイフォトギャラリー。デニムやコットンなど日常的な素材を王族的なシルエットへ拡大したルックが並ぶ。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "cluster": "cdg-ss27-show-paris",
+      "importance": 3
     },
     {
       "id": "6dacdc40b8626a88",
@@ -151,8 +146,12 @@
       "image": "https://www.vanityteen.com/wp-content/uploads/2026/10/Comme-des-Garcons-SS27_m-duo1.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-05T22:09:41.437Z",
-      "summary": null,
-      "tags": []
+      "summary": "川久保玲は2027年春夏コレクションで「王族と日常が一つになる世界」をテーマに、作業着的な素材を巨大な王冠や彫刻的なシルエットへ膨らませ、豪華さと不安定さが共存する世界観を表現した。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "cluster": "cdg-ss27-show-paris",
+      "importance": 3
     },
     {
       "id": "031e825c0cecd3e0",
@@ -163,10 +162,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/f9e97e0d-67b8-4fb4-984e-16dd6d8d6591.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-05T22:09:41.018Z",
-      "summary": null,
+      "summary": "コムデギャルソンガールの長袖シャツ(背面にデニムをドッキングしたデザイン)の中古品がスニーカーダンクに出品(状態B、1万6500円)。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "93c6cebf7be89d71",
@@ -269,10 +269,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/2b7ed4e7-a07b-4def-abeb-2af78f7f502b/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-05T22:09:41.018Z",
-      "summary": null,
+      "summary": "コムデギャルソンのパンツ「RP-P024」(AD2025)の中古品がスニーカーダンクに出品(状態C、4万3600円)。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "fd04f1261ca6e10f",
@@ -288,7 +289,7 @@
         "ショー/コレクション"
       ],
       "importance": 3,
-      "cluster": "cdg-ss2027-paris-show"
+      "cluster": "cdg-ss27-show-paris"
     },
     {
       "id": "d4437b29bdd1788a",
@@ -304,7 +305,7 @@
         "ショー/コレクション"
       ],
       "importance": 3,
-      "cluster": "cdg-ss2027-paris-show"
+      "cluster": "cdg-ss27-show-paris"
     },
     {
       "id": "845475dcc567e423",
@@ -320,7 +321,7 @@
         "ショー/コレクション"
       ],
       "importance": 3,
-      "cluster": "cdg-ss2027-paris-show"
+      "cluster": "cdg-ss27-show-paris"
     },
     {
       "id": "c0738d60a7185b4c",
@@ -1204,7 +1205,7 @@
         "コラボ",
         "新作"
       ],
-      "cluster": "airjordan11-hommeplus",
+      "cluster": "cdg-hommeplus-airjordan11",
       "importance": 3
     },
     {
@@ -1221,7 +1222,7 @@
         "コラボ",
         "新作"
       ],
-      "cluster": "airjordan11-hommeplus",
+      "cluster": "cdg-hommeplus-airjordan11",
       "importance": 3
     },
     {
@@ -1392,7 +1393,7 @@
         "コラボ",
         "新作"
       ],
-      "cluster": "airjordan11-hommeplus",
+      "cluster": "cdg-hommeplus-airjordan11",
       "importance": 3
     },
     {
@@ -1409,7 +1410,7 @@
         "コラボ",
         "新作"
       ],
-      "cluster": "airjordan11-hommeplus",
+      "cluster": "cdg-hommeplus-airjordan11",
       "importance": 3
     },
     {
@@ -5692,7 +5693,7 @@
         "インタビュー"
       ],
       "image": "https://imgopt.asahi.com/ogp/AS20260703004523_comm.jpg",
-      "cluster": "cdg-hp-ss27-show",
+      "cluster": "cdg-hommeplus-ss27-show",
       "importance": 3
     },
     {
@@ -5909,7 +5910,7 @@
         "ショー/コレクション"
       ],
       "image": "https://images-prod.anothermag.com/1200/0-300-1995-1330/azure/another-prod/470/5/475032.jpeg",
-      "cluster": "cdg-hp-ss27-show",
+      "cluster": "cdg-hommeplus-ss27-show",
       "importance": 3
     },
     {
@@ -5970,7 +5971,7 @@
         "インタビュー"
       ],
       "image": "https://senken.co.jp/production/uploads/file_content/file/414779/medium_760570__35_.jpg",
-      "cluster": "cdg-hp-ss27-show",
+      "cluster": "cdg-hommeplus-ss27-show",
       "importance": 3
     },
     {
@@ -5986,7 +5987,7 @@
         "ショー/コレクション"
       ],
       "image": "https://img-mdpr.freetls.fastly.net/article/GmW4/nm/GmW4MleYJHUrirvCDo-IJETPYypzoSxEnHIldb-A6_s.jpg?width=700&disable=upscale&auto=webp&quality=80",
-      "cluster": "cdg-hp-ss27-show",
+      "cluster": "cdg-hommeplus-ss27-show",
       "importance": 2
     },
     {
@@ -9700,7 +9701,7 @@
         "コラボ",
         "新作"
       ],
-      "cluster": "airjordan11-hommeplus",
+      "cluster": "cdg-hommeplus-airjordan11",
       "importance": 3
     },
     {
@@ -9804,7 +9805,7 @@
         "コラボ",
         "新作"
       ],
-      "cluster": "airjordan11-hommeplus",
+      "cluster": "cdg-hommeplus-airjordan11",
       "importance": 3
     },
     {
