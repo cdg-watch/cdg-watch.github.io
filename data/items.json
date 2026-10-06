@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T22:06:26.432Z",
+  "updatedAt": "2026-10-06T22:10:02.796Z",
   "items": [
     {
       "id": "12aa225d1562f6b8",
@@ -337,20 +337,6 @@
         "二次流通"
       ],
       "importance": 1
-    },
-    {
-      "id": "e84f88b6e6d6db54",
-      "title": "コムデギャルソン 岡本太郎 ギャルソン 時計 付属品完備 taro クリスマス 時計は電池が止まってからそままであり - NYU Jordan Center",
-      "url": "https://jordanrussiacenter.org/?y",
-      "publishedAt": "2026-10-02T10:44:55.000Z",
-      "publisher": "NYU Jordan Center",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-10-06T22:06:19.228Z",
-      "summary": null,
-      "tags": [
-        "コラボ"
-      ]
     },
     {
       "id": "25bb72802328bf4a",
@@ -1050,7 +1036,7 @@
         "コラボ",
         "新作"
       ],
-      "cluster": "cdg-air-jordan-11-homme-plus-2026",
+      "cluster": "cdg-hommeplus-airjordan11",
       "importance": 3
     },
     {
@@ -1082,7 +1068,7 @@
         "コラボ",
         "新作"
       ],
-      "cluster": "cdg-air-jordan-11-homme-plus-2026",
+      "cluster": "cdg-hommeplus-airjordan11",
       "importance": 2
     },
     {
@@ -2427,7 +2413,7 @@
       "tags": [
         "二次流通"
       ],
-      "cluster": "dotcomme-kerrytaylor-auction2026",
+      "cluster": "dotcomme-kerrytaylor-auction-2026",
       "importance": 2
     },
     {
@@ -2443,7 +2429,7 @@
       "tags": [
         "二次流通"
       ],
-      "cluster": "dotcomme-kerrytaylor-auction2026",
+      "cluster": "dotcomme-kerrytaylor-auction-2026",
       "importance": 2
     },
     {
@@ -2474,7 +2460,7 @@
       "tags": [
         "二次流通"
       ],
-      "cluster": "dotcomme-kerrytaylor-auction2026",
+      "cluster": "dotcomme-kerrytaylor-auction-2026",
       "importance": 2
     },
     {
@@ -2520,7 +2506,7 @@
       "tags": [
         "二次流通"
       ],
-      "cluster": "dotcomme-kerrytaylor-auction2026",
+      "cluster": "dotcomme-kerrytaylor-auction-2026",
       "importance": 2
     },
     {
@@ -3013,7 +2999,7 @@
         "コラボ"
       ],
       "importance": 2,
-      "cluster": "cdg-air-jordan-11-homme-plus-2026"
+      "cluster": "cdg-hommeplus-airjordan11"
     },
     {
       "id": "515dd59c8f07f2f2",
@@ -3584,7 +3570,7 @@
         "コラボ",
         "新作"
       ],
-      "cluster": "cdg-airjordan11",
+      "cluster": "cdg-hommeplus-airjordan11",
       "importance": 3
     },
     {
@@ -9466,7 +9452,7 @@
         "新作"
       ],
       "importance": 2,
-      "cluster": "nb-u1890a-cdghomme"
+      "cluster": "cdg-newbalance-1890a"
     },
     {
       "id": "47b8fd02067166d1",
@@ -9535,14 +9521,14 @@
       "publisher": "Sneaker Freaker",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": "COMME des GARÇONS BLACK×ナイキのヘリテージランナー「LD-1000」が2026年4月1日発売予定、価格は約110ドル。黒メッシュ+スエードにスピリットピンクのスウッシュとミッドソール、インソールに「CDG BLACK」の控えめなブランディングを施す。",
+      "summary": "コムデギャルソン×ニューバランス1890Aがパリ・ファッションウィークで発表。クラークス ワラビーに似たデザインで黒とウィート(小麦色)の2色展開、2026年内に選定小売店で発売予定だが具体的な発売日・価格は未定。",
       "tags": [
         "コラボ",
         "新作"
       ],
       "image": "https://cdn.sanity.io/images/c1chvb1i/production/ea49987096c5627889df92f40001d73f821350e2-1960x1320.jpg",
       "importance": 2,
-      "cluster": "nike-ld1000-blackcdg-spiritpink"
+      "cluster": "cdg-newbalance-1890a"
     },
     {
       "id": "4573eacf1a397ec9",
@@ -9588,7 +9574,7 @@
         "コラボ"
       ],
       "importance": 2,
-      "cluster": "cdg-air-jordan-11-homme-plus-2026"
+      "cluster": "cdg-hommeplus-airjordan11"
     },
     {
       "id": "2cef7f6cacd4fdb5",
@@ -9603,7 +9589,7 @@
       "tags": [
         "コラボ"
       ],
-      "cluster": "nike-ld1000-spiritpink"
+      "cluster": "nike-ld1000-blackcdg-spiritpink"
     },
     {
       "id": "c6bfe2d24de107e2",
@@ -9618,7 +9604,7 @@
       "tags": [
         "コラボ"
       ],
-      "cluster": "nike-ld1000-spiritpink",
+      "cluster": "nike-ld1000-blackcdg-spiritpink",
       "importance": 2
     },
     {
@@ -9636,7 +9622,7 @@
         "新作"
       ],
       "importance": 2,
-      "cluster": "cdg-airjordan11"
+      "cluster": "cdg-hommeplus-airjordan11"
     },
     {
       "id": "c0d66d9039133f2c",
@@ -9676,14 +9662,14 @@
       "publisher": "Sneaker Freaker",
       "feed": "Google News (English)",
       "fetchedAt": "2026-07-04T23:44:37.628Z",
-      "summary": "コムデギャルソン×ニューバランス1890Aがパリ・ファッションウィークで発表。クラークス ワラビーに似たデザインで黒とウィート(小麦色)の2色展開、2026年内に選定小売店で発売予定だが具体的な発売日・価格は未定。",
+      "summary": "COMME des GARÇONS BLACK×ナイキのヘリテージランナー「LD-1000」が2026年4月1日発売予定、価格は約110ドル。黒メッシュ+スエードにスピリットピンクのスウッシュとミッドソール、インソールに「CDG BLACK」の控えめなブランディングを施す。",
       "tags": [
         "コラボ",
         "新作"
       ],
       "image": "https://cdn.sanity.io/images/c1chvb1i/production/d51730f8bdde51fa91929e3af65a780f1aa0d065-1100x735.jpg",
       "importance": 2,
-      "cluster": "nb-u1890a-cdghomme"
+      "cluster": "nike-ld1000-blackcdg-spiritpink"
     },
     {
       "id": "de2d86c4593ce8e2",
@@ -9895,7 +9881,7 @@
         "新作"
       ],
       "image": "https://images.soleretriever.com/blog/ce11b37e3bc4f985389e442d198a6d203f7862db-620x380.png?rect=0,27,620,326&w=1200&h=630&fit=fill&auto=format",
-      "cluster": "cdg-airjordan11",
+      "cluster": "cdg-hommeplus-airjordan11",
       "importance": 3
     },
     {
@@ -9941,7 +9927,7 @@
         "コラボ"
       ],
       "image": "https://wwd.com/wp-content/uploads/2026/01/comme-des-garcons-air-jordan-11-10.jpg?w=1000&h=563&crop=1",
-      "cluster": "cdg-airjordan11",
+      "cluster": "cdg-hommeplus-airjordan11",
       "importance": 3
     },
     {
@@ -9958,7 +9944,7 @@
         "新作"
       ],
       "image": "https://images.complex.com/complex/image/upload/c_crop,h_969,w_1440,x_0,y_0/g_xy_center,x_720,y_485/v1769271370/sanity-new%2Fimgi_2_621657984_18559905532050859_4688502116497270357_n_omvwwc",
-      "cluster": "cdg-airjordan11",
+      "cluster": "cdg-hommeplus-airjordan11",
       "importance": 3
     },
     {
@@ -9974,7 +9960,7 @@
         "コラボ"
       ],
       "image": "https://www.nicekicks.com/files/2026/01/imgi_22_621657984_18559905532050859_4688502116497270357_n-1-e1769366048451.jpeg",
-      "cluster": "cdg-airjordan11",
+      "cluster": "cdg-hommeplus-airjordan11",
       "importance": 3
     },
     {

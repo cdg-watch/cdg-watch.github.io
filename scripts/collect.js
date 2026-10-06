@@ -98,8 +98,12 @@ const SOURCES = [
 // lostinanime.com: 2026-10-05に発覚。キーワード羅列タイトル(ブランド名+型番+
 // 「完売スピード」等を無関係に連結)で中古転売アフィリエイトへ誘導するSEOスパム。
 // アクセスは403で拒否されるが、タイトルパターン自体が既知スパムと同種のため追加
+// jordanrussiacenter.org: NYU附属のロシア研究センター公式サイトが乗っ取られ、
+// フリマ出品風タイトル(付属品完備・電池切れ等)でCDGキーワードを連結したスパムを
+// Google Newsに流していた(2026-10-06検出)。現在はハック除去済みでトップページに
+// リダイレクトされ本文は確認不可だが、タイトルパターンが既知スパムと同種のため追加
 const SPAM_URL_RE =
-  /richardajkeys\.com|cfecgc-orange\.org|consumerthai\.org|lechodelabaie\.fr|cicus\.us\.es|(?:^|\/\/)(?:www\.)?tennis\.fi\/|radiopiu\.net|bosnewslife\.com|diocesisdesalamanca\.com|ecoconscience\.tv|fuelcarmagazine\.com|onmotor\.es|krepsiniozinios\.lt|sakhaparliament\.ru|defensorianna\.gob\.ar|uponarriving\.com|sinartdigital\.com|carangolanoticias\.com\.br|lostinanime\.com/i;
+  /richardajkeys\.com|cfecgc-orange\.org|consumerthai\.org|lechodelabaie\.fr|cicus\.us\.es|(?:^|\/\/)(?:www\.)?tennis\.fi\/|radiopiu\.net|bosnewslife\.com|diocesisdesalamanca\.com|ecoconscience\.tv|fuelcarmagazine\.com|onmotor\.es|krepsiniozinios\.lt|sakhaparliament\.ru|defensorianna\.gob\.ar|uponarriving\.com|sinartdigital\.com|carangolanoticias\.com\.br|lostinanime\.com|jordanrussiacenter\.org/i;
 
 // 焼き直し記事ガード(2026-08-02)。同一媒体がほぼ同じタイトル・ほぼ同じ本文の
 // 記事を新しい記事IDで再発行し、publishedAt だけ新しい「新着」に見えるケースを
