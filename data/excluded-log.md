@@ -7,5 +7,3 @@ SNS運用エージェントが「公式コラボでない」「意見記事で�
 
 形式: `YYYY-MM-DD  URL  理由`
 
-
-2026-09-27  https://www.highsnobiety.com/p/cdg-play-market/  「Is CDG Play Getting Serious?」。WebFetchで確認したところ、PLAYの伊勢丹新宿店ポップアップ「MARKET PLAY」を題材にしたブランド再評価論の意見記事で、発売日・価格・取扱店などの核心情報を含まないため方針上の意見記事除外に該当し構造的対象外として記録
