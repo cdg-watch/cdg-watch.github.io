@@ -1,9 +1,9 @@
-# CDG Watch 日次ダイジェスト 2026-10-07
+# CDG Watch 日次ダイジェスト 2026-10-08
 
-本日は新着記事の実質的な追加はありませんでした(collect.jsが取得した1件は後述の通りスパムと判明し削除)。そのため要約・タグ付け・カレンダー更新対象はなし。directive Issue #35(cluster分裂統合)に対応しました。
+本日は新着記事の実質的な追加はありませんでした(collect.jsが取得した2件のうち1件は無関係記事として削除、残り1件は既存の関連記事とあわせてクラスタ化)。directiveラベルのopen Issueはなし。
 
-- **新規スパムドメイン `jordanrussiacenter.org` を検出・除外** — NYU附属ロシア研究センターの公式サイトが乗っ取られ、フリマ出品風タイトル(コムデギャルソン関連キーワード+「付属品完備」「電池切れ」等)でCDGキーワードを連結したスパムページをGoogle Newsに流していた。本文は既にハック除去済みでトップページにリダイレクトされ確認不可。`SPAM_URL_RE` に追加し、該当項目は無関係記事として削除(収集時点で1件→0件)。
-- **directive #35: cluster分裂4組を統合** — New Balance 1890A関連(`nb-u1890a-cdghomme`→`cdg-newbalance-1890a`、計4件)、Nike LD-1000 Spirit Pink関連(`nike-ld1000-spiritpink`→`nike-ld1000-blackcdg-spiritpink`、計4件。IU7936-001という同一品番で同一リリースと確認できたため追加統合)、dot COMME/Kerry Taylorオークション関連(ハイフン有無の表記ゆれ、`dotcomme-kerrytaylor-auction2026`→`dotcomme-kerrytaylor-auction-2026`、計9件)、CDG Homme Plus×Air Jordan 11関連(3方向分裂を`cdg-hommeplus-airjordan11`に統一、計35件)。
-- **誤クラスタ+summary入れ替わりバグを修正** — `nb-u1890a-cdghomme`内の1件("Comme des Garçons BLACK Just Dropped Their Nike LD-1000 Colab")は本来1890Aと無関係なLD-1000記事だった上、`summary`の内容がNew Balance 1890A関連の別記事のものと入れ替わっていた(逆の1890A記事side のsummaryもLD-1000の内容になっていた)。両者のsummaryを正しい内容に入れ替え、それぞれ正しいclusterに付け替えた。
+- **⚠古 帽子職人・日爪ノブキ氏とコムデギャルソン・オムプリュスの協業(2025年7月)** — 2026年春夏コレクション(2025年6月27日パリ発表)向けに、つばが二つある変則型キャップやターバン風キャップなど個性的な帽子を手がけたことを紹介する朝日新聞の職人特集記事。[朝日新聞](https://www.asahi.com/articles/DA3S16266605.html)
+- **⚠古 同コラボの別記事(川久保玲インタビュー、2025年7月)** — 川久保玲がこの帽子職人の仕事を「幸せな千本ノック」と表現したという関連記事。取得不可のまま残っていたが本文メタ情報を確認でき要約を補完。[朝日新聞](https://www.asahi.com/articles/AST6Z15FZT6ZUCVL02YM.html) (`cluster: cdg-hommeplus-ss26hats-hizume`)
+- **朝日新聞の特集一覧ページを無関係記事として削除** — Google News経由で取得した「パリ・ファッションウィークⓇ2027年春夏コレクション｜ファッションページ」は特定記事ではなく朝日新聞ファッション面のトップ一覧ページで、コムデギャルソンへの言及なし。SPAM_URL_RE非該当だが内容無関係のため削除。
 
-補足: 本日の新着収集は1件(jordanrussiacenter.orgのスパム、削除済み)。実質新着0件のため要約・importance付与・リリースカレンダー追加の対象なし。storeLaunchesは月曜のみ更新のため本日(水曜)は対象外。directiveラベルのopen Issueは#35を確認・対応し、Issueにコメント済み。他に未対応のdirectiveはなし。
+補足: 本日の新着収集は2件。うち1件は上記の通り無関係記事として削除、残り1件(日爪ノブキ氏の帽子職人記事)を要約・タグ付け(importance 1)。あわせて、既存の同一コラボ記事(以前は取得不可で summary 未定のまま残っていたもの)が本文取得可能だったため要約を補完し、両記事を新規cluster `cdg-hommeplus-ss26hats-hizume` で統合。いずれも発売日より十分古い記事のため見出しに⚠古を付与。リリースカレンダーへの追加対象(未来の発売日情報)はなし。storeLaunchesは月曜のみ更新のため本日(木曜)は対象外。`directive`ラベルのopen Issueは確認したが0件、DIRECTIVES.mdも存在しないため対応なし。
