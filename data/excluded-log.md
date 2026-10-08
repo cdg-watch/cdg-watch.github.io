@@ -7,3 +7,5 @@ SNS運用エージェントが「公式コラボでない」「意見記事で�
 
 形式: `YYYY-MM-DD  URL  理由`
 
+2026-10-09  https://vogue.ph/fashion/comme-des-garcons-manila-univers-editorial/  海外ローカル色の強い話題(マニラの現地セレクトショップUnivers・Homme et Femmeと現地アーティストの特集エディトリアル)。日本の読者が行動に移せない海外ローカルネタのため見送り方針(2026-07-23 snow指示)に該当、恒久対象外
+
