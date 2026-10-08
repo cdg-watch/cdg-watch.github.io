@@ -10,8 +10,12 @@
       "image": "https://images-prod.anothermag.com/1200/382-103-1371-914/azure/another-prod/470/9/479474.JPG",
       "feed": "AnOther",
       "fetchedAt": "2026-10-08T22:06:40.452Z",
-      "summary": null,
-      "tags": []
+      "summary": "コム デ ギャルソンの2027年春夏コレクション(パリ)は、膨張したシルエットや模造の王冠などの王族的装飾をデニムで表現し、現代社会における富の集中やセレブの豪奢な祝祭を風刺する内容だった。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 2,
+      "cluster": "cdg-ss27-show-paris"
     },
     {
       "id": "35c6cda2ffaf302f",
@@ -22,8 +26,11 @@
       "image": "https://assets.vogue.ph/wp-content/uploads/2026/10/comme-des-garcons-manila-univers-vogue-philippines-L.webp",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-08T22:06:46.923Z",
-      "summary": null,
-      "tags": []
+      "summary": "Vogue Philippinesの特集記事。マニラのセレクトショップUniversとHomme et Femmeが14年にわたりコム デ ギャルソンの思想を現地のクリエイティブコミュニティに根付かせてきた経緯を、現地アーティスト3名の作品と絡めて紹介した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "12aa225d1562f6b8",
@@ -6539,20 +6546,6 @@
       ],
       "image": "https://cdn.snkrdunk.com/used_listing/148548/7e02bd43-4539-41f9-aafc-eec2be273ccf.jpeg",
       "importance": 1
-    },
-    {
-      "id": "2a760b0793e69a56",
-      "title": "パリ・ファッションウィークⓇ（PFWⓇ）2027年春夏コレクション｜ファッションページ - 朝日新聞",
-      "url": "https://www.asahi.com/special/fashion/?event",
-      "publishedAt": "2026-06-17T23:11:06.000Z",
-      "publisher": "朝日新聞",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-10-08T22:06:46.476Z",
-      "summary": null,
-      "tags": [
-        "ショー/コレクション"
-      ]
     },
     {
       "id": "2456142952567a82",
