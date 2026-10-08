@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-10-07T22:10:42.695Z",
+  "updatedAt": "2026-10-08T22:06:52.277Z",
   "items": [
+    {
+      "id": "850edac205ab084a",
+      "title": "At Comme des Garçons, Denim Gets the Royal Treatment",
+      "url": "https://www.anothermag.com/fashion-beauty/17556/comme-des-garcons-spring-summer-2027-ss27-review-rei-kawakubo-denim?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=at-comme-des-garcons-denim-gets-the-royal-treatment",
+      "publishedAt": "2026-10-08T11:20:00.000Z",
+      "publisher": null,
+      "image": "https://images-prod.anothermag.com/1200/382-103-1371-914/azure/another-prod/470/9/479474.JPG",
+      "feed": "AnOther",
+      "fetchedAt": "2026-10-08T22:06:40.452Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "35c6cda2ffaf302f",
+      "title": "A Tale of Comme des Garçons, Set in Manila’s Creative Landscape - Vogue Philippines",
+      "url": "https://vogue.ph/fashion/comme-des-garcons-manila-univers-editorial/",
+      "publishedAt": "2026-10-08T05:52:56.000Z",
+      "publisher": "Vogue Philippines",
+      "image": "https://assets.vogue.ph/wp-content/uploads/2026/10/comme-des-garcons-manila-univers-vogue-philippines-L.webp",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-10-08T22:06:46.923Z",
+      "summary": null,
+      "tags": []
+    },
     {
       "id": "12aa225d1562f6b8",
       "title": "Don’t get too close to Junya Watanabe’s SS27 collection",
@@ -6515,6 +6539,20 @@
       ],
       "image": "https://cdn.snkrdunk.com/used_listing/148548/7e02bd43-4539-41f9-aafc-eec2be273ccf.jpeg",
       "importance": 1
+    },
+    {
+      "id": "2a760b0793e69a56",
+      "title": "パリ・ファッションウィークⓇ（PFWⓇ）2027年春夏コレクション｜ファッションページ - 朝日新聞",
+      "url": "https://www.asahi.com/special/fashion/?event",
+      "publishedAt": "2026-06-17T23:11:06.000Z",
+      "publisher": "朝日新聞",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-10-08T22:06:46.476Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
     },
     {
       "id": "2456142952567a82",
