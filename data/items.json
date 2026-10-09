@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-08T22:06:52.277Z",
+  "updatedAt": "2026-10-09T22:06:39.801Z",
   "items": [
+    {
+      "id": "de8672df62fe9428",
+      "title": "Dazed and Dover Street Market Paris stage a magazine drop",
+      "url": "https://www.dazeddigital.com/fashion/article/71123/1/dazed-and-dover-street-market-paris-magazine-drop-new-idols?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=dazed-and-dover-street-market-paris-stage-a-magazine-drop",
+      "publishedAt": "2026-10-09T12:08:00.000Z",
+      "publisher": null,
+      "image": "https://images-prod.dazeddigital.com/1200/0-88-2000-1333/azure/dazed-prod/1450/7/1457000.jpg",
+      "feed": "Dazed",
+      "fetchedAt": "2026-10-09T22:06:21.365Z",
+      "summary": null,
+      "tags": [
+        "新作"
+      ]
+    },
     {
       "id": "850edac205ab084a",
       "title": "At Comme des Garçons, Denim Gets the Royal Treatment",
@@ -31,6 +45,21 @@
         "その他"
       ],
       "importance": 1
+    },
+    {
+      "id": "be86c8722b7d9b0b",
+      "title": "【岩田屋本店】ザ・ビートルズ・コムデギャルソンのポップアップを10月7日から開催｜新作グラフィックTシャツ3型と青山本店限定のボート型バッグ",
+      "url": "https://cdg-freak.com/news/the-beatles-cdg-iwataya-fukuoka-popup-2026/",
+      "publishedAt": "2026-10-07T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-images/3505cf9217f0209db2f27d4d80ce43ea-700.142d63acd42c.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.478Z",
+      "summary": null,
+      "tags": [
+        "新作",
+        "店舗"
+      ]
     },
     {
       "id": "12aa225d1562f6b8",
@@ -307,6 +336,18 @@
       "importance": 1
     },
     {
+      "id": "276cf0cd1009e433",
+      "title": "Comme des Garçons Spring 2027: We’ll Never Be Royals - Yahoo News Singapore",
+      "url": "https://sg.news.yahoo.com/comme-des-gar-ons-spring-194730617.html",
+      "publishedAt": "2026-10-03T19:47:30.000Z",
+      "publisher": "Yahoo News Singapore",
+      "image": "https://s.yimg.com/lo/mysterio/api/1a4f8a5d4601ce298395da17e2ed712d72943c0f2280f39887825feb32ee7a13/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwwd_409%2F68416e8c6dc41ddf7a36fe88e81b48a1.jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-10-09T22:06:27.180Z",
+      "summary": null,
+      "tags": []
+    },
+    {
       "id": "fd04f1261ca6e10f",
       "title": "Comme des Garçons Spring 2027: We’ll Never Be Royals",
       "url": "https://wwd.com/runway/spring-2027/paris/comme-des-garcons/review/",
@@ -370,6 +411,63 @@
       "importance": 1
     },
     {
+      "id": "081356e848baa8d8",
+      "title": "コムデギャルソンが2027年春夏コレクションをパリで発表｜10月3日(土)17時30分のショー",
+      "url": "https://cdg-freak.com/collection/cdg/2027ss/",
+      "publishedAt": "2026-10-03T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://cdg-freak.com/og/cdg-freak-1200x630.png",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.480Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
+    },
+    {
+      "id": "5f6e6bd58dac0ca2",
+      "title": "ジュンヤワタナベが2027年春夏コレクションをパリで発表｜10月3日(土)10時30分のショー",
+      "url": "https://cdg-freak.com/collection/junya-watanabe/2027ss/",
+      "publishedAt": "2026-10-03T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://cdg-freak.com/og/cdg-freak-1200x630.png",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.480Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
+    },
+    {
+      "id": "064626527f1817e2",
+      "title": "ノワールケイニノミヤが2027年春夏コレクションをパリで発表｜10月3日(土)13時のショー",
+      "url": "https://cdg-freak.com/collection/noir-kei-ninomiya/2027ss/",
+      "publishedAt": "2026-10-03T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://cdg-freak.com/og/cdg-freak-1200x630.png",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.480Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
+    },
+    {
+      "id": "73423ca6824658a7",
+      "title": "【伊勢丹新宿店】コムデギャルソンオムプリュス × Nike「AIR JORDAN 11」を発売｜入場順は抽選",
+      "url": "https://cdg-freak.com/news/homme-plus-air-jordan-11-isetan-shinjuku-2026/",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/28332d95df3a54f38477e8901d1ef38a-landscape-960.f43999c1578e.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.480Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "新作"
+      ]
+    },
+    {
       "id": "25bb72802328bf4a",
       "title": "ザ・ビートルズ＆プレイ・コム デ ギャルソン、グラフィックTやハートロゴアウターが福岡岩田屋に",
       "url": "https://www.fashion-press.net/news/151277",
@@ -419,6 +517,32 @@
       ],
       "importance": 2,
       "cluster": "play-cdg-lewisleathers-isetan"
+    },
+    {
+      "id": "a0b1fc9a37d80869",
+      "title": "【青山店限定】プレイコムデギャルソンのハートTシャツを9月30日に発売｜サークルと一筆書きロゴの2柄、半袖13,200円・長袖16,500円",
+      "url": "https://cdg-freak.com/news/play-cdg-aoyama-limited-heart-tshirt-2026/",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-images/437ebc7a4c0d2e2bf8caf0aea4cd33b9-1200.3705622b49a0.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.480Z",
+      "summary": null,
+      "tags": [
+        "新作"
+      ]
+    },
+    {
+      "id": "511b420e5d84ebcd",
+      "title": "【伊勢丹新宿店】プレイコムデギャルソン「MARKET PLAY」開催｜LEWIS LEATHERSとのライダースなど18型",
+      "url": "https://cdg-freak.com/news/play-market-play-isetan-shinjuku-2026/",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/00376b0a752803b71bb92df58a3549ec-landscape-960.9ac785f97e27.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.480Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "11a2c1bc83b17a9d",
@@ -548,6 +672,22 @@
       ],
       "cluster": "playcdg-marketplay-isetan",
       "importance": 2
+    },
+    {
+      "id": "d2fb75449236a0d2",
+      "title": "【大阪店限定】A BATHING APE® × コムデギャルソン 2026年秋冬コレクションを9月23日に発売｜「BAPE® CHECK」のスウェットやボンバージャケットなど13型",
+      "url": "https://cdg-freak.com/news/bape-comme-des-garcons-osaka-2026aw/",
+      "publishedAt": "2026-09-23T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/6227dbdcb60c922056d690b422999a64-landscape-960.0d0bd305fba1.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.480Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "ショー/コレクション",
+        "新作"
+      ]
     },
     {
       "id": "19a76db86097c24a",
@@ -764,6 +904,51 @@
       ],
       "importance": 2,
       "cluster": "playcdg-marketplay-isetan"
+    },
+    {
+      "id": "a60023421a9c93a9",
+      "title": "【ドーバー ストリート マーケット ギンザ】コムデギャルソンパルファム × DENIM TEARSの香水「TEARS」が入荷｜50ml 31,900円",
+      "url": "https://cdg-freak.com/news/cdg-parfums-denim-tears-tears-dsm/",
+      "publishedAt": "2026-09-18T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/7eb133290d9d6f7da126d21d68984e6f-landscape-960.758296db3e89.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.480Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "新作"
+      ]
+    },
+    {
+      "id": "2a8767099c8dcb36",
+      "title": "eYe ジュンヤワタナベマン + MAMMUTを9月18日に発売｜初コラボのジャケット6型とバックパック、アイダーダウンは605,000円",
+      "url": "https://cdg-freak.com/news/eye-junya-watanabe-man-mammut-2026/",
+      "publishedAt": "2026-09-18T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-images/bb8b3e8f6e2a9edd6c8c3259ba699c2b-1200.22b3579851f5.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.480Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "新作"
+      ]
+    },
+    {
+      "id": "55b48a6bbc44dea8",
+      "title": "eYe ジュンヤワタナベマン × ONE PIECE OF ROCK｜1950年代のセカンドタイプをもとにしたデニムジャケットとパンツ2型を抽選発売",
+      "url": "https://cdg-freak.com/news/eye-junya-watanabe-man-one-piece-of-rock-2026/",
+      "publishedAt": "2026-09-18T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/c371191391c7e8a84bce94057ae5f129-landscape-960.f9d2bfb87cef.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.480Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "新作"
+      ]
     },
     {
       "id": "07c0b96df1f5d68f",
@@ -1621,6 +1806,21 @@
       ],
       "cluster": "cdg-hommeplus-airjordan11",
       "importance": 2
+    },
+    {
+      "id": "9177f6a15af964a5",
+      "title": "Comme des Garcons Homme Plus x Air Jordan 11 Releases September 5th - Sneaker Bar Detroit",
+      "url": "https://sneakerbardetroit.com/comme-des-garcons-homme-plus-air-jordan-11/",
+      "publishedAt": "2026-09-03T07:00:00.000Z",
+      "publisher": "Sneaker Bar Detroit",
+      "image": "https://sneakerbardetroit.com/wp-content/uploads/2026/06/comme-des-garcons-air-jordan-11-release-date-2026.webp",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-10-09T22:06:27.180Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "新作"
+      ]
     },
     {
       "id": "9a3a8273b5487505",
@@ -6407,6 +6607,20 @@
       "cluster": "cdg-hommeplus-airjordan11"
     },
     {
+      "id": "a8ca15d2ab7b9e93",
+      "title": "シュプリーム x コムデギャルソン シャツ スプリット ボックス ロゴ Tシャツ \"ブラック\" - SNKRDUNK",
+      "url": "https://snkrdunk.com/apparels/2694/used/47184423",
+      "publishedAt": "2026-06-23T23:40:58.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/apparel_used_listings/a05a207d-a01e-454a-accd-ef1ea5031e3f/139177.jpeg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-10-09T22:06:26.743Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
+    },
+    {
       "id": "bd8252c19baa0544",
       "title": "Up Close With The COMME des GARCONS x Air Jordan 11 - Sneaker News",
       "url": "https://sneakernews.com/2026/06/22/comme-des-garcons-jordan-11/",
@@ -6548,6 +6762,20 @@
       "importance": 1
     },
     {
+      "id": "2a760b0793e69a56",
+      "title": "パリ・ファッションウィークⓇ（PFWⓇ）2027年春夏コレクション｜ファッションページ - 朝日新聞",
+      "url": "https://www.asahi.com/special/fashion/?event",
+      "publishedAt": "2026-06-17T23:11:06.000Z",
+      "publisher": "朝日新聞",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-10-09T22:06:26.744Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
+    },
+    {
       "id": "2456142952567a82",
       "title": "Crafting ‘To Vetiver’ for Comme des Garçons Parfums: A Conversation with Antoine Maisondieu - Hube magazine",
       "url": "https://hubemag.com/crafting-to-vetiver-for-comme-des-garcons-parfums-a-conversation-with-antoine-maisondieu",
@@ -6577,6 +6805,20 @@
       ],
       "image": "https://media.gq.com/photos/6a32319b167916f82cbbe6f4/16:9/w_1280,c_limit/000853160015.jpg",
       "importance": 2
+    },
+    {
+      "id": "0c024c47d7150a68",
+      "title": "ディーエスエムケイニノミヤが2027年春夏コレクションをフィレンツェで発表｜6月17日(水)のショー",
+      "url": "https://cdg-freak.com/collection/dsm-kei-ninomiya/2027ss/",
+      "publishedAt": "2026-06-17T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://cdg-freak.com/og/cdg-freak-1200x630.png",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.481Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
     },
     {
       "id": "72696315a000551d",
@@ -8753,6 +8995,34 @@
       "image": "https://wwd.com/wp-content/uploads/2026/03/comme-des-garcons-fall-rtw-26-r-gg-001.jpeg?crop=0px%2C0px%2C1365px%2C763px&resize=1000%2C563"
     },
     {
+      "id": "8b9f8cfec9ec64c9",
+      "title": "ジュンヤワタナベが2026-27年秋冬コレクションをパリで発表｜3月7日(土)10時30分のショー",
+      "url": "https://cdg-freak.com/collection/junya-watanabe/2026aw/",
+      "publishedAt": "2026-03-07T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://cdg-freak.com/og/cdg-freak-1200x630.png",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.481Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
+    },
+    {
+      "id": "51534e7ec5cf9841",
+      "title": "ノワールケイニノミヤが2026-27年秋冬コレクションをパリで発表｜3月7日(土)13時のショー",
+      "url": "https://cdg-freak.com/collection/noir-kei-ninomiya/2026aw/",
+      "publishedAt": "2026-03-07T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://cdg-freak.com/og/cdg-freak-1200x630.png",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.481Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
+    },
+    {
       "id": "315b719b60269c4d",
       "title": "クロムハーツ x コムデギャルソン x ドーバーストリートマーケット ショートスリーブ Tシャツ \"ブラック\" - SNKRDUNK",
       "url": "https://snkrdunk.com/apparels/774005",
@@ -10083,6 +10353,34 @@
       "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F01%2F23%2Fcomme-des-garcons-homme-plus-fall-winter-2026-paris-fashion-week-runway-collection-tw.jpg?w=1080&cbr=1&q=90&fit=max",
       "importance": 2,
       "cluster": "cdg-hommeplus-26aw-blackhole"
+    },
+    {
+      "id": "8b8b5d474ddc4d53",
+      "title": "コムデギャルソンオムプリュスが2026-27年秋冬コレクションをパリで発表｜1月23日(金)17時のショー",
+      "url": "https://cdg-freak.com/collection/cdg-homme-plus/2026aw/",
+      "publishedAt": "2026-01-23T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/faca7144f86e3ff26663152989927c21-landscape-960.694cbbcfff0a.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.481Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
+    },
+    {
+      "id": "75c96c29373a9901",
+      "title": "ジュンヤワタナベマンが2026-27年秋冬コレクションをパリで発表｜1月23日(金)10時のショー",
+      "url": "https://cdg-freak.com/collection/junya-watanabe-man/2026aw/",
+      "publishedAt": "2026-01-23T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/4e997383292ba70c63e88ee99aecba6e-landscape-960.627d99924c54.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.481Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
     },
     {
       "id": "17383e94e9e12a80",
@@ -12158,6 +12456,48 @@
       "tags": []
     },
     {
+      "id": "ce55b40d5bb5d486",
+      "title": "コムデギャルソンが2025-26年秋冬コレクションをパリで発表｜3月8日(土)17時のショー",
+      "url": "https://cdg-freak.com/collection/cdg/2025aw/",
+      "publishedAt": "2025-03-08T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/0c425944308299309f5559a73fa73337-landscape-960.d2c4d107f999.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.481Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
+    },
+    {
+      "id": "3b1058f520ad841e",
+      "title": "ジュンヤワタナベが2025-26年秋冬コレクションをパリで発表｜3月8日(土)9時30分のショー",
+      "url": "https://cdg-freak.com/collection/junya-watanabe/2025aw/",
+      "publishedAt": "2025-03-08T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/7f5389c5fffdb622b383ca3baeb30c28-landscape-960.4f76a15598a0.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.481Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
+    },
+    {
+      "id": "97488f555f544be8",
+      "title": "ノワールケイニノミヤが2025-26年秋冬コレクションをパリで発表｜3月8日(土)12時のショー",
+      "url": "https://cdg-freak.com/collection/noir-kei-ninomiya/2025aw/",
+      "publishedAt": "2025-03-08T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/e1b2176263d86aef827500e34ddb1b58-landscape-960.4b18627e833c.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.481Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
+    },
+    {
       "id": "366ed2581b4f1178",
       "title": "COMME des GARCONS HOMME PLUS × NIKE SENSE 96 SP",
       "url": "https://cdg-freak.com/comme-des-garcons-nike/",
@@ -12199,6 +12539,34 @@
       "summary": "(要約取得不可)",
       "tags": [
         "インタビュー"
+      ]
+    },
+    {
+      "id": "fca0658fbf35f6ab",
+      "title": "コムデギャルソンオムプリュスが2025-26年秋冬コレクションをパリで発表｜1月24日(金)",
+      "url": "https://cdg-freak.com/collection/cdg-homme-plus/2025aw/",
+      "publishedAt": "2025-01-24T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/5f8c6161021f3f7be74223ffc9f36e3b-landscape-960.5626374b92cf.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.481Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
+    },
+    {
+      "id": "9853bf8098bd0fd3",
+      "title": "ジュンヤワタナベマンが2025-26年秋冬コレクションをパリで発表｜1月24日(金)",
+      "url": "https://cdg-freak.com/collection/junya-watanabe-man/2025aw/",
+      "publishedAt": "2025-01-24T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/a877cbfefd6332cf509816560107899c-landscape-960.6d04467b5c5a.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.481Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
       ]
     },
     {
@@ -12271,6 +12639,20 @@
       "summary": "(要約取得不可)",
       "tags": [
         "新作"
+      ]
+    },
+    {
+      "id": "fc0200dbfcbfa061",
+      "title": "「戦争や紛争、難民…」川久保玲がコムデギャルソンの服に込めた思い - 朝日新聞",
+      "url": "https://www.asahi.com/articles/ASSBQ0V7ZSBQUCVL032M.html",
+      "publishedAt": "2024-10-22T07:00:00.000Z",
+      "publisher": "朝日新聞",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-10-09T22:06:26.744Z",
+      "summary": null,
+      "tags": [
+        "インタビュー"
       ]
     },
     {
@@ -12548,6 +12930,36 @@
       "importance": 1
     },
     {
+      "id": "df94603d182de753",
+      "title": "PORTER × ブラックコムデギャルソン リュック発売",
+      "url": "https://cdg-freak.com/news/black-cdg/",
+      "publishedAt": "2023-10-13T15:05:13.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/b6bfcb720c7ba7a09f047f4db9e44da7-landscape-960.78e72dbdd22a.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.481Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "新作"
+      ]
+    },
+    {
+      "id": "e4cf9911b70fd3b8",
+      "title": "【青山店限定発売】Burberry x コムデギャルソン カスタマイズトレンチコート",
+      "url": "https://cdg-freak.com/comme-des-garcons-burberry/",
+      "publishedAt": "2023-10-13T11:46:46.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/ae6ac227f959dbcbd21ec8b85fffa1d6-landscape-960.35fbe57c1ce0.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.481Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "新作"
+      ]
+    },
+    {
       "id": "035ed66050661702",
       "title": "後藤洋平のコレクション日記 コムデギャルソン「彩りの衝撃」に感嘆 - 朝日新聞",
       "url": "https://www.asahi.com/articles/ASRB23J3FRB2ULZU00R.html",
@@ -12610,6 +13022,33 @@
       "importance": 2
     },
     {
+      "id": "9dd465e067cae614",
+      "title": "【粗野な感じの1点物ベルト】コムデギャルソン × ウルフズヘッドが限定発売",
+      "url": "https://cdg-freak.com/cdg-wolfshead/",
+      "publishedAt": "2023-06-14T14:26:48.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/6a9b502d6d8001ff89663e548f4cb8ae-landscape-960.a0311c1b44de.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.481Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "新作"
+      ]
+    },
+    {
+      "id": "219ec69232c8b9d4",
+      "title": "コムデギャルソン青山店で買える特別なアイテム",
+      "url": "https://cdg-freak.com/cdg-aoyama-special/",
+      "publishedAt": "2023-06-02T23:00:16.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/59ea084b5d26d6a33547beb5f5209fca-landscape-960.03cf0ee0a38b.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.481Z",
+      "summary": null,
+      "tags": []
+    },
+    {
       "id": "aad6b44a0bff937f",
       "title": "CULTED 101: A GUIDE TO COMME DES GARÇONS’ DIFFUSION LINES - Culted",
       "url": "https://culted.com/fashion/culted-101-a-guide-to-comme-des-garcons-diffusion-lines/",
@@ -12625,6 +13064,34 @@
       "importance": 1
     },
     {
+      "id": "73135bb3fd38e77f",
+      "title": "【渋谷パルコ限定】コムデギャルソンガールPUバッグ発売",
+      "url": "https://cdg-freak.com/news/cdg-girl/",
+      "publishedAt": "2023-05-29T15:00:02.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/c582460939c6c7979907a31fb8b9c5a7-landscape-960.ce4a8c2d3212.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.481Z",
+      "summary": null,
+      "tags": [
+        "新作"
+      ]
+    },
+    {
+      "id": "9120ad6ce865f6e6",
+      "title": "コムデギャルソンがパリ店を拡大移転、10月初旬にオープン",
+      "url": "https://cdg-freak.com/commedesgarsons-paris/",
+      "publishedAt": "2023-05-21T01:00:27.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/95b056e9a305628ceea807b026d238fe-landscape-960.96fb1397e426.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.481Z",
+      "summary": null,
+      "tags": [
+        "店舗"
+      ]
+    },
+    {
       "id": "403927c64eb41c56",
       "title": "女28歳このままでいいの? コムデギャルソンの服に導かれてパリへ - 朝日新聞",
       "url": "https://www.asahi.com/articles/ASR5M3FZ8R5CUCVL03L.html",
@@ -12638,6 +13105,49 @@
         "その他"
       ],
       "importance": 1
+    },
+    {
+      "id": "eca295dbaac151b5",
+      "title": "コムデギャルソンオム × ニューバランス「MT580」を復刻",
+      "url": "https://cdg-freak.com/cdghomme-nb-mt580/",
+      "publishedAt": "2023-05-19T13:20:03.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/9fd62bb642f898e07c61a698e2994cd0-landscape-960.4120593924f6.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.481Z",
+      "summary": null,
+      "tags": [
+        "コラボ"
+      ]
+    },
+    {
+      "id": "f087ec4169ced98f",
+      "title": "シンボルをつま先にあしらった「プレイコムデギャルソン×コンバース」新作発売",
+      "url": "https://cdg-freak.com/playcdg-converse-2023/",
+      "publishedAt": "2023-04-29T13:45:19.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/9edba1762248af133458590832c77eac-landscape-960.1f371a441604.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.481Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "新作"
+      ]
+    },
+    {
+      "id": "7db3a054ffb81ac8",
+      "title": "雑誌SWITCHが「コムデギャルソン」だけの特別編集号を発売【数量限定特別版も】",
+      "url": "https://cdg-freak.com/cdg-swith-2023/",
+      "publishedAt": "2023-04-14T13:34:45.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/f92c5046f2c65a8d37069fecc714884d-landscape-960.d1d7e49effad.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-09T22:06:12.481Z",
+      "summary": null,
+      "tags": [
+        "新作"
+      ]
     },
     {
       "id": "c9b2bd188b3592a4",
