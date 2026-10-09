@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T22:06:39.801Z",
+  "updatedAt": "2026-10-09T22:10:55.483Z",
   "items": [
     {
       "id": "de8672df62fe9428",
@@ -10,10 +10,12 @@
       "image": "https://images-prod.dazeddigital.com/1200/0-88-2000-1333/azure/dazed-prod/1450/7/1457000.jpg",
       "feed": "Dazed",
       "fetchedAt": "2026-10-09T22:06:21.365Z",
-      "summary": null,
+      "summary": "Dazedがドーバーストリートマーケットパリで2026年9月30日、秋号『New Idols』の無料マガジンドロップを開催。表紙にコムデギャルソン2026年秋冬の装いを使用し、川久保玲のインタビューを掲載した。",
       "tags": [
-        "新作"
-      ]
+        "インタビュー",
+        "店舗"
+      ],
+      "importance": 2
     },
     {
       "id": "850edac205ab084a",
@@ -55,11 +57,13 @@
       "image": "https://media.cdg-freak.com/reader-images/3505cf9217f0209db2f27d4d80ce43ea-700.142d63acd42c.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.478Z",
-      "summary": null,
+      "summary": "福岡・岩田屋本店で2026年10月7日〜13日、ザ・ビートルズ×コムデギャルソンのポップアップを開催。新作グラフィックTシャツ3型(17,600円・25,300円)と青山本店限定のハンドペイントボート型バッグ(74,800円・96,800円)を販売する。",
       "tags": [
         "新作",
+        "コラボ",
         "店舗"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "12aa225d1562f6b8",
@@ -344,8 +348,12 @@
       "image": "https://s.yimg.com/lo/mysterio/api/1a4f8a5d4601ce298395da17e2ed712d72943c0f2280f39887825feb32ee7a13/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwwd_409%2F68416e8c6dc41ddf7a36fe88e81b48a1.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-09T22:06:27.180Z",
-      "summary": null,
-      "tags": []
+      "summary": "川久保玲は2027年春夏コレクションで、デニムやコットンギャバジンなど日常的な生地を使用。詰め物の王冠やトレンチ・ボンバージャケットを抽象化した彫刻的なルックで、王室と日常の融合を表現した。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 3,
+      "cluster": "cdg-ss27-show-paris"
     },
     {
       "id": "fd04f1261ca6e10f",
@@ -419,10 +427,12 @@
       "image": "https://cdg-freak.com/og/cdg-freak-1200x630.png",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.480Z",
-      "summary": null,
+      "summary": "コムデギャルソン本体が2026年10月3日、2027年春夏コレクションをパリで発表。「ロイヤルライフとリアルライフがひとつになる」をテーマに、詰め物やワイヤーの王冠を取り入れた全23ルックを披露した。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 3,
+      "cluster": "cdg-ss27-show-paris"
     },
     {
       "id": "5f6e6bd58dac0ca2",
@@ -433,10 +443,12 @@
       "image": "https://cdg-freak.com/og/cdg-freak-1200x630.png",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.480Z",
-      "summary": null,
+      "summary": "ジュンヤワタナベが2026年10月3日、2027年春夏コレクションをパリで発表。テーマは「ファンキー」で、ボディスーツにスタッズやビジューを重ねた装いから、ライダースやトレンチを解体・再構築した全46ルックを披露した。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 3,
+      "cluster": "junya-watanabe-ss27"
     },
     {
       "id": "064626527f1817e2",
@@ -447,10 +459,12 @@
       "image": "https://cdg-freak.com/og/cdg-freak-1200x630.png",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.480Z",
-      "summary": null,
+      "summary": "ノワールケイニノミヤが2026年10月3日、2027年春夏コレクション「ペタルリベリオン」をパリで発表。花や蝶をモチーフにした彫刻的な全37ルックで、優しさによる平和的な抵抗を表現した。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 2,
+      "cluster": "noir-kei-ninomiya-ss27"
     },
     {
       "id": "73423ca6824658a7",
@@ -461,11 +475,13 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/28332d95df3a54f38477e8901d1ef38a-landscape-960.f43999c1578e.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.480Z",
-      "summary": null,
+      "summary": "伊勢丹新宿店で2026年10月2日、コムデギャルソンオムプリュス×Nike「AIR JORDAN 11」(58,300円)を発売。入場は事前抽選順で、1人1足までの購入制限があった。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "importance": 2,
+      "cluster": "cdg-hommeplus-airjordan11"
     },
     {
       "id": "25bb72802328bf4a",
@@ -527,10 +543,12 @@
       "image": "https://media.cdg-freak.com/reader-images/437ebc7a4c0d2e2bf8caf0aea4cd33b9-1200.3705622b49a0.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.480Z",
-      "summary": null,
+      "summary": "プレイコムデギャルソン青山店限定で2026年9月30日、ハートをあしらったTシャツを発売。サークル柄と一筆書きロゴ柄の2種で、半袖13,200円・長袖16,500円。",
       "tags": [
-        "新作"
-      ]
+        "新作",
+        "店舗"
+      ],
+      "importance": 1
     },
     {
       "id": "511b420e5d84ebcd",
@@ -541,8 +559,14 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/00376b0a752803b71bb92df58a3549ec-landscape-960.9ac785f97e27.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.480Z",
-      "summary": null,
-      "tags": []
+      "summary": "伊勢丹新宿店で2026年9月30日〜10月13日、プレイコムデギャルソン「MARKET PLAY」を開催。LEWIS LEATHERSとのライダース2型を含む全18型のスペシャルアイテムを展開する。",
+      "tags": [
+        "コラボ",
+        "新作",
+        "店舗"
+      ],
+      "importance": 2,
+      "cluster": "play-cdg-lewisleathers-isetan"
     },
     {
       "id": "11a2c1bc83b17a9d",
@@ -682,12 +706,13 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/6227dbdcb60c922056d690b422999a64-landscape-960.0d0bd305fba1.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.480Z",
-      "summary": null,
+      "summary": "コムデギャルソン大阪店内「BAPE STORE」限定で2026年9月23日、A BATHING APE×コムデギャルソンの2026年秋冬コレクションを発売。BAPE CHECK柄のスウェットやボンバージャケットなど全13型を展開した。",
       "tags": [
         "コラボ",
-        "ショー/コレクション",
         "新作"
-      ]
+      ],
+      "importance": 2,
+      "cluster": "bape-cdg-26fw"
     },
     {
       "id": "19a76db86097c24a",
@@ -914,11 +939,13 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/7eb133290d9d6f7da126d21d68984e6f-landscape-960.758296db3e89.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.480Z",
-      "summary": null,
+      "summary": "ドーバーストリートマーケット銀座に、コムデギャルソンパルファム×デニムティアーズの香水「TEARS」(オードパルファム50ml、31,900円)が入荷した。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "importance": 1,
+      "cluster": "cdg-parfums-denimtears-tears"
     },
     {
       "id": "2a8767099c8dcb36",
@@ -929,11 +956,13 @@
       "image": "https://media.cdg-freak.com/reader-images/bb8b3e8f6e2a9edd6c8c3259ba699c2b-1200.22b3579851f5.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.480Z",
-      "summary": null,
+      "summary": "eYeジュンヤワタナベマンとMAMMUTが初コラボ。2026年9月18日、アイダーダウン使用の最高額60万5千円のジャケットを含むジャケット6型とバックパック1型を発売した。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "importance": 2,
+      "cluster": "eye-junyawatanabeman-mammut"
     },
     {
       "id": "55b48a6bbc44dea8",
@@ -944,11 +973,13 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/c371191391c7e8a84bce94057ae5f129-landscape-960.f9d2bfb87cef.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.480Z",
-      "summary": null,
+      "summary": "eYeジュンヤワタナベマンが2026年9月18日、ONE PIECE OF ROCKとのデニムジャケット「407 XXX」(132,000円)を抽選発売。1950年代のセカンドタイプを基にしたデザインで、デニムパンツとの2型展開。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "importance": 1,
+      "cluster": "eye-junyawatanabeman-onepieceofrock"
     },
     {
       "id": "07c0b96df1f5d68f",
@@ -1816,11 +1847,13 @@
       "image": "https://sneakerbardetroit.com/wp-content/uploads/2026/06/comme-des-garcons-air-jordan-11-release-date-2026.webp",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-09T22:06:27.180Z",
-      "summary": null,
+      "summary": "Comme des Garçons Homme Plus×Nike「AIR JORDAN 11」が2026年9月5日、ドーバーストリートマーケット各店などで発売された。価格は358ドル。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "importance": 2,
+      "cluster": "cdg-hommeplus-airjordan11"
     },
     {
       "id": "9a3a8273b5487505",
@@ -6615,10 +6648,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/a05a207d-a01e-454a-accd-ef1ea5031e3f/139177.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-09T22:06:26.743Z",
-      "summary": null,
+      "summary": "スニーカーダンクに、シュプリーム×コムデギャルソンシャツのスプリットボックスロゴTシャツ(ブラック、Lサイズ)が3万円で中古出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "bd8252c19baa0544",
