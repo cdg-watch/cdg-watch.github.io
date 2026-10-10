@@ -1,11 +1,11 @@
-# CDG Watch 日次ダイジェスト 2026-10-10
+# CDG Watch 日次ダイジェスト 2026-10-11
 
-本日はcollect.jsが新着36件を取得(CDG FREAKは一時404でスキップ)。要約枠15件(AGENTS.md上限)で、新しい記事から順に要約・タグ付け・cluster統合を実施。無関係記事の削除は本日分なし。directiveラベルのopen Issueはなし。残り21件は翌日以降に回す。
+本日はcollect.jsが新着2件を取得。要約枠は今回の運用指示で最大30件まで許容されたが、AGENTS.mdの日次ルーティン(15件上限)を優先し、新しい記事から順に15件を要約・タグ付け・cluster付与(残り8件は翌日以降へ)。朝日新聞2記事とHypebeast記事1件はアクセス不可で「(要約取得不可)」。無関係記事の削除は本日分なし。directiveラベルのopen Issueは0件。
 
-- **⚠古 コム デ ギャルソン、2027年春夏コレクションをパリで発表「ロイヤルライフと日常がひとつになるとき」** — 10月3日のショーで、詰め物やワイヤーの王冠を取り入れた全23ルック。デニムやコットンギャバジンなど普段着の生地でトレンチ・ボンバージャケットを抽象化。関連記事群と合わせて`cluster: cdg-ss27-show-paris`に統合。[CDG FREAK](https://cdg-freak.com/collection/cdg/2027ss/) / [Yahoo Singapore](https://sg.news.yahoo.com/comme-des-gar-ons-spring-194730617.html)
-- **⚠古 ジュンヤワタナベ、2027年春夏「ファンキー」をパリで発表** — 10月3日のショーで全46ルック。スタッズやビジューを重ねたボディスーツで開幕し、ライダースやトレンチを解体・再構築。`cluster: junya-watanabe-ss27`。[CDG FREAK](https://cdg-freak.com/collection/junya-watanabe/2027ss/)
-- **⚠古 ノワールケイニノミヤ、2027年春夏「ペタルリベリオン」をパリで発表** — 10月3日のショーで全37ルック。花や蝶をモチーフにした彫刻的な装いで平和的な抵抗を表現。`cluster: noir-kei-ninomiya-ss27`(新規)。[CDG FREAK](https://cdg-freak.com/collection/noir-kei-ninomiya/2027ss/)
-- **ザ・ビートルズ×コムデギャルソン、岩田屋本店でポップアップ開催中(10/7〜13)** — 新作グラフィックTシャツ3型(17,600円・25,300円)を世界先行発売。青山本店限定のハンドペイントボート型バッグ(74,800円・96,800円)も販売。[CDG FREAK](https://cdg-freak.com/news/the-beatles-cdg-iwataya-fukuoka-popup-2026/)
-- **⚠古 Dazed×ドーバーストリートマーケットパリ、マガジンドロップ開催** — 9月30日、秋号『New Idols』の無料配布イベント。表紙にコムデギャルソン2026年秋冬の装いを使用し、川久保玲インタビューを掲載(黒は「抵抗と正義と独立の色」と発言)。[Dazed](https://www.dazeddigital.com/fashion/article/71123/1/dazed-and-dover-street-market-paris-magazine-drop-new-idols)
+- **eYe ジュンヤワタナベマン×STÜSSY、2026年秋冬の最終コラボが登場** — Hypebeastが10月9日付で報じたが本文は取得不可。シリーズ最後のコラボとして公開された模様。[Hypebeast](https://hypebeast.com/2026/10/eye-junya-watanabe-man-stussy-chore-coat-release-info)
+- **⚠古 ディーエスエムケイニノミヤ、ブランド初のランウェイショーをフィレンツェで開催** — 6月17日、ピッティ・イマージネ・ウオモのゲストデザイナーとして2027年春夏「OUR PUNK」全35ルックを発表。George CoxやSchott NYCとの協業も。`cluster: dsm-kei-ninomiya-ss27`(新規)。[CDG FREAK](https://cdg-freak.com/collection/dsm-kei-ninomiya/2027ss/)
+- **⚠古 コムデギャルソンオムプリュス、2026-27年秋冬「ブラックホール」をパリで発表** — 1月23日のショーで全41ルック。黒基調の歪んだテーラリングから、終盤は白いルックへ一斉に転換。`cluster: cdg-hommeplus-26aw-blackhole`(既存clusterに統合)。[CDG FREAK](https://cdg-freak.com/collection/cdg-homme-plus/2026aw/)
+- **⚠古 ノワールケイニノミヤ、2026-27年秋冬「dark blooming」をパリで発表** — 3月7日のショーで全35ルック。黒い棘や骨格の造形から花やワイヤーフレームの装飾へ展開。`cluster: noir-kei-ninomiya-26aw`(新規)。[CDG FREAK](https://cdg-freak.com/collection/noir-kei-ninomiya/2026aw/)
+- **⚠古 ジュンヤワタナベマン、2026-27年秋冬コレクションをパリで発表** — 1月23日のショーで全45ルック。アイビーや作業着の定型をパッチワークで組み替え、黒・グレー・キャメル基調にアウトドアブランドとの異素材ミックス。`cluster: junya-watanabe-man-26aw`(新規)。[CDG FREAK](https://cdg-freak.com/collection/junya-watanabe-man/2026aw/)
 
-補足: リリースカレンダーへの追加対象(未来の発売日情報)は、要約した15件がいずれも既に発売・開催済みの日付だったため本日はなし。storeLaunchesは月曜のみ更新のため本日(土曜)は対象外。`directive`ラベルのopen Issueは0件で対応なし。
+補足: リリースカレンダーへの追加対象(未来の発売日情報)は、要約した15件がいずれも既発表・既開催済みの古いショー報告だったため本日はなし。storeLaunchesは月曜のみ更新のため本日(日曜)は対象外。残りのsummary null 8件(朝日新聞の古い記事・2025年のCDG FREAKショー記事など)は翌日以降に回す。

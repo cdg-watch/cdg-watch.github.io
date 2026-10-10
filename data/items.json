@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T22:06:40.946Z",
+  "updatedAt": "2026-10-10T22:10:21.760Z",
   "items": [
     {
       "id": "de8672df62fe9428",
@@ -26,10 +26,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-10T22:06:36.791Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "850edac205ab084a",
@@ -6818,10 +6819,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-09T22:06:26.744Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "2456142952567a82",
@@ -6863,10 +6865,12 @@
       "image": "https://cdg-freak.com/og/cdg-freak-1200x630.png",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.481Z",
-      "summary": null,
+      "summary": "ディーエスエムケイニノミヤが2026年6月17日、フィレンツェのピッティ・イマージネ・ウオモでブランド初のランウェイショーを開催し、2027年春夏コレクション「OUR PUNK」全35ルックを発表した。安全ピンやタータン、ライダースジャケットなどパンクの意匠を現代的に再構成し、George CoxやSchott NYCなど複数ブランドとの協業ピースも披露した。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 3,
+      "cluster": "dsm-kei-ninomiya-ss27"
     },
     {
       "id": "72696315a000551d",
@@ -9051,10 +9055,12 @@
       "image": "https://cdg-freak.com/og/cdg-freak-1200x630.png",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.481Z",
-      "summary": null,
+      "summary": "ジュンヤワタナベが2026年3月7日、パリ・ファッションウィークで2026-27年秋冬コレクション全22ルックを発表した。防災毛布やヘルメットの部品、バイク用具など異質な素材を組み合わせ、後半はファーやぬいぐるみなど柔らかな質感へと展開する構成を見せた。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 2,
+      "cluster": "junya-watanabe-26aw"
     },
     {
       "id": "51534e7ec5cf9841",
@@ -9065,10 +9071,12 @@
       "image": "https://cdg-freak.com/og/cdg-freak-1200x630.png",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.481Z",
-      "summary": null,
+      "summary": "ノワールケイニノミヤが2026年3月7日、パリで2026-27年秋冬コレクション「dark blooming」全35ルックを発表した。金属の棘や骨格を思わせる黒い造形から始まり、花やワイヤーフレームの装飾へと移っていく展開で、暗さの中の前向きさを表現した。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 2,
+      "cluster": "noir-kei-ninomiya-26aw"
     },
     {
       "id": "315b719b60269c4d",
@@ -10411,10 +10419,12 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/faca7144f86e3ff26663152989927c21-landscape-960.694cbbcfff0a.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.481Z",
-      "summary": null,
+      "summary": "コムデギャルソンオムプリュスが2026年1月23日、パリで2026-27年秋冬コレクション「ブラックホール」全41ルックを発表した。黒基調のテーラリングでねじれや分解、歪みを表現し、ショー終盤には白いルックが一斉に登場して対比を見せた。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 2,
+      "cluster": "cdg-hommeplus-26aw-blackhole"
     },
     {
       "id": "75c96c29373a9901",
@@ -10425,10 +10435,12 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/4e997383292ba70c63e88ee99aecba6e-landscape-960.627d99924c54.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.481Z",
-      "summary": null,
+      "summary": "ジュンヤワタナベマンが2026年1月23日、パリで2026-27年秋冬コレクション全45ルックを発表した。アイビーや作業着など男性服の定番をパッチワークの手法で組み替え、黒・グレー・キャメルを基調にレザーのタキシードやアウトドアブランドとの異素材ミックスを見せた。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 2,
+      "cluster": "junya-watanabe-man-26aw"
     },
     {
       "id": "17383e94e9e12a80",
@@ -12459,10 +12471,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-10T22:06:36.411Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "3f93d097988f495e",
@@ -12526,10 +12539,12 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/0c425944308299309f5559a73fa73337-landscape-960.d2c4d107f999.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.481Z",
-      "summary": null,
+      "summary": "コムデギャルソンが2025年3月8日、パリで2025-26年秋冬コレクション「SMALLER IS STRONGER」全20ルックを発表した。紳士服地を波打つ曲線に変えた造形や五層構造のドレスなど、小さなものの力強さをテーマにした内容だった。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 1,
+      "cluster": "cdg-25aw"
     },
     {
       "id": "3b1058f520ad841e",
@@ -12540,10 +12555,12 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/7f5389c5fffdb622b383ca3baeb30c28-landscape-960.4f76a15598a0.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.481Z",
-      "summary": null,
+      "summary": "ジュンヤワタナベが2025年3月8日、パリで2025-26年秋冬コレクション全34ルックを発表した。ライダースジャケットやトレンチコートなど定番アイテムを、三角形や六角形といった幾何学的な造形で立体的に再構築した。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 1,
+      "cluster": "junya-watanabe-25aw"
     },
     {
       "id": "97488f555f544be8",
@@ -12554,10 +12571,12 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/e1b2176263d86aef827500e34ddb1b58-landscape-960.4b18627e833c.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.481Z",
-      "summary": null,
+      "summary": "ノワールケイニノミヤが2025年3月8日、パリで2025-26年秋冬コレクション「ファンタジー」全32ルックを発表した。樹脂で覆った手作りパーツや3Dプリントの頭飾りなど、布に頼らない素材表現で深海生物を思わせる世界観を見せた。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 1,
+      "cluster": "noir-kei-ninomiya-25aw"
     },
     {
       "id": "366ed2581b4f1178",
@@ -12612,10 +12631,12 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/5f8c6161021f3f7be74223ffc9f36e3b-landscape-960.5626374b92cf.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.481Z",
-      "summary": null,
+      "summary": "コムデギャルソンオムプリュスが2025年1月24日、パリで2025-26年秋冬コレクション「TO HELL WITH WAR」全35ルックを発表した。各国・各時代の軍服や迷彩柄を解体して縫い合わせ、反戦の意志を込めた内容だった。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 1,
+      "cluster": "cdg-hommeplus-25aw"
     },
     {
       "id": "9853bf8098bd0fd3",
@@ -12626,10 +12647,12 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/a877cbfefd6332cf509816560107899c-landscape-960.6d04467b5c5a.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.481Z",
-      "summary": null,
+      "summary": "ジュンヤワタナベマンが2025年1月24日、パリで2025-26年秋冬コレクション全39ルックを発表した。フィルソンのマッキーナクルーザージャケットを軸にワークウェアとアウトドアの要素を組み合わせ、ニューバランスなどとの協業にも触れた。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 1,
+      "cluster": "junya-watanabe-man-25aw"
     },
     {
       "id": "97b070a35e4261a3",
@@ -12712,10 +12735,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-09T22:06:26.744Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "インタビュー"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "2d0ec09fa80bdeae",
@@ -13000,11 +13024,12 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/b6bfcb720c7ba7a09f047f4db9e44da7-landscape-960.78e72dbdd22a.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.481Z",
-      "summary": null,
+      "summary": "ブラックコムデギャルソンとポーターのコラボリュックが発売された。コムデギャルソンオムプリュスの定番リュック(大・小)と同型で、両ブランドのタグがアクセントになっており、価格は大39,600円・小37,400円(税込)。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "e4cf9911b70fd3b8",
