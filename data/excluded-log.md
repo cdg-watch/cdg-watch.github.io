@@ -8,4 +8,5 @@ SNS運用エージェントが「公式コラボでない」「意見記事で�
 形式: `YYYY-MM-DD  URL  理由`
 
 2026-10-09  https://vogue.ph/fashion/comme-des-garcons-manila-univers-editorial/  海外ローカル色の強い話題(マニラの現地セレクトショップUnivers・Homme et Femmeと現地アーティストの特集エディトリアル)。日本の読者が行動に移せない海外ローカルネタのため見送り方針(2026-07-23 snow指示)に該当、恒久対象外
+2026-10-11  https://www.dazeddigital.com/fashion/article/71123/1/dazed-and-dover-street-market-paris-magazine-drop-new-idols  海外ローカル色の強い話題(パリDSMでの秋号マガジンの無料配布イベント、9/30開催・配布は終了済み。CDGは表紙協力・インタビュー掲載のみで現地来場者向けの一回限りの催しのため見送り方針(2026-07-23 snow指示)に該当、恒久対象外
 
