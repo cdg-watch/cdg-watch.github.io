@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-10-10T22:10:21.760Z",
+  "updatedAt": "2026-10-11T22:06:39.064Z",
   "items": [
+    {
+      "id": "3c00fcc95d67a61e",
+      "title": "Comme des Garçons: Rei Kawakubo's Sculptural Furniture - nss magazine",
+      "url": "https://www.nssmag.com/en/fashion/29605/when-rei-kawakubo-designed-a-furniture-line",
+      "publishedAt": "2026-10-11T07:13:57.000Z",
+      "publisher": "nss magazine",
+      "image": "https://data2.nssmag.com/images/galleries/31330/cover_nss.webp",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-10-11T22:06:31.922Z",
+      "summary": null,
+      "tags": [
+        "インタビュー"
+      ]
+    },
+    {
+      "id": "f9f764e2b1e42a61",
+      "title": "コムデギャルソン 黒 Tシャツ - トップス - www.v-shinpo.com",
+      "url": "http://www.v-shinpo.com/shopdetail/U85925223605",
+      "publishedAt": "2026-10-10T09:06:39.000Z",
+      "publisher": "www.v-shinpo.com",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-10-11T22:06:31.505Z",
+      "summary": null,
+      "tags": []
+    },
     {
       "id": "de8672df62fe9428",
       "title": "Dazed and Dover Street Market Paris stage a magazine drop",
@@ -4708,6 +4734,18 @@
         "二次流通"
       ],
       "importance": 1
+    },
+    {
+      "id": "878b95a1b177d823",
+      "title": "コムデギャルソン入門【COMME des GARCONS】 - YouTube",
+      "url": "https://youtu.be/49KgW5qWn_o?si",
+      "publishedAt": "2026-07-19T07:00:00.000Z",
+      "publisher": "YouTube",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-10-11T22:06:31.505Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "037ce302c1fae5fe",
