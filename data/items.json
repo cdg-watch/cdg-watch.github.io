@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:06:39.064Z",
+  "updatedAt": "2026-10-11T22:10:42.744Z",
   "items": [
     {
       "id": "3c00fcc95d67a61e",
@@ -10,10 +10,11 @@
       "image": "https://data2.nssmag.com/images/galleries/31330/cover_nss.webp",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-11T22:06:31.922Z",
-      "summary": null,
+      "summary": "川久保玲が1983〜1993年に手がけた家具ライン(椅子やテーブル等、パリの直営店限定)を振り返る記事。彫刻的で非対称な作風は2017年にパリのギャラリーで再評価された。",
       "tags": [
-        "インタビュー"
-      ]
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "f9f764e2b1e42a61",
@@ -24,8 +25,9 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-11T22:06:31.505Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [],
+      "importance": 1
     },
     {
       "id": "de8672df62fe9428",
@@ -4741,11 +4743,14 @@
       "url": "https://youtu.be/49KgW5qWn_o?si",
       "publishedAt": "2026-07-19T07:00:00.000Z",
       "publisher": "YouTube",
-      "image": null,
+      "image": "https://img.youtube.com/vi/49KgW5qWn_o/maxresdefault.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-11T22:06:31.505Z",
-      "summary": null,
-      "tags": []
+      "summary": "コムデギャルソンのブランド概要・歴史を紹介する入門系YouTube動画。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "037ce302c1fae5fe",
@@ -9277,7 +9282,8 @@
       "tags": [
         "インタビュー"
       ],
-      "importance": 2
+      "importance": 2,
+      "cluster": "cdg-switch-50th"
     },
     {
       "id": "e6cebc17aaa0be3c",
@@ -13078,11 +13084,12 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/ae6ac227f959dbcbd21ec8b85fffa1d6-landscape-960.35fbe57c1ce0.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.481Z",
-      "summary": null,
+      "summary": "バーバリー定番「ケンジントン」を川久保玲がカスタマイズしたトレンチコート2型(税込506,000円)が青山店限定で発売。タータンチェックやファー使いの裾、店舗限定シンボルメッセージ入り。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "035ed66050661702",
@@ -13155,11 +13162,13 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/6a9b502d6d8001ff89663e548f4cb8ae-landscape-960.a0311c1b44de.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.481Z",
-      "summary": null,
+      "summary": "コムデギャルソンの依頼で幹田卓司のウルフズヘッドが制作した1点物ベルトが表参道GYRE店限定で6月17日発売。「THE WORLD IS INSANE」のプリントとスタッズが特徴、税込12万〜14万円台。",
       "tags": [
         "コラボ",
-        "新作"
-      ]
+        "新作",
+        "店舗"
+      ],
+      "importance": 1
     },
     {
       "id": "219ec69232c8b9d4",
@@ -13170,8 +13179,12 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/59ea084b5d26d6a33547beb5f5209fca-landscape-960.03cf0ee0a38b.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.481Z",
-      "summary": null,
-      "tags": []
+      "summary": "24年ぶりに増床リニューアルした青山店限定で販売された特別アイテム群(ノワールケイニノミヤ併設、Baccaratとのグラス、Lewis Leathers別注ライダース等)をまとめた記事。",
+      "tags": [
+        "店舗",
+        "新作"
+      ],
+      "importance": 1
     },
     {
       "id": "aad6b44a0bff937f",
@@ -13197,10 +13210,11 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/c582460939c6c7979907a31fb8b9c5a7-landscape-960.ce4a8c2d3212.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.481Z",
-      "summary": null,
+      "summary": "渋谷PARCO内コムデギャルソンガール店限定PUバッグ(税込25,300円)が発売、即日完売。再入荷予定だが日程未定。",
       "tags": [
         "新作"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "9120ad6ce865f6e6",
@@ -13211,10 +13225,11 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/95b056e9a305628ceea807b026d238fe-landscape-960.96fb1397e426.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.481Z",
-      "summary": null,
+      "summary": "コムデギャルソンがパリのフォーブル・サントノーレ通りで店舗を拡大移転、10月初旬オープン予定。売場面積は従来の1.5倍の約700㎡で、内装は川久保玲が手がける。",
       "tags": [
         "店舗"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "403927c64eb41c56",
@@ -13240,10 +13255,12 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/9fd62bb642f898e07c61a698e2994cd0-landscape-960.4120593924f6.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.481Z",
-      "summary": null,
+      "summary": "コムデギャルソンオムとニューバランスが1996年トレイルモデル「MT580」を復刻したコラボスニーカーを5月19日発売。全国のオム取扱店で税込40,700円、PHANTOM/MOONBEAMの2色。",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "cluster": "cdg-nb580",
+      "importance": 2
     },
     {
       "id": "f087ec4169ced98f",
@@ -13254,11 +13271,12 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/9edba1762248af133458590832c77eac-landscape-960.1f371a441604.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.481Z",
-      "summary": null,
+      "summary": "プレイコムデギャルソンとコンバースのコラボ第4弾、1976年発の「PRO LEATHER」を全キャンバス仕立てにした新作を5月3日発売。PLAYハートをつま先にあしらい、税込20,900円。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "7db3a054ffb81ac8",
@@ -13269,10 +13287,12 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/f92c5046f2c65a8d37069fecc714884d-landscape-960.d1d7e49effad.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-09T22:06:12.481Z",
-      "summary": null,
+      "summary": "コムデギャルソン設立50周年を記念した雑誌『SWITCH』特別編集号が4月25日発売。『Six』全8冊や川久保玲への最新取材、23-24AWコレクション撮影などを収録、通常版4,400円・限定特装版11,000円。",
       "tags": [
         "新作"
-      ]
+      ],
+      "cluster": "cdg-switch-50th",
+      "importance": 2
     },
     {
       "id": "c9b2bd188b3592a4",

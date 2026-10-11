@@ -1,11 +1,11 @@
-# CDG Watch 日次ダイジェスト 2026-10-11
+# CDG Watch 日次ダイジェスト 2026-10-12
 
-本日はcollect.jsが新着2件を取得。要約枠は今回の運用指示で最大30件まで許容されたが、AGENTS.mdの日次ルーティン(15件上限)を優先し、新しい記事から順に15件を要約・タグ付け・cluster付与(残り8件は翌日以降へ)。朝日新聞2記事とHypebeast記事1件はアクセス不可で「(要約取得不可)」。無関係記事の削除は本日分なし。directiveラベルのopen Issueは0件。
+本日はcollect.jsが新着3件を取得。summary null のバックログ11件(前日分の残り含む)を全件要約・タグ付け。アクセス不可は`v-shinpo.com`の1件のみで「(要約取得不可)」(既知スパムドメインではないため削除せず保持)。無関係記事の削除は本日分なし。directiveラベルのopen Issueは0件、DIRECTIVES.mdも存在せず対応事項なし。月曜のためCDG FREAKの立ち上がり日程ページを確認したが、10/12以降の新規立ち上がり日の掲載はまだなく`storeLaunches`への追加なし。
 
-- **eYe ジュンヤワタナベマン×STÜSSY、2026年秋冬の最終コラボが登場** — Hypebeastが10月9日付で報じたが本文は取得不可。シリーズ最後のコラボとして公開された模様。[Hypebeast](https://hypebeast.com/2026/10/eye-junya-watanabe-man-stussy-chore-coat-release-info)
-- **⚠古 ディーエスエムケイニノミヤ、ブランド初のランウェイショーをフィレンツェで開催** — 6月17日、ピッティ・イマージネ・ウオモのゲストデザイナーとして2027年春夏「OUR PUNK」全35ルックを発表。George CoxやSchott NYCとの協業も。`cluster: dsm-kei-ninomiya-ss27`(新規)。[CDG FREAK](https://cdg-freak.com/collection/dsm-kei-ninomiya/2027ss/)
-- **⚠古 コムデギャルソンオムプリュス、2026-27年秋冬「ブラックホール」をパリで発表** — 1月23日のショーで全41ルック。黒基調の歪んだテーラリングから、終盤は白いルックへ一斉に転換。`cluster: cdg-hommeplus-26aw-blackhole`(既存clusterに統合)。[CDG FREAK](https://cdg-freak.com/collection/cdg-homme-plus/2026aw/)
-- **⚠古 ノワールケイニノミヤ、2026-27年秋冬「dark blooming」をパリで発表** — 3月7日のショーで全35ルック。黒い棘や骨格の造形から花やワイヤーフレームの装飾へ展開。`cluster: noir-kei-ninomiya-26aw`(新規)。[CDG FREAK](https://cdg-freak.com/collection/noir-kei-ninomiya/2026aw/)
-- **⚠古 ジュンヤワタナベマン、2026-27年秋冬コレクションをパリで発表** — 1月23日のショーで全45ルック。アイビーや作業着の定型をパッチワークで組み替え、黒・グレー・キャメル基調にアウトドアブランドとの異素材ミックス。`cluster: junya-watanabe-man-26aw`(新規)。[CDG FREAK](https://cdg-freak.com/collection/junya-watanabe-man/2026aw/)
+- **⚠古 コムデギャルソンオム×ニューバランス「MT580」復刻を5月19日発売** — 1996年のトレイルモデルをベースにしたコラボスニーカー、全国のオム取扱店で税込40,700円。`cluster: cdg-nb580`(既存clusterに統合、スニーカーダンクの中古出品2件と同一商品)。[CDG FREAK](https://cdg-freak.com/cdghomme-nb-mt580/)
+- **⚠古 『SWITCH』コムデギャルソン50周年特別編集号が4月25日発売** — 『Six』全8冊収録や川久保玲への最新取材など416ページ、通常版4,400円・限定特装版11,000円。`cluster: cdg-switch-50th`(既存のfashion headline記事と統合)。[CDG FREAK](https://cdg-freak.com/cdg-swith-2023/)
+- **⚠古 プレイコムデギャルソン×コンバース「PRO LEATHER」新作を5月3日発売** — コラボ第4弾、1976年発のバスケットシューズを全キャンバス仕立てに、税込20,900円。[CDG FREAK](https://cdg-freak.com/playcdg-converse-2023/)
+- **⚠古 Burberry×コムデギャルソンのカスタムトレンチコートが青山店限定発売** — 川久保玲によるケンジントンのカスタマイズ2型、税込506,000円。[CDG FREAK](https://cdg-freak.com/comme-des-garcons-burberry/)
+- **川久保玲のコムデギャルソン家具ライン(1983-93)を回顧** — パリ直営店限定で販売された彫刻的な家具を振り返る記事、2017年のギャラリー展で再評価。[nss magazine](https://www.nssmag.com/en/fashion/29605/when-rei-kawakubo-designed-a-furniture-line)
 
-補足: リリースカレンダーへの追加対象(未来の発売日情報)は、要約した15件がいずれも既発表・既開催済みの古いショー報告だったため本日はなし。storeLaunchesは月曜のみ更新のため本日(日曜)は対象外。残りのsummary null 8件(朝日新聞の古い記事・2025年のCDG FREAKショー記事など)は翌日以降に回す。
+補足: 残り6件(ウルフズヘッドベルト、青山店アイテム総括、渋谷パルコバッグ、パリ店移転、YouTube入門動画、v-shinpo要約取得不可の1件)も要約済みだが古い小ネタのためダイジェストには非掲載。リリースカレンダーへの追加対象(未来の発売日情報)は本日要約した項目がすべて既発表済みの過去記事だったためなし。
