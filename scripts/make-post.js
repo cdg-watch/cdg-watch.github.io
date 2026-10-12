@@ -17,14 +17,15 @@ function parseDigest(md) {
   // (2026-08-24 Issue #27 → 同一行body化には対応したがインラインリンクは未対応のまま
   // 残っていた不具合を 2026-09-30 Issue #33 で修正)。
   // 見出し先頭の「⚠古」(AGENTS.md 2026-07-13指示: 7日超の古い記事につけるマーカー)が
-  // あってもタイトルとして拾えるようにする。
+  // あってもタイトルとして拾えるようにする。⚠古項目は末尾に回す(directive #36)。
   const lines = md.split("\n");
   const blocks = [];
   for (let i = 0; i < lines.length; i++) {
-    const titleM = lines[i].match(/^-\s*(?:⚠古\s*)?\*\*(.+?)\*\*\s*(?:—\s*(.*))?$/);
+    const titleM = lines[i].match(/^-\s*\*\*(⚠古\s*)?(.+?)\*\*\s*(?:—\s*(.*))?$/);
     if (!titleM) continue;
-    const title = titleM[1].trim();
-    let body = (titleM[2] || "").trim();
+    const stale = Boolean(titleM[1]);
+    const title = (titleM[1] || "") + titleM[2].trim();
+    let body = (titleM[3] || "").trim();
     let url = null;
 
     // 現行形式: 本文末尾のインラインMarkdownリンク [ラベル](URL) からURLを抽出
@@ -55,8 +56,11 @@ function parseDigest(md) {
         if (urlM) url = urlM[1];
       }
     }
-    if (url) blocks.push({ title, body, url });
+    if (url) blocks.push({ title, body, url, stale });
   }
+  // ⚠古(7日超)マーク項目は候補の末尾に回す(directive #36)。同一グループ内の
+  // 元の順序は保つため、真偽値だけで安定ソートする
+  blocks.sort((a, b) => Number(a.stale) - Number(b.stale));
   return blocks;
 }
 
