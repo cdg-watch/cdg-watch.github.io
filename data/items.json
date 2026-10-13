@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T22:07:14.257Z",
+  "updatedAt": "2026-10-13T22:08:51.735Z",
   "items": [
     {
       "id": "968d62fc1d01defc",
@@ -10,8 +10,12 @@
       "image": "https://images-prod.anothermag.com/1200/0-22-1389-925/azure/another-prod/470/9/479594.jpg",
       "feed": "AnOther",
       "fetchedAt": "2026-10-13T22:07:00.736Z",
-      "summary": null,
-      "tags": []
+      "summary": "ロンドンのDover Street Marketで10月13日からComme des Garçonsの雑誌『Six』を再現したインスタレーションが展開され、東京・青山店でも同様の展示が行われる。社長Adrian Joffeによれば、パリ・ロンドン・東京の3拠点限定の展開で、通常は東京のTrading Museumでのみ販売されるTシャツもロンドン店で購入できる。",
+      "tags": [
+        "店舗",
+        "インタビュー"
+      ],
+      "importance": 2
     },
     {
       "id": "881f9cbf9792fcf7",
@@ -22,7 +26,7 @@
       "image": "https://wwd.com/wp-content/uploads/2026/10/penelope-lucie-sassiat.jpg?w=1000&h=563&crop=1",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-13T22:07:07.720Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {

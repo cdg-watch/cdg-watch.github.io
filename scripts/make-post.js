@@ -24,7 +24,10 @@ function parseDigest(md) {
     const titleM = lines[i].match(/^-\s*\*\*(⚠古\s*)?(.+?)\*\*\s*(?:—\s*(.*))?$/);
     if (!titleM) continue;
     const stale = Boolean(titleM[1]);
-    const title = (titleM[1] || "") + titleM[2].trim();
+    // 表示用titleは常に素の見出し(⚠古プレフィックスなし)。鮮度判定はstaleフラグのみで持つ
+    // (directive #36追加対応: 旧実装はtitleにもプレフィックスが残り、全候補⚠古の週に
+    // 投稿叩き台〈案A本文〉へ「⚠古」の文字列がそのまま混入していた)
+    const title = titleM[2].trim();
     let body = (titleM[3] || "").trim();
     let url = null;
 
