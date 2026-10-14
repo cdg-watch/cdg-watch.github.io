@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-10-13T22:08:51.735Z",
+  "updatedAt": "2026-10-14T22:07:00.302Z",
   "items": [
+    {
+      "id": "dbcf8633ddcb093e",
+      "title": "The hidden meanings behind Daisy Edgar-Jones' fashion in Sense and Sensibility - HELLO! Magazine",
+      "url": "https://www.hellomagazine.com/film/928816/the-hidden-meaning-behind-daisy-edgar-jones-fashion-in-sense-and-sensibility/",
+      "publishedAt": "2026-10-13T23:20:00.000Z",
+      "publisher": "HELLO! Magazine",
+      "image": "https://images.hellomagazine.com/horizon/landscape/1200/3c7410db0ab1-4258d01000449r.jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-10-14T22:06:44.002Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "e1be2e486a7c5a0e",
+      "title": "【スニダンで購入可】9/5発売 COMME des GARÇONS OSAKA × BAPE COLLECTION 抽選/定価/販売店舗まとめ - SNKRDUNK",
+      "url": "https://snkrdunk.com/articles/11421/",
+      "publishedAt": "2026-10-13T19:56:37.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/20210908030910-0.webp",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-10-14T22:06:43.508Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
+    },
+    {
+      "id": "8350e7b298d4c412",
+      "title": "コムデギャルソン リブ裾フリル装飾 ジャージ トラックジャケット ad2001 【公式通販】 - elommal.com",
+      "url": "https://elommal.com/itemgoods/27134770",
+      "publishedAt": "2026-10-13T19:15:21.000Z",
+      "publisher": "elommal.com",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-10-14T22:06:43.507Z",
+      "summary": null,
+      "tags": []
+    },
     {
       "id": "968d62fc1d01defc",
       "title": "Adrian Joffe: “Six Is New Again”",
@@ -27,6 +65,18 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-13T22:07:07.720Z",
       "summary": "(要約取得不可)",
+      "tags": []
+    },
+    {
+      "id": "27dc05909dcdbcf2",
+      "title": "Comme des Garçons Spring/Summer 2027 - AnOther Magazine",
+      "url": "https://www.anothermag.com/fashion-beauty/gallery/14884/comme-des-garcons-spring-summer-2027/0",
+      "publishedAt": "2026-10-11T14:59:31.000Z",
+      "publisher": "AnOther Magazine",
+      "image": "https://images-prod.anothermag.com/1200/0-187-1464-976/azure/another-prod/470/9/479450.JPG",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-10-14T22:06:44.001Z",
+      "summary": null,
       "tags": []
     },
     {
@@ -457,6 +507,18 @@
       ],
       "importance": 3,
       "cluster": "cdg-ss27-show-paris"
+    },
+    {
+      "id": "42436fa767cd92b2",
+      "title": "Comme Des Garcons Spring 2027 Fashion Show - The Impression",
+      "url": "https://theimpression.com/comme-des-garcons-spring-2027-fashion-show/",
+      "publishedAt": "2026-10-03T17:21:36.000Z",
+      "publisher": "The Impression",
+      "image": "https://theimpression.com/wp-content/uploads/2026/10/oby00463-12055203.jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-10-14T22:06:44.001Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "845475dcc567e423",
