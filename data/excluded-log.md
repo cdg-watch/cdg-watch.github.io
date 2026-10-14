@@ -9,4 +9,5 @@ SNS運用エージェントが「公式コラボでない」「意見記事で�
 
 2026-10-09  https://vogue.ph/fashion/comme-des-garcons-manila-univers-editorial/  海外ローカル色の強い話題(マニラの現地セレクトショップUnivers・Homme et Femmeと現地アーティストの特集エディトリアル)。日本の読者が行動に移せない海外ローカルネタのため見送り方針(2026-07-23 snow指示)に該当、恒久対象外
 2026-10-11  https://www.dazeddigital.com/fashion/article/71123/1/dazed-and-dover-street-market-paris-magazine-drop-new-idols  海外ローカル色の強い話題(パリDSMでの秋号マガジンの無料配布イベント、9/30開催・配布は終了済み。CDGは表紙協力・インタビュー掲載のみで現地来場者向けの一回限りの催しのため見送り方針(2026-07-23 snow指示)に該当、恒久対象外
+2026-10-15  https://wwd.com/business-news/retail/le-bon-marche-japanese-fashion-auction-iconic-designers-1239342104/  ヴィンテージ/アーカイブ作品のオークション企画(Le Bon Marché、Pénélope's Auction主催、1980〜90年代のコムデギャルソン等日本人デザイナー作品、10/13〜18開催)。dot COMMEアーカイブオークション(2026-08-18判断)と同種の私設コレクション競売のため二次流通除外方針に該当、恒久対象外
 
