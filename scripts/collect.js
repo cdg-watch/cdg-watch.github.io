@@ -102,8 +102,12 @@ const SOURCES = [
 // フリマ出品風タイトル(付属品完備・電池切れ等)でCDGキーワードを連結したスパムを
 // Google Newsに流していた(2026-10-06検出)。現在はハック除去済みでトップページに
 // リダイレクトされ本文は確認不可だが、タイトルパターンが既知スパムと同種のため追加
+// elommal.com: 2026-10-14検出。アラビア語の求人/労働ポータル「بوابة العمال」が
+// 乗っ取られ、「コムデギャルソン...【公式通販】」という日本語の偽公式通販タイトルで
+// Google News(日本語)に混入。該当URLは常に404(Page Not Found)で本文は存在せず、
+// 乗っ取りサイトによる偽装スパムと判断
 const SPAM_URL_RE =
-  /richardajkeys\.com|cfecgc-orange\.org|consumerthai\.org|lechodelabaie\.fr|cicus\.us\.es|(?:^|\/\/)(?:www\.)?tennis\.fi\/|radiopiu\.net|bosnewslife\.com|diocesisdesalamanca\.com|ecoconscience\.tv|fuelcarmagazine\.com|onmotor\.es|krepsiniozinios\.lt|sakhaparliament\.ru|defensorianna\.gob\.ar|uponarriving\.com|sinartdigital\.com|carangolanoticias\.com\.br|lostinanime\.com|jordanrussiacenter\.org/i;
+  /richardajkeys\.com|cfecgc-orange\.org|consumerthai\.org|lechodelabaie\.fr|cicus\.us\.es|(?:^|\/\/)(?:www\.)?tennis\.fi\/|radiopiu\.net|bosnewslife\.com|diocesisdesalamanca\.com|ecoconscience\.tv|fuelcarmagazine\.com|onmotor\.es|krepsiniozinios\.lt|sakhaparliament\.ru|defensorianna\.gob\.ar|uponarriving\.com|sinartdigital\.com|carangolanoticias\.com\.br|lostinanime\.com|jordanrussiacenter\.org|elommal\.com/i;
 
 // 焼き直し記事ガード(2026-08-02)。同一媒体がほぼ同じタイトル・ほぼ同じ本文の
 // 記事を新しい記事IDで再発行し、publishedAt だけ新しい「新着」に見えるケースを
