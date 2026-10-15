@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T22:06:41.548Z",
+  "updatedAt": "2026-10-15T22:08:51.343Z",
   "items": [
     {
       "id": "390013971ef040cb",
@@ -10,7 +10,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-15T22:06:32.566Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -22,7 +22,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-15T22:06:32.566Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -34,7 +34,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-15T22:06:32.566Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -46,8 +46,11 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/ca427e925b8561e44977764bf20f1a43-landscape-960.f8664e47cf6f.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-15T22:06:18.646Z",
-      "summary": null,
-      "tags": []
+      "summary": "コムデギャルソン香水ライン各シリーズの香りの特徴・主な香料・サイズ別価格と購入可能店舗をまとめたCDG FREAKのガイド記事。定番のワンダーウッドやプレイのほか、KAWSやモノクル誌とのコラボ香水も紹介している。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "fc650acd3d7aa599",
@@ -58,10 +61,11 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/e739782fe1cc0c1dcc5d01f86d0a9c24-landscape-960.cbc1f9475e8d.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-15T22:06:18.648Z",
-      "summary": null,
+      "summary": "プレイコムデギャルソンのTシャツ・ニットなど型ごとの価格・サイズ感・取扱店をまとめたCDG FREAKの完全ガイド。K-WAY、INVADER、コンバースとのコラボ商品についても解説している。",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "dbcf8633ddcb093e",
@@ -72,8 +76,11 @@
       "image": "https://images.hellomagazine.com/horizon/landscape/1200/3c7410db0ab1-4258d01000449r.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-15T22:06:32.567Z",
-      "summary": null,
-      "tags": []
+      "summary": "映画『Sense and Sensibility』の衣装デザイナーGrace Snellのインタビュー記事。Elinor役の衣装について、1990年代の山本耀司やコムデギャルソンの「テーラリングの考え方」を参照したと語っている。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "e1be2e486a7c5a0e",
@@ -116,8 +123,11 @@
       "image": "https://data2.nssmag.com/images/galleries/49962/auction-bon-marche.webp",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-15T22:06:32.567Z",
-      "summary": null,
-      "tags": []
+      "summary": "パリのル・ボン・マルシェで2026年10月13〜18日に日本のファッションアーカイブオークションが開催され、コムデギャルソンやヨウジヤマモト、イッセイミヤケなど225点が出品される。ライブオークションは10月17日15時から実施。",
+      "tags": [
+        "二次流通"
+      ],
+      "importance": 2
     },
     {
       "id": "881f9cbf9792fcf7",
