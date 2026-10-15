@@ -1,6 +1,80 @@
 {
-  "updatedAt": "2026-10-14T22:10:57.776Z",
+  "updatedAt": "2026-10-15T22:06:41.548Z",
   "items": [
+    {
+      "id": "390013971ef040cb",
+      "title": "Comme des Garçons Revives Its Cult Magazine, ‘Six’ - Hypebeast",
+      "url": "https://hypebeast.com/2026/10/comme-des-garcons-six-magazine-installation-rei-kawakubo-2026",
+      "publishedAt": "2026-10-15T19:55:41.000Z",
+      "publisher": "Hypebeast",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-10-15T22:06:32.566Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "192b0453393c2c54",
+      "title": "Inside the Surprisingly Modern Fashion References Behind ‘Sense and Sensibility’ - Marie Claire",
+      "url": "https://www.marieclaire.com/fashion/sense-sensibility-daisy-edgar-jones-outfits-costume-designer-interview/",
+      "publishedAt": "2026-10-15T19:04:21.000Z",
+      "publisher": "Marie Claire",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-10-15T22:06:32.566Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "3f22417c7a7c6d9a",
+      "title": "In Focus Comme des Garçons The dark side of the avant-garde at Dover Street Market Paris - Glitz",
+      "url": "https://www.glitz.paris/en/entourage/2026/10/15/the-dark-side-of-the-avant-garde-at-dover-street-market-paris,110899155-ge0",
+      "publishedAt": "2026-10-15T06:04:34.000Z",
+      "publisher": "Glitz",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-10-15T22:06:32.566Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "04893f89118f4866",
+      "title": "コムデギャルソン香水ガイド｜定番の香りと価格、買える場所",
+      "url": "https://cdg-freak.com/guide/comme-des-garcons-parfums/",
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/ca427e925b8561e44977764bf20f1a43-landscape-960.f8664e47cf6f.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-15T22:06:18.646Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "fc650acd3d7aa599",
+      "title": "プレイ コムデギャルソン完全ガイド｜Tシャツ・カーディガンの定番、サイズ感、定価、コラボ、取扱店",
+      "url": "https://cdg-freak.com/guide/play-comme-des-garcons/",
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/e739782fe1cc0c1dcc5d01f86d0a9c24-landscape-960.cbc1f9475e8d.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-15T22:06:18.648Z",
+      "summary": null,
+      "tags": [
+        "コラボ"
+      ]
+    },
+    {
+      "id": "dbcf8633ddcb093e",
+      "title": "The hidden meanings behind Daisy Edgar-Jones' fashion in Sense and Sensibility - HELLO! Magazine",
+      "url": "https://www.hellomagazine.com/film/928816/the-hidden-meaning-behind-daisy-edgar-jones-fashion-in-sense-and-sensibility/",
+      "publishedAt": "2026-10-13T23:20:00.000Z",
+      "publisher": "HELLO! Magazine",
+      "image": "https://images.hellomagazine.com/horizon/landscape/1200/3c7410db0ab1-4258d01000449r.jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-10-15T22:06:32.567Z",
+      "summary": null,
+      "tags": []
+    },
     {
       "id": "e1be2e486a7c5a0e",
       "title": "【スニダンで購入可】9/5発売 COMME des GARÇONS OSAKA × BAPE COLLECTION 抽選/定価/販売店舗まとめ - SNKRDUNK",
@@ -32,6 +106,18 @@
         "インタビュー"
       ],
       "importance": 2
+    },
+    {
+      "id": "aa2b4aed1c129968",
+      "title": "40 Years of Japanese Fashion Archives at Auction - nss magazine",
+      "url": "https://www.nssmag.com/en/fashion/47247/japanese-fashion-archives-auction-bon-marche-yamamoto-miyake",
+      "publishedAt": "2026-10-13T07:00:00.000Z",
+      "publisher": "nss magazine",
+      "image": "https://data2.nssmag.com/images/galleries/49962/auction-bon-marche.webp",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-10-15T22:06:32.567Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "881f9cbf9792fcf7",
