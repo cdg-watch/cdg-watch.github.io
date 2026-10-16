@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T22:07:17.091Z",
+  "updatedAt": "2026-10-16T22:09:58.833Z",
   "items": [
     {
       "id": "55f3c58c9289bc65",
@@ -10,20 +10,12 @@
       "image": "https://hubemag.com/wp-content/uploads/2026/10/SIX-by-COMME-des-GARCONS-_hube_02-1024x683.jpg",
       "feed": "HUBE",
       "fetchedAt": "2026-10-16T22:07:08.585Z",
-      "summary": null,
-      "tags": []
-    },
-    {
-      "id": "ddfae9c83737eaad",
-      "title": "COMME des GARCONS (コムデギャルソン) Tシャツ・カットソー メンズ - mountaingenius.org",
-      "url": "https://mountaingenius.org/product/647166677166664967966",
-      "publishedAt": "2026-10-16T06:43:06.000Z",
-      "publisher": "mountaingenius.org",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-10-16T22:07:10.946Z",
-      "summary": null,
-      "tags": []
+      "summary": "川久保玲によるコムデギャルソンのビジュアル誌『Six』(1988〜91年に8号刊行)が35年ぶりに復活し、ドーバー ストリート マーケット ロンドンでアーカイブと現代作家の作品を組み合わせた展示を実施。Frieze London 2026にあわせ11月13日まで公開。",
+      "tags": [
+        "店舗"
+      ],
+      "importance": 2,
+      "cluster": "cdg-six-magazine-revival"
     },
     {
       "id": "390013971ef040cb",
@@ -55,11 +47,14 @@
       "url": "https://www.cosmopolitan.com/uk/fashion/a74134810/claudia-winkleman-buckle-shirt-celebrity-traitors/",
       "publishedAt": "2026-10-15T14:56:32.000Z",
       "publisher": "Cosmopolitan",
-      "image": null,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/6454e6f6-cfcc-4870-8bb5-e52681bed5de.png?crop=1xw:0.9953703703703703xh;center,top&resize=1200:*",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-16T22:07:11.346Z",
-      "summary": null,
-      "tags": []
+      "summary": "ドラマ『セレブリティ・トレイターズ』でクラウディア・ウィンクルマンが着用したコムデギャルソンのバックルシャツ(約592ポンド)が話題となり、H&Mの類似デザイン(44.99ポンド)との比較記事が組まれた。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "3f22417c7a7c6d9a",
@@ -82,8 +77,13 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/46dd164542837a85bb3577f506106e9e-landscape-960.7f9c02ec6acc.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-16T22:06:55.982Z",
-      "summary": null,
-      "tags": []
+      "summary": "コムデギャルソン伝説のビジュアル誌『Six』が35年ぶりに復活。青山店は2026年11月末まで、ドーバー ストリート マーケット ロンドンは11月13日まで誌面インスタレーションを展示し、限定Tシャツ12型を店頭・オンラインで期間限定販売(DSMロンドンのオンラインは各£95)。",
+      "tags": [
+        "新作",
+        "店舗"
+      ],
+      "importance": 2,
+      "cluster": "cdg-six-magazine-revival"
     },
     {
       "id": "04893f89118f4866",

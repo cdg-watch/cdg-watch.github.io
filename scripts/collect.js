@@ -106,8 +106,13 @@ const SOURCES = [
 // 乗っ取られ、「コムデギャルソン...【公式通販】」という日本語の偽公式通販タイトルで
 // Google News(日本語)に混入。該当URLは常に404(Page Not Found)で本文は存在せず、
 // 乗っ取りサイトによる偽装スパムと判断
+// mountaingenius.org: 2026-10-16検出。イタリア語のWordPressブログ(本来は
+// news/projects/data/management/event系の個人サイト)が乗っ取られ、「COMME des
+// GARCONS (コムデギャルソン) Tシャツ・カットソー メンズ」という日本語の偽商品ページ
+// タイトルでGoogle News(日本語)に混入。該当の/product/配下URLは常に404で本文は
+// 存在せず、乗っ取りサイトによる偽装スパムと判断
 const SPAM_URL_RE =
-  /richardajkeys\.com|cfecgc-orange\.org|consumerthai\.org|lechodelabaie\.fr|cicus\.us\.es|(?:^|\/\/)(?:www\.)?tennis\.fi\/|radiopiu\.net|bosnewslife\.com|diocesisdesalamanca\.com|ecoconscience\.tv|fuelcarmagazine\.com|onmotor\.es|krepsiniozinios\.lt|sakhaparliament\.ru|defensorianna\.gob\.ar|uponarriving\.com|sinartdigital\.com|carangolanoticias\.com\.br|lostinanime\.com|jordanrussiacenter\.org|elommal\.com/i;
+  /richardajkeys\.com|cfecgc-orange\.org|consumerthai\.org|lechodelabaie\.fr|cicus\.us\.es|(?:^|\/\/)(?:www\.)?tennis\.fi\/|radiopiu\.net|bosnewslife\.com|diocesisdesalamanca\.com|ecoconscience\.tv|fuelcarmagazine\.com|onmotor\.es|krepsiniozinios\.lt|sakhaparliament\.ru|defensorianna\.gob\.ar|uponarriving\.com|sinartdigital\.com|carangolanoticias\.com\.br|lostinanime\.com|jordanrussiacenter\.org|elommal\.com|mountaingenius\.org/i;
 
 // 焼き直し記事ガード(2026-08-02)。同一媒体がほぼ同じタイトル・ほぼ同じ本文の
 // 記事を新しい記事IDで再発行し、publishedAt だけ新しい「新着」に見えるケースを
