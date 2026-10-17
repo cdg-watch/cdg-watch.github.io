@@ -7992,22 +7992,6 @@
       "importance": 1
     },
     {
-      "id": "6b9fd852f9cf546e",
-      "title": "大阪だけやで!! A BATHING APE® × COMME des GARÇONS 2026SS COLLECTIONが数量限定リリース - FORZA STYLE",
-      "url": "https://forzastyle.com/articles/-/78374",
-      "publishedAt": "2026-05-01T07:00:00.000Z",
-      "publisher": "FORZA STYLE",
-      "image": "https://forza.ismcdn.jp/mwimgs/c/8/1200w/img_c84b3d899e190ab21fcca11231519bc4239017.jpg",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-10-17T22:03:27.310Z",
-      "summary": null,
-      "tags": [
-        "コラボ",
-        "ショー/コレクション",
-        "新作"
-      ]
-    },
-    {
       "id": "b7e1f9950c644e43",
       "title": "5/1・5/2発売｜COMME des GARCONS HOMME PLUS × Nike Air Max Dolce 3colors｜抽選/販売/定価情報 - SNKRDUNK",
       "url": "https://snkrdunk.com/articles/31847/",
@@ -11025,10 +11009,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/17e0f2b7-d3a9-4509-b8c7-c7f021e71569/8071567.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-17T22:03:27.310Z",
-      "summary": null,
+      "summary": "フリマサイト「スニダン」に出品された「COMME des GARCONS x NGV Scarf」(ブラック)の個人出品ページ。価格は明記されていない。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "72b4cbca890e25ea",
@@ -13600,8 +13585,11 @@
       "image": "https://www.atpress.ne.jp/releases/335306/img_335306_1.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-17T22:03:27.310Z",
-      "summary": null,
-      "tags": []
+      "summary": "2022年12月1日に横浜元町のTHE BRIDGE YOKOHAMAで開催された、コムデギャルソンとヨウジヤマモトの私物のみを使ったアーカイブファッションショー「12.1 THE SHOW」の告知プレスリリース(開催済みの過去イベント)。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 1
     },
     {
       "id": "510a1efb91e1109c",
