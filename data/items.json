@@ -5279,11 +5279,12 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/0b1de0a4b94ef23937a2d7843f8de161-landscape-960.b55906618dec.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-18T22:03:48.555Z",
-      "summary": null,
+      "summary": "コムデギャルソン2026年秋冬の入荷日程をまとめたスケジュール表で、秋冬分は8月7日から11月20日まで計5回の入荷が予定されている(最終更新2026年10月10日、過去年との比較表も掲載)。",
       "tags": [
-        "ショー/コレクション",
-        "新作"
-      ]
+        "新作",
+        "店舗"
+      ],
+      "importance": 1
     },
     {
       "id": "a56604e90b2178a2",
@@ -8005,22 +8006,6 @@
         "二次流通"
       ],
       "importance": 1
-    },
-    {
-      "id": "6b9fd852f9cf546e",
-      "title": "大阪だけやで!! A BATHING APE® × COMME des GARÇONS 2026SS COLLECTIONが数量限定リリース - FORZA STYLE",
-      "url": "https://forzastyle.com/articles/-/78374",
-      "publishedAt": "2026-05-01T07:00:00.000Z",
-      "publisher": "FORZA STYLE",
-      "image": "https://forza.ismcdn.jp/mwimgs/c/8/1200w/img_c84b3d899e190ab21fcca11231519bc4239017.jpg",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-10-18T22:04:02.260Z",
-      "summary": null,
-      "tags": [
-        "コラボ",
-        "ショー/コレクション",
-        "新作"
-      ]
     },
     {
       "id": "b7e1f9950c644e43",
@@ -12897,11 +12882,12 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/10c76078ec1f85b06e36c1848279d102-landscape-960.8f8adf1d055c.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-18T22:03:48.556Z",
-      "summary": null,
+      "summary": "コムデギャルソン×ナイキのコラボを時系列で網羅したガイドページで、コムデギャルソン・ガールズ・オムプリュス・ブラックコムデギャルソンの各ラインから2013年〜2027年春夏までの全45モデルの定価・発売日・取扱店情報をまとめている。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "366ed2581b4f1178",
