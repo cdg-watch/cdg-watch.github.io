@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T22:03:36.531Z",
+  "updatedAt": "2026-10-18T22:04:09.612Z",
   "items": [
     {
       "id": "55f3c58c9289bc65",
@@ -5271,6 +5271,21 @@
       ]
     },
     {
+      "id": "61409c958de48d97",
+      "title": "コムデギャルソン「2026年秋冬 入荷スケジュール」",
+      "url": "https://cdg-freak.com/cdg-newarrival-schedule/",
+      "publishedAt": "2026-07-16T15:05:41.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/0b1de0a4b94ef23937a2d7843f8de161-landscape-960.b55906618dec.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-18T22:03:48.555Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション",
+        "新作"
+      ]
+    },
+    {
       "id": "a56604e90b2178a2",
       "title": "コムデギャルソン × ナイキ エアフォース1 ミッド \"ホワイト\" 25.5cm 中古 - SNKRDUNK",
       "url": "https://snkrdunk.com/products/DC3601-100/used/47917466",
@@ -7990,6 +8005,22 @@
         "二次流通"
       ],
       "importance": 1
+    },
+    {
+      "id": "6b9fd852f9cf546e",
+      "title": "大阪だけやで!! A BATHING APE® × COMME des GARÇONS 2026SS COLLECTIONが数量限定リリース - FORZA STYLE",
+      "url": "https://forzastyle.com/articles/-/78374",
+      "publishedAt": "2026-05-01T07:00:00.000Z",
+      "publisher": "FORZA STYLE",
+      "image": "https://forza.ismcdn.jp/mwimgs/c/8/1200w/img_c84b3d899e190ab21fcca11231519bc4239017.jpg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-10-18T22:04:02.260Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "ショー/コレクション",
+        "新作"
+      ]
     },
     {
       "id": "b7e1f9950c644e43",
@@ -12856,6 +12887,21 @@
       ],
       "importance": 1,
       "cluster": "noir-kei-ninomiya-25aw"
+    },
+    {
+      "id": "984850c5613fae4e",
+      "title": "コムデギャルソン×ナイキ コラボ全モデル｜定価・発売日・取扱店",
+      "url": "https://cdg-freak.com/cdg-nike/",
+      "publishedAt": "2025-03-01T15:16:52.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/10c76078ec1f85b06e36c1848279d102-landscape-960.8f8adf1d055c.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-18T22:03:48.556Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "新作"
+      ]
     },
     {
       "id": "366ed2581b4f1178",
