@@ -226,6 +226,20 @@ function autoTags(title) {
   return tags;
 }
 
+// CDG FREAK(信頼ソース)の常設ガイド/スケジュールページ(発売日・開催日のような
+// 「出来事」を持たない随時更新の参考ページ)をニュース記事と区別するタグ付け
+// (2026-10-18 監督指示 directive Issue #37)。
+// URLパス(/guide/・schedule系スラッグ)に加え、タイトル(「ガイド」「スケジュール」
+// 「全モデル」)でも判定する。全モデルカタログページ(例: /cdg-nike/)はURLパスだけ
+// では一般のニュースURLと区別できないため、タイトル側の判定が必須
+const CDG_FREAK_GUIDE_URL_RE = /cdg-freak\.com\/(?:guide\/|[^/]*schedule[^/]*\/?$)/i;
+const CDG_FREAK_GUIDE_TITLE_RE = /ガイド|スケジュール|全モデル/;
+
+function isCdgFreakGuidePage(url, title) {
+  if (!/cdg-freak\.com/i.test(url)) return false;
+  return CDG_FREAK_GUIDE_URL_RE.test(url) || CDG_FREAK_GUIDE_TITLE_RE.test(title);
+}
+
 function decodeEntities(s) {
   return s
     .replace(/<!\[CDATA\[(.*?)\]\]>/gs, "$1")
@@ -533,6 +547,8 @@ async function main() {
         (item.publisher ?? "") + " " + item.title + " " + item.url
       );
       const tags = resale ? ["二次流通"] : autoTags(item.title);
+      if (isCdgFreakGuidePage(item.url, item.title) && !tags.includes("参考ガイド"))
+        tags.push("参考ガイド");
       added.push({
         id,
         ...item,
@@ -551,6 +567,8 @@ async function main() {
       it.url = real;
       if (RESALE_RE.test(real) && !it.tags.includes("二次流通"))
         it.tags.push("二次流通");
+      if (isCdgFreakGuidePage(real, it.title) && !it.tags.includes("参考ガイド"))
+        it.tags.push("参考ガイド");
     }
   }
 
