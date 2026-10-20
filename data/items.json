@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T22:03:37.177Z",
+  "updatedAt": "2026-10-20T22:04:48.085Z",
   "items": [
     {
       "id": "98379989fefe3704",
@@ -10,8 +10,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-20T22:03:31.154Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "e3f5a23183bee772",
@@ -11238,10 +11241,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/c0976844-75ae-4b04-91f0-2a2ecb1d529e.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-20T22:03:30.681Z",
-      "summary": null,
+      "summary": "コムデギャルソンとNGV(ヴィクトリア国立美術館)のコラボ商品「My Energy Tumbler \"Silver\"」がSNKRDUNKで中古/新品として出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "d76302bc277c3c26",
