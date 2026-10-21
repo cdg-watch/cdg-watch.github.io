@@ -2,30 +2,19 @@
   "updatedAt": "2026-10-21T22:04:37.106Z",
   "items": [
     {
-      "id": "d9c2534f1e696475",
-      "title": "Christina Ricci Sees Maison Margiela & Commes Des Garcons In Wednesday Addams' Future - The Zoe Report",
-      "url": "https://www.thezoereport.com/culture/christina-ricci-halloween-icon",
-      "publishedAt": "2026-10-21T14:00:24.000Z",
-      "publisher": "The Zoe Report",
-      "image": "https://imgix.bustle.com/uploads/image/2026/10/20/cf45bbc3/in-marcjacobs-love-themarcjacobs.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-10-21T22:04:28.854Z",
-      "summary": null,
-      "tags": []
-    },
-    {
       "id": "410e9cacd3661ee4",
       "title": "【B (目立った傷や汚れなし)】COMME des GARCONS HOMME コムデギャルソンオム 1990年 90s 日本製 オールド グレンチェック テーラードジャケット M ブレザー Mのブランド古着・中古服通販｜スニダン - SNKRDUNK",
       "url": "https://snkrdunk.com/apparel-free-used-items/51775692",
       "publishedAt": "2026-10-21T08:40:06.000Z",
       "publisher": "SNKRDUNK",
-      "image": null,
+      "image": "https://cdn.snkrdunk.com/apparel_used_listings/ea4c4a5e-477a-4aee-b025-6fa47a325e3f/7759489.jpeg?size=l",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-21T22:04:28.387Z",
-      "summary": null,
+      "summary": "SNKRDUNKに1990年代製コムデギャルソンオムのヴィンテージテーラードジャケット(チャコールグレー、グレンチェック、毛100%)が¥23,100で出品された。状態はB(目立った傷や汚れなし)。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "0afc92f80276ca51",
@@ -33,13 +22,14 @@
       "url": "https://snkrdunk.com/apparel-free-used-items/51770182",
       "publishedAt": "2026-10-21T05:54:44.000Z",
       "publisher": "SNKRDUNK",
-      "image": null,
+      "image": "https://cdn.snkrdunk.com/apparel_used_listings/6c19e702-e263-4f35-9b4c-02b0b1b8630c/7503476.jpeg?size=l",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-21T22:04:28.387Z",
-      "summary": null,
+      "summary": "SNKRDUNKにコムデギャルソンオムプリュスのハーフパンツ(ブラック、XLサイズ)が¥48,000で出品された。状態はB(目立った傷や汚れなし)。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "98379989fefe3704",
@@ -636,8 +626,11 @@
       "image": "https://hermes.media.static.aol.com/media/2026/10/04/8b90de6b-8623-3360-8ecf-7538c84a95c8/5279d950-ffc8-4590-84b8-5841f68ea20e.jpeg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-21T22:04:28.855Z",
-      "summary": null,
-      "tags": []
+      "summary": "ELLE発の特集記事で、コムデギャルソンのファンたちが語る「服以上の自由」というブランドの魅力を紹介。創業者・川久保玲や、パリ・ファッション・ウィーク最終土曜の「Japan Day」(ジュンヤワタナベ、ノワール ケイ ニノミヤ併催)にも触れている。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "cef014b313fd7b11",
@@ -1981,10 +1974,12 @@
       "image": "https://media.gqmiddleeast.com/photos/6a997b4ba0bf4a672d7d3443/16:9/w_1280,c_limit/GQ%20HEADER.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-21T22:04:28.855Z",
-      "summary": null,
+      "summary": "GQ Middle Eastが、2026年9月5日発売のコムデギャルソンオムプリュス×ナイキ「エア ジョーダン11」コラボを紹介。1995年の名作をブラック&ホワイトでリデザインし、パテントレザーの光沢をミッドソールまで伸ばした仕上げが特徴。",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "cluster": "cdg-hommeplus-airjordan11",
+      "importance": 2
     },
     {
       "id": "f77005592c34487c",
