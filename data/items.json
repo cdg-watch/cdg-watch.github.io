@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T22:03:35.212Z",
+  "updatedAt": "2026-10-22T22:06:04.323Z",
   "items": [
     {
       "id": "3a3276e725d904a4",
@@ -10,10 +10,12 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/69736bc9dc5431e3ea024c89b586ae33-landscape-960.0e3c123987f5.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-22T22:03:07.455Z",
-      "summary": null,
+      "summary": "コムデギャルソンの期間限定店「ゲリラストアFUKUOKA」が10月27日、福岡市中央区薬院に開業。博多駅近くの新旗艦店オープンまでのつなぎで、1階は16ブランド、2階は本家ラインとアーカイブ特価品・店舗限定アイテムを扱う。",
       "tags": [
         "店舗"
-      ]
+      ],
+      "cluster": "cdg-guerrillastore-fukuoka",
+      "importance": 2
     },
     {
       "id": "2bf8916dda506b7f",
@@ -24,8 +26,12 @@
       "image": "https://fashionsnap-assets.com/asset/format=auto,fit=crop,width=300,height=300/article/images/2026/10/578825c8-b7e4-4da3-9ad6-7ff95bbf3d16.jpg",
       "feed": "FASHIONSNAP",
       "fetchedAt": "2026-10-22T22:03:08.328Z",
-      "summary": null,
-      "tags": []
+      "summary": "FASHIONSNAPが、コムデギャルソンの神出鬼没な期間限定店「ゲリラストア」が福岡・薬院に10月27日オープンすると報道。1階は16ブランド、2階は本家ラインとアーカイブ品を特別価格で販売する。",
+      "tags": [
+        "店舗"
+      ],
+      "cluster": "cdg-guerrillastore-fukuoka",
+      "importance": 2
     },
     {
       "id": "9cce8d428bc1af3b",
@@ -36,8 +42,12 @@
       "image": "https://www.fashion-press.net/img/news/152339/top.jpg?1792655604",
       "feed": "Fashion Press",
       "fetchedAt": "2026-10-22T22:03:25.315Z",
-      "summary": null,
-      "tags": []
+      "summary": "Fashion Pressが、福岡・薬院にコムデギャルソンのゲリラストアが10月27日開業すると報じた。博多の旗艦店開業までの期間限定で、16ブランドのアイテムとアーカイブ、限定品を販売する。",
+      "tags": [
+        "店舗"
+      ],
+      "cluster": "cdg-guerrillastore-fukuoka",
+      "importance": 2
     },
     {
       "id": "eb0ba48afe4e2a59",
@@ -48,10 +58,12 @@
       "image": "https://fashionsnap-assets.com/asset/format=auto,fit=crop,width=300,height=300/collection/images/2026/10/8739fa86-ba4e-4684-b1b0-4349579ed187.jpg",
       "feed": "FASHIONSNAP",
       "fetchedAt": "2026-10-22T22:03:08.328Z",
-      "summary": null,
+      "summary": "栗原たお手掛けるtaoが東京・コムデギャルソン本社で2027年春夏コレクションを発表。テーマは「ありのまま」で、植物刺繍アーティスト森ひとみとのコラボやハンカチーフを繋いだドレスなどが披露された。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "cluster": "tao-2027ss",
+      "importance": 2
     },
     {
       "id": "d75f8c5a8aa2146f",
@@ -62,22 +74,12 @@
       "image": "https://cdg-freak.com/og/cdg-freak-1200x630.png",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-22T22:03:07.456Z",
-      "summary": null,
+      "summary": "CDG FREAKが、taoの2027年春夏コレクション発表(10月22日、東京)を紹介。全48LOOKで白を基調に、森ひとみとの植物刺繍コラボやレース・チュールを重ねたロマンティックなスタイルが展開された。",
       "tags": [
         "ショー/コレクション"
-      ]
-    },
-    {
-      "id": "d9c2534f1e696475",
-      "title": "Christina Ricci Sees Maison Margiela & Commes Des Garcons In Wednesday Addams' Future - The Zoe Report",
-      "url": "https://www.thezoereport.com/culture/christina-ricci-halloween-icon",
-      "publishedAt": "2026-10-21T14:00:24.000Z",
-      "publisher": "The Zoe Report",
-      "image": "https://imgix.bustle.com/uploads/image/2026/10/20/cf45bbc3/in-marcjacobs-love-themarcjacobs.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-10-22T22:03:26.398Z",
-      "summary": null,
-      "tags": []
+      ],
+      "cluster": "tao-2027ss",
+      "importance": 2
     },
     {
       "id": "410e9cacd3661ee4",
@@ -7318,8 +7320,10 @@
       "image": "https://img-spur.hpplus.jp/image/6f/6f927b9a-7720-4b4f-bc2c-e61b03a43ea7-807x423.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-22T22:03:25.937Z",
-      "summary": null,
-      "tags": []
+      "summary": "SPURが夏に取り入れやすいプレイコムデギャルソンのTシャツ5枚を紹介。ハートのエンブレムやバックプリントなど、定番デザインを中心にエディターが厳選している。",
+      "tags": [
+        "その他"
+      ]
     },
     {
       "id": "2a760b0793e69a56",
@@ -12998,11 +13002,13 @@
       "url": "https://www.asahi.com/articles/DA3S16234007.html",
       "publishedAt": "2025-06-12T07:00:00.000Z",
       "publisher": "朝日新聞",
-      "image": null,
+      "image": "https://imgopt.asahi.com/ogp/AS20250612002168_comm.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-22T22:03:25.937Z",
-      "summary": null,
-      "tags": []
+      "summary": "朝日新聞が、コムデギャルソンやアンダーカバーなどと協業するシューズブランドKLGのデザイナー山本真太郎へのインタビューを掲載。川久保玲らとの協業に至った経緯や靴作りへの思いを語っている。",
+      "tags": [
+        "インタビュー"
+      ]
     },
     {
       "id": "c52bc81763e4a6d7",
@@ -13187,13 +13193,15 @@
       "url": "https://www.asahi.com/articles/AST2321M2T23UCVL01PM.html",
       "publishedAt": "2025-02-06T08:00:00.000Z",
       "publisher": "朝日新聞",
-      "image": null,
+      "image": "https://imgopt.asahi.com/ogp/AS20250203001977_comm.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-22T22:03:25.937Z",
-      "summary": null,
+      "summary": "朝日新聞の鈴木正文によるコラム。コムデギャルソン オムプリュスの2025-26年秋冬コレクション(1月24日発表)を取り上げ、川久保玲の創造性を坂本龍一になぞらえて論じている。",
       "tags": [
-        "インタビュー"
-      ]
+        "インタビュー",
+        "ショー/コレクション"
+      ],
+      "cluster": "cdg-hommeplus-25aw"
     },
     {
       "id": "a828a93aaa8876c6",
@@ -13702,12 +13710,13 @@
       "url": "https://www.asahi.com/articles/ASR7154VMR6ZUCVL03N.html",
       "publishedAt": "2023-07-02T07:00:00.000Z",
       "publisher": "朝日新聞",
-      "image": null,
+      "image": "https://imgopt.asahi.com/ogp/AS20230701001948_comm.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-22T22:03:25.937Z",
-      "summary": null,
+      "summary": "朝日新聞が、コムデギャルソンが2024年春夏のメンズコレクションをパリで発表したショーを紹介。廃虚のような薄暗いビルの一室を会場に、各国の招待客で埋まったと伝えている。",
       "tags": [
-        "新作"
+        "新作",
+        "ショー/コレクション"
       ]
     },
     {

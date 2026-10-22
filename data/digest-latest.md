@@ -1,9 +1,11 @@
-# CDG Watch 日次ダイジェスト 2026-10-22
+# CDG Watch 日次ダイジェスト 2026-10-23
 
-本日のcollect.js新着5件のうち、要約枠5件すべてを処理(うち1件は無関係記事と判明し削除)。
+本日のcollect.js新着10件のうち、要約枠10件すべてを処理(うち1件は無関係記事と判明し削除)。
 
-- **⚠古 コムデギャルソンのファンが語る「服以上の自由」、ELLE発の特集記事** — 創業者・川久保玲や、パリ・ファッション・ウィーク最終土曜の「Japan Day」(ジュンヤワタナベ、ノワール ケイ ニノミヤ併催)にも言及。[AOL.com](https://www.aol.com/articles/comme-des-gar-ons-fans-181253000.html)
-- **⚠古 コムデギャルソンオムプリュス×ナイキ「エア ジョーダン11」コラボ、GQ Middle Eastが紹介** — 1995年の名作をブラック&ホワイトでリデザイン。発売済み(2026/9/5)の既報コラボの別ソース記事。[GQ Middle East](https://www.gqmiddleeast.com/article/comme-des-garcons-just-made-the-air-jordan-11-even-cooler)
-- **コムデギャルソンオム90年代ヴィンテージテーラードジャケット、SNKRDUNKで二次流通出品** — チャコールグレーのグレンチェック、¥23,100。[SNKRDUNK](https://snkrdunk.com/apparel-free-used-items/51775692)
+- **コムデギャルソン「ゲリラストアFUKUOKA」が10/27福岡・薬院にオープン** — 博多の新旗艦店開業までの期間限定店。1階は16ブランド、2階は本家ラインとアーカイブ特価品・店舗限定アイテムを販売(3ソースで報道)。[CDG FREAK](https://cdg-freak.com/news/cdg-guerrilla-store-fukuoka-2026/)
+- **taoが2027年春夏コレクションを東京で発表** — テーマ「ありのまま」。植物刺繍アーティスト森ひとみとのコラボやハンカチーフを繋いだドレスなど(2ソースで報道)。[FASHIONSNAP](https://www.fashionsnap.com/collection/tao/2027ss/)
+- **⚠古 シューズブランドKLGデザイナー山本真太郎インタビュー(朝日新聞)** — コムデギャルソンら日本ブランドとの協業の経緯を語る。[朝日新聞](https://www.asahi.com/articles/DA3S16234007.html)
+- **⚠古 鈴木正文コラム、オムプリュス25AWショーと坂本龍一になぞらえ川久保玲を論じる(朝日新聞)** — 2025年1月のパリショーを振り返る内容。[朝日新聞](https://www.asahi.com/articles/AST2321M2T23UCVL01PM.html)
+- **⚠古 プレイコムデギャルソンのTシャツ5枚をSPURが厳選紹介** — ハートエンブレムやバックプリントなど定番デザイン中心。[SPUR](https://spur.hpplus.jp/fashion/topics/JpanZA/)
 
-リリースカレンダーへの追加は、本日要約分に未来日の発売・入荷情報がないため該当なし。水曜のため、CDG FREAKの立ち上がり日程更新(月曜のみ)も対象外。CDG FREAKのルックブック補完取得(WP REST API)はHTTP 404で今回スキップ(メインのRSSフィードは正常)。
+リリースカレンダーに「ゲリラストアFUKUOKA」オープン(10/27)を追加。storeLaunches(CDG FREAK立ち上がり日程)は月曜のみ更新のため本日は対象外。directiveラベルのopen Issueは#37(実装済み・新規ガイドページ収集時の確認待ち、今回該当記事なし)、#38(週次/月次での検討予定、本日は対応なし)のみで、いずれも追加対応不要と判断。
