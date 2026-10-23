@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T22:06:04.323Z",
+  "updatedAt": "2026-10-23T22:04:07.633Z",
   "items": [
     {
       "id": "3a3276e725d904a4",
@@ -16,6 +16,45 @@
       ],
       "cluster": "cdg-guerrillastore-fukuoka",
       "importance": 2
+    },
+    {
+      "id": "1f539a48f286ee64",
+      "title": "Geedup Co and Comme des Garçons PLAY Stories Behind Streetwear Favorites - celebrityfigures.co.uk",
+      "url": "https://celebrityfigures.co.uk/geedup-co-and-comme-des-garcons-play-stories-behind-streetwear-favorites/",
+      "publishedAt": "2026-10-23T20:44:39.000Z",
+      "publisher": "celebrityfigures.co.uk",
+      "image": "https://celebrityfigures.co.uk/wp-content/uploads/2026/10/Geedup-Co-Play-For-Keeps-Hoodie-GREY.webp",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-10-23T22:03:58.415Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "a9c58bf22f83ee69",
+      "title": "【コム デ ギャルソン】eYe ジュンヤ ワタナベ マンとステューシーがコラボした「大人のスタジャン」【2026年秋冬アウターの大本命・ショートブルゾンNEWS｜08】 - UOMO",
+      "url": "https://www.webuomo.jp/fashion/topic/t/amayakashi-202611/VY4fUw/",
+      "publishedAt": "2026-10-23T02:00:00.000Z",
+      "publisher": "UOMO",
+      "image": "https://img.webuomo.jp/article/sns/image/9c/9c321f74-7d5f-4dac-86da-ef94082541c0-1200x630.jpg",
+      "feed": "WEB UOMO (Google News経由)",
+      "fetchedAt": "2026-10-23T22:03:57.521Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "ショー/コレクション"
+      ]
+    },
+    {
+      "id": "8f5adf5c11dc8e4e",
+      "title": "Comme des Garçons Guerrilla Store to Open Soon on the Outskirts of Tenjin, Fukuoka. Exclusive Items Available Only Here. | news | HOUYHNHNM (Fuinam) - HOUYHNHNM",
+      "url": "https://www.houyhnhnm.jp/en/news/1182730/",
+      "publishedAt": "2026-10-23T00:18:32.000Z",
+      "publisher": "HOUYHNHNM",
+      "image": "https://www.houyhnhnm.jp/wp-content/uploads/2026/10/A-2.jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-10-23T22:03:58.415Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "2bf8916dda506b7f",
@@ -13921,6 +13960,20 @@
         "ショー/コレクション"
       ],
       "importance": 2
+    },
+    {
+      "id": "ab48b63f82a27ebc",
+      "title": "「コムデギャルソン × ナイキ」の異彩を放つコラボスニーカー。歴代モデル10足を紹介！｜コラム - SNKRDUNK",
+      "url": "https://snkrdunk.com/articles/15998/",
+      "publishedAt": "2023-01-11T08:00:00.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/546004f8-57c8-4d12-99db-529537df9547.webp",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-10-23T22:03:57.949Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
     },
     {
       "id": "8a6ddd1d74b972be",
