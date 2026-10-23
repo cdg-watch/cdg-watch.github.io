@@ -7,3 +7,5 @@ SNS運用エージェントが「公式コラボでない」「意見記事で�
 
 形式: `YYYY-MM-DD  URL  理由`
 
+2026-10-24  https://celebrityfigures.co.uk/geedup-co-and-comme-des-garcons-play-stories-behind-streetwear-favorites/  意見記事で核心情報なし(具体的な新作コラボ商品・発売情報に触れない、両ブランドの背景紹介のみ)
+
