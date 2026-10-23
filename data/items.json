@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T22:04:07.633Z",
+  "updatedAt": "2026-10-23T22:06:05.682Z",
   "items": [
     {
       "id": "3a3276e725d904a4",
@@ -26,8 +26,11 @@
       "image": "https://celebrityfigures.co.uk/wp-content/uploads/2026/10/Geedup-Co-Play-For-Keeps-Hoodie-GREY.webp",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-23T22:03:58.415Z",
-      "summary": null,
-      "tags": []
+      "summary": "Geedup CoとCDG PLAYそれぞれのブランド背景を紹介する記事で、両ブランドの具体的な新作コラボ商品や発売情報には触れていない。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "a9c58bf22f83ee69",
@@ -38,11 +41,13 @@
       "image": "https://img.webuomo.jp/article/sns/image/9c/9c321f74-7d5f-4dac-86da-ef94082541c0-1200x630.jpg",
       "feed": "WEB UOMO (Google News経由)",
       "fetchedAt": "2026-10-23T22:03:57.521Z",
-      "summary": null,
+      "summary": "eYe ジュンヤ ワタナベ マンとステューシーがコラボしたスタジャンが紹介された。ウールメルトン地に袖は牛革、背面にステューシーのアーカイブ由来のドラゴン柄を配し、価格は165,000円。発売日・取扱店は記事未記載。",
       "tags": [
-        "コラボ",
-        "ショー/コレクション"
-      ]
+        "新作",
+        "コラボ"
+      ],
+      "importance": 2,
+      "cluster": "junya-watanabe-man-stussy-stajan"
     },
     {
       "id": "8f5adf5c11dc8e4e",
@@ -53,8 +58,13 @@
       "image": "https://www.houyhnhnm.jp/wp-content/uploads/2026/10/A-2.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-23T22:03:58.415Z",
-      "summary": null,
-      "tags": []
+      "summary": "コムデギャルソンのゲリラストアが福岡市中央区薬院に2026年10月27日オープン。1階は傘下16ブランド、2階は本体ラインやブラック コムデギャルソン等に加え限定アーカイブアイテムを特別価格で販売し、博多の旗艦店オープンまで12月中旬頃まで営業予定。",
+      "tags": [
+        "店舗",
+        "新作"
+      ],
+      "importance": 2,
+      "cluster": "cdg-guerrilla-fukuoka"
     },
     {
       "id": "2bf8916dda506b7f",
@@ -13970,10 +13980,12 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/546004f8-57c8-4d12-99db-529537df9547.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-23T22:03:57.949Z",
-      "summary": null,
+      "summary": "リセールサイトSNKRDUNKのコラム記事。コムデギャルソン×ナイキの歴代コラボスニーカー10モデル(エアマックス97、エアフォース1、エアジョーダン1など)を振り返る編集記事で、売買情報そのものではない。",
       "tags": [
-        "二次流通"
-      ]
+        "二次流通",
+        "コラボ"
+      ],
+      "importance": 1
     },
     {
       "id": "8a6ddd1d74b972be",
