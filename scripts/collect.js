@@ -371,38 +371,59 @@ export async function fetchOgImage(url) {
   }
 }
 
-// CDG FREAKのルックブック(コレクション一覧)は WordPress の固定ページとして
-// 作られておりRSSフィードに流れない。REST API の pages から /brand/ 配下の
-// 新しいページだけを拾う。日次で回るため、初回導入時に古いルックブックを
-// 大量にバックログ入りさせないよう公開14日以内のものに限定する
+// CDG FREAKのルックブック(コレクション一覧)はRSSフィードに流れないため別経路で拾う。
+// 旧WordPress時代は固定ページREST API(/wp-json/wp/v2/pages)の/brand/配下から新着を
+// 取得していたが、サイトがAstro静的構成に移行し同APIが404になり収集不能になっていた
+// (2026-10-24 日次エージェント気づき)。ページURLも /brand/{サブライン}/{サブライン}-{シーズン}/
+// から /collection/{サブライン}/{シーズン}/ に変わっている。WP REST APIの代わりに
+// サイトマップ(lastmod付き)から該当パターンのURLを拾い、タイトルは各ページの<title>を取得する。
+// 日次で回るため、初回導入時に古いルックブックを大量にバックログ入りさせないよう
+// lastmod 14日以内に限定する
+const CDG_FREAK_SEASON_PAGE_RE = /\/collection\/[^/]+\/\d{4}(?:ss|aw)\/?$/i;
+
 async function fetchCdgFreakPages(isKnownUrl) {
-  const res = await fetch(
-    "https://cdg-freak.com/wp-json/wp/v2/pages" +
-      "?per_page=20&orderby=date&order=desc&_fields=link,title,date_gmt",
-    {
-      headers: { "user-agent": "cdg-watch/1.0 (personal news aggregator)" },
-      signal: AbortSignal.timeout(20000),
-    }
+  const indexRes = await fetch("https://cdg-freak.com/sitemap-index.xml", {
+    headers: { "user-agent": "cdg-watch/1.0 (personal news aggregator)" },
+    signal: AbortSignal.timeout(20000),
+  });
+  if (!indexRes.ok) throw new Error(`HTTP ${indexRes.status}`);
+  const sitemapUrls = [...(await indexRes.text()).matchAll(/<loc>([^<]+)<\/loc>/g)].map(
+    (m) => m[1]
   );
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  const pages = await res.json();
   const cutoff = Date.now() - 14 * 24 * 60 * 60 * 1000;
   const items = [];
-  for (const p of pages) {
-    if (!p.link?.includes("/brand/")) continue; // ルックブック以外の固定ページは対象外
-    const publishedAt = new Date(p.date_gmt + "Z").toISOString();
-    if (Date.parse(publishedAt) < cutoff) continue;
-    if (isKnownUrl(p.link)) continue;
-    const title = decodeEntities((p.title?.rendered ?? "").replace(/<[^>]+>/g, ""));
-    if (!title) continue;
-    items.push({
-      title,
-      url: p.link,
-      publishedAt,
-      publisher: "CDG FREAK",
-      image: null, // 既存の og:image 補完ステップに任せる
-      _text: title,
+  for (const sitemapUrl of sitemapUrls) {
+    const res = await fetch(sitemapUrl, {
+      headers: { "user-agent": "cdg-watch/1.0 (personal news aggregator)" },
+      signal: AbortSignal.timeout(20000),
     });
+    if (!res.ok) continue;
+    const xml = await res.text();
+    for (const block of xml.matchAll(/<url>(.*?)<\/url>/gs)) {
+      const loc = tag(block[1], "loc");
+      const lastmod = tag(block[1], "lastmod");
+      if (!loc || !lastmod || !CDG_FREAK_SEASON_PAGE_RE.test(loc)) continue;
+      const publishedAt = new Date(lastmod).toISOString();
+      if (Date.parse(publishedAt) < cutoff) continue;
+      if (isKnownUrl(loc)) continue;
+      let title = null;
+      try {
+        const page = await fetch(loc, {
+          headers: { "user-agent": "cdg-watch/1.0 (personal news aggregator)" },
+          signal: AbortSignal.timeout(15000),
+        });
+        if (page.ok) title = tag(await page.text(), "title") || null;
+      } catch {}
+      if (!title) continue;
+      items.push({
+        title,
+        url: loc,
+        publishedAt,
+        publisher: "CDG FREAK",
+        image: null, // 既存の og:image 補完ステップに任せる
+        _text: title,
+      });
+    }
   }
   return items;
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T22:03:19.025Z",
+  "updatedAt": "2026-10-24T22:09:35.070Z",
   "items": [
     {
       "id": "3a3276e725d904a4",
@@ -131,18 +131,6 @@
       "importance": 2
     },
     {
-      "id": "d9c2534f1e696475",
-      "title": "Christina Ricci Sees Maison Margiela & Commes Des Garcons In Wednesday Addams' Future - The Zoe Report",
-      "url": "https://www.thezoereport.com/culture/christina-ricci-halloween-icon",
-      "publishedAt": "2026-10-21T14:00:24.000Z",
-      "publisher": "The Zoe Report",
-      "image": "https://imgix.bustle.com/uploads/image/2026/10/20/cf45bbc3/in-marcjacobs-love-themarcjacobs.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-10-24T22:03:13.272Z",
-      "summary": null,
-      "tags": []
-    },
-    {
       "id": "410e9cacd3661ee4",
       "title": "【B (目立った傷や汚れなし)】COMME des GARCONS HOMME コムデギャルソンオム 1990年 90s 日本製 オールド グレンチェック テーラードジャケット M ブレザー Mのブランド古着・中古服通販｜スニダン - SNKRDUNK",
       "url": "https://snkrdunk.com/apparel-free-used-items/51775692",
@@ -249,6 +237,21 @@
       ],
       "cluster": "cdg-ss27-show-paris",
       "importance": 1
+    },
+    {
+      "id": "ef0359b9108030c5",
+      "title": "タオ 2026年秋冬（26AW）コレクション 全43LOOK",
+      "url": "https://cdg-freak.com/collection/tao/2026aw/",
+      "publishedAt": "2026-10-19T00:00:00.000Z",
+      "publisher": "CDG FREAK",
+      "image": "https://cdg-freak.com/og/cdg-freak-1200x630.png",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-24T22:08:16.032Z",
+      "summary": "tao(タオ)の2026年秋冬コレクション全43ルックのルックブック。オランダの造形作家ルース・ファン・ビークの作品からインスピレーションを得た「円」をテーマに、円形パーツのトップスや半円の裾・バルーン状スカートなどの造形と独自柄のテキスタイルを展開。冒頭はピンク一色、終盤は照明を落としぼんやりとしたシルエットが浮かぶ構成だった。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 2
     },
     {
       "id": "55f3c58c9289bc65",
