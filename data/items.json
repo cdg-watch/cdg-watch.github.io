@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T22:06:05.682Z",
+  "updatedAt": "2026-10-24T22:03:19.025Z",
   "items": [
     {
       "id": "3a3276e725d904a4",
@@ -129,6 +129,18 @@
       ],
       "cluster": "tao-2027ss",
       "importance": 2
+    },
+    {
+      "id": "d9c2534f1e696475",
+      "title": "Christina Ricci Sees Maison Margiela & Commes Des Garcons In Wednesday Addams' Future - The Zoe Report",
+      "url": "https://www.thezoereport.com/culture/christina-ricci-halloween-icon",
+      "publishedAt": "2026-10-21T14:00:24.000Z",
+      "publisher": "The Zoe Report",
+      "image": "https://imgix.bustle.com/uploads/image/2026/10/20/cf45bbc3/in-marcjacobs-love-themarcjacobs.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-10-24T22:03:13.272Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "410e9cacd3661ee4",
