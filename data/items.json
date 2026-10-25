@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T22:04:34.372Z",
+  "updatedAt": "2026-10-25T22:06:38.257Z",
   "items": [
     {
       "id": "3a3276e725d904a4",
@@ -129,18 +129,6 @@
       ],
       "cluster": "tao-2027ss",
       "importance": 2
-    },
-    {
-      "id": "d9c2534f1e696475",
-      "title": "Christina Ricci Sees Maison Margiela & Commes Des Garcons In Wednesday Addams' Future - The Zoe Report",
-      "url": "https://www.thezoereport.com/culture/christina-ricci-halloween-icon",
-      "publishedAt": "2026-10-21T14:00:24.000Z",
-      "publisher": "The Zoe Report",
-      "image": "https://imgix.bustle.com/uploads/image/2026/10/20/cf45bbc3/in-marcjacobs-love-themarcjacobs.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-10-25T22:04:26.636Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "410e9cacd3661ee4",
@@ -8390,11 +8378,13 @@
       "image": "https://img.sneakerwars.jp/images/26058/larges/comme-des-garons-homme-plus-nike-air-max-dolce-light-3colors.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-25T22:04:26.151Z",
-      "summary": null,
+      "summary": "パリコレ2026SSで披露された2002年の隠れた名作「エア マックス ドルチェ ライト」をコム デ ギャルソン オム プリュスが再構築。ビジブルエアもアッパーと同色に塗り、国内では2026年5月1日・2日に伊勢丹新宿やコム デ ギャルソン取扱店などで発売された(税込57,200円)。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "cluster": "cdg-nike-airmaxdolcelight",
+      "importance": 2
     },
     {
       "id": "e4838415eefa2b4b",
@@ -9438,7 +9428,7 @@
       "image": "https://www.artnews.com/wp-content/uploads/2026/03/MB.CDG_.png?w=1024",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-25T22:04:26.636Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -10531,11 +10521,13 @@
       "image": "https://www.fullress.com/wp-content/uploads/2026/01/1sadGFVsd5g45s-3.jpg",
       "feed": "Fullress",
       "fetchedAt": "2026-10-25T22:04:16.368Z",
-      "summary": null,
+      "summary": "コム デ ギャルソン・オムとニューバランスのコラボ「1890A」。ABZORBクッションを備えたローファー型スニーカーで、発売日・価格・カラーは記事時点では未発表(続報予定)。",
       "tags": [
         "コラボ",
         "ショー/コレクション"
-      ]
+      ],
+      "cluster": "cdg-newbalance-1890a",
+      "importance": 1
     },
     {
       "id": "4573eacf1a397ec9",
