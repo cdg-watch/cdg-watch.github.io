@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T22:09:35.070Z",
+  "updatedAt": "2026-10-25T22:04:34.372Z",
   "items": [
     {
       "id": "3a3276e725d904a4",
@@ -129,6 +129,18 @@
       ],
       "cluster": "tao-2027ss",
       "importance": 2
+    },
+    {
+      "id": "d9c2534f1e696475",
+      "title": "Christina Ricci Sees Maison Margiela & Commes Des Garcons In Wednesday Addams' Future - The Zoe Report",
+      "url": "https://www.thezoereport.com/culture/christina-ricci-halloween-icon",
+      "publishedAt": "2026-10-21T14:00:24.000Z",
+      "publisher": "The Zoe Report",
+      "image": "https://imgix.bustle.com/uploads/image/2026/10/20/cf45bbc3/in-marcjacobs-love-themarcjacobs.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-10-25T22:04:26.636Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "410e9cacd3661ee4",
@@ -8370,6 +8382,21 @@
       "importance": 1
     },
     {
+      "id": "a43c338718fd28ae",
+      "title": "【国内5月1日/2日発売予定】 コム・デ・ギャルソン オム プリュス × ナイキ エア マックス ドルチェ ライト 3色 - スニーカーウォーズ",
+      "url": "https://sneakerwars.jp/items/view/26058",
+      "publishedAt": "2026-04-30T07:00:00.000Z",
+      "publisher": "スニーカーウォーズ",
+      "image": "https://img.sneakerwars.jp/images/26058/larges/comme-des-garons-homme-plus-nike-air-max-dolce-light-3colors.jpg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-10-25T22:04:26.151Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "新作"
+      ]
+    },
+    {
       "id": "e4838415eefa2b4b",
       "title": "Why Doesn't Anyone Notice When Japan's Biggest Brands Collab? - Highsnobiety",
       "url": "https://www.highsnobiety.com/p/bape-comme-des-garcons/",
@@ -9401,6 +9428,18 @@
         "二次流通"
       ],
       "importance": 1
+    },
+    {
+      "id": "ebda63f8aad47cac",
+      "title": "Meg Webster, Comme des Garçons, and Dia Art Foundation Have Partnered on a New Perfume - ARTnews.com",
+      "url": "https://www.artnews.com/art-news/news/meg-webster-comme-des-garcons-dia-perfume-1234777300/",
+      "publishedAt": "2026-03-13T07:00:00.000Z",
+      "publisher": "ARTnews.com",
+      "image": "https://www.artnews.com/wp-content/uploads/2026/03/MB.CDG_.png?w=1024",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-10-25T22:04:26.636Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "3f3043943336e08b",
@@ -10482,6 +10521,21 @@
       "image": "https://cdn.sanity.io/images/c1chvb1i/production/ea49987096c5627889df92f40001d73f821350e2-1960x1320.jpg",
       "importance": 2,
       "cluster": "cdg-newbalance-1890a"
+    },
+    {
+      "id": "18f7dfdb09a70fec",
+      "title": "【2026 FW】COMME des GARCONS HOMME × New Balance 1890A (コム デ ギャルソン・オム ニューバランス 2026年 秋冬)",
+      "url": "https://www.fullress.com/comme-des-garcons-homme-new-balance-1890a-2026-fw/",
+      "publishedAt": "2026-01-28T15:31:42.000Z",
+      "publisher": null,
+      "image": "https://www.fullress.com/wp-content/uploads/2026/01/1sadGFVsd5g45s-3.jpg",
+      "feed": "Fullress",
+      "fetchedAt": "2026-10-25T22:04:16.368Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "ショー/コレクション"
+      ]
     },
     {
       "id": "4573eacf1a397ec9",
