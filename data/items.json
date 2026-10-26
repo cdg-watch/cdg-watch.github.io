@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T22:06:38.257Z",
+  "updatedAt": "2026-10-26T22:03:40.265Z",
   "items": [
     {
       "id": "3a3276e725d904a4",
@@ -16,6 +16,32 @@
       ],
       "cluster": "cdg-guerrillastore-fukuoka",
       "importance": 2
+    },
+    {
+      "id": "9c4fe671a7f61db9",
+      "title": "COMME des GARÇONS Revives the GUERRILLA STORE in Fukuoka With Archive Pieces - Hypebeast",
+      "url": "https://hypebeast.com/2026/10/comme-des-garcons-guerrilla-store-fukuoka-collection-release-info",
+      "publishedAt": "2026-10-26T09:32:55.000Z",
+      "publisher": "Hypebeast",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-10-26T22:03:35.293Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "200950fec7c2d587",
+      "title": "「タオ」2027年春夏は“ありのまま”　細密な構築と軽やかさで描いたアイデンティティー",
+      "url": "https://www.wwdjapan.com/articles/2535737",
+      "publishedAt": "2026-10-26T08:30:00.000Z",
+      "publisher": null,
+      "image": "https://media.wwdjapan.com/wp-content/uploads/2026/10/26141307/DSC1337-150x150.jpg",
+      "feed": "WWD JAPAN",
+      "fetchedAt": "2026-10-26T22:03:18.950Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
     },
     {
       "id": "1f539a48f286ee64",
