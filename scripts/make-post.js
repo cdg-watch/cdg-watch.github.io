@@ -18,48 +18,71 @@ function parseDigest(md) {
   // 残っていた不具合を 2026-09-30 Issue #33 で修正)。
   // 見出し先頭の「⚠古」(AGENTS.md 2026-07-13指示: 7日超の古い記事につけるマーカー)が
   // あってもタイトルとして拾えるようにする。⚠古項目は末尾に回す(directive #36)。
+  // 「⚠古」は「**」の内側(- **⚠古Title**)・外側(- ⚠古 **Title**)のどちらで
+  // 書かれても拾えるようにする(directive #39: 2026-10-26分の実際のdigestが外側形式
+  // だったためブロックが1件も検出できなかった)。
+  // 本文が長めだと2行目以降に折り返り、URLが裸URL行ではなく独立行の
+  // [ラベル](URL)形式になることがある(directive #39)。本文行の連結先を
+  // 「裸URL行 or インラインリンク行に当たるまで」に汎化して対応する。
+  const inlineLinkRe = /\[[^\]]*\]\((https?:\/\/[^\s)]+)\)\s*$/;
+  const bareUrlRe = /^(https?:\/\/\S+)/;
   const lines = md.split("\n");
   const blocks = [];
   for (let i = 0; i < lines.length; i++) {
-    const titleM = lines[i].match(/^-\s*\*\*(⚠古\s*)?(.+?)\*\*\s*(?:—\s*(.*))?$/);
+    const headM = lines[i].match(/^-\s*(.*)$/);
+    if (!headM) continue;
+    let rest = headM[1];
+    let stale = false;
+    const outerStaleM = rest.match(/^⚠古\s*/);
+    if (outerStaleM) {
+      stale = true;
+      rest = rest.slice(outerStaleM[0].length);
+    }
+    const titleM = rest.match(/^\*\*(⚠古\s*)?(.+?)\*\*\s*(?:—\s*(.*))?$/);
     if (!titleM) continue;
-    const stale = Boolean(titleM[1]);
     // 表示用titleは常に素の見出し(⚠古プレフィックスなし)。鮮度判定はstaleフラグのみで持つ
     // (directive #36追加対応: 旧実装はtitleにもプレフィックスが残り、全候補⚠古の週に
     // 投稿叩き台〈案A本文〉へ「⚠古」の文字列がそのまま混入していた)
+    if (titleM[1]) stale = true;
     const title = titleM[2].trim();
-    let body = (titleM[3] || "").trim();
+    const bodyParts = [];
+    if (titleM[3]) bodyParts.push(titleM[3].trim());
     let url = null;
 
-    // 現行形式: 本文末尾のインラインMarkdownリンク [ラベル](URL) からURLを抽出
-    const inlineM = body.match(/\[[^\]]*\]\((https?:\/\/[^\s)]+)\)\s*$/);
-    if (inlineM) {
-      url = inlineM[1];
-      body = body.slice(0, inlineM.index).trim();
+    // タイトル行の本文末尾にインラインリンクがあれば現行形式としてそのまま拾う
+    if (bodyParts.length) {
+      const m = bodyParts[0].match(inlineLinkRe);
+      if (m) {
+        url = m[1];
+        bodyParts[0] = bodyParts[0].slice(0, m.index).trim();
+      }
     }
 
     let j = i + 1;
-    if (!url) {
-      if (!body) {
-        // 本文が同一行にない(旧形式) → 次の非空行を本文として拾う
-        while (j < lines.length && !lines[j].trim()) j++;
-        if (j < lines.length && !/^https?:\/\//.test(lines[j].trim())) {
-          body = lines[j].trim();
-          j++;
-        }
-      }
-      // URL行を探す(次の項目やまとめの注記に入ってしまったら諦める)
-      while (j < lines.length && !/^https?:\/\//.test(lines[j].trim())) {
-        const t = lines[j].trim();
-        if (t.startsWith("-") || t.startsWith(">")) { j = -1; break; }
+    // URLが見つかるまで続く行を本文として連結する(裸URL行・インラインリンク行の
+    // いずれかに当たったら確定。次の項目やまとめの注記に入ったら諦める)
+    while (!url && j < lines.length) {
+      const t = lines[j].trim();
+      if (!t) { j++; continue; }
+      if (t.startsWith("-") || t.startsWith(">")) { j = -1; break; }
+      const bareM = t.match(bareUrlRe);
+      if (bareM) { url = bareM[1]; j++; break; }
+      const inlineM = t.match(inlineLinkRe);
+      if (inlineM) {
+        const pre = t.slice(0, inlineM.index).trim();
+        if (pre) bodyParts.push(pre);
+        url = inlineM[1];
         j++;
+        break;
       }
-      if (j >= 0 && j < lines.length) {
-        const urlM = lines[j].trim().match(/^(https?:\/\/\S+)/);
-        if (urlM) url = urlM[1];
-      }
+      bodyParts.push(t);
+      j++;
     }
-    if (url) blocks.push({ title, body, url, stale });
+
+    if (j >= 0 && url) {
+      blocks.push({ title, body: bodyParts.join(" ").trim(), url, stale });
+      i = j - 1; // 消費した行を飛ばす
+    }
   }
   // ⚠古(7日超)マーク項目は候補の末尾に回す(directive #36)。同一グループ内の
   // 元の順序は保つため、真偽値だけで安定ソートする

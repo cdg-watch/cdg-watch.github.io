@@ -26,8 +26,9 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-26T22:03:35.293Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [],
+      "cluster": "cdg-guerrillastore-fukuoka"
     },
     {
       "id": "200950fec7c2d587",
@@ -38,10 +39,12 @@
       "image": "https://media.wwdjapan.com/wp-content/uploads/2026/10/26141307/DSC1337-150x150.jpg",
       "feed": "WWD JAPAN",
       "fetchedAt": "2026-10-26T22:03:18.950Z",
-      "summary": null,
+      "summary": "タオの2027年春夏コレクションが東京で発表され、白を基調に異素材を重ねた構築的なルックに、アーティスト森ひとみとの立体植物刺しゅうの協業を取り入れた。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "cluster": "tao-2027ss",
+      "importance": 2
     },
     {
       "id": "1f539a48f286ee64",
