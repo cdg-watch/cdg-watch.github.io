@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T22:04:03.235Z",
+  "updatedAt": "2026-10-27T22:06:28.637Z",
   "items": [
     {
       "id": "9d5f1ffa63b5cc7c",
@@ -10,8 +10,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-27T22:03:55.490Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "二次流通"
+      ],
+      "importance": 1
     },
     {
       "id": "76696323638b96c9",
@@ -22,11 +25,13 @@
       "image": "https://s.yimg.com/lo/mysterio/api/d0dc0c5c7a886f26669cfe34e25f2fdf5839595993707dcb68118eaae5e23dda/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fathlon_sports_articles_610%2F560f63f8b93d97284cb80c8d7ac45dff.png",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-27T22:03:55.898Z",
-      "summary": null,
+      "summary": "CDGとNikeのコラボモデル「Air Max Dolce 'Triple Black'」(2002年のAir Max Dolceを復刻したパテントレザーのローファー風モデル)を、正規販売店情報とStockXでのリセール相場(直近販売362ドル、過去12か月は270〜731ドル)とともに紹介する記事。",
       "tags": [
         "コラボ",
         "二次流通"
-      ]
+      ],
+      "importance": 2,
+      "cluster": "nike-airmax-dolcesp"
     },
     {
       "id": "3a3276e725d904a4",
@@ -120,7 +125,7 @@
         "新作"
       ],
       "importance": 2,
-      "cluster": "cdg-guerrilla-fukuoka"
+      "cluster": "cdg-guerrillastore-fukuoka"
     },
     {
       "id": "2bf8916dda506b7f",
@@ -542,18 +547,6 @@
       "summary": "(要約取得不可)",
       "tags": [],
       "importance": 1
-    },
-    {
-      "id": "c4e9894100c590a5",
-      "title": "コムデギャルソンのジャケットコーディネート | 261028-0431-29 - OCEANS オーシャンズ",
-      "url": "https://oceans.tokyo.jp/snap/detail/12732?module",
-      "publishedAt": "2026-10-10T07:00:00.000Z",
-      "publisher": "OCEANS オーシャンズ",
-      "image": "https://images.oceans.tokyo.jp/media/snap/12732/images/main_image_dc099c4b83021b02783a59838157f01b53295f6d.jpg?h=1200",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-10-27T22:03:55.491Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "de8672df62fe9428",
