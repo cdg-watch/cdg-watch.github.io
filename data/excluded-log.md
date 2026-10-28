@@ -8,4 +8,5 @@ SNS運用エージェントが「公式コラボでない」「意見記事で�
 形式: `YYYY-MM-DD  URL  理由`
 
 2026-10-24  https://celebrityfigures.co.uk/geedup-co-and-comme-des-garcons-play-stories-behind-streetwear-favorites/  意見記事で核心情報なし(具体的な新作コラボ商品・発売情報に触れない、両ブランドの背景紹介のみ)
+2026-10-29  https://goodmenproject.com/everyday-life-2/geedup-co-and-comme-des-garcons-play-the-rise-of-everyday-streetwear/  WebFetch・WebSearchとも本文確認不可(HTTP 403)だが、タイトル・媒体傾向が10/24除外済みのGeedup Co×CDG PLAY紹介記事と同系統(両ブランドの背景紹介のみを扱う意見記事)と判断
 
