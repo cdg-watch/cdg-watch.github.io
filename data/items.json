@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T22:04:27.216Z",
+  "updatedAt": "2026-10-28T22:11:59.564Z",
   "items": [
     {
       "id": "e629c28663c36176",
@@ -10,7 +10,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-28T22:04:06.426Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -27,20 +27,6 @@
         "二次流通"
       ],
       "importance": 1
-    },
-    {
-      "id": "123d43af0072e7fa",
-      "title": "Comme des Garçons x Nike Air Max Dolce ‘Triple Black’ - 2002 Archive Revival, Patent Leather Loafer, Under Retail: Where to Buy - Athlon Sports",
-      "url": "https://athlonsports.com/kicks/comme-des-garcons-nike-air-max-dolce-triple-black-where-to-buy-iq5171-002",
-      "publishedAt": "2026-10-27T01:36:00.000Z",
-      "publisher": "Athlon Sports",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-10-28T22:04:06.426Z",
-      "summary": null,
-      "tags": [
-        "コラボ"
-      ]
     },
     {
       "id": "76696323638b96c9",
@@ -216,18 +202,6 @@
       ],
       "cluster": "tao-2027ss",
       "importance": 2
-    },
-    {
-      "id": "d9c2534f1e696475",
-      "title": "Christina Ricci Sees Maison Margiela & Commes Des Garcons In Wednesday Addams' Future - The Zoe Report",
-      "url": "https://www.thezoereport.com/culture/christina-ricci-halloween-icon",
-      "publishedAt": "2026-10-21T14:00:24.000Z",
-      "publisher": "The Zoe Report",
-      "image": "https://imgix.bustle.com/uploads/image/2026/10/20/cf45bbc3/in-marcjacobs-love-themarcjacobs.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "410e9cacd3661ee4",
@@ -13537,11 +13511,14 @@
       "url": "https://www.vogue.co.jp/article/2024-11-21-comme-des-garcons-news",
       "publishedAt": "2024-11-21T08:00:00.000Z",
       "publisher": "Vogue Japan",
-      "image": null,
+      "image": "https://media.vogue.co.jp/photos/673e1a4c61733844ef4cf904/16:9/w_1280,c_limit/PR-ODEUR-10---composition-1.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-28T22:04:06.069Z",
-      "summary": null,
-      "tags": []
+      "summary": "コムデギャルソン パルファンが創業30周年を記念した新フレグランス「オデゥー10」を発表。調香師ナタリー・グラシア セトがフランスのジボダンで創作した香りで、節目の年を飾る。",
+      "tags": [
+        "新作"
+      ],
+      "importance": 2
     },
     {
       "id": "f36607e9ebc4e1fb",
@@ -13578,11 +13555,14 @@
       "url": "https://grazia.sg/fashion/comme-des-garcons-cdg-singapore-collectors-street-style-outfits/",
       "publishedAt": "2024-10-11T10:34:31.000Z",
       "publisher": "Grazia Singapore",
-      "image": null,
+      "image": "https://ed66c6w9sxw.exactdn.com/wp-content/uploads/2024/10/daniel-comme-des-garcons-street-style-singapore-cdg-fashion-collectors-feature-grazia-singapore-scaled.jpg?strip=all&quality=90&webp=92&sharp=1",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-28T22:04:06.428Z",
-      "summary": null,
-      "tags": []
+      "summary": "ストリートスタイル写真家Su Shan Leongが、シンガポールのコムデギャルソン収集家たちを撮影した企画記事。収集家たちはブランドの高級品性よりも川久保玲のデザイン哲学に惹かれて服を集めており、お気に入りの一着も紹介している。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "2d0ec09fa80bdeae",
@@ -13646,11 +13626,12 @@
       "image": "https://img.sneakerwars.jp/images/22328/larges/comme-des-garons-homme-plus-nike-sense-96-sp-3colors-top13.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-28T22:04:06.069Z",
-      "summary": null,
+      "summary": "コムデギャルソン オム プリュス×ナイキのコラボ「センス 96 SP」(エアマックス96ベースのレザーアッパー3色)が国内2025年4月4日発売、価格53,900円。MEMPHIS・GARAGE69・コムデギャルソン店舗で取り扱い。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "a5dd22d418d27400",
@@ -13730,13 +13711,14 @@
       "url": "https://10magazine.com/issue-72-rei-kawakubo-interview-comme-des-garcons-cover/",
       "publishedAt": "2024-03-18T07:00:00.000Z",
       "publisher": "10 Magazine",
-      "image": null,
+      "image": "https://10magazine.com/wp-content/uploads/2024/03/COMME-HEAD.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": null,
+      "summary": "10 MagazineのSarah Mowerによる川久保玲へのメールインタビュー記事(2024年3月)。2023年に日本の文化功労者に選ばれたが式典出席は辞退したこと、自由・反逆・独立への思い、独立系デザイナー支援、商業主義下での創作への葛藤を語っている。",
       "tags": [
         "インタビュー"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "28d063c607f110a5",
@@ -13807,11 +13789,12 @@
       "image": "https://img.sneakerwars.jp/images/21074/larges/comme-des-garons-homme-new-balance-860-v2-1.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-28T22:04:06.069Z",
-      "summary": null,
+      "summary": "コムデギャルソン オム×ニューバランス「860V2」の2色コラボが2024年10月18日に国内発売、価格42,900円。E-GANG・Digital Mountain・THE TOKYO MEN・三越伊勢丹・st company・Auggie等のオンラインショップと西武池袋本店など実店舗で取り扱い。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "af548b0b5eaf447f",
@@ -13987,13 +13970,14 @@
       "url": "https://www.asahi.com/articles/ASR9J32FSR97UCVL03J.html",
       "publishedAt": "2023-09-18T07:00:00.000Z",
       "publisher": "朝日新聞",
-      "image": null,
+      "image": "https://imgopt.asahi.com/ogp/AS20230916000970_comm.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-28T22:04:06.069Z",
-      "summary": null,
+      "summary": "建築家・妹島和世が、1973年設立から50年を迎えたコムデギャルソンと川久保玲の創造性について語る朝日新聞のインタビュー記事。40年以上ブランドを愛用してきた妹島の視点から、ブランドの「軸」について述べている。",
       "tags": [
         "インタビュー"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "abda778a54a71402",
@@ -14172,11 +14156,14 @@
       "url": "https://10magazine.com/comme-des-garcons-homme-plus-menswear-ss23/",
       "publishedAt": "2023-03-09T18:45:12.000Z",
       "publisher": "10 Magazine",
-      "image": null,
+      "image": "https://10magazine.com/wp-content/uploads/2022/07/Comme-Des-Garcons-Featured.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-28T22:04:06.428Z",
-      "summary": null,
-      "tags": []
+      "summary": "コムデギャルソン オム プリュスの2023年春夏コレクション「Another Kind of Punk」を紹介する記事。中世の宮廷道化師を着想源に、ピエロ風の衣装や奇抜なマスク、ストライプのショーツ、尖った裾のジャケットなどが特徴。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 1
     },
     {
       "id": "c9b2bd188b3592a4",
@@ -14354,11 +14341,14 @@
       "url": "https://www.vogue.com/article/kylie-jenner-comme-des-garcons",
       "publishedAt": "2022-08-04T07:00:00.000Z",
       "publisher": "Vogue",
-      "image": null,
+      "image": "https://assets.vogue.com/photos/62ec3f7f33afa406d0d26e78/16:9/w_1280,c_limit/kylie-soc.jpeg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": null,
-      "tags": []
+      "summary": "カイリー・ジェンナーがロンドンで、コムデギャルソン2007年秋コレクションのアーカイブ衣装(立体的な「手」のモチーフ付きフューシャトップとミニスカート)を着用したことを伝える記事。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "bfe5899069f1a93f",
@@ -14366,13 +14356,15 @@
       "url": "https://www.asahi.com/articles/ASQ6T4Q0LQ6SULZU006.html",
       "publishedAt": "2022-06-25T07:00:00.000Z",
       "publisher": "朝日新聞",
-      "image": null,
+      "image": "https://imgopt.asahi.com/ogp/AS20220625001495_comm.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-28T22:04:06.069Z",
-      "summary": null,
+      "summary": "2023年春夏パリ・メンズコレクションで、コムデギャルソンが約2年半ぶりに現地でショーを開催(テーマ「ANOTHER KIND OF PUNK」)。復帰への安堵と自信を語る川久保玲へのインタビューを含む朝日新聞の記事。",
       "tags": [
-        "インタビュー"
-      ]
+        "インタビュー",
+        "ショー/コレクション"
+      ],
+      "importance": 2
     },
     {
       "id": "9d70c45767b299b1",
@@ -14398,8 +14390,11 @@
       "image": "https://mebuku.city/websys/wp-content/uploads/2022/04/marl02.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-28T22:04:06.069Z",
-      "summary": null,
-      "tags": []
+      "summary": "前橋市中心街でコムデギャルソンを中心に扱うセレクトショップ「Marl」を紹介する記事。店主の奈良幸江さんが1987年に開業し、世代を問わず多くの客に愛用されている様子を伝えている。",
+      "tags": [
+        "店舗"
+      ],
+      "importance": 1
     },
     {
       "id": "9a765013e9198ac7",
@@ -14407,11 +14402,14 @@
       "url": "https://www.asahi.com/articles/ASQ2Q6J71Q2QUCLV00H.html",
       "publishedAt": "2022-02-24T08:00:00.000Z",
       "publisher": "朝日新聞",
-      "image": null,
+      "image": "https://imgopt.asahi.com/ogp/AS20220222002071_comm.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-28T22:04:06.069Z",
-      "summary": null,
-      "tags": []
+      "summary": "京都服飾文化研究財団(KCI)が、服飾を文化として後世に伝えるため17世紀以降の服飾資料を体系的に収集。最近の店頭商品やショー発表作の中からコムデギャルソンやユニクロの服も収蔵対象となっていることを伝える朝日新聞の記事。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "d1bcddff3a9e836c",
@@ -14437,8 +14435,11 @@
       "image": "https://s3-ap-northeast-1.amazonaws.com/reallocalglobal/uploads/2021/12/17002032/IMG_1889-rotated.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-28T22:04:06.069Z",
-      "summary": null,
-      "tags": []
+      "summary": "コムデギャルソンやハナエモリの衣服を仕立てていた山梨県甲州市勝沼町の元縫製工場「鉄骨作業所」を取り上げたレンタルスペース紹介記事。かつて絹産業で知られた塩山・勝沼エリアの歴史にも触れている。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "ab555b54c7a7b7d6",
