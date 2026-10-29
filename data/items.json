@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-28T22:11:59.564Z",
+  "updatedAt": "2026-10-29T22:03:51.368Z",
   "items": [
+    {
+      "id": "b18cbfbe51266252",
+      "title": "コムデギャルソンオムのジャケットコーディネート | 261029-2034-37 - OCEANS オーシャンズ",
+      "url": "https://oceans.tokyo.jp/snap/detail/12889",
+      "publishedAt": "2026-10-29T12:06:34.000Z",
+      "publisher": "OCEANS オーシャンズ",
+      "image": "https://images.oceans.tokyo.jp/media/snap/12889/images/main_image_3da34783d7821461a7337e79a574e0d81a92e287.jpg?h=1200",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-10-29T22:03:38.734Z",
+      "summary": null,
+      "tags": []
+    },
     {
       "id": "e629c28663c36176",
       "title": "Geedup Co and Comme des Garçons PLAY The Rise of Everyday Streetwear - The Good Men Project",
@@ -217,6 +229,18 @@
         "二次流通"
       ],
       "importance": 1
+    },
+    {
+      "id": "d9c2534f1e696475",
+      "title": "Christina Ricci Sees Maison Margiela & Commes Des Garcons In Wednesday Addams' Future - The Zoe Report",
+      "url": "https://www.thezoereport.com/culture/christina-ricci-halloween-icon",
+      "publishedAt": "2026-10-21T07:00:00.000Z",
+      "publisher": "The Zoe Report",
+      "image": "https://imgix.bustle.com/uploads/image/2026/10/20/cf45bbc3/in-marcjacobs-love-themarcjacobs.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-10-29T22:03:39.066Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "0afc92f80276ca51",
@@ -14454,6 +14478,20 @@
       "tags": []
     },
     {
+      "id": "f84075c08cd5f269",
+      "title": "川久保玲、激流くぐり残った強さ コムデギャルソン、パリ・コレ参加４０年 - 朝日新聞",
+      "url": "https://www.asahi.com/articles/DA3S15137470.html",
+      "publishedAt": "2021-12-09T08:00:00.000Z",
+      "publisher": "朝日新聞",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-10-29T22:03:38.735Z",
+      "summary": null,
+      "tags": [
+        "インタビュー"
+      ]
+    },
+    {
       "id": "e27dd2454e95fa47",
       "title": "コムデギャルソン川久保玲が語る パリコレ40年ともの作りの未来 - 朝日新聞",
       "url": "https://www.asahi.com/articles/ASPCM3JX0PCGUCVL00M.html",
@@ -14535,6 +14573,18 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-28T22:04:06.069Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "6253c07374cafe7d",
+      "title": "“きかせる白”にコムデギャルソンのレザーバッグを - lee.hpplus.jp",
+      "url": "https://lee.hpplus.jp/100nintai/1848777/",
+      "publishedAt": "2021-01-03T08:00:00.000Z",
+      "publisher": "lee.hpplus.jp",
+      "image": "https://lee.hpplus.jp/wp-content/uploads/2020/12/044076C2-19A2-41EE-9805-AE97E0BC7E90-scaled-e1609667998138.jpeg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-10-29T22:03:38.736Z",
       "summary": null,
       "tags": []
     },
@@ -15031,32 +15081,6 @@
       "title": "CDG DIY: 7 Comme des Garçons Superfans Show Off Their Kawakubo Collections - Vogue",
       "url": "https://www.vogue.com/article/comme-des-garcons-collectors-met-gala-2017",
       "publishedAt": "2017-04-28T07:00:00.000Z",
-      "publisher": "Vogue",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": null,
-      "tags": [
-        "ショー/コレクション"
-      ]
-    },
-    {
-      "id": "720e0f4c882a8e0d",
-      "title": "Comme des Garçons Collectors - Vogue",
-      "url": "https://www.vogue.com/slideshow/comme-des-garcons-collectors",
-      "publishedAt": "2017-04-27T07:00:00.000Z",
-      "publisher": "Vogue",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": null,
-      "tags": []
-    },
-    {
-      "id": "0fba4ca852a843cb",
-      "title": "Comme des Garçons Fall 1997 Ready-to-Wear Collection - Vogue",
-      "url": "https://www.vogue.com/fashion-shows/fall-1997-ready-to-wear/comme-des-garcons",
-      "publishedAt": "2017-04-18T07:00:00.000Z",
       "publisher": "Vogue",
       "image": null,
       "feed": "Google News (English)",
