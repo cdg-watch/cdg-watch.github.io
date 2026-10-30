@@ -1,6 +1,150 @@
 {
-  "updatedAt": "2026-10-30T11:02:51.117Z",
+  "updatedAt": "2026-10-30T22:03:38.087Z",
   "items": [
+    {
+      "id": "1f36a0ecaa6368ba",
+      "title": "【渋谷PARCO】CDGのポップアップを10月31日(土)から開催｜11月7日(土)に限定コラボカプセルを発売",
+      "url": "https://cdg-freak.com/news/cdg-shibuya-parco-pop-up-2026/",
+      "publishedAt": "2026-10-31T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/4fb0bf98f936c950acaada18fdf9ae57-landscape-960.62b53eeeb2e8.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-30T22:03:06.041Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "新作",
+        "店舗"
+      ]
+    },
+    {
+      "id": "e782d40b4bb37f71",
+      "title": "コムデギャルソン・オム × ニューバランス「1890A」を11月6日(金)に発売｜タンとブラック 各6万4900円",
+      "url": "https://cdg-freak.com/news/homme-new-balance-1890a-2026/",
+      "publishedAt": "2026-10-31T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/921f91b641c6ee3735f1b24a3e93cbe8-landscape-960.470942d7c3d8.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-10-30T22:03:06.042Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "新作"
+      ]
+    },
+    {
+      "id": "3104dd06e1048ef1",
+      "title": "フィギュア BE@RBRICK シリーズ10 １箱 シークレット コムデギャルソン - ciiblog.in",
+      "url": "https://www.ciiblog.in/detail/80d02558436",
+      "publishedAt": "2026-10-30T17:43:30.000Z",
+      "publisher": "ciiblog.in",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-10-30T22:03:22.666Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "f69cbac5247f6d40",
+      "title": "Comme des Garçons Homme × New Balance 1890A Launches November 6th - Sneaker News",
+      "url": "https://sneakernews.com/2026/10/30/comme-des-garcons-homme-new-balance-1890a-release-date/",
+      "publishedAt": "2026-10-30T17:00:07.000Z",
+      "publisher": "Sneaker News",
+      "image": "https://sneakernews.com/wp-content/uploads/2026/10/comme-des-garcons-homme-new-balance-1890a-release-date.jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-10-30T22:03:23.093Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "新作"
+      ]
+    },
+    {
+      "id": "527f44543919f4be",
+      "title": "The New Balance 1890A That Walked COMME des GARÇONS HOMME’s Paris Runway Has a Release Date - Hypebeast",
+      "url": "https://hypebeast.com/2026/10/comme-des-garcons-homme-new-balance-1890a-black-charcoal-beige-orange-release-info",
+      "publishedAt": "2026-10-30T10:19:13.000Z",
+      "publisher": "Hypebeast",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-10-30T22:03:23.093Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "ショー/コレクション",
+        "新作"
+      ]
+    },
+    {
+      "id": "254f3b358fbfc79d",
+      "title": "「CDG」ポップアップが渋谷パルコにて2026年 10/31~11/17 開催 (シーディージー COMME des GARCONS コム デ ギャルソン)",
+      "url": "https://www.fullress.com/cdg-shibuya-parco-2026-pop-up/",
+      "publishedAt": "2026-10-30T06:52:49.000Z",
+      "publisher": null,
+      "image": "https://www.fullress.com/wp-content/uploads/2026/10/1lkkdksGzsrhsrs-1.jpg",
+      "feed": "Fullress",
+      "fetchedAt": "2026-10-30T22:03:11.110Z",
+      "summary": null,
+      "tags": [
+        "店舗"
+      ]
+    },
+    {
+      "id": "76895401bfb0cd29",
+      "title": "「コム デ ギャルソン・オム」×「ニューバランス」　上質なエプロンアッパーを採用した“1890A”発売",
+      "url": "https://www.wwdjapan.com/articles/2535546",
+      "publishedAt": "2026-10-30T01:00:00.000Z",
+      "publisher": null,
+      "image": "https://media.wwdjapan.com/wp-content/uploads/2026/10/26121749/nb_a01t-150x150.jpg",
+      "feed": "WWD JAPAN",
+      "fetchedAt": "2026-10-30T22:03:07.427Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "新作"
+      ]
+    },
+    {
+      "id": "8690960054fa139f",
+      "title": "ニューバランスとコム デ ギャルソン・オムがコラボ　「1890A」を発売",
+      "url": "https://www.fashionsnap.com/article/2026-10-30/comme-des-garcons-homme-new-balance-1890a/",
+      "publishedAt": "2026-10-30T01:00:00.000Z",
+      "publisher": null,
+      "image": "https://fashionsnap-assets.com/asset/format=auto,fit=crop,width=300,height=300/article/images/2026/10/0c85f26e-fa86-493f-9364-16d71c642ee9.jpg",
+      "feed": "FASHIONSNAP",
+      "fetchedAt": "2026-10-30T22:03:07.616Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "新作"
+      ]
+    },
+    {
+      "id": "16fd5d74d920710d",
+      "title": "コム デ ギャルソン・オム×ニューバランス”革靴風”のスニーカー、ブラウン＆ブラックで",
+      "url": "https://www.fashion-press.net/news/152485",
+      "publishedAt": "2026-10-30T01:00:00.000Z",
+      "publisher": "ファッションプレス",
+      "image": "https://www.fashion-press.net/img/news/152485/top.jpg?1792991614",
+      "feed": "Fashion Press",
+      "fetchedAt": "2026-10-30T22:03:21.984Z",
+      "summary": null,
+      "tags": [
+        "コラボ"
+      ]
+    },
+    {
+      "id": "35c37d2025779a69",
+      "title": "【ダウンじゃないほう】コム デ ギャルソン・オム｜軽やかなデニム調ポリエステル素材の1stタイプGジャン【軽くてあたたかい、大人のライトアウターBEST30｜COMME des GARÇONS HOMME】 - UOMO",
+      "url": "https://www.webuomo.jp/uomolist/lightouter30-2026aw/MRjkRQ/",
+      "publishedAt": "2026-10-29T21:00:00.000Z",
+      "publisher": "UOMO",
+      "image": "https://img.webuomo.jp/article/sns/image/7b/7b2eaba9-0262-4926-ba4a-6d1fb3adc582-1200x630.jpg",
+      "feed": "WEB UOMO (Google News経由)",
+      "fetchedAt": "2026-10-30T22:03:22.250Z",
+      "summary": null,
+      "tags": []
+    },
     {
       "id": "b18cbfbe51266252",
       "title": "コムデギャルソンオムのジャケットコーディネート | 261029-2034-37 - OCEANS オーシャンズ",
@@ -26,6 +170,18 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-28T22:04:06.426Z",
       "summary": "(要約取得不可)",
+      "tags": []
+    },
+    {
+      "id": "5e4caad46eb42c17",
+      "title": "BE@RBRICK シリーズ10 １箱 シークレット コムデギャルソン コムデギャルソン ベアブリック シークレット COMME des garçons - ciiblog.in",
+      "url": "https://www.ciiblog.in/detail/58292558436",
+      "publishedAt": "2026-10-27T15:22:37.000Z",
+      "publisher": "ciiblog.in",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-10-30T22:03:22.666Z",
+      "summary": null,
       "tags": []
     },
     {
@@ -119,6 +275,20 @@
         "その他"
       ],
       "importance": 1
+    },
+    {
+      "id": "fecec22cee674bd1",
+      "title": "コムデギャルソン★ブランケット★未使用★染色★ピンク★COMME des GARCONS コムデギャルソン des COMME デ 明るく輝く未来を期待したい」コム メルカリ - mtv-handball.com",
+      "url": "https://www.mtv-handball.com/ranking/abhelp/fmheq65c6wxvhje.htm",
+      "publishedAt": "2026-10-23T02:54:57.000Z",
+      "publisher": "mtv-handball.com",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-10-30T22:03:22.666Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
     },
     {
       "id": "a9c58bf22f83ee69",
@@ -262,6 +432,18 @@
         "その他"
       ],
       "importance": 1
+    },
+    {
+      "id": "ef1ac6bf066010e9",
+      "title": "How John Galliano and Comme des Garçons Informed The Regency Era Costumes Of ‘Sense and Sensibility’ - The Set Set",
+      "url": "https://thesetset.com/articles/grace-snell-sense-and-sensibility-costume-design-john-galliano",
+      "publishedAt": "2026-10-20T12:00:00.000Z",
+      "publisher": "The Set Set",
+      "image": "https://vfnzdvyersqd2hfl.public.blob.vercel-storage.com/media/4258_D005_00597_R-1200x630-5WgAbL0sWHCX70oycviJb8NIOTZG0p.jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-10-30T22:03:23.093Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "e3f5a23183bee772",
@@ -655,6 +837,20 @@
       "importance": 2
     },
     {
+      "id": "9e386c55efd41ddd",
+      "title": "27年春夏パリ・ファッションウィーク 素朴と豪華が同居する造形服 - 繊研新聞",
+      "url": "https://senken.co.jp/posts/paris-261006",
+      "publishedAt": "2026-10-06T07:00:00.000Z",
+      "publisher": "繊研新聞",
+      "image": "https://senken.co.jp/production/uploads/file_content/file/425174/facebook_1730.jpg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-10-30T22:03:22.667Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
+    },
+    {
       "id": "12aa225d1562f6b8",
       "title": "Don’t get too close to Junya Watanabe’s SS27 collection",
       "url": "https://www.dazeddigital.com/fashion/article/71111/1/don-t-get-too-close-to-junya-watanabe-s-ss27-collection?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=don-t-get-too-close-to-junya-watanabe-s-ss27-collection",
@@ -838,6 +1034,18 @@
       "tags": []
     },
     {
+      "id": "a986056d92f993a7",
+      "title": "Comme des Garçons Fans Reveal Why Fashion Is About More Than Clothes - ELLE",
+      "url": "https://www.elle.com/fashion/personal-style/a73969555/comme-des-garcons-superfans/",
+      "publishedAt": "2026-10-04T07:00:00.000Z",
+      "publisher": "ELLE",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-10-30T22:03:23.093Z",
+      "summary": null,
+      "tags": []
+    },
+    {
       "id": "9ffdb01c0088d979",
       "title": "Comme des Garçons Fans Reveal Why Fashion Is About More Than Clothes - AOL.com",
       "url": "https://www.aol.com/articles/comme-des-gar-ons-fans-181253000.html",
@@ -994,6 +1202,18 @@
       ],
       "importance": 3,
       "cluster": "cdg-ss27-show-paris"
+    },
+    {
+      "id": "8d8bddf7db0ce757",
+      "title": "Comme des Garçons Spring 2027: We’ll Never Be Royals - WWD",
+      "url": "https://wwd.com/runway/spring-2027/paris/comme-des-garcons/review/",
+      "publishedAt": "2026-10-03T07:00:00.000Z",
+      "publisher": "WWD",
+      "image": "https://wwd.com/wp-content/uploads/2026/10/comme-des-garcons-spring-2027-rtw-r-gg0001.jpg?crop=0px%2C50px%2C1365px%2C763px&resize=1000%2C563",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-10-30T22:03:23.093Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "c0738d60a7185b4c",
@@ -14912,192 +15132,6 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-28T22:04:06.427Z",
       "summary": "(要約取得不可)",
-      "tags": [
-        "ショー/コレクション"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "0dbe6299f7088450",
-      "title": "Rei Kawakubo/Comme des Garçons: Art of the In-Between - The Metropolitan Museum of Art",
-      "url": "https://www.metmuseum.org/exhibitions/listings/2017/rei-kawakubo",
-      "publishedAt": "2017-09-04T07:00:00.000Z",
-      "publisher": "The Metropolitan Museum of Art",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": "(要約取得不可)",
-      "tags": [
-        "インタビュー"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "fe757866e88b65b5",
-      "title": "Loved Comme des Garçons at the Met? 20 CDG Souvenirs to Buy Now - Vogue",
-      "url": "https://www.vogue.com/slideshow/comme-des-garcons-met-exhibition-shop-souvenirs-photos",
-      "publishedAt": "2017-05-05T07:00:00.000Z",
-      "publisher": "Vogue",
-      "image": "https://assets.vogue.com/photos/590c9f36f2aa6b70e320aabf/16:9/w_1280,c_limit/00-social-tout-met-merch.jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": "2017年のMet美術館「川久保玲」展にあわせた、コムデギャルソン関連グッズのショッピング特集。本体ラインやジュンヤ ワタナベ、プレイに加え、展覧会公式グッズ(トートバッグ・Tシャツ・ウォレット等)を紹介している。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "48af688b53c2da1a",
-      "title": "Everything you need to know about Comme des Garçons - Dazed",
-      "url": "https://www.dazeddigital.com/fashion/article/35770/1/comme-des-garcons-met-ball-rei-kawakubo-dover-street-market",
-      "publishedAt": "2017-05-02T07:00:00.000Z",
-      "publisher": "Dazed",
-      "image": "https://images-prod.dazeddigital.com/999/0-195-999-666/azure/dazed-prod/1200/9/1209984.jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": "2017年Met Galaの川久保玲展にあわせたコムデギャルソン入門ガイド。1981年のパリデビューの衝撃や黒を基調とするスタイル、コレクションタイトル、演劇的なショーの歴史に加え、ドーバーストリートマーケットや香水、コラボ、傘下ブランドなどビジネス面にも触れている。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "e58c78f62224dac4",
-      "title": "What It’s Like to Wear Comme des Garçons’ Craziest Pieces - The Cut",
-      "url": "https://www.thecut.com/2017/05/comme-des-garcons-street-style.html",
-      "publishedAt": "2017-05-02T07:00:00.000Z",
-      "publisher": "The Cut",
-      "image": "https://pyxis.nymag.com/v1/imgs/659/eef/1bb0c65fead89c648d050ce75ad92473ac-18-comme-des-garcons.1x.rsocial.w1200.jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-10-28T22:04:06.428Z",
-      "summary": "2017年5月の記事。コムデギャルソンの前衛的なアイテムを愛用する人々を取り上げ、街中やレストラン、旅先で引き起こす周囲の反応を紹介し、CDGを着ることがファンにとってパフォーマンスアートのような体験であると描いている。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "b205d52ae8de96bf",
-      "title": "Rihanna Shuts Down the 2017 Met Gala Red Carpet in Comme des Garçons - Vogue",
-      "url": "https://www.vogue.com/article/rihanna-met-gala-2017-red-carpet-dress-comme-des-garcons-best-dressed",
-      "publishedAt": "2017-05-02T07:00:00.000Z",
-      "publisher": "Vogue",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-12T22:09:31.783Z",
-      "summary": "(要約取得不可)",
-      "tags": []
-    },
-    {
-      "id": "5494b39e80500915",
-      "title": "Your Comme des Garçons Starter-Pack - New York Magazine",
-      "url": "https://nymag.com/strategist/article/comme-des-garons-shopping-guide.html",
-      "publishedAt": "2017-05-01T07:00:00.000Z",
-      "publisher": "New York Magazine",
-      "image": "https://pyxis.nymag.com/v1/imgs/f86/bae/5211bdcb08e86b42c6622802e4134982b4-01-commesdesgarcon-lede.1x.rsocial.w1200.jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": "2017年のMet Galaにあわせた、コムデギャルソン初心者向けショッピングガイド。川久保玲による日本の前衛ファッションブランドであると説明し、これから買う人向けの入りやすいアイテムを紹介している。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "77f9bf99ce4ccacb",
-      "title": "Growing Up in Comme des Garçons (Published 2017) - The New York Times",
-      "url": "https://www.nytimes.com/2017/05/01/fashion/growing-up-in-comme-des-garcons.html",
-      "publishedAt": "2017-05-01T07:00:00.000Z",
-      "publisher": "The New York Times",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": "(要約取得不可)",
-      "tags": []
-    },
-    {
-      "id": "7695462297012e49",
-      "title": "The 6 Stages of Understanding Comme des Garçons - Coveteur",
-      "url": "https://coveteur.com/comme-des-garcons-resurrection-vintage-katy-rodriguez",
-      "publishedAt": "2017-05-01T07:00:00.000Z",
-      "publisher": "Coveteur",
-      "image": "https://assets.coveteur.com/wp-content/uploads/2017/05/25313292.jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": "ニューヨークのヴィンテージショップ「Resurrection Vintage」共同創設者カティ・ロドリゲスが、コムデギャルソンの服への理解が深まっていく過程を6段階に分けて語る記事。同店は1996年創業で100点以上のコムデギャルソン作品を扱っており、ファッション業界から感情的なデザインが失われつつあることへの懸念も述べられている。",
-      "tags": [
-        "その他"
-      ]
-    },
-    {
-      "id": "31da2ee93e6c83ff",
-      "title": "What You Need to Know About Comme des Garçons Before This Year's Met Gala - GQ",
-      "url": "https://www.gq.com/story/-comme-des-garcons-met-gala-rei-kawakubo",
-      "publishedAt": "2017-04-30T07:00:00.000Z",
-      "publisher": "GQ",
-      "image": "https://media.gq.com/photos/59039c0a0de2f96c36161588/16:9/w_1280,c_limit/GettyImages-632201976.jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": "2017年Met Gala前に掲載された、コムデギャルソンと川久保玲の重要性を解説する記事。イヴ・サンローラン以来初めて存命デザイナーとしてMet単独展を開催したことや、年間売上高約2.8億ドル、プレイ・ブラック・ジュンヤ ワタナベなどのサブライン展開、ドーバーストリートマーケット保有などを紹介している。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "44be25ba6f4b1b9d",
-      "title": "Rei Kawakubo/Comme des Garçons: Art of the In-Between - Vogue",
-      "url": "https://www.vogue.com/slideshow/rei-kawakubo-comme-des-garcons-art-of-the-in-between",
-      "publishedAt": "2017-04-30T07:00:00.000Z",
-      "publisher": "Vogue",
-      "image": "https://assets.vogue.com/photos/5906af603c5c5529b78f8677/16:9/w_1280,c_limit/06-cdg-met-exhibit.jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": "Met美術館の2017年展「Rei Kawakubo/Comme des Garçons: Art of the In-Between」の展示風景を集めたフォトギャラリー。「Absence/Presence」「High/Low」「Clothes/Not Clothes」などテーマ別の展示セクションを画像で紹介している。",
-      "tags": [
-        "インタビュー",
-        "その他"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "ef320bf45b53ff22",
-      "title": "Shopping Dover Street Market With 3 Comme des Garçons Addicts - Vogue",
-      "url": "https://www.vogue.com/article/comme-des-garcons-superfans-shopping-dover-street-market-suzanne-golden",
-      "publishedAt": "2017-04-29T07:00:00.000Z",
-      "publisher": "Vogue",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": "(要約取得不可)",
-      "tags": []
-    },
-    {
-      "id": "800fb015f2c92815",
-      "title": "51 of the Best Comme des Garçons Pieces We’ve Seen - Coveteur",
-      "url": "https://coveteur.com/best-comme-des-garcons-pieces-shot-in-closets",
-      "publishedAt": "2017-04-28T07:00:00.000Z",
-      "publisher": "Coveteur",
-      "image": "https://assets.coveteur.com/wp-content/uploads/2017/04/25348411.jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": "2017年4月、Met Gala直前に掲載された記事。ファッション業界関係者の私物からコムデギャルソンのアイテムを集めた写真特集で、川久保玲が34年ぶり(イヴ・サンローラン以来)に存命デザイナーとしてMet単独展を開催することに触れ、著名人にも愛用者が多いと紹介している。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "9ff97406b6a4488b",
-      "title": "CDG DIY: 7 Comme des Garçons Superfans Show Off Their Kawakubo Collections - Vogue",
-      "url": "https://www.vogue.com/article/comme-des-garcons-collectors-met-gala-2017",
-      "publishedAt": "2017-04-28T07:00:00.000Z",
-      "publisher": "Vogue",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": "2017年のMet展にあわせ、コムデギャルソンの「スーパーファン」ともいえるコレクターたちを紹介する記事。ファッション業界関係者らが、川久保玲の前衛的で着づらいデザインに惹かれる理由を自身の言葉で語っている。",
       "tags": [
         "ショー/コレクション"
       ],
