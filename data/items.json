@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T22:03:38.087Z",
+  "updatedAt": "2026-10-30T22:10:46.855Z",
   "items": [
     {
       "id": "1f36a0ecaa6368ba",
@@ -10,12 +10,14 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/4fb0bf98f936c950acaada18fdf9ae57-landscape-960.62b53eeeb2e8.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-30T22:03:06.041Z",
-      "summary": null,
+      "summary": "渋谷PARCOで10月31日から11月17日まで開催されるCDGのポップアップについて、Alpha IndustriesやOTW by Vansとの別注アウター・スニーカーを販売すると紹介。11月7日には未発表ブランドとの限定コラボカプセルが初披露・発売される。",
       "tags": [
         "コラボ",
         "新作",
         "店舗"
-      ]
+      ],
+      "cluster": "cdg-shibuya-parco-popup-2026",
+      "importance": 2
     },
     {
       "id": "e782d40b4bb37f71",
@@ -26,11 +28,13 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/921f91b641c6ee3735f1b24a3e93cbe8-landscape-960.470942d7c3d8.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-10-30T22:03:06.042Z",
-      "summary": null,
+      "summary": "コム デ ギャルソン・オムとニューバランスのコラボスニーカー「1890A」が11月6日にタンとブラックの2色、各6万4900円で発売。エプロンアッパーとABZORBミッドソールを採用し、全国のコム デ ギャルソン・オム取扱店で販売される。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "cluster": "cdg-newbalance-1890a",
+      "importance": 2
     },
     {
       "id": "3104dd06e1048ef1",
@@ -41,7 +45,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-30T22:03:22.666Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -53,11 +57,13 @@
       "image": "https://sneakernews.com/wp-content/uploads/2026/10/comme-des-garcons-homme-new-balance-1890a-release-date.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-30T22:03:23.093Z",
-      "summary": null,
+      "summary": "コム デ ギャルソン・オムとニューバランスのコラボ「1890A」が11月6日に発売。ブラックとタンの2カラーで、ニューバランス2002のソールとモックトゥのアッパーを組み合わせたデザインで、2026年1月のパリ・ファッションウィークで先行発表されていたモデル。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "cluster": "cdg-newbalance-1890a",
+      "importance": 2
     },
     {
       "id": "527f44543919f4be",
@@ -68,12 +74,13 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-30T22:03:23.093Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ",
         "ショー/コレクション",
         "新作"
-      ]
+      ],
+      "cluster": "cdg-newbalance-1890a"
     },
     {
       "id": "254f3b358fbfc79d",
@@ -84,10 +91,13 @@
       "image": "https://www.fullress.com/wp-content/uploads/2026/10/1lkkdksGzsrhsrs-1.jpg",
       "feed": "Fullress",
       "fetchedAt": "2026-10-30T22:03:11.110Z",
-      "summary": null,
+      "summary": "渋谷パルコで10月31日から11月17日まで開催されるCDGのポップアップについて。川久保玲によるコムデギャルソン50周年記念企画の一環で、OTW by VansやAlpha Industriesとのコラボ商品を販売し、同じ渋谷パルコに11月20日オープン予定の店舗に先駆けて実施される。",
       "tags": [
-        "店舗"
-      ]
+        "店舗",
+        "コラボ"
+      ],
+      "cluster": "cdg-shibuya-parco-popup-2026",
+      "importance": 2
     },
     {
       "id": "76895401bfb0cd29",
@@ -98,11 +108,13 @@
       "image": "https://media.wwdjapan.com/wp-content/uploads/2026/10/26121749/nb_a01t-150x150.jpg",
       "feed": "WWD JAPAN",
       "fetchedAt": "2026-10-30T22:03:07.427Z",
-      "summary": null,
+      "summary": "コム デ ギャルソン・オムとニューバランスのコラボ「1890A」が11月6日に各6万4900円で発売。2026年1月のパリ・メンズ・ファッションウィークで発表されたモデルの商品化で、エプロンアッパーとアブゾーブミッドソールを採用している。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "cluster": "cdg-newbalance-1890a",
+      "importance": 2
     },
     {
       "id": "8690960054fa139f",
@@ -113,11 +125,13 @@
       "image": "https://fashionsnap-assets.com/asset/format=auto,fit=crop,width=300,height=300/article/images/2026/10/0c85f26e-fa86-493f-9364-16d71c642ee9.jpg",
       "feed": "FASHIONSNAP",
       "fetchedAt": "2026-10-30T22:03:07.616Z",
-      "summary": null,
+      "summary": "コム デ ギャルソン・オムとニューバランスの「1890A」が11月6日から全国のコム デ ギャルソン・オム取扱店で発売。タンとブラックの2色、各6万4900円で、エプロンアッパーとABZORBミッドソールを採用する。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "cluster": "cdg-newbalance-1890a",
+      "importance": 2
     },
     {
       "id": "16fd5d74d920710d",
@@ -128,10 +142,13 @@
       "image": "https://www.fashion-press.net/img/news/152485/top.jpg?1792991614",
       "feed": "Fashion Press",
       "fetchedAt": "2026-10-30T22:03:21.984Z",
-      "summary": null,
+      "summary": "コム デ ギャルソン・オムとニューバランスのコラボスニーカー「1890A」が11月6日に発売。タン・ブラックの2色で価格は64,900円、革靴のような切り替えアッパーとABZORBミッドソールを採用している。",
       "tags": [
-        "コラボ"
-      ]
+        "コラボ",
+        "新作"
+      ],
+      "cluster": "cdg-newbalance-1890a",
+      "importance": 2
     },
     {
       "id": "35c37d2025779a69",
@@ -142,8 +159,11 @@
       "image": "https://img.webuomo.jp/article/sns/image/7b/7b2eaba9-0262-4926-ba4a-6d1fb3adc582-1200x630.jpg",
       "feed": "WEB UOMO (Google News経由)",
       "fetchedAt": "2026-10-30T22:03:22.250Z",
-      "summary": null,
-      "tags": []
+      "summary": "コム デ ギャルソン・オムのデニム調ポリエステル素材を使った軽量な1stタイプGジャンを紹介する記事で、価格は93,500円。色落ちしにくいカチオン染めの生地とアルミ金具で軽さを出したボックスシルエットで、同素材の5ポケットパンツとのセットアップ提案もある。",
+      "tags": [
+        "新作"
+      ],
+      "importance": 1
     },
     {
       "id": "b18cbfbe51266252",
@@ -181,7 +201,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-30T22:03:22.666Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -285,7 +305,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-30T22:03:22.666Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
       ]
@@ -442,8 +462,11 @@
       "image": "https://vfnzdvyersqd2hfl.public.blob.vercel-storage.com/media/4258_D005_00597_R-1200x630-5WgAbL0sWHCX70oycviJb8NIOTZG0p.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-30T22:03:23.093Z",
-      "summary": null,
-      "tags": []
+      "summary": "映画『Sense and Sensibility』の衣装デザイナーが、川久保玲によるコムデギャルソンの脱構築的なショー(服の内側の構造を見せる演出)からインスピレーションを得たと語るインタビュー記事。コムデギャルソンとジョン・ガリアーノの直接の関係については記事内で示されていない。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "e3f5a23183bee772",
@@ -845,10 +868,12 @@
       "image": "https://senken.co.jp/production/uploads/file_content/file/425174/facebook_1730.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-30T22:03:22.667Z",
-      "summary": null,
+      "summary": "2027年春夏パリ・コレクションのレビュー(有料会員限定、冒頭部分のみ確認)。前シーズンの黒一色のコレクションから一転し、デニムやヒッコリーなど素朴なワークウェア素材を使った量感のあるドレスに、鮮やかな色とテクスチャーの対比を取り入れた内容。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "cluster": "cdg-ss27-show-paris",
+      "importance": 2
     },
     {
       "id": "12aa225d1562f6b8",
@@ -1042,8 +1067,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-30T22:03:23.093Z",
-      "summary": null,
-      "tags": []
+      "summary": "パリ・ファッションウィーク最終日「Japan Day」(コムデギャルソン・ジュンヤワタナベ・ノワール ケイ ニノミヤの合同ショー開催日)に集まる熱心なファンへのインタビュー記事。長年の愛用者たちが、コムデギャルソンの服は自由や自信、仲間意識を与えてくれると語っている。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "9ffdb01c0088d979",
@@ -1212,8 +1240,11 @@
       "image": "https://wwd.com/wp-content/uploads/2026/10/comme-des-garcons-spring-2027-rtw-r-gg0001.jpg?crop=0px%2C50px%2C1365px%2C763px&resize=1000%2C563",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-30T22:03:23.093Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "cluster": "cdg-ss27-show-paris"
     },
     {
       "id": "c0738d60a7185b4c",

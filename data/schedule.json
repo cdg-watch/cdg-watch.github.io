@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T22:06:25.570Z",
+  "updatedAt": "2026-10-30T22:15:00.000Z",
   "storeLaunches": [
     {
       "date": "2026-02-01",
@@ -287,6 +287,30 @@
       "price": null,
       "where": "福岡市中央区薬院2-16-14 泰光ビル",
       "url": "https://cdg-freak.com/news/cdg-guerrilla-store-fukuoka-2026/"
+    },
+    {
+      "date": "2026-10-31",
+      "title": "「CDG」渋谷PARCOポップアップ開催(〜11/17、Alpha Industries・OTW by Vansとの別注商品販売)",
+      "brand": "CDG",
+      "price": null,
+      "where": "渋谷PARCO 1階 DAIROKKAN",
+      "url": "https://cdg-freak.com/news/cdg-shibuya-parco-pop-up-2026/"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "コム デ ギャルソン・オム×ニューバランス「1890A」発売",
+      "brand": "COMME des GARÇONS HOMME x New Balance",
+      "price": "64,900円(タン/ブラック各)",
+      "where": "全国のコム デ ギャルソン・オム取扱店舗",
+      "url": "https://cdg-freak.com/news/homme-new-balance-1890a-2026/"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "CDG渋谷PARCOポップアップ限定コラボカプセル発売(コラボ相手未発表)",
+      "brand": "CDG",
+      "price": null,
+      "where": "渋谷PARCO 1階 DAIROKKAN",
+      "url": "https://cdg-freak.com/news/cdg-shibuya-parco-pop-up-2026/"
     }
   ]
 }
