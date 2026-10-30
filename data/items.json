@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T22:03:51.368Z",
+  "updatedAt": "2026-10-30T11:02:51.117Z",
   "items": [
     {
       "id": "b18cbfbe51266252",
@@ -10,8 +10,11 @@
       "image": "https://images.oceans.tokyo.jp/media/snap/12889/images/main_image_3da34783d7821461a7337e79a574e0d81a92e287.jpg?h=1200",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-29T22:03:38.734Z",
-      "summary": null,
-      "tags": []
+      "summary": "仙台在住39歳男性による秋冬コーディネートのストリートスナップ。コムデギャルソン オムのジャケットに、ニューエラのキャップやニューバランスのシューズなどを合わせている。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "e629c28663c36176",
@@ -229,18 +232,6 @@
         "二次流通"
       ],
       "importance": 1
-    },
-    {
-      "id": "d9c2534f1e696475",
-      "title": "Christina Ricci Sees Maison Margiela & Commes Des Garcons In Wednesday Addams' Future - The Zoe Report",
-      "url": "https://www.thezoereport.com/culture/christina-ricci-halloween-icon",
-      "publishedAt": "2026-10-21T07:00:00.000Z",
-      "publisher": "The Zoe Report",
-      "image": "https://imgix.bustle.com/uploads/image/2026/10/20/cf45bbc3/in-marcjacobs-love-themarcjacobs.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-10-29T22:03:39.066Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "0afc92f80276ca51",
@@ -756,18 +747,6 @@
       "importance": 3
     },
     {
-      "id": "a986056d92f993a7",
-      "title": "Comme des Garçons Fans Reveal Why Fashion Is About More Than Clothes - ELLE",
-      "url": "https://www.elle.com/fashion/personal-style/a73969555/comme-des-garcons-superfans/",
-      "publishedAt": "2026-10-04T18:13:42.000Z",
-      "publisher": "ELLE",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-10-04T22:06:42.129Z",
-      "summary": "(要約取得不可)",
-      "tags": []
-    },
-    {
       "id": "4bc6f30805b03841",
       "title": "Commes Des Garçons: Ready-To-Wear SS27",
       "url": "https://10magazine.com/commes-des-garcons-ready-to-wear-ss27/",
@@ -962,22 +941,6 @@
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-09T22:06:27.180Z",
       "summary": "川久保玲は2027年春夏コレクションで、デニムやコットンギャバジンなど日常的な生地を使用。詰め物の王冠やトレンチ・ボンバージャケットを抽象化した彫刻的なルックで、王室と日常の融合を表現した。",
-      "tags": [
-        "ショー/コレクション"
-      ],
-      "importance": 3,
-      "cluster": "cdg-ss27-show-paris"
-    },
-    {
-      "id": "fd04f1261ca6e10f",
-      "title": "Comme des Garçons Spring 2027: We’ll Never Be Royals",
-      "url": "https://wwd.com/runway/spring-2027/paris/comme-des-garcons/review/",
-      "publishedAt": "2026-10-03T19:47:30.000Z",
-      "publisher": null,
-      "image": "https://wwd.com/wp-content/uploads/2026/10/comme-des-garcons-spring-2027-rtw-r-gg0001.jpg?crop=0px%2C50px%2C1365px%2C763px&resize=1000%2C563",
-      "feed": "WWD",
-      "fetchedAt": "2026-10-03T22:06:08.651Z",
-      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
       ],
@@ -14483,13 +14446,14 @@
       "url": "https://www.asahi.com/articles/DA3S15137470.html",
       "publishedAt": "2021-12-09T08:00:00.000Z",
       "publisher": "朝日新聞",
-      "image": null,
+      "image": "https://www.asahicom.jp/articles/images/AS20211209000159_comm.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-29T22:03:38.735Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "インタビュー"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "e27dd2454e95fa47",
@@ -14558,11 +14522,12 @@
       "url": "https://www.asahi.com/and/w/article/15805448",
       "publishedAt": "2021-06-13T07:00:00.000Z",
       "publisher": "朝日新聞",
-      "image": null,
+      "image": "https://p.potaufeu.asahi.com/3780-p/picture/29618283/7395ead4294ae6f6a71ce7598dd56663.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-28T22:04:06.069Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [],
+      "importance": 1
     },
     {
       "id": "e1c42d4aec33780d",
@@ -14573,8 +14538,9 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-28T22:04:06.069Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [],
+      "importance": 1
     },
     {
       "id": "6253c07374cafe7d",
@@ -14585,8 +14551,11 @@
       "image": "https://lee.hpplus.jp/wp-content/uploads/2020/12/044076C2-19A2-41EE-9805-AE97E0BC7E90-scaled-e1609667998138.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-29T22:03:38.736Z",
-      "summary": null,
-      "tags": []
+      "summary": "LEEの読者ブロガーが、コムデギャルソン銀座三越店で購入した白のレザーバッグを紹介。黒やシルバーではなく白を選んだ理由を語り、カジュアル・きれいめ双方のコーディネートへの合わせ方を綴っている。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "8eadbf1e4f15da4b",
@@ -14597,10 +14566,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "686c995a7e20ad25",
@@ -14656,8 +14626,9 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [],
+      "importance": 1
     },
     {
       "id": "ffff8bef219e8ff0",
@@ -14695,11 +14666,12 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-28T22:04:06.069Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション",
         "新作"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "9e5d9fae262011ed",
@@ -14726,8 +14698,11 @@
       "image": "https://mikiki.ismcdn.jp/mwimgs/8/7/-/img_87397653a2d4f18c5d937adc4d3ce34c152487.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-28T22:04:06.069Z",
-      "summary": null,
-      "tags": []
+      "summary": "音楽家・小野誠彦がコムデギャルソンのショーのために手掛けた音楽を特集した記事。1988〜89年の楽曲集(2019年にSACD/LPで再発)や、1997年の「CDG Fragmentation」ショーでサンプリング音源を即興演奏したエピソードなどを紹介している。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 1
     },
     {
       "id": "0becc05358b00b89",
@@ -14753,11 +14728,12 @@
       "image": "https://img.sneakerwars.jp/images/8537/larges/COMME_DES_GARCONS_NIKE_SHOX_TLX_19ss_E.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-28T22:04:06.069Z",
-      "summary": null,
+      "summary": "コムデギャルソン×ナイキのコラボスニーカー「ショックス TLX」全2色を紹介。2019年5月26日に国内発売予定で、価格は税込42,120円、ドーバーストリートマーケット銀座などで取り扱い予定だった。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "728eb02e2d0f3293",
@@ -14783,8 +14759,9 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-28T22:04:06.069Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [],
+      "importance": 1
     },
     {
       "id": "a0825e343af8f89a",
@@ -14795,10 +14772,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-28T22:04:06.069Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "インタビュー"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "8c0a0f4c05391bd0",
@@ -14809,8 +14787,11 @@
       "image": "https://static.fashionpost.jp/article/wp-content/uploads/2015/09/09181311/201811MUGIEC.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-28T22:04:06.069Z",
-      "summary": null,
-      "tags": []
+      "summary": "女優・門脇麦がBLACK COMME des GARÇONSを着用したスタイリング企画。白シャツとガウチョパンツを合わせたリラックスした着こなしを紹介し、ブラウス25,000円・パンツ42,000円・スニーカー27,000円という価格も掲載している。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "ed512c776039373a",
@@ -14845,8 +14826,11 @@
       "image": "https://images-prod.anothermag.com/1200/0-274-1503-1002/azure/another-prod/370/7/377470.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": null,
-      "tags": []
+      "summary": "1997年、アレキサンダー・マックイーンがジバンシィでの初ショー直後にコムデギャルソン オム プリュスの97年秋冬パリショーにゲストモデルとして登場したエピソードを紹介。マックイーンが私服でもCDGを愛用し、川久保玲を自身の制作への大きな影響として挙げていたことにも触れている。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "4aaa6938f24feb85",
@@ -14854,11 +14838,12 @@
       "url": "https://wwd.com/fashion-news/fashion-features/exclusive-comme-des-garcons-new-brand-is-here-almost-1202673831/",
       "publishedAt": "2018-05-16T07:00:00.000Z",
       "publisher": "WWD",
-      "image": null,
+      "image": "https://wwd.com/wp-content/uploads/2018/05/cdgbreakingnews-15.jpg?w=1000&h=563&crop=1",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [],
+      "importance": 1
     },
     {
       "id": "4f0a21618ec7cc78",
@@ -14869,10 +14854,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-28T22:04:06.069Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "新作"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "d8a46708e9d56628",
@@ -14880,13 +14866,14 @@
       "url": "https://www.gq.com/story/comme-des-garcons-new-brand-announcement",
       "publishedAt": "2018-04-02T07:00:00.000Z",
       "publisher": "GQ",
-      "image": null,
+      "image": "https://media.gq.com/photos/5ac2871a424f4a6c85dd9805/16:9/w_1280,c_limit/CDG%20SOCIAL.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "新作"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "5bee4f09cc05e544",
@@ -14897,8 +14884,11 @@
       "image": "https://s3.r29static.com/bin/entry/f53/0,0,2000,1050/x,80/1937108/image.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": null,
-      "tags": []
+      "summary": "コムデギャルソンの2018年秋冬ショーで、出演モデル16人中4人(オープニングとクロージングを含む)が黒人モデルだったと報じる記事。約20年ぶりの起用だとして歓迎しつつも遅きに失したと指摘し、スタイリストの反応も紹介している。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 1
     },
     {
       "id": "d13fdd371c5be429",
@@ -14918,13 +14908,14 @@
       "url": "https://www.vogue.com/fashion-shows/designer/comme-des-garcons-homme-plus",
       "publishedAt": "2017-09-07T07:44:43.000Z",
       "publisher": "Vogue",
-      "image": null,
+      "image": "https://www.vogue.com/wp-content/uploads/2016/02/09/voguerunway-share.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "0dbe6299f7088450",
@@ -14935,10 +14926,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "インタビュー"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "fe757866e88b65b5",
@@ -14946,11 +14938,14 @@
       "url": "https://www.vogue.com/slideshow/comme-des-garcons-met-exhibition-shop-souvenirs-photos",
       "publishedAt": "2017-05-05T07:00:00.000Z",
       "publisher": "Vogue",
-      "image": null,
+      "image": "https://assets.vogue.com/photos/590c9f36f2aa6b70e320aabf/16:9/w_1280,c_limit/00-social-tout-met-merch.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": null,
-      "tags": []
+      "summary": "2017年のMet美術館「川久保玲」展にあわせた、コムデギャルソン関連グッズのショッピング特集。本体ラインやジュンヤ ワタナベ、プレイに加え、展覧会公式グッズ(トートバッグ・Tシャツ・ウォレット等)を紹介している。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "48af688b53c2da1a",
@@ -14961,8 +14956,11 @@
       "image": "https://images-prod.dazeddigital.com/999/0-195-999-666/azure/dazed-prod/1200/9/1209984.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": null,
-      "tags": []
+      "summary": "2017年Met Galaの川久保玲展にあわせたコムデギャルソン入門ガイド。1981年のパリデビューの衝撃や黒を基調とするスタイル、コレクションタイトル、演劇的なショーの歴史に加え、ドーバーストリートマーケットや香水、コラボ、傘下ブランドなどビジネス面にも触れている。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "e58c78f62224dac4",
@@ -14970,11 +14968,14 @@
       "url": "https://www.thecut.com/2017/05/comme-des-garcons-street-style.html",
       "publishedAt": "2017-05-02T07:00:00.000Z",
       "publisher": "The Cut",
-      "image": null,
+      "image": "https://pyxis.nymag.com/v1/imgs/659/eef/1bb0c65fead89c648d050ce75ad92473ac-18-comme-des-garcons.1x.rsocial.w1200.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-28T22:04:06.428Z",
-      "summary": null,
-      "tags": []
+      "summary": "2017年5月の記事。コムデギャルソンの前衛的なアイテムを愛用する人々を取り上げ、街中やレストラン、旅先で引き起こす周囲の反応を紹介し、CDGを着ることがファンにとってパフォーマンスアートのような体験であると描いている。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "b205d52ae8de96bf",
@@ -14994,11 +14995,14 @@
       "url": "https://nymag.com/strategist/article/comme-des-garons-shopping-guide.html",
       "publishedAt": "2017-05-01T07:00:00.000Z",
       "publisher": "New York Magazine",
-      "image": null,
+      "image": "https://pyxis.nymag.com/v1/imgs/f86/bae/5211bdcb08e86b42c6622802e4134982b4-01-commesdesgarcon-lede.1x.rsocial.w1200.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": null,
-      "tags": []
+      "summary": "2017年のMet Galaにあわせた、コムデギャルソン初心者向けショッピングガイド。川久保玲による日本の前衛ファッションブランドであると説明し、これから買う人向けの入りやすいアイテムを紹介している。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "77f9bf99ce4ccacb",
@@ -15032,11 +15036,14 @@
       "url": "https://www.gq.com/story/-comme-des-garcons-met-gala-rei-kawakubo",
       "publishedAt": "2017-04-30T07:00:00.000Z",
       "publisher": "GQ",
-      "image": null,
+      "image": "https://media.gq.com/photos/59039c0a0de2f96c36161588/16:9/w_1280,c_limit/GettyImages-632201976.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": null,
-      "tags": []
+      "summary": "2017年Met Gala前に掲載された、コムデギャルソンと川久保玲の重要性を解説する記事。イヴ・サンローラン以来初めて存命デザイナーとしてMet単独展を開催したことや、年間売上高約2.8億ドル、プレイ・ブラック・ジュンヤ ワタナベなどのサブライン展開、ドーバーストリートマーケット保有などを紹介している。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "44be25ba6f4b1b9d",
@@ -15044,13 +15051,15 @@
       "url": "https://www.vogue.com/slideshow/rei-kawakubo-comme-des-garcons-art-of-the-in-between",
       "publishedAt": "2017-04-30T07:00:00.000Z",
       "publisher": "Vogue",
-      "image": null,
+      "image": "https://assets.vogue.com/photos/5906af603c5c5529b78f8677/16:9/w_1280,c_limit/06-cdg-met-exhibit.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": null,
+      "summary": "Met美術館の2017年展「Rei Kawakubo/Comme des Garçons: Art of the In-Between」の展示風景を集めたフォトギャラリー。「Absence/Presence」「High/Low」「Clothes/Not Clothes」などテーマ別の展示セクションを画像で紹介している。",
       "tags": [
-        "インタビュー"
-      ]
+        "インタビュー",
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "ef320bf45b53ff22",
@@ -15073,8 +15082,11 @@
       "image": "https://assets.coveteur.com/wp-content/uploads/2017/04/25348411.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": null,
-      "tags": []
+      "summary": "2017年4月、Met Gala直前に掲載された記事。ファッション業界関係者の私物からコムデギャルソンのアイテムを集めた写真特集で、川久保玲が34年ぶり(イヴ・サンローラン以来)に存命デザイナーとしてMet単独展を開催することに触れ、著名人にも愛用者が多いと紹介している。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "9ff97406b6a4488b",
@@ -15085,10 +15097,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": null,
+      "summary": "2017年のMet展にあわせ、コムデギャルソンの「スーパーファン」ともいえるコレクターたちを紹介する記事。ファッション業界関係者らが、川久保玲の前衛的で着づらいデザインに惹かれる理由を自身の言葉で語っている。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 1
     }
   ]
 }
