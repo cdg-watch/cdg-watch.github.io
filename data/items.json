@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-10-30T22:10:46.855Z",
+  "updatedAt": "2026-10-31T22:03:20.914Z",
   "items": [
+    {
+      "id": "20a98aad383f3030",
+      "title": "Comme des Garçons made New Balance's weirdest sneaker weirdly wearable - British GQ",
+      "url": "https://www.gq-magazine.co.uk/article/comme-des-garcons-homme-new-balance-1890a-31-10-26",
+      "publishedAt": "2026-10-31T06:00:00.000Z",
+      "publisher": "British GQ",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-10-31T22:03:08.388Z",
+      "summary": null,
+      "tags": [
+        "コラボ"
+      ]
+    },
+    {
+      "id": "6e3f1d0b0523d301",
+      "title": "CDGが渋谷パルコでポップアップ、人気の「ヴァンズ」コラボなど先行販売",
+      "url": "https://www.fashionsnap.com/article/2026-10-31/cdg-popup-shibuyaparco/",
+      "publishedAt": "2026-10-31T04:23:38.000Z",
+      "publisher": null,
+      "image": "https://fashionsnap-assets.com/asset/format=auto,fit=crop,width=300,height=300/article/images/2026/10/1dbd4bea-847d-4fc4-85db-babfa87ff8ed.jpg",
+      "feed": "FASHIONSNAP",
+      "fetchedAt": "2026-10-31T22:02:54.872Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "店舗"
+      ]
+    },
     {
       "id": "1f36a0ecaa6368ba",
       "title": "【渋谷PARCO】CDGのポップアップを10月31日(土)から開催｜11月7日(土)に限定コラボカプセルを発売",
@@ -14373,6 +14402,18 @@
       "importance": 2
     },
     {
+      "id": "6ccc3fd5673c1fd4",
+      "title": "Olivia Kim on K-Beauty and Comme des Garçons - The Cut",
+      "url": "https://www.thecut.com/2023/04/olivia-kim-on-k-beauty-and-comme-des-garons.html",
+      "publishedAt": "2023-04-26T07:00:00.000Z",
+      "publisher": "The Cut",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-10-31T22:03:08.389Z",
+      "summary": null,
+      "tags": []
+    },
+    {
       "id": "7db3a054ffb81ac8",
       "title": "雑誌SWITCHが「コムデギャルソン」だけの特別編集号を発売【数量限定特別版も】",
       "url": "https://cdg-freak.com/cdg-swith-2023/",
@@ -14941,6 +14982,18 @@
       "importance": 1
     },
     {
+      "id": "56f77fb04029cfc5",
+      "title": "表参道の「トレーディング ミュージアム コムデギャルソン」に「ワンラインドローイング」のバッグが並ぶワケ - WWDJAPAN",
+      "url": "https://www.wwdjapan.com/articles/227418",
+      "publishedAt": "2019-06-04T07:19:23.000Z",
+      "publisher": "WWDJAPAN",
+      "image": "https://media.wwdjapan.com/wp-content/uploads/2016/07/07011737/140122_commedes_001.jpg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-10-31T22:03:07.910Z",
+      "summary": null,
+      "tags": []
+    },
+    {
       "id": "8ea1152f65306e9c",
       "title": "オノ セイゲン『COMME des GARÇONS SEIGEN ONO』 コムデギャルソンと起こした革命 - Mikiki by TOWER RECORDS",
       "url": "https://mikiki.tokyo.jp/articles/-/21680",
@@ -15084,6 +15137,20 @@
       "importance": 1
     },
     {
+      "id": "964c3326c538c5a8",
+      "title": "Comme des Garçons Launches New Brand: CDG - British Vogue",
+      "url": "https://www.vogue.co.uk/article/comme-des-garcons-launch-new-brand-cdg-breaking-news",
+      "publishedAt": "2018-05-17T07:00:00.000Z",
+      "publisher": "British Vogue",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-10-31T22:03:08.389Z",
+      "summary": null,
+      "tags": [
+        "新作"
+      ]
+    },
+    {
       "id": "4aaa6938f24feb85",
       "title": "EXCLUSIVE: Comme des Garçons’ New Brand Is Here — Almost - WWD",
       "url": "https://wwd.com/fashion-news/fashion-features/exclusive-comme-des-garcons-new-brand-is-here-almost-1202673831/",
@@ -15094,78 +15161,6 @@
       "fetchedAt": "2026-10-28T22:04:06.427Z",
       "summary": "(要約取得不可)",
       "tags": [],
-      "importance": 1
-    },
-    {
-      "id": "4f0a21618ec7cc78",
-      "title": "コムデギャルソンの新作が誘う服と自分の関係への問い - 朝日新聞",
-      "url": "https://www.asahi.com/and/w/article/15782153",
-      "publishedAt": "2018-04-27T07:00:00.000Z",
-      "publisher": "朝日新聞",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-10-28T22:04:06.069Z",
-      "summary": "(要約取得不可)",
-      "tags": [
-        "新作"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "d8a46708e9d56628",
-      "title": "Even Comme des Garçons Is Launching a Direct-to-Consumer Brand - GQ",
-      "url": "https://www.gq.com/story/comme-des-garcons-new-brand-announcement",
-      "publishedAt": "2018-04-02T07:00:00.000Z",
-      "publisher": "GQ",
-      "image": "https://media.gq.com/photos/5ac2871a424f4a6c85dd9805/16:9/w_1280,c_limit/CDG%20SOCIAL.jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": "(要約取得不可)",
-      "tags": [
-        "新作"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "5bee4f09cc05e544",
-      "title": "Comme des Garçons Finally Cast Black Models - Refinery29",
-      "url": "https://www.refinery29.com/en-us/2018/03/192609/comme-des-garcons-fall-2018-black-models",
-      "publishedAt": "2018-03-05T08:00:00.000Z",
-      "publisher": "Refinery29",
-      "image": "https://s3.r29static.com/bin/entry/f53/0,0,2000,1050/x,80/1937108/image.jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": "コムデギャルソンの2018年秋冬ショーで、出演モデル16人中4人(オープニングとクロージングを含む)が黒人モデルだったと報じる記事。約20年ぶりの起用だとして歓迎しつつも遅きに失したと指摘し、スタイリストの反応も紹介している。",
-      "tags": [
-        "ショー/コレクション"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "d13fdd371c5be429",
-      "title": "Comme des Garçons Shirt Men’s Fall 2018 - WWD",
-      "url": "https://wwd.com/runway/mens-fall-collections-2018/paris/comme-des-garcons-shirt/review/",
-      "publishedAt": "2018-01-20T08:00:00.000Z",
-      "publisher": "WWD",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": "(要約取得不可)",
-      "tags": []
-    },
-    {
-      "id": "b53ae2cef7ce1b92",
-      "title": "Comme des Garçons Homme Plus News, Collections, Fashion Shows, Fashion Week Reviews, and More - Vogue",
-      "url": "https://www.vogue.com/fashion-shows/designer/comme-des-garcons-homme-plus",
-      "publishedAt": "2017-09-07T07:44:43.000Z",
-      "publisher": "Vogue",
-      "image": "https://www.vogue.com/wp-content/uploads/2016/02/09/voguerunway-share.jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": "(要約取得不可)",
-      "tags": [
-        "ショー/コレクション"
-      ],
       "importance": 1
     }
   ]
