@@ -1,52 +1,38 @@
-# CDG Watch 日次ダイジェスト 2026-10-31
+# CDG Watch 日次ダイジェスト 2026-11-01
 
-collect.jsで16件追加(総件数は上限1000件のため自動で切り詰め)。summary nullだった16件
-(本日新規分のみ、前日からの持ち越しなし)を全件処理(要約13件・取得不可3件)。無関係記事
+collect.jsで5件追加(総件数は上限1000件のため自動で切り詰め)。summary nullだった5件
+(本日新規分のみ、前日からの持ち越しなし)を全件処理(要約2件・取得不可3件)。無関係記事
 としての削除はなし。
 
-- **コム デ ギャルソン・オム×ニューバランス「1890A」11/6発売** — タンとブラックの2色、
-  各6万4900円。エプロンアッパーとABZORBミッドソールを採用し、全国のコム デ ギャルソン・
-  オム取扱店で販売。[CDG FREAK](https://cdg-freak.com/news/homme-new-balance-1890a-2026/)
+- **CDG、渋谷PARCOでポップアップ開催中(〜11/17)** — 11月20日の同館常設店オープンに
+  先駆けたポップアップ。ヴァンズ・アルファインダストリーズとのコラボ商品を先行販売し、
+  11/7には別の新コラボを初披露予定。
+  [fashionsnap](https://www.fashionsnap.com/article/2026-10-31/cdg-popup-shibuyaparco/)
 
-- **CDG渋谷PARCOポップアップ、10/31〜11/17開催** — Alpha Industries・OTW by Vansとの
-  別注アウター・スニーカーを販売。11/7には未発表ブランドとの限定コラボカプセルを初披露。
-  [CDG FREAK](https://cdg-freak.com/news/cdg-shibuya-parco-pop-up-2026/)
+- ⚠古 **表参道トレーディングミュージアムで新進デザイナーのバッグ展示販売** — 川久保玲氏に
+  見出された深川詔平「ワンラインドローイング」のバッグ3型を、東京・パリ・ニューヨークの
+  直営店で同時展開(記事自体は2014年初出、Google Newsフィード経由で本日再出現)。
+  [WWDJAPAN](https://www.wwdjapan.com/articles/227418)
 
-- ⚠古 **映画『Sense and Sensibility』の衣装デザインとコムデギャルソン** — 衣装デザイナーの
-  グレース・スネルが、川久保玲による脱構築的なショー演出(服の内側の構造を見せる手法)から
-  インスピレーションを得たと語る記事(10/20)。
-  [The Set Set](https://thesetset.com/articles/grace-snell-sense-and-sensibility-costume-design-john-galliano)
+取得不可: 3件。GQ(New Balance 1890Aコラボ記事)、The Cut(Olivia Kim記事)、
+British Vogue(新ブランドCDG発表記事)はいずれもCondé Nast系サイトで、WebFetch・
+archive.orgスナップショット経由でも本文取得不可(bot対策と見られる)。SPAM_URL_RE該当
+の既知スパムドメインではないため削除はせず`summary`に「(要約取得不可)」を設定して据え置き。
+いずれも⚠古(publishedAtが数ヶ月〜数年前)。
 
-- ⚠古 **2027年春夏パリ・コレクションのレビュー** — 前シーズンの黒一色から一転、デニムや
-  ヒッコリーなど素朴なワークウェア素材を使った量感のあるドレスに鮮やかな色とテクスチャーの
-  対比を取り入れた内容(有料会員限定、冒頭部分のみ確認、10/6)。
-  [繊研新聞](https://senken.co.jp/posts/paris-261006)
+cluster整理: New Balance 1890A関連のGQ記事に既存cluster`cdg-newbalance-1890a`、
+渋谷PARCOポップアップ記事に既存cluster`cdg-shibuya-parco-popup-2026`を付与(新規cluster
+作成なし)。
 
-- **コム デ ギャルソン・オムの軽量1stタイプGジャン** — デニム調ポリエステル素材、
-  93,500円。色落ちしにくいカチオン染めとアルミ金具で軽量化したボックスシルエット。
-  [UOMO](https://www.webuomo.jp/uomolist/lightouter30-2026aw/MRjkRQ/)
-
-取得不可: 3件(ciiblog.in×2、mtv-handball.com×1)。いずれも404/503で本文取得不可のため
-`summary`に「(要約取得不可)」を設定。SPAM_URL_RE該当の既知スパムドメインではないため
-削除はせず据え置き。なお両ドメインとも見出しが文字列乱雑(キーワード詰め込み型)で
-スパムサイトの疑いがあり、継続して取得不可が続く場合はSPAM_URL_RE追加を検討候補とする
-(今回は月曜の週次作業外のため見送り)。
-ELLE「Comme des Garçons Fans Reveal...」はWebFetchでは取得失敗したがcurl経由で本文を
-確認できたため要約済み。Hypebeast・WWD(spring 2027 review)はcurl/WebFetch双方で
-本文取得不可(Hypebeastはbot対策、WWDはペイウォール402)。
-
-cluster整理: 既存clusterを再利用。ニューバランス1890A関連6件に`cdg-newbalance-1890a`
-(既存cluster)、渋谷PARCOポップアップ関連2件に新規`cdg-shibuya-parco-popup-2026`、
-27年春夏パリショー関連2件(本日分+WWD既存項目)に`cdg-ss27-show-paris`(既存cluster)を付与。
-
-リリースカレンダー: productDropsに3件追加
-(10/31 渋谷PARCOポップアップ開催、11/6 NB1890A発売、11/7 ポップアップ限定コラボカプセル発売)。
-storeLaunches(月曜更新対象)は本日JST土曜のため対象外。
+リリースカレンダー: 本日分の記事に記載の発売日・開催日(渋谷PARCOポップアップ10/31〜11/17、
+11/20常設店オープン、New Balance 1890A 11/6発売、限定コラボ11/7)はいずれも既存の
+productDrops(10/30・10/31分の収集時に登録済み)と同一事象のため新規追加なし。
+storeLaunches(月曜更新対象)は本日JST日曜のため対象外。
 
 directiveラベルのopen Issue: #37(CDG FREAKガイド/スケジュールページへの`参考ガイド`
-タグ付け)を確認。既存5件のタグ付けは維持されており、本日新規収集したCDG FREAK記事2件
-(ニュース記事)は`参考ガイド`タグが付与されずに正しく区別されていることを確認・Issueに
-コメント済み。新規ガイド/スケジュールページ自体の収集はまだ無いため、完了条件の最終確認は
-継続保留。
+タグ付け)を確認。本日はcdg-freak.comの新規記事自体が収集されなかったため、完了条件
+(新規ガイド/スケジュールページへの自動タグ付けの実データ確認)の進展はなし。既存の
+タグ付け5件は維持されており異常なし。Issueはopenのまま継続(コメント追加は見送り、
+前回コメントから内容に変化がないため)。
 
 未処理の残りsummary null: 0件。本日分は全件処理完了。

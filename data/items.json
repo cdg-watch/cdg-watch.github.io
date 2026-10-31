@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T22:03:20.914Z",
+  "updatedAt": "2026-10-31T22:06:27.019Z",
   "items": [
     {
       "id": "20a98aad383f3030",
@@ -10,10 +10,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-31T22:03:08.388Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "cluster": "cdg-newbalance-1890a"
     },
     {
       "id": "6e3f1d0b0523d301",
@@ -24,11 +25,13 @@
       "image": "https://fashionsnap-assets.com/asset/format=auto,fit=crop,width=300,height=300/article/images/2026/10/1dbd4bea-847d-4fc4-85db-babfa87ff8ed.jpg",
       "feed": "FASHIONSNAP",
       "fetchedAt": "2026-10-31T22:02:54.872Z",
-      "summary": null,
+      "summary": "コム デ ギャルソンのディフュージョンライン「CDG」が、11月20日の渋谷PARCO常設店オープンに先駆け、10月31日〜11月17日に同館1階でポップアップストアを開催。ヴァンズやアルファインダストリーズとのコラボ商品を先行販売し、11月7日には別の新コラボコレクションを初公開する。",
       "tags": [
         "コラボ",
         "店舗"
-      ]
+      ],
+      "cluster": "cdg-shibuya-parco-popup-2026",
+      "importance": 2
     },
     {
       "id": "1f36a0ecaa6368ba",
@@ -14410,7 +14413,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-31T22:03:08.389Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -14990,8 +14993,11 @@
       "image": "https://media.wwdjapan.com/wp-content/uploads/2016/07/07011737/140122_commedes_001.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-10-31T22:03:07.910Z",
-      "summary": null,
-      "tags": []
+      "summary": "表参道のトレーディングミュージアム コムデギャルソンで、川久保玲氏に見出された新進デザイナー深川詔平のブランド「ワンラインドローイング」のバッグ3型を展示販売。東京・パリ・ニューヨークの直営店で同時に扱う異例の展開となった。",
+      "tags": [
+        "店舗"
+      ],
+      "importance": 1
     },
     {
       "id": "8ea1152f65306e9c",
@@ -15145,7 +15151,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-10-31T22:03:08.389Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "新作"
       ]
