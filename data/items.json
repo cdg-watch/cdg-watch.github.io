@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T22:03:54.439Z",
+  "updatedAt": "2026-11-01T22:06:11.616Z",
   "items": [
     {
       "id": "711317e35ee276d3",
@@ -10,8 +10,11 @@
       "image": "https://images.oceans.tokyo.jp/media/snap/12920/images/main_image_7399ddd832ab0d7bf1df0ef0ceb4ff5f63122c53.jpg?h=1200",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-01T22:03:46.486Z",
-      "summary": null,
-      "tags": []
+      "summary": "渋谷で撮影されたストリートスナップ企画。44歳男性がコムデギャルソンオムのジャケット・パンツ・バッグを合わせ、シューズにニューバランス990V2を組み合わせた秋冬コーディネートを紹介している。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "20a98aad383f3030",
@@ -233,10 +236,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/d72a74b7-d061-4c8c-a718-8e3aa215a277.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-01T22:03:46.486Z",
-      "summary": null,
+      "summary": "Supreme×コムデギャルソン シャツのスプリットボックスロゴ・フーディー(2018年発売、定価29,160円)が、二次流通サイトSNKRDUNKでMサイズ・ランクB中古34,000円で出品されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "e629c28663c36176",
@@ -276,20 +280,6 @@
         "二次流通"
       ],
       "importance": 1
-    },
-    {
-      "id": "123d43af0072e7fa",
-      "title": "Comme des Garçons x Nike Air Max Dolce ‘Triple Black’ - 2002 Archive Revival, Patent Leather Loafer, Under Retail: Where to Buy - Athlon Sports",
-      "url": "https://athlonsports.com/kicks/comme-des-garcons-nike-air-max-dolce-triple-black-where-to-buy-iq5171-002",
-      "publishedAt": "2026-10-27T01:36:00.000Z",
-      "publisher": "Athlon Sports",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-11-01T22:03:46.940Z",
-      "summary": null,
-      "tags": [
-        "コラボ"
-      ]
     },
     {
       "id": "76696323638b96c9",
@@ -1683,10 +1673,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-01T22:03:46.486Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "インタビュー"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "e337834a6e6fd826",
@@ -11933,10 +11924,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/af6b29b5-35cf-4f10-85fb-1fbded87b300/8198509.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-01T22:03:46.486Z",
-      "summary": null,
+      "summary": "コムデギャルソン×NGV(ナショナル・ギャラリー・オブ・ヴィクトリア)のライブストロングタンブラー「シルバー」が、二次流通サイトSNKRDUNKに中古出品されているが、現在は出品待ち(在庫なし)の状態。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "c19a9abb091136f5",
