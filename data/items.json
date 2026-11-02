@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-01T22:06:11.616Z",
+  "updatedAt": "2026-11-02T22:03:41.276Z",
   "items": [
+    {
+      "id": "8587d0a0acc72b77",
+      "title": "New Balance 1890A Gets COMME des GARÇONS Treatment - dscene magazine",
+      "url": "https://www.designscene.net/2026/11/comme-des-garcons-x-new-balance-1890a.html",
+      "publishedAt": "2026-11-02T19:52:53.000Z",
+      "publisher": "dscene magazine",
+      "image": "https://www.designscene.net/wp-content/uploads/2026/11/COMME-des-GARCONS-HOMME-x-New-Balance-1890A-f.webp",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-02T22:03:24.550Z",
+      "summary": null,
+      "tags": [
+        "コラボ"
+      ]
+    },
     {
       "id": "711317e35ee276d3",
       "title": "コムデギャルソンオムのジャケットコーディネート | 261102-0648-02 - OCEANS オーシャンズ",
@@ -280,6 +294,20 @@
         "二次流通"
       ],
       "importance": 1
+    },
+    {
+      "id": "123d43af0072e7fa",
+      "title": "Comme des Garçons x Nike Air Max Dolce ‘Triple Black’ - 2002 Archive Revival, Patent Leather Loafer, Under Retail: Where to Buy - Athlon Sports",
+      "url": "https://athlonsports.com/kicks/comme-des-garcons-nike-air-max-dolce-triple-black-where-to-buy-iq5171-002",
+      "publishedAt": "2026-10-27T01:36:00.000Z",
+      "publisher": "Athlon Sports",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-02T22:03:24.550Z",
+      "summary": null,
+      "tags": [
+        "コラボ"
+      ]
     },
     {
       "id": "76696323638b96c9",
@@ -14898,6 +14926,34 @@
       "importance": 1
     },
     {
+      "id": "48564419d097eba0",
+      "title": "Need some new WFH-wear? Nike and Comme Des Garçons Play have got you covered - British GQ",
+      "url": "https://www.gq-magazine.co.uk/fashion/article/nike-comme-des-garcons-play",
+      "publishedAt": "2021-03-05T08:00:00.000Z",
+      "publisher": "British GQ",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-02T22:03:24.551Z",
+      "summary": null,
+      "tags": [
+        "コラボ"
+      ]
+    },
+    {
+      "id": "d7581213d330b163",
+      "title": "闇の中から生まれる、秋冬メンズ コムデギャルソンとジュンヤ・ワタナベ - 朝日新聞",
+      "url": "https://www.asahi.com/and/w/article/15802306",
+      "publishedAt": "2021-02-16T08:00:00.000Z",
+      "publisher": "朝日新聞",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-11-02T22:03:24.038Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
+    },
+    {
       "id": "6253c07374cafe7d",
       "title": "“きかせる白”にコムデギャルソンのレザーバッグを - lee.hpplus.jp",
       "url": "https://lee.hpplus.jp/100nintai/1848777/",
@@ -15075,6 +15131,20 @@
       "importance": 1
     },
     {
+      "id": "154fc470e3d14dbc",
+      "title": "Comme des Garçons is \"nothing about clothes\" says Rei Kawakubo - Dezeen",
+      "url": "https://www.dezeen.com/2019/05/09/rei-kawakubo-comme-des-garcons-interview/",
+      "publishedAt": "2019-05-09T07:00:00.000Z",
+      "publisher": "Dezeen",
+      "image": "https://static-2026.dezeen.com/uploads/2019/05/rei-kawakubo-photo-paolo-roversi-comme-des-garcons-2016-dezeen-sq.jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-02T22:03:24.551Z",
+      "summary": null,
+      "tags": [
+        "インタビュー"
+      ]
+    },
+    {
       "id": "0becc05358b00b89",
       "title": "Confessions of a Comme des Garçons Addict - interviewmagazine.com",
       "url": "https://www.interviewmagazine.com/fashion/confessions-of-a-comme-des-garcons-addict",
@@ -15104,64 +15174,6 @@
         "新作"
       ],
       "importance": 2
-    },
-    {
-      "id": "728eb02e2d0f3293",
-      "title": "Comme des Garçons RTW Fall 2019 - WWD",
-      "url": "https://wwd.com/runway/fall-ready-to-wear-2019/paris/comme-des-garcons/review/",
-      "publishedAt": "2019-03-03T08:00:00.000Z",
-      "publisher": "WWD",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": "(要約取得不可)",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "3cb620ee1ce097c2",
-      "title": "ファッションの変化とコムデギャルソンの新たな“新しさ” - 朝日新聞",
-      "url": "https://www.asahi.com/and/w/article/15787956",
-      "publishedAt": "2019-01-11T08:00:00.000Z",
-      "publisher": "朝日新聞",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-10-28T22:04:06.069Z",
-      "summary": "(要約取得不可)",
-      "tags": [],
-      "importance": 1
-    },
-    {
-      "id": "a0825e343af8f89a",
-      "title": "「デザインしない」たどりついた コムデギャルソン・川久保玲さん - 朝日新聞",
-      "url": "https://www.asahi.com/articles/DA3S13814068.html",
-      "publishedAt": "2018-12-16T08:00:00.000Z",
-      "publisher": "朝日新聞",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-10-28T22:04:06.069Z",
-      "summary": "(要約取得不可)",
-      "tags": [
-        "インタビュー"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "8c0a0f4c05391bd0",
-      "title": "門脇麦が出会う BLACK COMME des GARÇONS (ブラックコムデギャルソン) vol.4 - The Fashion Post",
-      "url": "https://fashionpost.jp/fashion/144306",
-      "publishedAt": "2018-11-09T08:00:00.000Z",
-      "publisher": "The Fashion Post",
-      "image": "https://static.fashionpost.jp/article/wp-content/uploads/2015/09/09181311/201811MUGIEC.jpg",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-10-28T22:04:06.069Z",
-      "summary": "女優・門脇麦がBLACK COMME des GARÇONSを着用したスタイリング企画。白シャツとガウチョパンツを合わせたリラックスした着こなしを紹介し、ブラウス25,000円・パンツ42,000円・スニーカー27,000円という価格も掲載している。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1
     }
   ]
 }
