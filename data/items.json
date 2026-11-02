@@ -10,10 +10,13 @@
       "image": "https://www.designscene.net/wp-content/uploads/2026/11/COMME-des-GARCONS-HOMME-x-New-Balance-1890A-f.webp",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-02T22:03:24.550Z",
-      "summary": null,
+      "summary": "COMME des GARÇONS HOMMEとニューバランスのコラボスニーカー「1890A」が11月6日にコム デ ギャルソン店舗で発売。ブラック、ベージュの2色展開で、2026年1月のパリ・メンズコレクションで初披露されたモデル。",
       "tags": [
-        "コラボ"
-      ]
+        "コラボ",
+        "新作"
+      ],
+      "cluster": "cdg-newbalance-1890a",
+      "importance": 2
     },
     {
       "id": "711317e35ee276d3",
@@ -304,10 +307,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-02T22:03:24.550Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "cluster": "nike-airmax-dolcesp"
     },
     {
       "id": "76696323638b96c9",
@@ -14934,7 +14938,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-02T22:03:24.551Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
       ]
@@ -14948,7 +14952,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-02T22:03:24.038Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
       ]
@@ -15139,10 +15143,11 @@
       "image": "https://static-2026.dezeen.com/uploads/2019/05/rei-kawakubo-photo-paolo-roversi-comme-des-garcons-2016-dezeen-sq.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-02T22:03:24.551Z",
-      "summary": null,
+      "summary": "2019年にDezeenが掲載した川久保玲のインタビュー記事。服そのものより会社全体を設計していると述べ、芸術家でもデザイナーでもない立場を強調。スケッチをせず言葉と議論から発想する独自の制作プロセスを語っている。",
       "tags": [
         "インタビュー"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "0becc05358b00b89",
