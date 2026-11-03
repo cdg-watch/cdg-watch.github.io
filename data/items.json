@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T22:05:42.172Z",
+  "updatedAt": "2026-11-03T22:08:25.705Z",
   "items": [
     {
       "id": "455d41cb741fc3db",
@@ -10,12 +10,14 @@
       "image": "https://images.soleretriever.com/blog/27f5cd3d46979ff2278ae5108b17516294215693-1240x760.png?rect=0,55,1240,651&w=1200&h=630&fit=fill&auto=format",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-03T22:05:20.258Z",
-      "summary": null,
+      "summary": "コム デ ギャルソン・オムとニューバランスのコラボモカシン「1890A」が、スエード素材のトリプルブラックとウィートタンの2色で発売される。タンとインソールにCDGロゴが入る。",
       "tags": [
         "コラボ",
         "ショー/コレクション",
         "新作"
-      ]
+      ],
+      "cluster": "cdg-newbalance-1890a",
+      "importance": 2
     },
     {
       "id": "7bd43e226525d2b3",
@@ -26,10 +28,11 @@
       "image": "https://www.fashion-press.net/img/news/152769/top.jpg?1793589875",
       "feed": "Fashion Press",
       "fetchedAt": "2026-11-03T22:05:19.194Z",
-      "summary": null,
+      "summary": "プレイ・コム デ ギャルソンの新作Tシャツが、ハートモチーフにドット柄・迷彩柄を組み合わせた新色で2026年11月7日に発売される。価格は11,220円〜21,450円で、全国のプレイ取扱店(青山店を除く)で販売。",
       "tags": [
         "新作"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "e620f55bf894b56e",
@@ -40,7 +43,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-03T22:05:19.800Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "二次流通"
       ]
@@ -54,8 +57,12 @@
       "image": "https://wwd.com/wp-content/uploads/2026/11/comme-des-garcons-new-balance-1890a-black-tan-001.jpg?w=1000&h=563&crop=1",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-03T22:05:20.258Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "コラボ",
+        "新作"
+      ],
+      "cluster": "cdg-newbalance-1890a"
     },
     {
       "id": "8587d0a0acc72b77",
@@ -14443,18 +14450,6 @@
         "店舗"
       ],
       "importance": 1
-    },
-    {
-      "id": "8b4cef27543223e0",
-      "title": "コムデギャルソン／COMME des GARÇONS - ginzamag.com",
-      "url": "https://ginzamag.com/tags/commedesgarcons",
-      "publishedAt": "2023-06-09T09:23:31.000Z",
-      "publisher": "ginzamag.com",
-      "image": "https://ginzamag.com/assets/images/ogp.png",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-11-03T22:05:19.801Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "219ec69232c8b9d4",
