@@ -1,6 +1,89 @@
 {
-  "updatedAt": "2026-11-03T22:08:25.705Z",
+  "updatedAt": "2026-11-04T22:08:39.450Z",
   "items": [
+    {
+      "id": "f627a05d5e7d3905",
+      "title": "コムデギャルソンオムプリュスのワンピースコーディネート | 261105-0510-16 - OCEANS オーシャンズ",
+      "url": "https://oceans.tokyo.jp/snap/detail/12944?module",
+      "publishedAt": "2026-11-04T20:12:43.000Z",
+      "publisher": "OCEANS オーシャンズ",
+      "image": "https://images.oceans.tokyo.jp/media/snap/12944/images/main_image_1e8c61530582da7c225a44eb8a44e035af41e1e5.jpg?h=1200",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-11-04T22:04:37.758Z",
+      "summary": "渋谷で撮影されたOCEANSのスナップ企画。モデルがコムデギャルソンオムプリュスのワンピースを着用したコーディネートを紹介している。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "0ea70216b16e8bd4",
+      "title": "CDG 渋谷パルコ出展記念「Disney MICKEY MOUSE」&「BE@RBRICK」T-SHIRTが2026年 11/20 発売 (ディズニー ミッキーマウス ベアブリック シーディージー COMME des GARCONS コム デ ギャルソン)",
+      "url": "https://www.fullress.com/cdg-shibuya-parco-disney-mickey-mouse-bearbrick-t-shirt/",
+      "publishedAt": "2026-11-04T14:05:40.000Z",
+      "publisher": null,
+      "image": "https://www.fullress.com/wp-content/uploads/2026/11/1Fdgad888AASF-1.jpg",
+      "feed": "Fullress",
+      "fetchedAt": "2026-11-04T22:04:26.421Z",
+      "summary": "CDGが渋谷PARCO初出店・同パルコ7周年を記念し、ディズニーのミッキーマウスとBE@RBRICKをテーマにしたTシャツ2種を2026年11月20日に発売する。価格はミッキー柄15,400円、BE@RBRICK柄14,300円。",
+      "tags": [
+        "新作",
+        "コラボ"
+      ],
+      "importance": 2,
+      "cluster": "cdg-shibuya-parco-popup-2026"
+    },
+    {
+      "id": "03ee979e7a51122e",
+      "title": "11/6発売｜COMME des GARCONS HOMME × New Balance 1890A 2colors｜抽選/販売/定価情報 - SNKRDUNK",
+      "url": "https://snkrdunk.com/articles/33677/",
+      "publishedAt": "2026-11-04T08:54:45.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/0ecd8ab9-d3ce-4b3b-aa42-5fabb1f5925d.webp",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-11-04T22:04:37.758Z",
+      "summary": "コム デ ギャルソン オム×ニューバランス「1890A」がブラックとベージュの2色で2026年11月6日に発売される。定価64,900円、店舗抽選とオンライン販売で取り扱われる。",
+      "tags": [
+        "二次流通",
+        "新作",
+        "コラボ"
+      ],
+      "importance": 2,
+      "cluster": "cdg-newbalance-1890a"
+    },
+    {
+      "id": "c506a5a973511350",
+      "title": "ついにコム デ ギャルソン・オム×ニューバランス「1890A」登場！革靴顔の2色が11月6日発売（OCEANS） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/c8a4bf384ff8cbb000cadc58b8ee23990ce7bfb3",
+      "publishedAt": "2026-11-04T01:00:00.000Z",
+      "publisher": "Yahoo!ニュース",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00055822-oceans-000-1-view.jpg?exp=10800",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-11-04T22:04:37.758Z",
+      "summary": "コム デ ギャルソン・オム×ニューバランス「1890A」がタンとブラックの2色で2026年11月6日に発売される。エプロンアッパーで革靴のような外観と、ABZORB搭載のソールによる機能性を両立している。",
+      "tags": [
+        "コラボ",
+        "新作"
+      ],
+      "cluster": "cdg-newbalance-1890a",
+      "importance": 2
+    },
+    {
+      "id": "ec8fca6a52a41bbf",
+      "title": "プレイコムデギャルソンの新作Tシャツを11月7日(土)に発売｜迷彩とドットのハート全12型",
+      "url": "https://cdg-freak.com/news/play-heart-camo-dot-t-shirt-2026/",
+      "publishedAt": "2026-11-04T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/5c6431d7f7dc3d0d5eb1355f96bc748e-landscape-960.eaa4a5038a4d.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-11-04T22:04:22.135Z",
+      "summary": "プレイ コム デ ギャルソンが、迷彩柄(カーキ/青)とドット柄(赤/紺)でハートロゴを表現した新作Tシャツ全12型を2026年11月7日に発売する。青の迷彩と赤のドットは新色。価格は11,220円〜21,450円。",
+      "tags": [
+        "新作"
+      ],
+      "importance": 2,
+      "cluster": "play-heart-camo-dot-tshirt-2026"
+    },
     {
       "id": "455d41cb741fc3db",
       "title": "CDG Homme’s New Balance 1890 A Collab Collection is Finally Dropping - Sole Retriever",
@@ -20,6 +103,22 @@
       "importance": 2
     },
     {
+      "id": "6f298b83214b67ee",
+      "title": "プレイ コム デ ギャルソンが新作Tシャツを発売　「ハートマーク」ロゴの新色も",
+      "url": "https://www.fashionsnap.com/article/2026-11-04/play-comme-des-garcons-new-t-shirt/",
+      "publishedAt": "2026-11-03T15:00:00.000Z",
+      "publisher": null,
+      "image": "https://fashionsnap-assets.com/asset/format=auto,fit=crop,width=300,height=300/article/images/2026/11/19a64651-b337-4376-9843-5155fa760ed3.jpg",
+      "feed": "FASHIONSNAP",
+      "fetchedAt": "2026-11-04T22:04:23.345Z",
+      "summary": "プレイ コム デ ギャルソンが、ハートマークロゴを迷彩柄・ドット柄で表現した新作Tシャツを2026年11月7日に発売する。青の迷彩柄と赤のドット柄が新色で、サイズはXXXSからXXLまで展開。",
+      "tags": [
+        "新作"
+      ],
+      "importance": 1,
+      "cluster": "play-heart-camo-dot-tshirt-2026"
+    },
+    {
       "id": "7bd43e226525d2b3",
       "title": "プレイ・コム デ ギャルソン新作Tシャツ、ハートを大胆に配した“ドット柄＆迷彩柄”に新色",
       "url": "https://www.fashion-press.net/news/152769",
@@ -32,7 +131,8 @@
       "tags": [
         "新作"
       ],
-      "importance": 2
+      "importance": 2,
+      "cluster": "play-heart-camo-dot-tshirt-2026"
     },
     {
       "id": "e620f55bf894b56e",
@@ -718,6 +818,22 @@
       ],
       "importance": 2,
       "cluster": "cdg-six-magazine-revival"
+    },
+    {
+      "id": "7967ba1ab5443adc",
+      "title": "ジュンヤ ワタナベ マン × ニューバランス「P400」を10月16日(金)に発売｜レザーの2色 5万2800円",
+      "url": "https://cdg-freak.com/news/junya-watanabe-man-new-balance-p400-2026/",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/65fb637716b5e22d297c52dfbdd0df43-landscape-960.928e28e5d7ab.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-11-04T22:04:22.136Z",
+      "summary": "ジュンヤ ワタナベ マン×ニューバランスのバスケットシューズ「P400」がブラックとホワイトの2色で2026年10月16日に発売された。レザーアッパー採用で価格は52,800円。",
+      "tags": [
+        "コラボ",
+        "新作"
+      ],
+      "importance": 1
     },
     {
       "id": "390013971ef040cb",
@@ -14405,6 +14521,21 @@
       "importance": 2
     },
     {
+      "id": "847b05239bf0f4ed",
+      "title": "CDG x The North Face Is Monochrome & Sideways - Highsnobiety",
+      "url": "https://www.highsnobiety.com/p/cdg-the-north-face-tnf-collab/",
+      "publishedAt": "2023-08-16T07:00:00.000Z",
+      "publisher": "Highsnobiety",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-04T22:04:38.282Z",
+      "summary": "CDGとThe North Faceのコラボコレクションは、ブラック基調のアウターやフリース、Tシャツ等で構成され、ロゴを90度回転させて配したデザインが特徴。2023年8月22日よりCDG公式サイトやDover Street Marketなどで発売された。",
+      "tags": [
+        "コラボ"
+      ],
+      "importance": 1
+    },
+    {
       "id": "abda778a54a71402",
       "title": "「リアリティー越えなければ」 コムデギャルソンがパリで見せた新作 - 朝日新聞",
       "url": "https://www.asahi.com/articles/ASR7154VMR6ZUCVL03N.html",
@@ -14834,6 +14965,21 @@
       "importance": 1
     },
     {
+      "id": "b3e1af249556d987",
+      "title": "コムデギャルソン 黒バラに込めた勇気や抵抗、自由への思い - 朝日新聞",
+      "url": "https://www.asahi.com/articles/ASQ3B4TLDQ39UCVL00P.html",
+      "publishedAt": "2022-03-11T08:00:00.000Z",
+      "publisher": "朝日新聞",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-11-04T22:04:37.759Z",
+      "summary": "コムデギャルソンは2022年3月8日、東京で2022年秋冬コレクションのショーを行った。テーマは「黒い薔薇」で、服地の代わりにソファの中綿のような資材を多用した独創的なフォルムが特徴だった。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 1
+    },
+    {
       "id": "9a765013e9198ac7",
       "title": "コムデギャルソンにユニクロも専門機関が収蔵 後世に残す現代の服 - 朝日新聞",
       "url": "https://www.asahi.com/articles/ASQ2Q6J71Q2QUCLV00H.html",
@@ -15019,153 +15165,6 @@
       "tags": [
         "ショー/コレクション"
       ]
-    },
-    {
-      "id": "6253c07374cafe7d",
-      "title": "“きかせる白”にコムデギャルソンのレザーバッグを - lee.hpplus.jp",
-      "url": "https://lee.hpplus.jp/100nintai/1848777/",
-      "publishedAt": "2021-01-03T08:00:00.000Z",
-      "publisher": "lee.hpplus.jp",
-      "image": "https://lee.hpplus.jp/wp-content/uploads/2020/12/044076C2-19A2-41EE-9805-AE97E0BC7E90-scaled-e1609667998138.jpeg",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-10-29T22:03:38.736Z",
-      "summary": "LEEの読者ブロガーが、コムデギャルソン銀座三越店で購入した白のレザーバッグを紹介。黒やシルバーではなく白を選んだ理由を語り、カジュアル・きれいめ双方のコーディネートへの合わせ方を綴っている。",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "8eadbf1e4f15da4b",
-      "title": "Comme des Garçons new magazine collab links with Patti Smith, Stormzy and Naomi Osaka - FashionNetwork - The World's Fashion Business News",
-      "url": "https://ww.fashionnetwork.com/news/Comme-des-garcons-new-magazine-collab-links-with-patti-smith-stormzy-and-naomi-osaka,1263437.html",
-      "publishedAt": "2020-11-30T08:00:00.000Z",
-      "publisher": "FashionNetwork - The World's Fashion Business News",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": "(要約取得不可)",
-      "tags": [
-        "コラボ"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "686c995a7e20ad25",
-      "title": "コムデギャルソンが東京でメンズショー 「希望を生む強さ」メタルに込めて - 朝日新聞",
-      "url": "https://www.asahi.com/and/w/article/15798869",
-      "publishedAt": "2020-08-07T07:00:00.000Z",
-      "publisher": "朝日新聞",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-09-02T22:11:19.064Z",
-      "summary": "朝日新聞の過去記事。コムデギャルソンが東京でメンズショーを開催し、「メタル・アウトロー」をイメージした銀色の素材を多用した2021年春夏コレクションを発表したという内容。",
-      "tags": [
-        "ショー/コレクション"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "bc6c32c8975829e1",
-      "title": "Comme des Garçons Homme Plus Spring 2021 Review - WWD",
-      "url": "https://wwd.com/runway/mens-spring-collections-2021/tokyo/comme-des-garcons-homme-plus/review/",
-      "publishedAt": "2020-07-29T07:00:00.000Z",
-      "publisher": "WWD",
-      "image": "https://wwd.com/wp-content/uploads/2020/07/cdg-homme-plus-s21-1.jpg?w=1000&h=563&crop=1",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": "(要約取得不可)",
-      "tags": [
-        "ショー/コレクション"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "ca8579c16f74b6f8",
-      "title": "Supreme × COMME des GARCONS SHIRT × Nike Air Force 1 Low \"White\"の新品/中古フリマ(通販)｜スニダン - SNKRDUNK",
-      "url": "https://snkrdunk.com/products/923044-100",
-      "publishedAt": "2020-05-14T18:09:40.000Z",
-      "publisher": "SNKRDUNK",
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/20250406083220-0.webp",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-09-03T22:10:48.854Z",
-      "summary": "Supreme×COMME des GARCONS SHIRT×Nike Air Force 1 Low「White」が二次流通サイト「スニーカーダンク」で取引されている。",
-      "tags": [
-        "二次流通"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "27bf07357af5ead1",
-      "title": "The Wigs At Comme des Garçons Weren’t Appropriation, But They’re Still Problematic - www.essence.com",
-      "url": "https://www.essence.com/hair/comme-des-garcons-racist-wigs/",
-      "publishedAt": "2020-01-28T08:00:00.000Z",
-      "publisher": "www.essence.com",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-10-28T22:04:06.427Z",
-      "summary": "(要約取得不可)",
-      "tags": [],
-      "importance": 1
-    },
-    {
-      "id": "ffff8bef219e8ff0",
-      "title": "コムデギャルソン、ショーのかつらに「文化の盗用」と批判噴出 - BBC",
-      "url": "https://www.bbc.com/japanese/51171801",
-      "publishedAt": "2020-01-20T08:00:00.000Z",
-      "publisher": "BBC",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-22T22:10:16.576Z",
-      "summary": "(要約取得不可)",
-      "tags": []
-    },
-    {
-      "id": "9bdc00c12c385827",
-      "title": "Comme des Garçons in row over ‘white models in cornrow wigs’ - The Guardian",
-      "url": "https://www.theguardian.com/fashion/2020/jan/19/comme-des-garcons-in-row-over-white-models-in-cornrow-wigs",
-      "publishedAt": "2020-01-19T08:00:00.000Z",
-      "publisher": "The Guardian",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-07-07T02:53:37.048Z",
-      "summary": "(要約取得不可)",
-      "tags": [
-        "その他"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "ef8f93cd5af504d1",
-      "title": "コムデギャルソン2020年春夏の新作 フェミニズムの奥にあるものへの問い - 朝日新聞",
-      "url": "https://www.asahi.com/and/w/article/15793013",
-      "publishedAt": "2019-11-11T08:00:00.000Z",
-      "publisher": "朝日新聞",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-10-28T22:04:06.069Z",
-      "summary": "(要約取得不可)",
-      "tags": [
-        "ショー/コレクション",
-        "新作"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "9e5d9fae262011ed",
-      "title": "コムデギャルソン メンズ新作の衝撃 男女の性意識への挑戦 - 朝日新聞",
-      "url": "https://www.asahi.com/and/w/article/15791664",
-      "publishedAt": "2019-07-26T07:00:00.000Z",
-      "publisher": "朝日新聞",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-09-02T22:11:19.064Z",
-      "summary": "朝日新聞の過去記事。コムデギャルソンのパリ・メンズコレクションを題材に、ファッション表現における男女の性意識のあり方を論じた内容。",
-      "tags": [
-        "新作",
-        "ショー/コレクション"
-      ],
-      "importance": 1
     }
   ]
 }
