@@ -10,8 +10,13 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-05T22:03:15.047Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "店舗",
+        "再販/セール"
+      ],
+      "cluster": "cdg-guerrillastore-fukuoka",
+      "importance": 1
     },
     {
       "id": "4c603706f5f0e84d",
@@ -22,10 +27,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-05T22:03:15.047Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "インタビュー"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "089e0c014b6857f4",
@@ -36,10 +42,11 @@
       "image": "https://img.webuomo.jp/article/sns/image/73/730a512e-9c65-482c-922b-6c7614895cf2-1200x630.jpg",
       "feed": "WEB UOMO (Google News経由)",
       "fetchedAt": "2026-11-05T22:03:14.694Z",
-      "summary": null,
+      "summary": "ファッション誌『UOMO』のブラウン系アイテム特集で、コム デ ギャルソン・オムの高混率モヘア起毛カーディガン(税込97,900円)が1位に選ばれた。多色のグラデーションによる軽やかな見え方が評価されている。",
       "tags": [
-        "ショー/コレクション"
-      ]
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "f627a05d5e7d3905",
