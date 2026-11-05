@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-04T22:08:39.450Z",
+  "updatedAt": "2026-11-05T22:03:36.389Z",
   "items": [
+    {
+      "id": "e54167a095f966d9",
+      "title": "コムデギャルソン福岡ゲリラストアで50%OFF＆限定アイテムを購入！新幹線で4時間半かけて行った弾丸旅行Vlog - YouTube",
+      "url": "https://youtu.be/Fhw8H8kZEYY?si",
+      "publishedAt": "2026-11-05T11:09:43.000Z",
+      "publisher": "YouTube",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-11-05T22:03:15.047Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "4c603706f5f0e84d",
+      "title": "35年ぶりギャルソン「Six」 川久保玲、過去の題材で新たな表現 - 朝日新聞",
+      "url": "https://www.asahi.com/articles/ASVC22QHXVC2UCVL02NM.html",
+      "publishedAt": "2026-11-05T08:00:00.000Z",
+      "publisher": "朝日新聞",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-11-05T22:03:15.047Z",
+      "summary": null,
+      "tags": [
+        "インタビュー"
+      ]
+    },
+    {
+      "id": "089e0c014b6857f4",
+      "title": "【色別ランキング｜ブラウン】1位はコム デ ギャルソン・オムのモヘアカーディガン。おしゃれな大人が本当に着たい服を本音レビュー【試着フェス®︎ 2026-2027秋冬】 - UOMO",
+      "url": "https://www.webuomo.jp/fashion/shichaku/t/202612-2026aw/jbr-1Q/",
+      "publishedAt": "2026-11-05T02:00:00.000Z",
+      "publisher": "UOMO",
+      "image": "https://img.webuomo.jp/article/sns/image/73/730a512e-9c65-482c-922b-6c7614895cf2-1200x630.jpg",
+      "feed": "WEB UOMO (Google News経由)",
+      "fetchedAt": "2026-11-05T22:03:14.694Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
+    },
     {
       "id": "f627a05d5e7d3905",
       "title": "コムデギャルソンオムプリュスのワンピースコーディネート | 261105-0510-16 - OCEANS オーシャンズ",
@@ -15150,20 +15190,6 @@
       "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
-      ]
-    },
-    {
-      "id": "d7581213d330b163",
-      "title": "闇の中から生まれる、秋冬メンズ コムデギャルソンとジュンヤ・ワタナベ - 朝日新聞",
-      "url": "https://www.asahi.com/and/w/article/15802306",
-      "publishedAt": "2021-02-16T08:00:00.000Z",
-      "publisher": "朝日新聞",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-11-02T22:03:24.038Z",
-      "summary": "(要約取得不可)",
-      "tags": [
-        "ショー/コレクション"
       ]
     }
   ]
