@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-05T22:03:36.389Z",
+  "updatedAt": "2026-11-06T22:03:50.504Z",
   "items": [
+    {
+      "id": "f22a237d90b712e3",
+      "title": "Stüssy CDG Shibuya Parco Release November 7 - finally offline",
+      "url": "https://www.finallyoffline.com/article/stussy-cdg-shibuya-parco-lottery-november-7-w3k8q5mx",
+      "publishedAt": "2026-11-06T05:46:19.000Z",
+      "publisher": "finally offline",
+      "image": "https://www.finallyoffline.com/og-home.png",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-06T22:03:32.437Z",
+      "summary": null,
+      "tags": [
+        "新作"
+      ]
+    },
     {
       "id": "e54167a095f966d9",
       "title": "コムデギャルソン福岡ゲリラストアで50%OFF＆限定アイテムを購入！新幹線で4時間半かけて行った弾丸旅行Vlog - YouTube",
@@ -865,6 +879,22 @@
       ],
       "importance": 2,
       "cluster": "cdg-six-magazine-revival"
+    },
+    {
+      "id": "5d14fe543beaac7e",
+      "title": "ブルックス ブラザーズ × アイ ジュンヤ ワタナベ マンの2026年秋冬を10月16日(金)に発売｜ブレザーなど3型",
+      "url": "https://cdg-freak.com/news/eye-junya-watanabe-man-brooks-brothers-2026/",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/5fb29b9dfba468e02607765370d43999-landscape-960.84074bc6a5fb.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-11-06T22:03:14.127Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "ショー/コレクション",
+        "新作"
+      ]
     },
     {
       "id": "7967ba1ab5443adc",
@@ -14828,6 +14858,21 @@
       "importance": 2
     },
     {
+      "id": "32084436e0202334",
+      "title": "【国内11月17日発売予定】 コムデギャルソン オム × ニューバランス 1906R 2色 - スニーカーウォーズ",
+      "url": "https://sneakerwars.jp/items/view/18439",
+      "publishedAt": "2023-01-23T01:17:15.000Z",
+      "publisher": "スニーカーウォーズ",
+      "image": "https://img.sneakerwars.jp/images/18439/larges/ANw_cropped.jpg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-11-06T22:03:32.050Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "新作"
+      ]
+    },
+    {
       "id": "ab48b63f82a27ebc",
       "title": "「コムデギャルソン × ナイキ」の異彩を放つコラボスニーカー。歴代モデル10足を紹介！｜コラム - SNKRDUNK",
       "url": "https://snkrdunk.com/articles/15998/",
@@ -15158,46 +15203,6 @@
         "ショー/コレクション"
       ],
       "importance": 1
-    },
-    {
-      "id": "9a6f273c94dc0e0c",
-      "title": "（My Style,Myself）コムデギャルソンに“着負け”ない生き方を ノンフィクションライター・石戸諭さん - 朝日新聞",
-      "url": "https://www.asahi.com/and/w/article/15805448",
-      "publishedAt": "2021-06-13T07:00:00.000Z",
-      "publisher": "朝日新聞",
-      "image": "https://p.potaufeu.asahi.com/3780-p/picture/29618283/7395ead4294ae6f6a71ce7598dd56663.jpg",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-10-28T22:04:06.069Z",
-      "summary": "(要約取得不可)",
-      "tags": [],
-      "importance": 1
-    },
-    {
-      "id": "e1c42d4aec33780d",
-      "title": "静寂・興奮、ショーで世界観 コムデギャルソン3ブランド - 朝日新聞",
-      "url": "https://www.asahi.com/and/w/article/15802996",
-      "publishedAt": "2021-04-05T07:00:00.000Z",
-      "publisher": "朝日新聞",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-10-28T22:04:06.069Z",
-      "summary": "(要約取得不可)",
-      "tags": [],
-      "importance": 1
-    },
-    {
-      "id": "48564419d097eba0",
-      "title": "Need some new WFH-wear? Nike and Comme Des Garçons Play have got you covered - British GQ",
-      "url": "https://www.gq-magazine.co.uk/fashion/article/nike-comme-des-garcons-play",
-      "publishedAt": "2021-03-05T08:00:00.000Z",
-      "publisher": "British GQ",
-      "image": null,
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-11-02T22:03:24.551Z",
-      "summary": "(要約取得不可)",
-      "tags": [
-        "コラボ"
-      ]
     }
   ]
 }
