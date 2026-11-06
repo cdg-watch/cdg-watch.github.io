@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T22:03:50.504Z",
+  "updatedAt": "2026-11-06T23:00:00.000Z",
   "items": [
     {
       "id": "f22a237d90b712e3",
@@ -10,10 +10,14 @@
       "image": "https://www.finallyoffline.com/og-home.png",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-06T22:03:32.437Z",
-      "summary": null,
+      "summary": "渋谷PARCOのCDGポップアップで、Stüssyとのコラボカプセル(限定12スタイル)が2026年11月7日午前11時に発売。CDGは7日・8日の両日朝に入場抽選を実施する。",
       "tags": [
-        "新作"
-      ]
+        "新作",
+        "コラボ",
+        "店舗"
+      ],
+      "cluster": "cdg-shibuya-parco-popup-2026",
+      "importance": 2
     },
     {
       "id": "e54167a095f966d9",
@@ -889,12 +893,13 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/5fb29b9dfba468e02607765370d43999-landscape-960.84074bc6a5fb.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-11-06T22:03:14.127Z",
-      "summary": null,
+      "summary": "ブルックス ブラザーズとeYe ジュンヤワタナベマンのコラボ2026年秋冬コレクションが10月16日発売。カシミヤ混フランネルのブレザー(19.8万円)、モールスキンのワイドパンツ(9.9万円)、コットンツイルのボタンダウンシャツ(各7.15万円)の3型を、ジュンヤワタナベマン正規取扱店とブルックス ブラザーズ表参道・大阪店で数量限定販売した。",
       "tags": [
         "コラボ",
         "ショー/コレクション",
         "新作"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "7967ba1ab5443adc",
@@ -14866,11 +14871,12 @@
       "image": "https://img.sneakerwars.jp/images/18439/larges/ANw_cropped.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-06T22:03:32.050Z",
-      "summary": null,
+      "summary": "コム デ ギャルソン オム×ニューバランス「1906R」のブラックとホワイト2色が2023年11月17日に国内発売。価格は46,200円で、ZOZOTOWN・Digital Mountain・三越伊勢丹オンライン等のオンラインストアと実店舗MEMPHISで取り扱われた(当時の記事がGoogle Newsフィード経由で遅れて取り込まれたもの)。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "ab48b63f82a27ebc",
