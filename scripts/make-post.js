@@ -6,9 +6,31 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 
 const DIGEST = new URL("../data/digest-latest.md", import.meta.url).pathname;
+const POSTED_LOG = new URL("../data/posted-log.md", import.meta.url).pathname;
 const OUT = new URL("../data/post-draft.md", import.meta.url).pathname;
 const SITE = "https://cdg-watch.github.io/";
 const TAGS = "#コムデギャルソン #CommeDesGarcons #CDG";
+
+function todayJST() {
+  // en-CAロケールはYYYY-MM-DD形式を返す(ゼロ依存でタイムゾーン変換するため)
+  return new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Tokyo" }).format(new Date());
+}
+
+// posted-log.mdの最新記録日と本日(JST)の間に2日以上の空きがあれば、
+// 前日以前の行が丸ごと欠落している可能性を検知する(directive #42、Issue #22・#42の再発防止)。
+// ファイル内の行は過去の事故で挿入位置がずれ、末尾行が最新日付とは限らないため、
+// 全行から日付を拾って最大値を取る(末尾行だけを見ない)。
+function checkPostedLogGap() {
+  if (!existsSync(POSTED_LOG)) return null;
+  const md = readFileSync(POSTED_LOG, "utf8");
+  const dates = [...md.matchAll(/^\|\s*(\d{4}-\d{2}-\d{2})\s*\|/gm)].map((m) => m[1]);
+  if (!dates.length) return null;
+  const latest = dates.sort().at(-1);
+  const today = todayJST();
+  const gapDays = Math.round((Date.parse(`${today}T00:00:00Z`) - Date.parse(`${latest}T00:00:00Z`)) / 86400000);
+  if (gapDays >= 2) return { latest, today, gapDays };
+  return null;
+}
 
 function parseDigest(md) {
   // 箇条書きを拾う。現行形式「- **見出し** — 本文…。[ラベル](URL)」(本文末尾に
@@ -104,6 +126,13 @@ function main() {
     process.exit(1);
   }
 
+  const gap = checkPostedLogGap();
+  if (gap) {
+    console.warn(
+      `⚠ posted-log.mdの最新記録(${gap.latest})と本日(${gap.today})の間に${gap.gapDays}日の空きがあります。前日以前の行が丸ごと欠落している可能性があります(directive #42)。`
+    );
+  }
+
   const top = blocks[0];
   // 本文は文字数を抑える(URL・タグ・改行の余白を残す)
   const lead = top.body.length > 90 ? top.body.slice(0, 88) + "…" : top.body;
@@ -118,6 +147,7 @@ function main() {
 
 > このファイルは自動生成の叩き台。SNSエージェントが推敲し、実投稿またはsnowの手動投稿に使う。
 > 目安: 日本語は全角1文字=2カウント、上限280カウント(=全角約140字)。URLは23カウント固定。
+${gap ? `\n> ⚠ **日付ギャップ検知**(directive #42): posted-log.mdの最新記録が${gap.latest}、本日が${gap.today}で${gap.gapDays}日空いています。前日以前の行が丸ごと欠落している可能性があります。git logとIssue「📣 本日のX投稿」のコメント履歴を突き合わせて原因調査してください。\n` : ""}
 
 ## 案A: 単体トピック(推奨・画像1枚添付想定)
 \`\`\`

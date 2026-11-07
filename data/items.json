@@ -10,11 +10,14 @@
       "image": "https://fashionsnap-assets.com/asset/format=auto,fit=crop,width=300,height=300/article/images/2026/11/4dea67d9-21a6-44b0-967a-d34ac0c1624e.jpg",
       "feed": "FASHIONSNAP",
       "fetchedAt": "2026-11-07T22:05:23.115Z",
-      "summary": null,
+      "summary": "コムデギャルソンとステューシーのコラボ第5弾が11月7日、渋谷PARCOのポップアップで先行発売。フーディーやコーチジャケットなど計12型で、両ブランドがそれぞれの視点で自由にデザインした初の試み。",
       "tags": [
+        "新作",
         "コラボ",
-        "新作"
-      ]
+        "店舗"
+      ],
+      "importance": 2,
+      "cluster": "cdg-shibuya-parco-popup-2026"
     },
     {
       "id": "9dbb2d4986b22e41",
@@ -25,11 +28,14 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/c2c1fef2dd8e180149be4eb96f50d43e-landscape-960.76bc5e60f511.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-11-07T22:05:21.981Z",
-      "summary": null,
+      "summary": "コムデギャルソンとステューシーのコラボが11月7日、渋谷PARCOのポップアップストアで先行発売。フーディーやマフラーなど12型で、7日・8日は入店順を決める抽選が実施される。",
       "tags": [
+        "新作",
         "コラボ",
-        "新作"
-      ]
+        "店舗"
+      ],
+      "importance": 2,
+      "cluster": "cdg-shibuya-parco-popup-2026"
     },
     {
       "id": "f22a237d90b712e3",
