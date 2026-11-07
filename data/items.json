@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-06T23:00:00.000Z",
+  "updatedAt": "2026-11-07T22:05:50.881Z",
   "items": [
+    {
+      "id": "aba2e726637314c3",
+      "title": "CDG×ステューシー新作　両ブランド視点でデザインした12型を渋谷パルコで先行販売",
+      "url": "https://www.fashionsnap.com/article/2026-11-07/cdg-stussy-shibuya/",
+      "publishedAt": "2026-11-07T01:44:35.000Z",
+      "publisher": null,
+      "image": "https://fashionsnap-assets.com/asset/format=auto,fit=crop,width=300,height=300/article/images/2026/11/4dea67d9-21a6-44b0-967a-d34ac0c1624e.jpg",
+      "feed": "FASHIONSNAP",
+      "fetchedAt": "2026-11-07T22:05:23.115Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "新作"
+      ]
+    },
+    {
+      "id": "9dbb2d4986b22e41",
+      "title": "【渋谷PARCO】CDG × ステューシーのコラボを11月7日(土)から先行発売｜フーディーなど12型",
+      "url": "https://cdg-freak.com/news/cdg-stussy-shibuya-parco-2026/",
+      "publishedAt": "2026-11-07T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/c2c1fef2dd8e180149be4eb96f50d43e-landscape-960.76bc5e60f511.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-11-07T22:05:21.981Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "新作"
+      ]
+    },
     {
       "id": "f22a237d90b712e3",
       "title": "Stüssy CDG Shibuya Parco Release November 7 - finally offline",
@@ -15178,37 +15208,6 @@
         "ショー/コレクション"
       ],
       "importance": 2
-    },
-    {
-      "id": "4afd03a1b8598067",
-      "title": "コムデギャルソン観客入れてショー「最後に残ったもの」はかれんな美 - 朝日新聞",
-      "url": "https://www.asahi.com/articles/ASPB45H8JPB4UCVL00C.html",
-      "publishedAt": "2021-10-04T07:00:00.000Z",
-      "publisher": "朝日新聞",
-      "image": "https://www.asahicom.jp/articles/images/AS20211004002043_comm.jpg",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-07-05T07:41:41.492Z",
-      "summary": "(要約取得不可)",
-      "tags": [
-        "ショー/コレクション"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "e52c1eceb8e1bd03",
-      "title": "らしさ爆発! コムデギャルソン 花をテーマに新作発表 - 朝日新聞",
-      "url": "https://www.asahi.com/articles/ASP7D7418P7DULZU01H.html",
-      "publishedAt": "2021-07-13T07:00:00.000Z",
-      "publisher": "朝日新聞",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-09-03T22:10:48.854Z",
-      "summary": "朝日新聞の過去記事。コムデギャルソンが東京でショーを開催し、川久保玲デザイナーによる「花」をテーマにした2022年春夏メンズコレクションを発表したという内容。",
-      "tags": [
-        "新作",
-        "ショー/コレクション"
-      ],
-      "importance": 1
     }
   ]
 }
