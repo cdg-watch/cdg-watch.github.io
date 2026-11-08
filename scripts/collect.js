@@ -7,7 +7,11 @@ import { createHash } from "node:crypto";
 import { pathToFileURL } from "node:url";
 
 const DATA_PATH = new URL("../data/items.json", import.meta.url).pathname;
-const MAX_ITEMS = 1000;
+// Issue #41: snowの方針(2026-07-09)は「データは削除せず保持する」。
+// 上限はメモリ・ファイルサイズの安全弁として残すが、トリムで要約済みの
+// 完成データを消さないよう trimItems() 側で保護する。上限自体も
+// 1000→3000 に引き上げ、当面トリム自体が発生しないようにした(2026-11-08)。
+const MAX_ITEMS = 3000;
 
 // ギャルソン関連判定(直接フィードは全記事が流れてくるためフィルタ必須)。
 // 「ギャルソン(?!ヌ)」の否定先読みは誤検知対策: セレクトショップ
@@ -631,13 +635,42 @@ async function main() {
     it.image = await fetchOgImage(it.url);
   }
 
-  existing.items = [...added, ...existing.items]
-    .sort((a, b) => (b.publishedAt ?? "").localeCompare(a.publishedAt ?? ""))
-    .slice(0, MAX_ITEMS);
+  existing.items = trimItems(
+    [...added, ...existing.items].sort((a, b) =>
+      (b.publishedAt ?? "").localeCompare(a.publishedAt ?? "")
+    )
+  );
   existing.updatedAt = new Date().toISOString();
   writeFileSync(DATA_PATH, JSON.stringify(existing, null, 2) + "\n");
   writeRss(existing.items);
   console.log(`added ${added.length} items (total ${existing.items.length})`);
+}
+
+// 上限超過時の切り詰め(Issue #41対応、2026-11-08)。
+// 入力は publishedAt 降順ソート済みを前提とする。
+// 要約済みの完成データ(summary があり "(要約取得不可)" でないもの)は
+// 絶対に削除しない。削除対象は古い順の未要約(null)・取得不可プレース
+// ホルダーのみで、削除した項目はすべてログに残す。未要約・取得不可を
+// すべて削除しても上限を超える場合は、完成データを守るため上限超過の
+// まま保持し、警告ログを出す(データ保持方針を上限より優先する)。
+export function trimItems(sortedItems, max = MAX_ITEMS) {
+  if (sortedItems.length <= max) return sortedItems;
+  const isCompleted = (i) => !!i.summary && i.summary !== "(要約取得不可)";
+  const kept = [...sortedItems];
+  for (let idx = kept.length - 1; idx >= 0 && kept.length > max; idx--) {
+    const it = kept[idx];
+    if (isCompleted(it)) continue;
+    console.error(
+      `[trim] removed (未要約/取得不可): ${it.publishedAt ?? "?"} ${it.title} ${it.url}`
+    );
+    kept.splice(idx, 1);
+  }
+  if (kept.length > max) {
+    console.error(
+      `[trim] warning: ${kept.length} items exceed MAX_ITEMS=${max}, but all are summarized; keeping all (Issue #41 policy).`
+    );
+  }
+  return kept;
 }
 
 // 自前のRSSフィードを生成(他ユーザーがFeedly等で購読できるようにする)
