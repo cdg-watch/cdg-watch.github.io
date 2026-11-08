@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T22:03:54.052Z",
+  "updatedAt": "2026-11-08T22:10:30.501Z",
   "items": [
     {
       "id": "5ffec4e5c907e84b",
@@ -10,8 +10,11 @@
       "image": "https://img.webuomo.jp/article/sns/image/0a/0a608934-fe36-467c-940d-35f60aa670c9-1200x629.jpg",
       "feed": "WEB UOMO (Google News経由)",
       "fetchedAt": "2026-11-08T22:03:35.085Z",
-      "summary": null,
-      "tags": []
+      "summary": "UOMOのライトアウター特集で、ジュンヤ ワタナベ マンのカシミヤ100%メルトン調の短丈ブルゾン(22万円)がダウンに代わる軽量防寒アウターとして紹介された。ミリタリーのフライトジャケットとヴィンテージデニムジャケットを掛け合わせたデザインが特徴。",
+      "tags": [
+        "新作"
+      ],
+      "importance": 1
     },
     {
       "id": "aba2e726637314c3",
@@ -15236,10 +15239,12 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-08T22:03:35.366Z",
-      "summary": null,
+      "summary": "コムデギャルソンが2022年春夏メンズコレクションを東京で発表。デザイナー川久保玲が掲げたテーマは「花の存在」で、様々な技法による花柄生地の服が披露された。",
       "tags": [
-        "新作"
-      ]
+        "新作",
+        "ショー/コレクション"
+      ],
+      "importance": 2
     },
     {
       "id": "9a6f273c94dc0e0c",
@@ -15247,11 +15252,14 @@
       "url": "https://www.asahi.com/and/w/article/15805448",
       "publishedAt": "2021-06-13T07:00:00.000Z",
       "publisher": "朝日新聞",
-      "image": null,
+      "image": "https://p.potaufeu.asahi.com/3780-p/picture/29618283/7395ead4294ae6f6a71ce7598dd56663.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-08T22:03:35.366Z",
-      "summary": null,
-      "tags": []
+      "summary": "ノンフィクションライターの石戸諭氏が、自身のコムデギャルソンへの愛着を語るコラム記事。想像を超えるデザインに惹かれ、川久保玲のものづくりの姿勢が自身の仕事にも影響を与えているという。",
+      "tags": [
+        "インタビュー"
+      ],
+      "importance": 1
     },
     {
       "id": "e1c42d4aec33780d",
@@ -15262,8 +15270,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-08T22:03:35.366Z",
-      "summary": null,
-      "tags": []
+      "summary": "新型コロナの影響で2021年秋冬パリ・コレがデジタル配信となる中、コムデギャルソン系列3ブランドが東京で観客を入れたショーを開催し、独自の世界観を発信した。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 2
     },
     {
       "id": "d7581213d330b163",
@@ -15274,10 +15285,12 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-08T22:03:35.366Z",
-      "summary": null,
+      "summary": "コムデギャルソンとジュンヤ・ワタナベが2021年秋冬メンズコレクションを東京でミニショー形式で発表。コムデギャルソンは「ダークルーム」をテーマに、暗い照明の中で浮かび上がる白いテーラードスーツなどを披露した。",
       "tags": [
-        "ショー/コレクション"
-      ]
+        "ショー/コレクション",
+        "新作"
+      ],
+      "importance": 2
     },
     {
       "id": "6253c07374cafe7d",
@@ -15288,8 +15301,11 @@
       "image": "https://lee.hpplus.jp/wp-content/uploads/2020/12/044076C2-19A2-41EE-9805-AE97E0BC7E90-scaled-e1609667998138.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-08T22:03:35.367Z",
-      "summary": null,
-      "tags": []
+      "summary": "ライフスタイル系ブログで、筆者が愛用するコムデギャルソンの白いレザーバッグを使ったコーディネート例を紹介。カジュアルからきれいめまで幅広く合わせられる点を気に入っているという。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "b9554f756a6be018",
@@ -15297,13 +15313,14 @@
       "url": "https://www.asahi.com/articles/DA3S14632948.html",
       "publishedAt": "2020-09-24T07:00:00.000Z",
       "publisher": "朝日新聞",
-      "image": null,
+      "image": "https://www.asahicom.jp/articles/images/AS20200924000147_comm.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-08T22:03:35.366Z",
-      "summary": null,
+      "summary": "コムデギャルソン・川久保玲が朝日新聞のインタビューで、新型コロナの影響で2021年春夏パリ・コレクションへの参加を見送ったことや、怒りを創作の原動力にする姿勢について語った。",
       "tags": [
         "インタビュー"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "686c995a7e20ad25",
@@ -15314,8 +15331,12 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-08T22:03:35.366Z",
-      "summary": null,
-      "tags": []
+      "summary": "コムデギャルソンが2021年春夏メンズコレクションを東京でショー形式で発表。「メタル・アウトロー」をイメージに、スーツやジャケットに様々なメタリック素材を取り入れた。",
+      "tags": [
+        "ショー/コレクション",
+        "新作"
+      ],
+      "importance": 1
     },
     {
       "id": "7fc969f61abba936",
@@ -15323,11 +15344,14 @@
       "url": "https://www.vogue.com/slideshow/michelle-elie-comme-des-garcons-collection-museum-exhibit-frankfurt",
       "publishedAt": "2020-05-05T23:36:57.000Z",
       "publisher": "Vogue",
-      "image": null,
+      "image": "https://assets.vogue.com/photos/5eb1f3c7461ea8bb0decd2f0/16:9/w_1280,c_limit/paris-street-8-8b.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
-      "tags": []
+      "summary": "ストリートスタイルで知られるコムデギャルソン収集家ミシェル・エリーが、ドイツ・フランクフルトの展示会で自身のコレクションから50点を公開した。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "27bf07357af5ead1",
@@ -15338,8 +15362,9 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [],
+      "importance": 1
     },
     {
       "id": "ffff8bef219e8ff0",
@@ -15350,8 +15375,9 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-08T22:03:35.366Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [],
+      "importance": 1
     },
     {
       "id": "ef8f93cd5af504d1",
@@ -15362,11 +15388,12 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-08T22:03:35.366Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション",
         "新作"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "9e5d9fae262011ed",
@@ -15377,10 +15404,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-08T22:03:35.366Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "新作"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "56f77fb04029cfc5",
@@ -15391,8 +15419,12 @@
       "image": "https://media.wwdjapan.com/wp-content/uploads/2016/07/07011737/140122_commedes_001.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-08T22:03:35.367Z",
-      "summary": null,
-      "tags": []
+      "summary": "表参道GYRE内の直営店「トレーディング ミュージアム コムデギャルソン」で、深川詔平デザインのバッグ「ワンラインドローイング」3型を取り扱っていることを紹介する記事。川久保玲がディレクションする同店は美術館のような陳列が特徴で、新人ブランドを東京・パリ・ニューヨーク3店舗で同時展開するのは異例という内容。",
+      "tags": [
+        "店舗",
+        "新作"
+      ],
+      "importance": 1
     },
     {
       "id": "8ea1152f65306e9c",
@@ -15403,8 +15435,11 @@
       "image": "https://mikiki.ismcdn.jp/mwimgs/8/7/-/img_87397653a2d4f18c5d937adc4d3ce34c152487.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-08T22:03:35.366Z",
-      "summary": null,
-      "tags": []
+      "summary": "音楽家オノセイゲンが手がけたコムデギャルソンのショー音楽作品『Comme Des Garçons Vol.1/2』(1988-89年)を2枚組CDとして再発したことを紹介する記事。同時に1997年ショーの未発表音源を収めた『CDG Fragmentation』も発売されたと報じている。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "35c9903a06294a61",
@@ -15415,10 +15450,11 @@
       "image": "https://www.interviewmagazine.com/wp-content/uploads/2019/03/section-7782-_06-PC-Erinn-Hermsen.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
+      "summary": "ファッションジャーナリストが自身とコムデギャルソンとの長年の思い入れを振り返るエッセイ。2008年秋冬のジュンヤ ワタナベのトップスへの愛着から始まり、黒い大胆なデザインの服や2017年春夏の赤いベビードールドレスまで、人生の節目で身につけてきた作品を語っている。",
       "tags": [
-        "インタビュー"
-      ]
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "3cb620ee1ce097c2",
@@ -15429,8 +15465,9 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-08T22:03:35.366Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [],
+      "importance": 1
     },
     {
       "id": "a0825e343af8f89a",
@@ -15441,10 +15478,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-08T22:03:35.366Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "インタビュー"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "4aaa6938f24feb85",
@@ -15455,8 +15493,9 @@
       "image": "https://wwd.com/wp-content/uploads/2018/05/cdgbreakingnews-15.jpg?w=1000&h=563&crop=1",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [],
+      "importance": 1
     },
     {
       "id": "4f0a21618ec7cc78",
@@ -15467,10 +15506,11 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-08T22:03:35.366Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "新作"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "952438b11cc413f3",
@@ -15481,8 +15521,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
-      "tags": []
+      "summary": "Highsnobietyが、コムデギャルソンPLAYの定番Tシャツやパーカー、コンバースとのコラボスニーカーの購入先を海外の複数のセレクトショップ・百貨店を挙げて紹介した2018年のバイヤーズガイド記事。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "d8a46708e9d56628",
@@ -15493,10 +15536,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "新作"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "5bee4f09cc05e544",
@@ -15507,8 +15551,11 @@
       "image": "https://s3.r29static.com/bin/entry/f53/0,0,2000,1050/x,80/1937108/image.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
-      "tags": []
+      "summary": "Refinery29が、コムデギャルソンの2018年秋冬ショーで約20年ぶりに黒人モデルが起用されたことを報じ、16人中4人が黒人モデルで開閉を務めた点を評価しつつ、これまでの多様性の乏しさを指摘する記事。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 2
     },
     {
       "id": "0dbe6299f7088450",
@@ -15519,10 +15566,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "インタビュー"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "fe757866e88b65b5",
@@ -15533,8 +15581,9 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [],
+      "importance": 1
     },
     {
       "id": "48af688b53c2da1a",
@@ -15545,8 +15594,11 @@
       "image": "https://images-prod.dazeddigital.com/999/0-195-999-666/azure/dazed-prod/1200/9/1209984.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
-      "tags": []
+      "summary": "Dazedが2017年、メトロポリタン美術館の川久保玲展に合わせ、コムデギャルソンの歴史やドーバーストリートマーケット、他デザイナーとのコラボ、川久保玲の人物像などをA-Z形式でまとめた入門記事。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "e58c78f62224dac4",
@@ -15557,8 +15609,9 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [],
+      "importance": 1
     },
     {
       "id": "77f9bf99ce4ccacb",
@@ -15569,8 +15622,9 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [],
+      "importance": 1
     },
     {
       "id": "7695462297012e49",
@@ -15581,8 +15635,12 @@
       "image": "https://assets.coveteur.com/wp-content/uploads/2017/05/25313292.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
-      "tags": []
+      "summary": "Coveteurが、ニューヨークのヴィンテージショップResurrection Vintage共同創業者Katy Rodriguezへのインタビューを通じて、コムデギャルソンへの思い入れや同店で扱う約100点のヴィンテージ作品について紹介した記事。",
+      "tags": [
+        "インタビュー",
+        "二次流通"
+      ],
+      "importance": 1
     },
     {
       "id": "5494b39e80500915",
@@ -15593,8 +15651,9 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [],
+      "importance": 1
     },
     {
       "id": "31da2ee93e6c83ff",
