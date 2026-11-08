@@ -96,4 +96,6 @@ GitHub Pages で `index.html` が公開され、`data/items.json` を表示す�
   Issueコメントで理由を説明。
 - 画像はリポジトリに保存しない(著作権対策。リンクのみ)。
   例外: `brand/` は自作のロゴ・SNS用素材置き場なので保存してよい。
-- `data/items.json` は最大1000件。`scripts/collect.js` が自動で切り詰める。
+- `data/items.json` は上限3000件(安全弁)。`scripts/collect.js` の `trimItems()` が
+  超過時に古い順で切り詰めるが、要約済みの完成データは削除対象にしない
+  (Issue #41対応・2026-11-08、データ保持方針を上限より優先)。
