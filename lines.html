@@ -1,0 +1,272 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ライン一覧と見分け方 — CDG Watch</title>
+<meta name="description" content="コムデギャルソンのライン一覧と見分け方。メインライン、HOMME PLUS、PLAY、BLACK、JUNYA WATANABE MANなど、20を超えるラインの役割と価格帯、タグでの判別方法を整理。">
+<meta property="og:title" content="コムデギャルソン ライン一覧と見分け方 — CDG Watch">
+<meta property="og:description" content="20を超えるコムデギャルソンのラインの役割・価格帯・見分け方を整理した非公式ガイド">
+<meta property="og:image" content="https://cdg-watch.github.io/brand/og-card.png">
+<meta property="og:url" content="https://cdg-watch.github.io/lines.html">
+<meta property="og:type" content="article">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@cdg_watch">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;700&display=swap">
+<script data-goatcounter="https://cdg-watch.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+<style>
+  /* guide.html と同じ editorial monochrome */
+  :root {
+    color-scheme: light dark;
+    --bg: #ffffff; --fg: #0a0a0a; --muted: #8a8a8a;
+    --card: #ffffff; --line: #111111; --hair: #e4e4e4; --accent: #e10029;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #0a0a0a; --fg: #f2f2f2; --muted: #7d7d7d;
+            --card: #0a0a0a; --line: #f2f2f2; --hair: #242424; --accent: #ff2d4f; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg);
+         font-family: "Helvetica Neue", "Inter", "Hiragino Kaku Gothic ProN",
+                      "Hiragino Sans", "Noto Sans JP", Arial, sans-serif;
+         -webkit-font-smoothing: antialiased; }
+  header { padding: 2.5rem 1.5rem 0; max-width: 780px; margin: 0 auto; }
+  h1 { margin: 0; font-size: clamp(2rem, 7vw, 3.2rem); font-weight: 400;
+       letter-spacing: .18em; text-transform: uppercase; line-height: 1; }
+  h1 span { color: var(--accent); }
+  h1 a { color: inherit; text-decoration: none; }
+  .meta { color: var(--muted); font-size: .72rem; margin-top: .9rem;
+          letter-spacing: .08em; text-transform: uppercase; }
+  .links { font-size: .72rem; margin-top: .5rem; line-height: 2;
+           letter-spacing: .04em; text-transform: uppercase; }
+  .links a { color: var(--fg); text-decoration: none; margin-right: 1rem;
+             border-bottom: 1px solid var(--accent); padding-bottom: 1px; }
+  .links a:hover { color: var(--accent); }
+
+  main { max-width: 780px; margin: 0 auto; padding: 0 1.5rem 5rem; }
+  .lede { margin-top: 2.2rem; padding-top: 1.4rem; border-top: 1px solid var(--line);
+          font-size: .95rem; line-height: 2; }
+  .lede p { margin: 0 0 1em; }
+
+  .group { margin-top: 3.4rem; font-size: .78rem; font-weight: 700;
+           letter-spacing: .14em; text-transform: uppercase; color: var(--muted); }
+
+  .item { margin-top: 2.2rem; }
+  .item h2 { font-size: 1.15rem; font-weight: 700; letter-spacing: .04em; margin: 0;
+             padding-bottom: .55rem; border-bottom: 2px solid var(--fg); }
+  .item h2 .en { font-weight: 400; color: var(--muted); font-size: .78rem;
+                 letter-spacing: .1em; text-transform: uppercase; margin-left: .7rem; }
+  .item .price { color: var(--muted); font-size: .72rem; letter-spacing: .08em;
+                 text-transform: uppercase; margin-top: .8rem; }
+  .item p { font-size: .92rem; line-height: 2; margin: .8rem 0 0; }
+
+  .buy { display: flex; align-items: center; justify-content: center; gap: .5rem;
+         margin-top: 1.2rem; padding: .8rem 1rem; border: 1px solid var(--fg);
+         color: var(--fg); text-decoration: none; font-size: .8rem;
+         letter-spacing: .08em; text-transform: uppercase; font-weight: 600; }
+  .buy:hover { background: var(--fg); color: var(--bg); }
+  .buy .pr { font-size: .6rem; border: 1px solid currentColor; border-radius: 2px;
+             padding: 0 .3rem; letter-spacing: .05em; opacity: .7; }
+
+  .note { margin-top: 3rem; padding: 1.1rem 1.2rem; border: 1px solid var(--hair);
+          font-size: .8rem; line-height: 1.9; color: var(--muted); }
+
+  footer { max-width: 780px; margin: 3rem auto 0; padding: 2rem 1.5rem 3.5rem;
+           border-top: 1px solid var(--line); }
+  footer p { color: var(--muted); font-size: .68rem; line-height: 1.9; margin: 0;
+             letter-spacing: .02em; }
+</style>
+</head>
+<body>
+<header>
+  <h1><a href="./">CDG <span>Watch</span></a></h1>
+  <div class="meta">ライン一覧と見分け方 — コムデギャルソンの全体像</div>
+  <div class="links">
+    <a href="./">ニュース一覧に戻る</a>
+    <a href="./guide.html">定番アイテムガイド</a>
+    <a href="https://x.com/cdg_watch" target="_blank" rel="noopener">X: @cdg_watch</a>
+  </div>
+</header>
+<main>
+  <div class="lede">
+    <p>コムデギャルソンには20を超えるラインがあり、同じ「ギャルソン」でも
+    価格帯も売り場もまったく違う。ニュースで名前を見かけたとき、それがどの
+    ラインの話なのかが分かると情報の読み解き方が変わる。ここでは現行の
+    主要ラインを役割ごとに整理し、最後に実物での見分け方もまとめた。</p>
+    <p>いちばん確実な見分け方は、服のブランドタグと品質表示タグにライン名が
+    そのまま明記されていること。中古やセレクトショップで迷ったら、まず
+    タグの表記を確認するのが基本になる。</p>
+  </div>
+
+  <div class="group">コレクションライン — 川久保玲のメインライン群</div>
+
+  <section class="item">
+    <h2>COMME des GARÇONS<span class="en">Main Line / Ladies</span></h2>
+    <div class="price">レディースの本丸 — コレクション価格帯</div>
+    <p>1981年のパリデビュー以来の中心ライン。毎シーズンのコレクションで
+    ブランドの方向そのものを提示する。店頭中心の販売で、オンラインには
+    ほぼ出回らない。ニュースで「コムデギャルソンのショー」と言えば
+    基本的にこのラインと HOMME PLUS を指す。</p>
+  </section>
+
+  <section class="item">
+    <h2>COMME des GARÇONS HOMME PLUS<span class="en">Main Line / Men's</span></h2>
+    <div class="price">メンズの本丸 — コレクション価格帯</div>
+    <p>メンズのコレクションライン。テーマ性の強いショーピースから、
+    異素材の組み合わせや変形シルエットまで、実験的な提案はここから出る。
+    スニーカーコラボ(Nike、Salomon等)の受け皿になることも多い。</p>
+    <a class="buy" data-q="コムデギャルソン オムプリュス" target="_blank" rel="noopener sponsored nofollow">
+      楽天市場で HOMME PLUS を探す →<span class="pr">PR</span></a>
+  </section>
+
+  <section class="item">
+    <h2>COMME des GARÇONS HOMME<span class="en">Men's Standard</span></h2>
+    <div class="price">メンズの日常着ライン — PLUSより下の価格帯</div>
+    <p>1978年開始の、最も古いメンズライン。PLUS のようなショー性はなく、
+    シャツ、ニット、ジャケットといった日常着を丁寧に作る位置づけ。
+    「ギャルソンを普段着として着たい」場合の実質的な受け皿。</p>
+  </section>
+
+  <section class="item">
+    <h2>COMME des GARÇONS HOMME DEUX<span class="en">Men's Tailored</span></h2>
+    <div class="price">スーツ中心 — テーラードのライン</div>
+    <p>2010年開始。スーツやセットアップを軸にした、HOMME よりも
+    フォーマル寄りのメンズライン。縫製は国内の専業工場が担い、
+    既製服としての完成度で選ばれる。</p>
+  </section>
+
+  <section class="item">
+    <h2>COMME des GARÇONS SHIRT<span class="en">Shirt-centered</span></h2>
+    <div class="price">シャツ中心 — フランス生産</div>
+    <p>その名の通りシャツを軸にしたラインで、生産はフランス。
+    定番の FOREVER シリーズは
+    <a href="./guide.html" style="color:inherit">定番アイテムガイド</a>
+    でも紹介している。シャツ以外のアイテムも、シャツ地を使うなど
+    「シャツの拡張」として設計されている。</p>
+  </section>
+
+  <section class="item">
+    <h2>tricot COMME des GARÇONS<span class="en">Knit-centered / Ladies</span></h2>
+    <div class="price">ニット中心のレディース</div>
+    <p>ニットウェアを中心にしたレディースライン。メインラインより
+    柔らかく日常に寄せた設計で、丸みのあるシルエットが特徴。
+    後述の tao のデザイナー栗原たおはこのラインの出身。</p>
+  </section>
+
+  <section class="item">
+    <h2>COMME des GARÇONS COMME des GARÇONS<span class="en">通称 コムコム</span></h2>
+    <div class="price">レディースのセカンドライン的ポジション</div>
+    <p>名前を2回重ねたラインで、通称「コムコム」。メインラインの要素を
+    日常着に落とし込む位置づけで、かつての robe de chambre も
+    ここに統合された。ポルカドットや丸襟など、比較的わかりやすい
+    ギャルソンらしさが残る。</p>
+  </section>
+
+  <div class="group">デザイナーズライン — 傘下デザイナーの名前を冠したライン</div>
+
+  <section class="item">
+    <h2>JUNYA WATANABE MAN<span class="en">渡辺淳弥 / Men's</span></h2>
+    <div class="price">再構築とワークウェア — コレクション価格帯</div>
+    <p>渡辺淳弥によるメンズライン。デニムやミリタリー、ワークウェアを
+    解体して再構築するアプローチで知られ、Levi's や Carhartt、
+    New Balance 等とのコラボもこのラインから出る。レディースは
+    JUNYA WATANABE の名前で展開される。</p>
+    <a class="buy" data-q="ジュンヤワタナベマン" target="_blank" rel="noopener sponsored nofollow">
+      楽天市場で JUNYA WATANABE MAN を探す →<span class="pr">PR</span></a>
+  </section>
+
+  <section class="item">
+    <h2>noir kei ninomiya<span class="en">二宮啓</span></h2>
+    <div class="price">黒と構築 — レディース</div>
+    <p>二宮啓のライン。黒を基調に、接着や編みなど縫製に依らない
+    構築方法を探る実験性の高いレディース。パリでショーを行う
+    コレクションラインのひとつ。</p>
+  </section>
+
+  <section class="item">
+    <h2>tao<span class="en">栗原たお</span></h2>
+    <div class="price">2021年開始 — レディース</div>
+    <p>tricot のデザイナーだった栗原たおが2021年に開始したライン。
+    白や生成りを基調とした、手仕事感のある素材使いが特徴。
+    コムデギャルソンのラインとしては最も新しい世代にあたる。</p>
+  </section>
+
+  <div class="group">カジュアル・プロダクトライン — 入口になるライン群</div>
+
+  <section class="item">
+    <h2>PLAY COMME des GARÇONS<span class="en">ハートロゴ</span></h2>
+    <div class="price">最も手に取りやすい価格帯</div>
+    <p>2002年開始。フィリップ・パゴウスキーが描いた「目のあるハート」が
+    目印のカジュアルライン。コレクションラインとは別軸の展開で、
+    オンラインでも新品が買える数少ないライン。ライン判別は最も簡単で、
+    ハートロゴが付けば PLAY と考えてよい。</p>
+    <a class="buy" data-q="コムデギャルソン PLAY Tシャツ" target="_blank" rel="noopener sponsored nofollow">
+      楽天市場で PLAY を探す →<span class="pr">PR</span></a>
+  </section>
+
+  <section class="item">
+    <h2>BLACK COMME des GARÇONS<span class="en">黒のライン</span></h2>
+    <div class="price">黒基調 — 抑えめの価格帯</div>
+    <p>2008年に期間限定企画として始まり、そのまま定着した黒中心のライン。
+    メインラインの要素を黒とベーシックな形に寄せ、価格帯も抑えめ。
+    展開は不定期で、扱う店舗も限られる。</p>
+    <a class="buy" data-q="ブラックコムデギャルソン" target="_blank" rel="noopener sponsored nofollow">
+      楽天市場で BLACK を探す →<span class="pr">PR</span></a>
+  </section>
+
+  <section class="item">
+    <h2>COMME des GARÇONS GIRL<span class="en">ガーリーなレディース</span></h2>
+    <div class="price">2015年開始 — レディース</div>
+    <p>フリルやリボン、ドットなど「ガーリー」な要素を前面に出した
+    レディースライン。メインラインとは方向の異なる、わかりやすい
+    可愛さに寄せた設計。</p>
+  </section>
+
+  <section class="item">
+    <h2>CDG<span class="en">ロゴライン</span></h2>
+    <div class="price">2018年開始 — ロゴアイテム中心</div>
+    <p>「CDG」のロゴを大きく使ったストリート寄りのライン。
+    パーカーやキャップ等のロゴアイテムが中心で、専用店舗と
+    オンラインで展開される。コレクションラインの服とは別物として
+    扱われることが多い。</p>
+  </section>
+
+  <section class="item">
+    <h2>Wallet / Parfums<span class="en">プロダクトライン</span></h2>
+    <div class="price">財布と香水 — 服以外の入口</div>
+    <p>服のラインではないが、ブランドの入口として無視できない2つ。
+    財布は Wallet COMME des GARÇONS、香水は COMME des GARÇONS
+    PARFUMS の名前で展開され、どちらも
+    <a href="./guide.html" style="color:inherit">定番アイテムガイド</a>
+    で詳しく紹介している。</p>
+  </section>
+
+  <div class="note">
+    終了したラインもある。丸龍文人の GANRYU(2007〜2017年)や、
+    eYe JUNYA WATANABE MAN(コラボ専門ライン)のように、現在は
+    中古市場でのみ出会えるラインも少なくない。価格はラインと
+    アイテムで大きく変わるため目安として捉え、正確な情報は各リンク先や
+    店頭で確認してほしい。最新の入荷・コラボ情報は
+    <a href="./" style="color:inherit">CDG Watch のニュース一覧</a>で毎日追える。
+  </div>
+</main>
+<footer>
+  <p>個人が運営する非公式のファンサイトです。COMME des GARÇONS 公式とは一切関係ありません。
+  本ページは楽天アフィリエイト等のアフィリエイトプログラムを利用しており、「PR」表記のある
+  リンクを経由して商品が購入された場合、運営者が報酬を得ることがあります。
+  掲載内容は公開情報に基づく執筆時点のもので、正確な情報は必ず各リンク先および
+  公式サイトでご確認ください。</p>
+</footer>
+<script>
+// 楽天アフィリエイトリンク(guide.html と同じ測定ID)。data-q の検索語からURLを組み立てる
+const AFF_ID = "558d8f1f.1e88ee8e";
+document.querySelectorAll(".buy[data-q]").forEach(a => {
+  const url = "https://search.rakuten.co.jp/search/mall/" + encodeURIComponent(a.dataset.q) + "/";
+  a.href = "https://hb.afl.rakuten.co.jp/hgc/" + AFF_ID + "/?pc=" +
+    encodeURIComponent(url) + "&m=" + encodeURIComponent(url);
+});
+</script>
+</body>
+</html>
