@@ -61,14 +61,38 @@ function parseDigest(md) {
       rest = rest.slice(outerStaleM[0].length);
     }
     const titleM = rest.match(/^\*\*(⚠古\s*)?(.+?)\*\*\s*(?:—\s*(.*))?$/);
-    if (!titleM) continue;
+    // 見出し自体が複数行に折り返り、1行目で「**」が閉じていない場合は次の行以降も
+    // 見出し候補として連結してから再マッチを試みる(directive #43: 2026-11-09分の
+    // digest先頭ブロックがこの形で、候補から脱落して⚠古の2018年記事が先頭候補に
+    // なっていた)。本文側の「URLに当たるまで連結」方式と同様のアプローチ。
+    // 連結するのは「**」が1つしかない行(開いたまま)の場合のみで、最大2行まで。
+    // 空行・次の項目・引用行に当たったら連結をやめる。
+    let consumed = 0;
+    let titleMatch = titleM;
+    while (
+      !titleMatch &&
+      consumed < 2 &&
+      (rest.match(/\*\*/g) || []).length < 2 &&
+      i + 1 + consumed < lines.length
+    ) {
+      const next = lines[i + 1 + consumed].trim();
+      if (!next || next.startsWith("-") || next.startsWith(">")) break;
+      const cjkJoin =
+        /[\u3040-\u30ff\u3400-\u9fff]$/.test(rest) &&
+        /^[\u3040-\u30ff\u3400-\u9fff]/.test(next);
+      rest += cjkJoin ? next : ` ${next}`;
+      consumed++;
+      titleMatch = rest.match(/^\*\*(⚠古\s*)?(.+?)\*\*\s*(?:—\s*(.*))?$/);
+    }
+    if (!titleMatch) continue;
     // 表示用titleは常に素の見出し(⚠古プレフィックスなし)。鮮度判定はstaleフラグのみで持つ
     // (directive #36追加対応: 旧実装はtitleにもプレフィックスが残り、全候補⚠古の週に
     // 投稿叩き台〈案A本文〉へ「⚠古」の文字列がそのまま混入していた)
-    if (titleM[1]) stale = true;
-    const title = titleM[2].trim();
+    if (titleMatch[1]) stale = true;
+    const title = titleMatch[2].trim();
     const bodyParts = [];
-    if (titleM[3]) bodyParts.push(titleM[3].trim());
+    if (titleMatch[3]) bodyParts.push(titleMatch[3].trim());
+    i += consumed; // 見出しに連結した行を飛ばす(本文の走査はその次行から)
     let url = null;
 
     // タイトル行の本文末尾にインラインリンクがあれば現行形式としてそのまま拾う
