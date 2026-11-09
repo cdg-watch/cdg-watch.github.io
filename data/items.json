@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-08T22:10:30.501Z",
+  "updatedAt": "2026-11-09T22:03:49.558Z",
   "items": [
+    {
+      "id": "3ba98c6b4c70d2e7",
+      "title": "CDG × ステューシーの最新コラボが渋谷PARCOで先行リリース！注目の全12型を前回のコラボと併せてチェックしよう - SNKRDUNK",
+      "url": "https://snkrdunk.com/articles/33703/",
+      "publishedAt": "2026-11-09T10:50:40.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/bff43713-1572-4324-ba2a-fa62ab9e61d5.webp",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-11-09T22:03:41.967Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
+    },
+    {
+      "id": "23ca246ce5a7e2d0",
+      "title": "最 安値ファッション - コムデギャルソン ラウンドファスナー 長財布シルバー W87491507 - Pampa Azul",
+      "url": "http://pampazul.gob.ar/merchandises-search-detail-W8768577819.htm",
+      "publishedAt": "2026-11-09T05:08:52.000Z",
+      "publisher": "Pampa Azul",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-11-09T22:03:41.967Z",
+      "summary": null,
+      "tags": []
+    },
+    {
+      "id": "acc3b9bab308896a",
+      "title": "CDG × Stussy 、Supreme 26FW Week12、Palace \"Winter 26\" Week6、HUMAN MADE etc...先週末買ったものをコレクションに登録して相場などをリアルタイムでチェックしよう！ - SNKRDUNK",
+      "url": "https://snkrdunk.com/articles/33701/",
+      "publishedAt": "2026-11-09T03:20:30.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/PL-FW26-WIN-WEEK6-019-2.webp",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-11-09T22:03:41.967Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
+    },
     {
       "id": "5ffec4e5c907e84b",
       "title": "【コム デ ギャルソンのダウンじゃないほう】カシミヤメルトンで上品なジュンヤ ワタナベ マンの短丈ブルゾン【軽くてあたたかい、大人のライトアウターBEST30｜JUNYA WATANABE MAN】 - UOMO",
@@ -51,6 +91,20 @@
       ],
       "importance": 2,
       "cluster": "cdg-shibuya-parco-popup-2026"
+    },
+    {
+      "id": "9b2607ea1c427cd2",
+      "title": "COMME des GARCONS CDG x Stussy Cap \"Black\" - SNKRDUNK",
+      "url": "https://snkrdunk.com/en/streetwears/938030",
+      "publishedAt": "2026-11-06T08:00:00.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGCDG-0113.webp",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-09T22:03:42.255Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
     },
     {
       "id": "f22a237d90b712e3",
@@ -15457,6 +15511,21 @@
       "importance": 1
     },
     {
+      "id": "64476d1503774145",
+      "title": "【国内6月3日発売予定】 コムデギャルソン × ナイキ エア ヴェイパーマックス フライニット 全2色 - スニーカーウォーズ",
+      "url": "https://sneakerwars.jp/items/view/6302",
+      "publishedAt": "2019-03-03T19:56:40.000Z",
+      "publisher": "スニーカーウォーズ",
+      "image": "https://img.sneakerwars.jp/images/6302/larges/comme-des-garcons-nikelab-vapormax-release-1.jpg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-11-09T22:03:41.967Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "新作"
+      ]
+    },
+    {
       "id": "3cb620ee1ce097c2",
       "title": "ファッションの変化とコムデギャルソンの新たな“新しさ” - 朝日新聞",
       "url": "https://www.asahi.com/and/w/article/15787956",
@@ -15556,6 +15625,20 @@
         "ショー/コレクション"
       ],
       "importance": 2
+    },
+    {
+      "id": "b53ae2cef7ce1b92",
+      "title": "Comme des Garçons Homme Plus News, Collections, Fashion Shows, Fashion Week Reviews, and More - Vogue",
+      "url": "https://www.vogue.com/fashion-shows/designer/comme-des-garcons-homme-plus",
+      "publishedAt": "2017-09-07T07:44:43.000Z",
+      "publisher": "Vogue",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-09T22:03:42.256Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
     },
     {
       "id": "0dbe6299f7088450",
