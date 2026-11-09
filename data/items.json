@@ -10,36 +10,14 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/bff43713-1572-4324-ba2a-fa62ab9e61d5.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-09T22:03:41.967Z",
-      "summary": null,
+      "summary": "コムデギャルソンとステューシーのコラボ第5弾が11月7日、渋谷PARCOのポップアップで先行発売。SSリンクやサーフマンロゴをCDG流にアレンジしたコーチジャケットやフーディーなど全12型。",
       "tags": [
-        "二次流通"
-      ]
-    },
-    {
-      "id": "23ca246ce5a7e2d0",
-      "title": "最 安値ファッション - コムデギャルソン ラウンドファスナー 長財布シルバー W87491507 - Pampa Azul",
-      "url": "http://pampazul.gob.ar/merchandises-search-detail-W8768577819.htm",
-      "publishedAt": "2026-11-09T05:08:52.000Z",
-      "publisher": "Pampa Azul",
-      "image": null,
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-11-09T22:03:41.967Z",
-      "summary": null,
-      "tags": []
-    },
-    {
-      "id": "acc3b9bab308896a",
-      "title": "CDG × Stussy 、Supreme 26FW Week12、Palace \"Winter 26\" Week6、HUMAN MADE etc...先週末買ったものをコレクションに登録して相場などをリアルタイムでチェックしよう！ - SNKRDUNK",
-      "url": "https://snkrdunk.com/articles/33701/",
-      "publishedAt": "2026-11-09T03:20:30.000Z",
-      "publisher": "SNKRDUNK",
-      "image": "https://cdn.snkrdunk.com/upload_bg_removed/PL-FW26-WIN-WEEK6-019-2.webp",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-11-09T22:03:41.967Z",
-      "summary": null,
-      "tags": [
-        "二次流通"
-      ]
+        "コラボ",
+        "新作",
+        "店舗"
+      ],
+      "cluster": "cdg-shibuya-parco-popup-2026",
+      "importance": 2
     },
     {
       "id": "5ffec4e5c907e84b",
@@ -101,10 +79,12 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGCDG-0113.webp",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-09T22:03:42.255Z",
-      "summary": null,
+      "summary": "CDG×ステューシーのコラボ「ブラック」キャップが、マーケットプレイスSNKRDUNK上に個別商品として出品。発売日・価格の記載はなし。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "cluster": "cdg-shibuya-parco-popup-2026",
+      "importance": 1
     },
     {
       "id": "f22a237d90b712e3",
@@ -15519,11 +15499,12 @@
       "image": "https://img.sneakerwars.jp/images/6302/larges/comme-des-garcons-nikelab-vapormax-release-1.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-09T22:03:41.967Z",
-      "summary": null,
+      "summary": "コムデギャルソン×ナイキ「エア ヴェイパーマックス フライニット」がブラック・ホワイトの2色で発売。直営店・Dover Street Market Ginza・伊勢丹新宿で抽選販売された(2017年当時の情報)。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "3cb620ee1ce097c2",
@@ -15635,7 +15616,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-09T22:03:42.256Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
       ]
@@ -15747,7 +15728,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -15759,7 +15740,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "インタビュー"
       ]
@@ -15773,8 +15754,11 @@
       "image": "https://assets.coveteur.com/wp-content/uploads/2017/04/25348411.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
-      "tags": []
+      "summary": "2017年メットガラに合わせ、川久保玲の仕事を振り返るコムデギャルソンの名品コレクションを51点の写真で紹介する特集記事。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "9ff97406b6a4488b",
@@ -15785,7 +15769,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
       ]
@@ -15799,7 +15783,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -15811,7 +15795,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
       ]
@@ -15825,22 +15809,10 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-08T22:03:35.366Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "新作"
       ]
-    },
-    {
-      "id": "466c21bfb15ef50b",
-      "title": "街中とは思えない静かな異空間！コムデギャルソンもあるビルの天空モーニング「コトリカフェ」【京都市役所前】 - Kyotopi [キョウトピ]",
-      "url": "https://kyotopi.jp/articles/TYLe7",
-      "publishedAt": "2017-01-15T08:00:00.000Z",
-      "publisher": "Kyotopi [キョウトピ]",
-      "image": "https://cdn.clipkit.co/tenants/7986/articles/images/000/003/371/large/9ddfb07d-e822-48de-b1f1-96f1f538a8ad.jpg?1484440170",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-11-08T22:03:35.367Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "2121169b3b4e5a71",
@@ -15851,7 +15823,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "再販/セール"
       ]
@@ -15865,7 +15837,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-08T22:03:35.367Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -15877,7 +15849,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-08T22:03:35.367Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -15889,8 +15861,11 @@
       "image": "https://images-prod.anothermag.com/730/0-0-730-486/azure/another-prod/350/0/350839.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
-      "tags": []
+      "summary": "川久保玲によるコムデギャルソン1997年春夏「でこぼこ」コレクションを振り返る記事。パッドで体型を歪ませ80年代的な美の基準を風刺し、振付家マース・カニンガムとも協働した。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 1
     },
     {
       "id": "15db62e09b96f459",
@@ -15901,8 +15876,11 @@
       "image": "https://images-prod.anothermag.com/974/18-350-974-650/azure/another-prod/340/8/348108.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
-      "tags": []
+      "summary": "ヘアスタイリストのジュリアン・ディスが、呪術をテーマにしたコムデギャルソン2016年春夏ショーのためのスケッチブックを公開し、川久保玲との長年の協働について語るインタビュー記事。",
+      "tags": [
+        "インタビュー"
+      ],
+      "importance": 1
     },
     {
       "id": "0b408734840ec1a4",
@@ -15913,7 +15891,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
       ]
@@ -15927,7 +15905,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
       ]
@@ -15941,7 +15919,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
       ]
@@ -15955,7 +15933,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-08T22:03:35.367Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -15967,7 +15945,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-08T22:03:35.366Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -15979,8 +15957,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
-      "tags": []
+      "summary": "2002年に始まったコムデギャルソンの「PLAY」ラインの歴史を振り返るガイド記事。フィリップ・パゴウスキーによるハート目ロゴの由来や、2012年発売の香水3種についても紹介。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "56dee120632f8b27",
@@ -15991,7 +15972,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-08T22:03:35.672Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
       ]
@@ -16005,7 +15986,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-08T22:03:35.367Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     }
   ]
