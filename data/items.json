@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T22:03:43.957Z",
+  "updatedAt": "2026-11-10T22:07:29.235Z",
   "items": [
     {
       "id": "42b7a388e9906c73",
@@ -10,20 +10,11 @@
       "image": "https://img.webuomo.jp/article/sns/image/a6/a6267aa6-fb8a-4963-a733-9be33832ea76-1200x629.jpg",
       "feed": "WEB UOMO (Google News経由)",
       "fetchedAt": "2026-11-10T22:03:34.914Z",
-      "summary": null,
-      "tags": []
-    },
-    {
-      "id": "4b6261e7ada325c0",
-      "title": "【Gallery】【おしゃれな大人が愛用「黒ボトム」をレビュー】コム デ ギャルソン・オム プリュスのスラックス、リーバイス505... 買ってよかった私物4選 - UOMO",
-      "url": "https://www.webuomo.jp/fashion/matome/3TO5pw/gallery/",
-      "publishedAt": "2026-11-10T11:00:00.000Z",
-      "publisher": "UOMO",
-      "image": "https://img.webuomo.jp/article/sns/image/a6/a6267aa6-fb8a-4963-a733-9be33832ea76-1200x629.jpg",
-      "feed": "WEB UOMO (Google News経由)",
-      "fetchedAt": "2026-11-10T22:03:34.914Z",
-      "summary": null,
-      "tags": []
+      "summary": "「黒ボトム」私物レビュー記事の1本として、スタイリストが約4年愛用するコム デ ギャルソン・オム プリュスの黒スラックスが紹介されている。元々愛用していた定番モデルは廃盤になったという逸話も記載。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "37aa6c3667e15c51",
@@ -34,10 +25,11 @@
       "image": "https://cdn.snkrdunk.com/apparel_used_listings/b33b2594-19de-4d3c-8e31-50678939bc7c/8362312.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-10T22:03:35.255Z",
-      "summary": null,
+      "summary": "SNKRDUNKにコムデギャルソンのルイスレザー製レザージャケット(サイズ38)の中古が45万円で出品、状態は「B(目立った傷や汚れなし)」と記載されている。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "3ba98c6b4c70d2e7",
@@ -66,10 +58,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/PL-FW26-WIN-WEEK6-019-2.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-10T22:03:35.256Z",
-      "summary": null,
+      "summary": "SNKRDUNKの週末リリース紹介記事で、CDG × StussyのコラボをSupreme・Palace・HUMAN MADEなどと並べて紹介し、購入品をアプリに登録して相場を確認するよう案内している。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "5ffec4e5c907e84b",
@@ -15595,7 +15588,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-10T22:03:35.708Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "新作"
       ]
@@ -15875,7 +15868,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-10T22:03:35.708Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
       ]
@@ -15903,22 +15896,10 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-10T22:03:35.708Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
       ]
-    },
-    {
-      "id": "466c21bfb15ef50b",
-      "title": "街中とは思えない静かな異空間！コムデギャルソンもあるビルの天空モーニング「コトリカフェ」【京都市役所前】 - Kyotopi [キョウトピ]",
-      "url": "https://kyotopi.jp/articles/TYLe7",
-      "publishedAt": "2017-01-15T08:00:00.000Z",
-      "publisher": "Kyotopi [キョウトピ]",
-      "image": "https://cdn.clipkit.co/tenants/7986/articles/images/000/003/371/large/9ddfb07d-e822-48de-b1f1-96f1f538a8ad.jpg?1484440170",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-11-10T22:03:35.256Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "2121169b3b4e5a71",
@@ -16063,7 +16044,7 @@
       "image": "https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/app/icons/icon-512x512.png",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-10T22:03:35.708Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
