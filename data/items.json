@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T22:03:33.800Z",
+  "updatedAt": "2026-11-11T22:05:21.007Z",
   "items": [
     {
       "id": "4b6261e7ada325c0",
@@ -10,8 +10,11 @@
       "image": "https://img.webuomo.jp/article/sns/image/a6/a6267aa6-fb8a-4963-a733-9be33832ea76-1200x629.jpg",
       "feed": "WEB UOMO (Google News経由)",
       "fetchedAt": "2026-11-11T22:03:23.519Z",
-      "summary": null,
-      "tags": []
+      "summary": "おしゃれな大人が愛用する「黒ボトム」を紹介するUOMOのまとめ記事で、コム デ ギャルソン・オム プリュスのスラックスが「買ってよかった私物」の一つとして取り上げられている。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "42b7a388e9906c73",
@@ -15045,11 +15048,12 @@
       "image": "https://img.sneakerwars.jp/images/18040/larges/comme-des-garons-homme-new-balance-bb550-2colors.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-11T22:03:23.839Z",
-      "summary": null,
+      "summary": "コム デ ギャルソン オムとニューバランスのコラボスニーカー「BB550」(ブラック/ホワイト全2色、税込28,600円)が2022年11月18日に国内発売。ZOZOTOWNやMark、渋谷PARCO店頭抽選などで販売された。",
       "tags": [
-        "コラボ",
-        "新作"
-      ]
+        "コラボ"
+      ],
+      "importance": 1,
+      "cluster": "cdg-homme-nb-bb550"
     },
     {
       "id": "8a6ddd1d74b972be",
@@ -15376,7 +15380,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-11T22:03:24.229Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "インタビュー"
       ]
@@ -15629,8 +15633,11 @@
       "image": "https://static.fashionpost.jp/article/wp-content/uploads/2015/09/09181311/201811MUGIEC.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-11T22:03:23.839Z",
-      "summary": null,
-      "tags": []
+      "summary": "女優・門脇麦がBLACK COMME des GARÇONSのアイテムを着用して紹介する連載の第4回。白シャツとガウチョパンツを合わせたリラックススタイルを提案している。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "2b8c1f366e30ec83",
@@ -15683,8 +15690,10 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-11T22:03:24.229Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "店舗"
+      ]
     },
     {
       "id": "952438b11cc413f3",
@@ -15965,18 +15974,6 @@
       "tags": [
         "ショー/コレクション"
       ]
-    },
-    {
-      "id": "466c21bfb15ef50b",
-      "title": "街中とは思えない静かな異空間！コムデギャルソンもあるビルの天空モーニング「コトリカフェ」【京都市役所前】 - Kyotopi [キョウトピ]",
-      "url": "https://kyotopi.jp/articles/TYLe7",
-      "publishedAt": "2017-01-15T08:00:00.000Z",
-      "publisher": "Kyotopi [キョウトピ]",
-      "image": "https://cdn.clipkit.co/tenants/7986/articles/images/000/003/371/large/9ddfb07d-e822-48de-b1f1-96f1f538a8ad.jpg?1484440170",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-11-11T22:03:23.839Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "2121169b3b4e5a71",
