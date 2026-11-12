@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T22:05:21.007Z",
+  "updatedAt": "2026-11-12T22:03:51.111Z",
   "items": [
     {
       "id": "4b6261e7ada325c0",
@@ -14216,6 +14216,18 @@
       "cluster": "junya-watanabe-man-25aw"
     },
     {
+      "id": "049002f761203cb2",
+      "title": "Where to buy Comme Des Garçons, in-store and online - RUSSH",
+      "url": "https://www.russh.com/where-to-buy-comme-des-garcons/",
+      "publishedAt": "2024-12-11T08:00:00.000Z",
+      "publisher": "RUSSH",
+      "image": "https://www.russh.com/wp-content/uploads/2024/12/where-to-buy-comme-des-garcons.jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-12T22:03:48.173Z",
+      "summary": null,
+      "tags": []
+    },
+    {
       "id": "97b070a35e4261a3",
       "title": "Seven Comme Des Garçons Devotees on the Brand’s “Anti-Perfume” Scents - AnOther Magazine",
       "url": "https://www.anothermag.com/fashion-beauty/16066/comme-des-garcons-scents-interview-30th-anniversary",
@@ -15326,6 +15338,20 @@
       "importance": 2
     },
     {
+      "id": "f90ef7048cb3834b",
+      "title": "Comme des Garçons Spring 2022 Ready-to-Wear Collection - Vogue",
+      "url": "https://www.vogue.com/fashion-shows/spring-2022-ready-to-wear/comme-des-garcons",
+      "publishedAt": "2021-10-04T07:00:00.000Z",
+      "publisher": "Vogue",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-12T22:03:48.173Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
+    },
+    {
       "id": "8a2f1f62e2996942",
       "title": "Comme des Garçons RTW Spring 2022 - WWD",
       "url": "https://wwd.com/runway/spring-2022/paris/comme-des-garcons/review/",
@@ -15974,6 +16000,18 @@
       "tags": [
         "ショー/コレクション"
       ]
+    },
+    {
+      "id": "466c21bfb15ef50b",
+      "title": "街中とは思えない静かな異空間！コムデギャルソンもあるビルの天空モーニング「コトリカフェ」【京都市役所前】 - Kyotopi [キョウトピ]",
+      "url": "https://kyotopi.jp/articles/TYLe7",
+      "publishedAt": "2017-01-15T08:00:00.000Z",
+      "publisher": "Kyotopi [キョウトピ]",
+      "image": "https://cdn.clipkit.co/tenants/7986/articles/images/000/003/371/large/9ddfb07d-e822-48de-b1f1-96f1f538a8ad.jpg?1484440170",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-11-12T22:03:47.852Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "2121169b3b4e5a71",
