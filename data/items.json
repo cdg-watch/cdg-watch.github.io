@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T22:03:51.111Z",
+  "updatedAt": "2026-11-12T22:05:49.076Z",
   "items": [
     {
       "id": "4b6261e7ada325c0",
@@ -14224,8 +14224,11 @@
       "image": "https://www.russh.com/wp-content/uploads/2024/12/where-to-buy-comme-des-garcons.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-12T22:03:48.173Z",
-      "summary": null,
-      "tags": []
+      "summary": "オーストラリアのファッションメディアRUSSHが、コム デ ギャルソンの購入先ガイドを掲載。Dover Street Marketや直営店、SSENSE、Farfetchなど実店舗・オンラインの販路のほか、New BalanceやSalomonとのコラボスニーカーの取扱いにも触れている。",
+      "tags": [
+        "店舗"
+      ],
+      "importance": 1
     },
     {
       "id": "97b070a35e4261a3",
@@ -15346,10 +15349,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-12T22:03:48.173Z",
-      "summary": null,
+      "summary": "2021年10月4日、コム デ ギャルソンの2022年春夏レディ・トゥ・ウェアコレクションが東京で発表された。川久保玲は恒例のテーマ説明に代えて「My Present State of Mind」と題した私的な言葉を寄せ、黒白を基調にネオンピンクやグリーンを効かせたボリュームのあるシルエットを展開した。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "8a2f1f62e2996942",
@@ -16000,18 +16004,6 @@
       "tags": [
         "ショー/コレクション"
       ]
-    },
-    {
-      "id": "466c21bfb15ef50b",
-      "title": "街中とは思えない静かな異空間！コムデギャルソンもあるビルの天空モーニング「コトリカフェ」【京都市役所前】 - Kyotopi [キョウトピ]",
-      "url": "https://kyotopi.jp/articles/TYLe7",
-      "publishedAt": "2017-01-15T08:00:00.000Z",
-      "publisher": "Kyotopi [キョウトピ]",
-      "image": "https://cdn.clipkit.co/tenants/7986/articles/images/000/003/371/large/9ddfb07d-e822-48de-b1f1-96f1f538a8ad.jpg?1484440170",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-11-12T22:03:47.852Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "2121169b3b4e5a71",
