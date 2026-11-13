@@ -1,18 +1,6 @@
 {
-  "updatedAt": "2026-11-13T22:03:49.123Z",
+  "updatedAt": "2026-11-13T22:05:18.085Z",
   "items": [
-    {
-      "id": "bb03ca6d1fe89ba6",
-      "title": "Comme des Garçons 2005 Tricot Pants - Hacerse la crítica",
-      "url": "https://hacerselacritica.com/?j",
-      "publishedAt": "2026-11-13T07:40:35.000Z",
-      "publisher": "Hacerse la crítica",
-      "image": "https://hacerselacritica.com/wp-content/uploads/2026/11/naza-116873460-large.jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-11-13T22:03:45.526Z",
-      "summary": null,
-      "tags": []
-    },
     {
       "id": "dba6ed5dd2d7b098",
       "title": "【渋谷PARCO】CDGの常設店が2階に11月20日(金)オープン｜ミッキーマウスのTシャツや限定POSTMAN BAG",
@@ -22,10 +10,14 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/db72a8bc0f95067141ca5365f61c6067-landscape-960.547ce6bc00f8.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-11-13T22:03:29.508Z",
-      "summary": null,
+      "summary": "渋谷PARCOの2階に11月20日、コムデギャルソンの常設店がオープンする。ミッキーマウスをデザインしたTシャツやベアブリックとのコラボTシャツ、PARCO限定ロゴ入りPOSTMAN BAGなど店舗限定アイテムを発売する。",
       "tags": [
-        "店舗"
-      ]
+        "店舗",
+        "新作",
+        "コラボ"
+      ],
+      "importance": 2,
+      "cluster": "cdg-shibuya-parco-popup-2026"
     },
     {
       "id": "4b6261e7ada325c0",
@@ -15293,18 +15285,6 @@
         "その他"
       ],
       "importance": 1
-    },
-    {
-      "id": "a71f2a782074f2ca",
-      "title": "Daniil Simkin and Daniel Camargo join American Ballet Theatre as guest artists - Gramilano",
-      "url": "https://www.gramilano.com/2022/02/simkin-camargo-american-ballet-theatre/",
-      "publishedAt": "2022-02-23T11:37:18.000Z",
-      "publisher": "Gramilano",
-      "image": "https://www.gramilano.com/wp-content/uploads/2022/02/Danil-Simkin-Vintage-suit-by-Comme-des-Garcons-©-Ken-Browar-and-Deborah-Ory.jpg",
-      "feed": "Google News (English)",
-      "fetchedAt": "2026-11-13T22:03:45.526Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "d1bcddff3a9e836c",
