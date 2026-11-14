@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T22:05:18.085Z",
+  "updatedAt": "2026-11-14T22:03:26.661Z",
   "items": [
     {
       "id": "dba6ed5dd2d7b098",
@@ -14234,6 +14234,18 @@
       "cluster": "junya-watanabe-man-25aw"
     },
     {
+      "id": "1bb1ad61528e0583",
+      "title": "see the full comme des garçons cover story here - i-D Magazine",
+      "url": "https://i-d.co/article/full-comme-des-garcons-cover-story-the-radical-issue/",
+      "publishedAt": "2025-01-10T02:00:51.000Z",
+      "publisher": "i-D Magazine",
+      "image": "https://media.i-d.co/wp-content/uploads/2024/05/1517921054315-LEDE.jpeg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-14T22:03:24.046Z",
+      "summary": null,
+      "tags": []
+    },
+    {
       "id": "049002f761203cb2",
       "title": "Where to buy Comme Des Garçons, in-store and online - RUSSH",
       "url": "https://www.russh.com/where-to-buy-comme-des-garcons/",
@@ -14402,6 +14414,20 @@
       "fetchedAt": "2026-07-11T22:09:22.056Z",
       "summary": "(要約取得不可)",
       "tags": []
+    },
+    {
+      "id": "4bdca14bff24414d",
+      "title": "Sendai: Comme des Garçons store opening - superfuture",
+      "url": "https://superfuture.com/2024/08/new-shops/sendai-comme-des-garcons-store-opening/",
+      "publishedAt": "2024-08-27T07:00:00.000Z",
+      "publisher": "superfuture",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-14T22:03:24.046Z",
+      "summary": null,
+      "tags": [
+        "店舗"
+      ]
     },
     {
       "id": "1c7faf85508170a3",
@@ -15730,6 +15756,18 @@
       "importance": 1
     },
     {
+      "id": "ab5c9d21738ddbb0",
+      "title": "There’s a New Comme des Garçons Movie—But It’s Not About What You Think It Is - Vogue",
+      "url": "https://www.vogue.com/article/comme-des-garcons-french-movie",
+      "publishedAt": "2018-04-22T07:00:00.000Z",
+      "publisher": "Vogue",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-14T22:03:24.046Z",
+      "summary": null,
+      "tags": []
+    },
+    {
       "id": "62123f4a6e0dc19e",
       "title": "Comme des Garçons has high hopes for Dover Street Market Beijing - South China Morning Post",
       "url": "https://www.scmp.com/magazines/style/fashion-beauty/article/2142227/fashion-label-comme-des-garcons-has-high-hopes-dover",
@@ -16155,6 +16193,18 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-08T22:03:35.366Z",
       "summary": "(要約取得不可)",
+      "tags": []
+    },
+    {
+      "id": "5909cb019f451c28",
+      "title": "An Inside View of Comme des Garçons Comme des Garçons - AnOther Magazine",
+      "url": "https://www.anothermag.com/fashion-beauty/3456/an-inside-view-of-comme-des-garcons-comme-des-garcons",
+      "publishedAt": "2014-03-03T08:00:00.000Z",
+      "publisher": "AnOther Magazine",
+      "image": "https://images-prod.anothermag.com/1125/0-17-1125-750/azure/another-prod/290/5/295351.jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-14T22:03:24.046Z",
+      "summary": null,
       "tags": []
     },
     {
