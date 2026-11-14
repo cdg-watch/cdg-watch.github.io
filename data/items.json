@@ -14242,8 +14242,12 @@
       "image": "https://media.i-d.co/wp-content/uploads/2024/05/1517921054315-LEDE.jpeg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-14T22:03:24.046Z",
-      "summary": null,
-      "tags": []
+      "summary": "雑誌「i-D」の2018年「The Radical Issue」掲載記事で、川久保玲が手掛けたコムデギャルソン2018年春夏コレクションのショーレビューを抜粋紹介している。",
+      "tags": [
+        "ショー/コレクション",
+        "インタビュー"
+      ],
+      "importance": 1
     },
     {
       "id": "049002f761203cb2",
@@ -14424,10 +14428,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-14T22:03:24.046Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "店舗"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "1c7faf85508170a3",
@@ -15764,8 +15769,9 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-14T22:03:24.046Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [],
+      "importance": 1
     },
     {
       "id": "62123f4a6e0dc19e",
@@ -16204,8 +16210,11 @@
       "image": "https://images-prod.anothermag.com/1125/0-17-1125-750/azure/another-prod/290/5/295351.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-14T22:03:24.046Z",
-      "summary": null,
-      "tags": []
+      "summary": "2014年秋冬の「コムデギャルソン コムデギャルソン」ラインについて、バイヤーや写真家向けの非公式な日曜朝プレゼンテーションの様子やラインのコンセプトを紹介する記事。",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 1
     },
     {
       "id": "3b9673c8f621c01a",
