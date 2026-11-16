@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T22:03:36.230Z",
+  "updatedAt": "2026-11-16T22:06:48.687Z",
   "items": [
     {
       "id": "06f342d65a257360",
@@ -7,11 +7,13 @@
       "url": "https://www.mens-folio.com/grooming/nature-or-nurture-fragrances-perfume-byredo-comme-des-garcons-dsanddurga-commodity-neandertal-balenciaga/",
       "publishedAt": "2026-11-16T10:03:34.000Z",
       "publisher": "Men's Folio",
-      "image": null,
+      "image": "https://mensfolio-sg-production.s3.ap-southeast-1.amazonaws.com/2026/11/GROOMING-SPREAD3.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-16T22:03:34.586Z",
-      "summary": null,
-      "tags": []
+      "summary": "Men's Folioのグルーミング特集で、コムデギャルソン香水『ティアーズ』がByredoやバレンシアガなど他ブランドの香水と並ぶスタイリング撮影で紹介された。発売情報など具体的な記事内容はない。",
+      "tags": [
+        "その他"
+      ]
     },
     {
       "id": "e4750fb0766f75aa",
@@ -22,10 +24,13 @@
       "image": "https://fashionsnap-assets.com/asset/format=auto,fit=crop,width=300,height=300/article/images/2026/11/8181af89-f600-4449-a623-d420c60bc632.jpg",
       "feed": "FASHIONSNAP",
       "fetchedAt": "2026-11-16T22:03:17.447Z",
-      "summary": null,
+      "summary": "CDG(コムデギャルソンのディフュージョンライン)が11月20日、渋谷PARCO2階に新コンセプトショップをオープン。ミッキーマウス柄TシャツやBE@RBRICKコラボTシャツ、パルコ限定ロゴのPOSTMAN BAGを発売する。",
       "tags": [
-        "店舗"
-      ]
+        "店舗",
+        "新作"
+      ],
+      "cluster": "cdg-shibuya-parco-popup-2026",
+      "importance": 2
     },
     {
       "id": "e6400c9c2f18f7f8",
@@ -36,10 +41,13 @@
       "image": "https://www.fashion-press.net/img/news/153365/top.jpg?1794794990",
       "feed": "Fashion Press",
       "fetchedAt": "2026-11-16T22:03:33.479Z",
-      "summary": null,
+      "summary": "渋谷パルコ2階に11月20日オープンするCDGの新店舗情報。ミッキーマウスやBE@RBRICKとのコラボTシャツに加え、ブラック/ホワイト展開のパルコ限定POSTMAN BAGを販売し、同館内のコムデギャルソン各店舗の配置も紹介している。",
       "tags": [
-        "店舗"
-      ]
+        "店舗",
+        "新作"
+      ],
+      "cluster": "cdg-shibuya-parco-popup-2026",
+      "importance": 2
     },
     {
       "id": "dba6ed5dd2d7b098",
@@ -2139,7 +2147,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-16T22:03:34.586Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {

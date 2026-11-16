@@ -1,18 +1,28 @@
-# CDG Watch 日次ダイジェスト 2026-11-16
+# CDG Watch 日次ダイジェスト 2026-11-17
 
-collect.jsで新規0件(焼き直し記事1件をスキップ)。`summary: null` の項目も
-0件のため、本日は要約作業の対象なし。削除・重複整理もなし。
+collect.jsで新規4件収集。`summary: null` の4件すべてを処理(要約3件・取得不可1件)。
 
-本日処理した記事がないため「今日の要点」として挙げられる新着ニュースは
-ありません。importance付与・新規cluster作成も対象なし。
+## 今日の要点
 
-リリースカレンダー: 本日要約分がないためproductDropsへの追加なし。
-本日は月曜のため、CDG FREAKの立ち上がり日程ページを確認し、2026年秋冬
-5回目入荷日(**2026-11-20**、店舗別内訳の記載なし)をstoreLaunchesに追加。
-過去1年より古い項目はなし(削除対象なし)。
+- CDG(コムデギャルソンのディフュージョンライン)が11月20日、渋谷PARCO2階に
+  新コンセプトショップをオープン。ミッキーマウス/BE@RBRICKコラボTシャツと
+  パルコ限定POSTMAN BAGを発売(FASHIONSNAP・ファッションプレスの2媒体が報道。
+  既存の同一イベントcluster `cdg-shibuya-parco-popup-2026` に統合)。
+- Men's Folioのグルーミング特集で、コムデギャルソン香水『ティアーズ』が
+  他ブランド香水と並ぶスタイリング撮影で紹介された。ニュース性は低い小ネタ。
 
-directive: `directive`ラベルの open Issue・DIRECTIVES.mdともに無し。
-対応事項なし。
+要約に至らなかった項目: Men's JournalのNike Air Max TL 2.5記事はアクセス時に
+HTTP 403で本文取得不可のため「(要約取得不可)」扱い(SPAM_URL_RE非該当のため
+削除はせず残置)。
 
-その他: リポジトリ側でHEAD detached状態のコミット(SNS下書き、11/14分)が
-mainに未反映だったため、fast-forwardでmainに取り込み済み。
+リリースカレンダー: 本日分で新規の発売日情報なし(渋谷PARCO新店舗の11/20は
+既にproductDropsへ登録済み)。storeLaunchesは火曜のため対象外。過去1年より
+古い項目の削除もなし。
+
+重要度: 渋谷PARCO新店舗関連の2件に importance=2 を付与。
+
+重複整理: 渋谷PARCO新店舗の2記事(FASHIONSNAP・ファッションプレス)は別媒体の
+独自記事のため削除せず、既存clusterを付与して束ね表示対象に。
+
+directive: `directive`ラベルの open Issue #44(SNS.md 2段階クエリ方式)は、
+SNS運用エージェント側の既存コミット(0143427)で対応済みを確認。本日の新規対応なし。
