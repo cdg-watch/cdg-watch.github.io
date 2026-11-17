@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T22:03:30.755Z",
+  "updatedAt": "2026-11-17T22:05:14.352Z",
   "items": [
     {
       "id": "06f342d65a257360",
@@ -58,10 +58,14 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGCDG-0086.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-17T22:03:27.959Z",
-      "summary": null,
+      "summary": "渋谷パルコの新店舗(2階)オープンを記念し、CDGがミッキーマウスとBE@RBRICKをデザインしたコラボTシャツを発売。ミッキーマウスTシャツは税込15,400円で、CDG渋谷パルコ店にて11月20日発売予定。",
       "tags": [
-        "二次流通"
-      ]
+        "新作",
+        "コラボ",
+        "店舗"
+      ],
+      "importance": 2,
+      "cluster": "cdg-shibuya-parco-popup-2026"
     },
     {
       "id": "dba6ed5dd2d7b098",
@@ -14680,10 +14684,11 @@
       "image": "https://www.interviewmagazine.com/wp-content/uploads/2024/02/IMG_3366-scaled.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-17T22:03:28.204Z",
-      "summary": null,
+      "summary": "作家ルーシー・サンテの回想録『I Heard Her Call My Name』を軸にしたインタビュー記事。性別移行後ほどなくコムデギャルソンを着始め、以来愛用の一つになっていると語っている。",
       "tags": [
         "インタビュー"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "615cc6e9db639814",
@@ -15971,7 +15976,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-17T22:03:28.204Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
@@ -16378,7 +16383,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-17T22:03:28.204Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
       ]
@@ -16392,8 +16397,11 @@
       "image": "https://images-prod.dazeddigital.com/598/0-0-598-398/azure/dazed-prod/90/7/97182.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-17T22:03:28.204Z",
-      "summary": null,
-      "tags": []
+      "summary": "2009年のDazed記事。高級品市場の供給過多への反応として、コムデギャルソンの人気アイテムを総黒で再構成したラインBLACK COMME DES GARÇONSを紹介。ロンドンのドーバーストリートマーケットなど世界11か所の期間限定スペースで、数か月ごとに商品を入れ替えながら約18か月展開された。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     }
   ]
 }
