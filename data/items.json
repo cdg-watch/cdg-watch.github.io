@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T22:06:48.687Z",
+  "updatedAt": "2026-11-17T22:03:30.755Z",
   "items": [
     {
       "id": "06f342d65a257360",
@@ -48,6 +48,20 @@
       ],
       "cluster": "cdg-shibuya-parco-popup-2026",
       "importance": 2
+    },
+    {
+      "id": "75d5165f982c471b",
+      "title": "渋谷パルコの新店舗オープンを記念して「CDG」がミッキーマウス、BE@RBRICKとのコラボTシャツを11/20より発売！ - SNKRDUNK",
+      "url": "https://snkrdunk.com/articles/33752/",
+      "publishedAt": "2026-11-13T08:35:12.000Z",
+      "publisher": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/upload_bg_removed/CDGCDG-0086.webp",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-11-17T22:03:27.959Z",
+      "summary": null,
+      "tags": [
+        "二次流通"
+      ]
     },
     {
       "id": "dba6ed5dd2d7b098",
@@ -14658,6 +14672,20 @@
       "importance": 2
     },
     {
+      "id": "20298dfd024bf75c",
+      "title": "Lucy Sante on Kafka, Communism, and Comme des Garçons - Interview Magazine",
+      "url": "https://www.interviewmagazine.com/literature/lucy-sante-on-kafka-communism-and-comme-des-garcons",
+      "publishedAt": "2024-02-13T08:00:00.000Z",
+      "publisher": "Interview Magazine",
+      "image": "https://www.interviewmagazine.com/wp-content/uploads/2024/02/IMG_3366-scaled.jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-17T22:03:28.204Z",
+      "summary": null,
+      "tags": [
+        "インタビュー"
+      ]
+    },
+    {
       "id": "615cc6e9db639814",
       "title": "コムデギャルソン川久保玲「白は祈りの色ですから」パリで見せた新作 - 朝日新聞",
       "url": "https://www.asahi.com/articles/ASS1Q4SYGS1QUCVL017.html",
@@ -15935,6 +15963,18 @@
       "importance": 1
     },
     {
+      "id": "b205d52ae8de96bf",
+      "title": "Rihanna Shuts Down the 2017 Met Gala Red Carpet in Comme des Garçons - Vogue",
+      "url": "https://www.vogue.com/article/rihanna-met-gala-2017-red-carpet-dress-comme-des-garcons-best-dressed",
+      "publishedAt": "2017-05-02T07:00:00.000Z",
+      "publisher": "Vogue",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-17T22:03:28.204Z",
+      "summary": null,
+      "tags": []
+    },
+    {
       "id": "48af688b53c2da1a",
       "title": "Everything you need to know about Comme des Garçons - Dazed",
       "url": "https://www.dazeddigital.com/fashion/article/35770/1/comme-des-garcons-met-ball-rei-kawakubo-dover-street-market",
@@ -16327,6 +16367,32 @@
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-08T22:03:35.367Z",
       "summary": "(要約取得不可)",
+      "tags": []
+    },
+    {
+      "id": "d84129523efee94d",
+      "title": "Comme des Garçons Spring 2012 Ready-to-Wear Collection - Vogue",
+      "url": "https://www.vogue.com/fashion-shows/spring-2012-ready-to-wear/comme-des-garcons",
+      "publishedAt": "2011-09-30T07:00:00.000Z",
+      "publisher": "Vogue",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-17T22:03:28.204Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
+    },
+    {
+      "id": "db6d13efefde4863",
+      "title": "Black Comme des Garçons - Dazed",
+      "url": "https://www.dazeddigital.com/fashion/article/3498/1/black-comme-des-garcons",
+      "publishedAt": "2009-06-15T07:00:00.000Z",
+      "publisher": "Dazed",
+      "image": "https://images-prod.dazeddigital.com/598/0-0-598-398/azure/dazed-prod/90/7/97182.jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-17T22:03:28.204Z",
+      "summary": null,
       "tags": []
     }
   ]
