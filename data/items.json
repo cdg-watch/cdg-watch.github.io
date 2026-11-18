@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T22:03:13.838Z",
+  "updatedAt": "2026-11-18T22:06:16.446Z",
   "items": [
     {
       "id": "6e02aacef5cc0698",
@@ -7,11 +7,15 @@
       "url": "https://www.asahi.com/articles/DA3S16590855.html",
       "publishedAt": "2026-11-18T20:00:00.000Z",
       "publisher": "朝日新聞",
-      "image": null,
+      "image": "https://imgopt.asahi.com/ogp/AS20261119000043_comm.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-18T22:03:12.427Z",
-      "summary": null,
-      "tags": []
+      "summary": "コムデギャルソンが1988〜91年に発行していた印刷物『Six』を35年ぶりに復活させ、顧客やジャーナリスト宛てのダイレクトメールとして発行。そのビジュアルを使ったインスタレーションを東京・南青山の店舗で11月30日から展開する。",
+      "tags": [
+        "店舗"
+      ],
+      "importance": 2,
+      "cluster": "cdg-six-magazine-revival"
     },
     {
       "id": "06f342d65a257360",
