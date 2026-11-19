@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T22:03:18.968Z",
+  "updatedAt": "2026-11-19T22:05:18.070Z",
   "items": [
     {
       "id": "6e02aacef5cc0698",
@@ -14030,8 +14030,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-19T22:03:17.062Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "44c92665729a9d60",
@@ -15264,8 +15267,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-19T22:03:17.062Z",
-      "summary": null,
-      "tags": []
+      "summary": "(要約取得不可)",
+      "tags": [
+        "ショー/コレクション"
+      ],
+      "importance": 1
     },
     {
       "id": "510a1efb91e1109c",
@@ -15621,10 +15627,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-19T22:03:17.062Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "d7581213d330b163",
@@ -16221,10 +16228,11 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-19T22:03:17.062Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "04f2faabf2c8c416",
