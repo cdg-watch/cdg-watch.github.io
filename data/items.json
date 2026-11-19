@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T22:06:16.446Z",
+  "updatedAt": "2026-11-19T22:03:18.968Z",
   "items": [
     {
       "id": "6e02aacef5cc0698",
@@ -14022,6 +14022,18 @@
       "tags": []
     },
     {
+      "id": "f7b14c11ca41cdbe",
+      "title": "Thirty years of scent and subversion: Comme des Garçons Parfums turns the unexpected into art - The World Of Interiors",
+      "url": "https://www.worldofinteriors.com/story/comme-des-garcons-parfums",
+      "publishedAt": "2025-06-21T07:00:00.000Z",
+      "publisher": "The World Of Interiors",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-19T22:03:17.062Z",
+      "summary": null,
+      "tags": []
+    },
+    {
       "id": "44c92665729a9d60",
       "title": "São Paulo: Comme des Garçons store opening - superfuture",
       "url": "https://superfuture.com/2025/06/new-shops/sao-paulo-comme-des-garcons-store-opening/",
@@ -15244,6 +15256,18 @@
       "importance": 1
     },
     {
+      "id": "935f03700693775e",
+      "title": "Comme des Garçons and Co. Show Everyone What They’ve Been Missing (Published 2022) - The New York Times",
+      "url": "https://www.nytimes.com/2022/10/02/style/comme-des-garcons-loewe-paris-fashion-week.html",
+      "publishedAt": "2022-10-13T07:00:00.000Z",
+      "publisher": "The New York Times",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-19T22:03:17.062Z",
+      "summary": null,
+      "tags": []
+    },
+    {
       "id": "510a1efb91e1109c",
       "title": "コムデギャルソン着用の小栗旬、大河の大団円までは「修羅の道」 - 朝日新聞",
       "url": "https://www.asahi.com/articles/ASQBD56YCQB9ULZU003.html",
@@ -15587,6 +15611,20 @@
         "ショー/コレクション"
       ],
       "importance": 2
+    },
+    {
+      "id": "48564419d097eba0",
+      "title": "Need some new WFH-wear? Nike and Comme Des Garçons Play have got you covered - British GQ",
+      "url": "https://www.gq-magazine.co.uk/fashion/article/nike-comme-des-garcons-play",
+      "publishedAt": "2021-03-05T08:00:00.000Z",
+      "publisher": "British GQ",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-19T22:03:17.062Z",
+      "summary": null,
+      "tags": [
+        "コラボ"
+      ]
     },
     {
       "id": "d7581213d330b163",
@@ -16172,6 +16210,20 @@
       "summary": "(要約取得不可)",
       "tags": [
         "新作"
+      ]
+    },
+    {
+      "id": "1163c51a6bff4319",
+      "title": "Comme des Garçons Spring 1995 Ready-to-Wear Collection - Vogue",
+      "url": "https://www.vogue.com/fashion-shows/spring-1995-ready-to-wear/comme-des-garcons",
+      "publishedAt": "2017-04-12T07:00:00.000Z",
+      "publisher": "Vogue",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-19T22:03:17.062Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
       ]
     },
     {
