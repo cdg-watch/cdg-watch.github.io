@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T22:03:48.335Z",
+  "updatedAt": "2026-11-20T22:05:38.004Z",
   "items": [
     {
       "id": "f0256b72f3d21095",
@@ -10,10 +10,13 @@
       "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/11/f3ff8ad2-c6ce-4def-9f1d-11febf71b822.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-20T22:03:46.825Z",
-      "summary": null,
+      "summary": "コム デ ギャルソン渋谷PARCO店の開店日に最初に入店した20代男性客を取材し、ブランドに惹かれた経緯や購入した渋谷PARCO店限定ロゴ入りポストマンバッグなどを紹介している。",
       "tags": [
-        "インタビュー"
-      ]
+        "インタビュー",
+        "店舗"
+      ],
+      "importance": 1,
+      "cluster": "cdg-shibuya-parco-popup-2026"
     },
     {
       "id": "6e02aacef5cc0698",
