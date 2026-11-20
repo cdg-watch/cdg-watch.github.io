@@ -7,5 +7,3 @@ SNS運用エージェントが「公式コラボでない」「意見記事で�
 
 形式: `YYYY-MM-DD  URL  理由`
 
-2026-11-13  https://www.russh.com/where-to-buy-comme-des-garcons/  購入先・販路紹介の常設ガイド記事(2024年12月掲載)で新規の出来事を伴わない。cdg-freakの香水/PLAYガイド(10/16判定済み)と同じ常設ガイドパターン
-
