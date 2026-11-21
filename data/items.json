@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T22:03:32.037Z",
+  "updatedAt": "2026-11-21T22:04:59.154Z",
   "items": [
     {
       "id": "f0256b72f3d21095",
@@ -16339,13 +16339,14 @@
       "url": "https://www.asahi.com/articles/DA3S11953171.html",
       "publishedAt": "2015-09-08T07:00:00.000Z",
       "publisher": "朝日新聞",
-      "image": null,
+      "image": "https://www.asahicom.jp/articles/images/AS20150908000119_comm.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-21T22:03:30.515Z",
-      "summary": null,
+      "summary": "コムデギャルソンの川久保玲氏が、2015年春夏の紳士服コレクションのテーマ「反戦」や、デザイナーとしての達成感・自由についての考えを語ったインタビュー記事。",
       "tags": [
         "インタビュー"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "0b408734840ec1a4",
@@ -16367,11 +16368,14 @@
       "url": "https://www.architecturaldigest.com/story/comme-des-garcons-pocket-shop-new-york-seeing-spots",
       "publishedAt": "2015-07-31T07:00:00.000Z",
       "publisher": "Architectural Digest",
-      "image": null,
+      "image": "https://media.architecturaldigest.com/photos/55f9e1e84254f7de3455f9c8/16:9/w_1280,c_limit/dam-images-daily-2015-08-comme-des-garcons-pop-up-comme-des-garcons-pocket-shop-new-york-seeing-spots-01.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-21T22:03:30.809Z",
-      "summary": null,
-      "tags": []
+      "summary": "コムデギャルソンの「Pocket」ショップが2015年、米国初の単独店としてニューヨーク・チェルシーにオープン。手頃な価格のPlayラインのアイテムを中心に展開していたと報じている。",
+      "tags": [
+        "店舗"
+      ],
+      "importance": 1
     },
     {
       "id": "8bfb6814d16b88ec",
