@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T22:05:38.004Z",
+  "updatedAt": "2026-11-21T22:03:32.037Z",
   "items": [
     {
       "id": "f0256b72f3d21095",
@@ -16334,6 +16334,20 @@
       "importance": 1
     },
     {
+      "id": "e29c446e830ab8ad",
+      "title": "達成の感覚、それが自由 コムデギャルソン・デザイナー、川久保玲さんに聞く - 朝日新聞",
+      "url": "https://www.asahi.com/articles/DA3S11953171.html",
+      "publishedAt": "2015-09-08T07:00:00.000Z",
+      "publisher": "朝日新聞",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-11-21T22:03:30.515Z",
+      "summary": null,
+      "tags": [
+        "インタビュー"
+      ]
+    },
+    {
       "id": "0b408734840ec1a4",
       "title": "Comme des Garçons Spring 1997 Ready-to-Wear Collection - Vogue",
       "url": "https://www.vogue.com/fashion-shows/spring-1997-ready-to-wear/comme-des-garcons",
@@ -16346,6 +16360,18 @@
       "tags": [
         "ショー/コレクション"
       ]
+    },
+    {
+      "id": "2ac5efdea48edfd3",
+      "title": "Comme des Garçons Pocket Shop Opens in New York - Architectural Digest",
+      "url": "https://www.architecturaldigest.com/story/comme-des-garcons-pocket-shop-new-york-seeing-spots",
+      "publishedAt": "2015-07-31T07:00:00.000Z",
+      "publisher": "Architectural Digest",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-21T22:03:30.809Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "8bfb6814d16b88ec",
