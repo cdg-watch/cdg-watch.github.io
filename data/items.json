@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T22:04:59.154Z",
+  "updatedAt": "2026-11-22T22:03:33.864Z",
   "items": [
     {
       "id": "f0256b72f3d21095",
@@ -14283,6 +14283,18 @@
       "importance": 2
     },
     {
+      "id": "b497464519887b0f",
+      "title": "COMME des GARÇONS' Coolest Imprint Redeemed... a Luggage Label? - Highsnobiety",
+      "url": "https://www.highsnobiety.com/p/comme-des-garcons-homme-briefing/",
+      "publishedAt": "2025-02-18T08:00:00.000Z",
+      "publisher": "Highsnobiety",
+      "image": "https://www.highsnobiety.com/static-assets/dato/1739468623-comme-des-garcons-homme-briefing.jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-22T22:03:31.740Z",
+      "summary": null,
+      "tags": []
+    },
+    {
       "id": "f8beda54616e7af3",
       "title": "「戦争なんて…」川久保玲さんの創造、坂本龍一さんを連想 鈴木正文 - 朝日新聞",
       "url": "https://www.asahi.com/articles/AST2321M2T23UCVL01PM.html",
@@ -15013,6 +15025,21 @@
         "店舗"
       ],
       "importance": 1
+    },
+    {
+      "id": "50f624453b9f2bdf",
+      "title": "川久保玲が手掛けたコムデギャルソンの名作アーカイブ約140点を展示・販売するイベントを期間限定で開催 - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000030.000090738.html",
+      "publishedAt": "2023-06-07T07:00:00.000Z",
+      "publisher": "PR TIMES",
+      "image": "https://prcdn.freetls.fastly.net/release_image/90738/30/90738-30-0fddd4b3f962cb709b675d85e48a36f8-1938x1098.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-11-22T22:03:31.445Z",
+      "summary": null,
+      "tags": [
+        "店舗",
+        "インタビュー"
+      ]
     },
     {
       "id": "219ec69232c8b9d4",
@@ -16193,6 +16220,20 @@
       "fetchedAt": "2026-11-08T22:03:35.672Z",
       "summary": "(要約取得不可)",
       "tags": []
+    },
+    {
+      "id": "8ce284c17ee4bf3d",
+      "title": "Comme des Garçons Spring 1999 Ready-to-Wear Collection - Vogue",
+      "url": "https://www.vogue.com/fashion-shows/spring-1999-ready-to-wear/comme-des-garcons",
+      "publishedAt": "2017-04-21T07:00:00.000Z",
+      "publisher": "Vogue",
+      "image": null,
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-22T22:03:31.740Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
     },
     {
       "id": "0fba4ca852a843cb",
