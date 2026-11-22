@@ -14291,8 +14291,12 @@
       "image": "https://www.highsnobiety.com/static-assets/dato/1739468623-comme-des-garcons-homme-briefing.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-22T22:03:31.740Z",
-      "summary": null,
-      "tags": []
+      "summary": "CDG HOMME(ジュンヤ・ワタナベ手がけるメンズライン)とバッグブランドBriefingのコラボを紹介する記事。黒基調のウェビングベルトやキャップ、フィッシャーマンズベスト型バッグなどを展開するが、発売日・価格・取扱店舗は記事内で明示されていない。",
+      "tags": [
+        "新作",
+        "コラボ"
+      ],
+      "importance": 2
     },
     {
       "id": "f8beda54616e7af3",
@@ -15035,11 +15039,12 @@
       "image": "https://prcdn.freetls.fastly.net/release_image/90738/30/90738-30-0fddd4b3f962cb709b675d85e48a36f8-1938x1098.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-22T22:03:31.445Z",
-      "summary": null,
+      "summary": "渋谷の「Archive Store」にて、川久保玲が手がけたコムデギャルソンの1990〜2010年代コレクションのアーカイブ約140点を展示・販売するイベント「COMME des GARCONS: The Archives」が2023年6月8日〜7月2日に開催された。",
       "tags": [
         "店舗",
-        "インタビュー"
-      ]
+        "二次流通"
+      ],
+      "importance": 1
     },
     {
       "id": "219ec69232c8b9d4",
@@ -16230,7 +16235,7 @@
       "image": null,
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-22T22:03:31.740Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "ショー/コレクション"
       ]
