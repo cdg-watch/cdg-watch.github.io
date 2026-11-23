@@ -60,6 +60,17 @@ function parseDigest(md) {
       stale = true;
       rest = rest.slice(outerStaleM[0].length);
     }
+    // 見出し自体がMarkdownリンク(- ⚠古 [見出し - 出典名](URL) — 本文…)の形式にも対応する
+    // (directive #45: 2026-11-16以降のdigest-latest.mdはこの書式に変わり、太字見出し前提の
+    // titleM が1件もマッチせず抽出が全滅していた)。この形式は常に単一行で閉じるため、
+    // 太字見出し用の複数行連結ロジック(72行目以降)は不要。
+    const titleLinkM = rest.match(/^\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)\s*(?:—\s*(.*))?$/);
+    if (titleLinkM) {
+      // リンクラベル末尾の " - 出典名" サフィックスは表示用タイトルから除去する
+      const title = titleLinkM[1].replace(/\s+-\s+[^-]+$/, "").trim();
+      blocks.push({ title, body: (titleLinkM[3] || "").trim(), url: titleLinkM[2], stale });
+      continue;
+    }
     const titleM = rest.match(/^\*\*(⚠古\s*)?(.+?)\*\*\s*(?:—\s*(.*))?$/);
     // 見出し自体が複数行に折り返り、1行目で「**」が閉じていない場合は次の行以降も
     // 見出し候補として連結してから再マッチを試みる(directive #43: 2026-11-09分の

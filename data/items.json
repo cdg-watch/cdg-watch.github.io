@@ -1,18 +1,6 @@
 {
-  "updatedAt": "2026-11-23T22:03:11.180Z",
+  "updatedAt": "2026-11-23T22:05:46.216Z",
   "items": [
-    {
-      "id": "ad0ca1b488f1ca88",
-      "title": "Kyoichi Tsuzuki Goes Behind Closed Doors With Japan’s Most Devoted Fashion Collectors",
-      "url": "https://10magazine.com/kyoichi-tsuzuki-goes-behind-closed-doors-with-japans-most-devoted-fashion-collectors/",
-      "publishedAt": "2026-11-23T15:09:17.000Z",
-      "publisher": null,
-      "image": "https://10magazine.com/wp-content/uploads/2026/11/Copy-of-Artboard-1.psd-1-1.jpg",
-      "feed": "10 Magazine",
-      "fetchedAt": "2026-11-23T22:03:02.065Z",
-      "summary": null,
-      "tags": []
-    },
     {
       "id": "193a3a5a31c3b412",
       "title": "〈コム デ ギャルソン× マリメッコ〉のホリデー限定バッグ - https://ginzamag.com/",
@@ -22,10 +10,12 @@
       "image": "https://api.ginzamag.com/wp-content/uploads/2026/11/ogp-14.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-23T22:03:07.136Z",
-      "summary": null,
+      "summary": "コム デ ギャルソンとマリメッコによるホリデーカプセルコレクションのバッグが12月1日よりコム デ ギャルソン店舗で発売(路面直営店・TRADING MUSEUMを除く)。",
       "tags": [
-        "コラボ"
-      ]
+        "新作"
+      ],
+      "cluster": "cdg-marimekko-bag-2026",
+      "importance": 2
     },
     {
       "id": "bc158b9477d2cfef",
@@ -36,10 +26,12 @@
       "image": "https://www.fashion-press.net/img/news/153698/top.jpg?1795157550",
       "feed": "Fashion Press",
       "fetchedAt": "2026-11-23T22:03:06.485Z",
-      "summary": null,
+      "summary": "コム デ ギャルソンとマリメッコのコラボによるトート・ショッパーバッグが12月1日発売。マリメッコの花輪モチーフやフルーツ柄などの生地を使った計4種で、価格は26,400〜27,500円。路面直営店とTRADING MUSEUMを除くコム デ ギャルソン店舗で取り扱う。",
       "tags": [
-        "コラボ"
-      ]
+        "新作"
+      ],
+      "cluster": "cdg-marimekko-bag-2026",
+      "importance": 2
     },
     {
       "id": "f0256b72f3d21095",
@@ -14014,8 +14006,11 @@
       "image": "https://www.highsnobiety.com/static-assets/dato/1753448698-cdg-1986-t-shirt-comme-des-garcons.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-23T22:03:07.405Z",
-      "summary": null,
-      "tags": []
+      "summary": "コム デ ギャルソンが1986年春夏ショーのジャケットのプリントを再構成した「Été 1986」Tシャツを1枚80ドルで展開。数量限定でDover Street Marketなどで再入荷している。",
+      "tags": [
+        "再販/セール"
+      ],
+      "importance": 1
     },
     {
       "id": "384fc983cb54fca0",

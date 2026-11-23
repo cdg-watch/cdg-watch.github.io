@@ -1,21 +1,21 @@
-# CDG Watch 日次ダイジェスト 2026-11-23
+# CDG Watch 日次ダイジェスト 2026-11-24
 
-collect.jsで新規3件収集。`summary: null` の3件を処理し、要約・タグ付けを完了(いずれもGoogle Newsフィード経由で表面化した旧記事・過去のバックログ)。
+collect.jsで新規4件収集。`summary: null` の4件を処理(要約3件・削除1件[無関係記事])。取得不可はなし。
 
 ## 今日の要点
 
-- ⚠古 [COMME des GARÇONS' Coolest Imprint Redeemed... a Luggage Label? - Highsnobiety](https://www.highsnobiety.com/p/comme-des-garcons-homme-briefing/) — CDG HOMME(ジュンヤ・ワタナベ手がけるメンズライン)とバッグブランドBriefingのコラボを紹介。黒基調のベルト・キャップ・ベスト型バッグを展開するが発売日・価格は記事内で非公表(Highsnobiety、publishedAt: 2025-02-18)。
-- ⚠古 [川久保玲が手掛けたコムデギャルソンの名作アーカイブ約140点を展示・販売するイベントを期間限定で開催 - PR TIMES](https://prtimes.jp/main/html/rd/p/000000030.000090738.html) — 渋谷「Archive Store」で1990〜2010年代のアーカイブ約140点を展示・販売するイベントが2023年6月8日〜7月2日に開催された(PR TIMES、publishedAt: 2023-06-07、既に終了済みのため将来日程としての登録なし)。
-- ⚠古 [Comme des Garçons Spring 1999 Ready-to-Wear Collection - Vogue](https://www.vogue.com/fashion-shows/spring-1999-ready-to-wear/comme-des-garcons) — Vogueのショーレビュー記事。本文取得がブロックされ要約取得不可(summary: "(要約取得不可)")。
+- [コム デ ギャルソン×マリメッコ、花輪テキスタイルのトートバッグや“フルーツ柄”ショッパーバッグ - Fashion Press](https://www.fashion-press.net/news/153698) — マリメッコの生地を使ったトート・ショッパーバッグ計4種が12/1発売。価格は26,400〜27,500円、路面直営店とTRADING MUSEUMを除くコム デ ギャルソン店舗で取り扱う。
+- [〈コム デ ギャルソン× マリメッコ〉のホリデー限定バッグ - ginzamag](https://ginzamag.com/categories/fashion/611259) — 同コラボを紹介する別ソース記事。Fashion Press記事と同一クラスター(`cdg-marimekko-bag-2026`)として統合。
+- ⚠古 [This Is How COMME des GARÇONS Does a Box Logo - Highsnobiety](https://www.highsnobiety.com/p/cdg-t-shirt-ete-1986/) — 1986年春夏ショーのジャケットのプリントを使った「Été 1986」Tシャツ(1枚80ドル)がDover Street Marketなどで数量限定再入荷(Highsnobiety、publishedAt: 2025-07-25)。
 
-⚠古(公開日が本日から7日より前): 上記3件すべてが該当(publishedAtは2025年・2023年・2017年、fetchedAtは本日)。Google Newsフィード経由で初出から大きくずれて「新着」表面化したケース。
+⚠古(公開日が本日から7日より前): 上記3件中Highsnobiety記事のみ該当(publishedAtが2025年、fetchedAtは本日)。Google Newsフィード経由で初出から大きくずれて「新着」表面化したケース。
 
-リリースカレンダー: 本日分の3件はいずれも将来の発売日・入荷日の記載なしのため productDrops への追加なし。storeLaunches: 月曜のためCDG FREAKの立ち上がり日程ページを確認したが、既存記録(直近は2026-11-20の秋冬5回目入荷)以降の新規日程は未掲載だったため追加なし。過去1年より古い項目の削除もなし。
+リリースカレンダー: Fashion Press記事のマリメッココラボ(発売日2026-12-01)をproductDropsに追加。storeLaunchesは本日(JST 11/24・火曜)が月曜ではないため対象外(更新なし)。過去1年より古い項目の削除もなし。
 
-重要度: Highsnobietyのコラボ記事はimportance=2(コラボだが発売情報なしのため中程度)、PR TIMESのアーカイブ展示イベントはimportance=1(終了済みイベント)。Vogue記事は要約取得不可のため重要度未設定。
+重要度: マリメッココラボ2件はimportance=2(公式コラボの新作発売)、Highsnobietyの再入荷記事はimportance=1(数量限定の再入荷のみで新作ではない)。
 
-タグ: PR TIMES記事は当初`インタビュー`タグが付いていたが内容は展示販売イベントのため`店舗`+`二次流通`(アーカイブ品の販売)に修正。
+タグ: マリメッココラボ2件は`新作`、Highsnobiety記事は`再販/セール`。
 
-重複整理: 新規clusterの作成・既存clusterの再利用いずれもなし(過去の単発記事で現行の関連クラスターなし)。記事削除は本日なし。
+重複整理: 削除1件(10 Magazine「Happy Victims」写真集紹介記事。コムデギャルソンは「買い求める仏教僧」という一文の言及のみで記事の主題ではないため、無関係記事として削除)。新規cluster `cdg-marimekko-bag-2026` を作成(既存clusterに同一コラボなし)。
 
-directive: `directive`ラベルの open Issue #44(SNS.md 2段階クエリ方式)は継続観察ステータスのまま。11/20付で監督(snowHSGG)の「進展があるまで日次コメントは控える」方針に変化の報告がないため、本日の日次収集・要約作業の範囲ではコメント追加・対応は行わない。
+directive: open Issue #45(make-post.jsの見出しリンク形式パース不具合)に対応。`titleM`(太字見出し前提)に加え、現行の`[見出し - 出典名](URL)`形式を認識する分岐を追加し、本日の digest-latest.md(旧版・リンク形式3件)で3件抽出、11/14分の旧形式(太字・複数行本文)digestでも1件抽出できることを確認(回帰なし)。Issueにコメント済み。Issue #44(SNS 2段階クエリ方式)はSNS運用エージェントの担当範囲のため本日の日次収集・要約作業では対応せず。
