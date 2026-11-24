@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-11-23T22:05:46.216Z",
+  "updatedAt": "2026-11-24T22:03:31.570Z",
   "items": [
+    {
+      "id": "a10152049ca0f4e0",
+      "title": "コムデギャルソン × マリメッコのホリデーカプセルを12月1日(火)に発売｜トートとショッパーのバッグ全4型",
+      "url": "https://cdg-freak.com/news/cdg-marimekko-holiday-bags-2026/",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "publisher": null,
+      "image": "https://media.cdg-freak.com/reader-thumbnails/32b49759f8f27e7a8d865290ff5a0622-landscape-960.6aae1633c311.webp",
+      "feed": "CDG FREAK",
+      "fetchedAt": "2026-11-24T22:03:08.034Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "新作"
+      ]
+    },
+    {
+      "id": "d82f6a4fe74d0da0",
+      "title": "EXCLUSIVE: Marimekko Collaborates With Comme des Garçons on Colorful Tote Bags - WWD",
+      "url": "https://wwd.com/fashion-news/fashion-features/marimekko-comme-des-garcons-holiday-cxollaboration-1239462606/",
+      "publishedAt": "2026-11-24T06:01:08.000Z",
+      "publisher": "WWD",
+      "image": "https://wwd.com/wp-content/uploads/2026/11/split-image-1500.jpg?w=1000&h=563&crop=1",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-24T22:03:23.095Z",
+      "summary": null,
+      "tags": [
+        "コラボ"
+      ]
+    },
+    {
+      "id": "ad0ca1b488f1ca88",
+      "title": "Kyoichi Tsuzuki Goes Behind Closed Doors With Japan’s Most Devoted Fashion Collectors",
+      "url": "https://10magazine.com/kyoichi-tsuzuki-goes-behind-closed-doors-with-japans-most-devoted-fashion-collectors/",
+      "publishedAt": "2026-11-23T15:09:17.000Z",
+      "publisher": null,
+      "image": "https://10magazine.com/wp-content/uploads/2026/11/Copy-of-Artboard-1.psd-1-1.jpg",
+      "feed": "10 Magazine",
+      "fetchedAt": "2026-11-24T22:03:19.002Z",
+      "summary": null,
+      "tags": []
+    },
     {
       "id": "193a3a5a31c3b412",
       "title": "〈コム デ ギャルソン× マリメッコ〉のホリデー限定バッグ - https://ginzamag.com/",
@@ -16,6 +57,21 @@
       ],
       "cluster": "cdg-marimekko-bag-2026",
       "importance": 2
+    },
+    {
+      "id": "fc8344d72e58c601",
+      "title": "コム デ ギャルソンが「マリメッコ」とのホリデーカプセルコレクションを発売　全4型のバッグを展開",
+      "url": "https://www.fashionsnap.com/article/2026-11-24/comme-des-garcons-marimekko-holiday/",
+      "publishedAt": "2026-11-23T15:00:00.000Z",
+      "publisher": null,
+      "image": "https://fashionsnap-assets.com/asset/format=auto,fit=crop,width=300,height=300/article/images/2026/11/e65c7ac0-ead4-4560-954e-40834e7c974e.jpg",
+      "feed": "FASHIONSNAP",
+      "fetchedAt": "2026-11-24T22:03:08.983Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション",
+        "新作"
+      ]
     },
     {
       "id": "bc158b9477d2cfef",
@@ -539,6 +595,21 @@
       ],
       "cluster": "cdg-newbalance-1890a",
       "importance": 2
+    },
+    {
+      "id": "b09071996205e42d",
+      "title": "Comme des Garcons New Balance 1890A [PHOTOS] - Yahoo",
+      "url": "https://shopping.yahoo.com/style/shoes/articles/comme-des-garcons-balance-1890a-212858658.html",
+      "publishedAt": "2026-11-02T08:00:00.000Z",
+      "publisher": "Yahoo",
+      "image": "https://s.yimg.com/lo/mysterio/api/75c11fd918c6e5d2de46afa79f277c48c8e137e3444e232ff4cb48661c8e7dc9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootwear_news_642%2F15aa4b84d6e3c41e5d267a4ce8ad8e98.jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-24T22:03:23.096Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "二次流通"
+      ]
     },
     {
       "id": "711317e35ee276d3",
@@ -1879,6 +1950,20 @@
       ],
       "importance": 3,
       "cluster": "cdg-ss27-show-paris"
+    },
+    {
+      "id": "7c43b656a4aafc15",
+      "title": "Comme des Garçons Spring/Summer 2027 Collection - Oui Speak Fashion (OSF)",
+      "url": "https://ouispeakfashion.com/comme-des-garcons-spring-summer-2027-collection/",
+      "publishedAt": "2026-10-03T07:00:00.000Z",
+      "publisher": "Oui Speak Fashion (OSF)",
+      "image": "https://i0.wp.com/ouispeakfashion.com/wp-content/uploads/2026/10/Comme-des-Garcons-SS27-featured.jpg",
+      "feed": "Google News (English)",
+      "fetchedAt": "2026-11-24T22:03:23.096Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション"
+      ]
     },
     {
       "id": "8d8bddf7db0ce757",
@@ -15967,6 +16052,18 @@
         "その他"
       ],
       "importance": 1
+    },
+    {
+      "id": "8c038191bbd79894",
+      "title": "門脇麦が出会う BLACK COMME des GARÇONS (ブラックコムデギャルソン) vol.3 - The Fashion Post",
+      "url": "https://fashionpost.jp/fashion/144296",
+      "publishedAt": "2018-11-02T07:00:00.000Z",
+      "publisher": "The Fashion Post",
+      "image": "https://static.fashionpost.jp/article/wp-content/uploads/2018/11/02183808/IMG_0067.jpg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-11-24T22:03:22.677Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "2b8c1f366e30ec83",
