@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T22:03:31.570Z",
+  "updatedAt": "2026-11-24T22:06:36.324Z",
   "items": [
     {
       "id": "a10152049ca0f4e0",
@@ -10,11 +10,12 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/32b49759f8f27e7a8d865290ff5a0622-landscape-960.6aae1633c311.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-11-24T22:03:08.034Z",
-      "summary": null,
+      "summary": "コムデギャルソンがマリメッコとのホリデーカプセルを12月1日に発売する。マリメッコ生地を使ったトートバッグとショッパーバッグ全4型で、価格は26,400〜27,500円、路面直営店などで販売される。",
       "tags": [
-        "コラボ",
-        "新作"
-      ]
+        "新作",
+        "コラボ"
+      ],
+      "importance": 3
     },
     {
       "id": "d82f6a4fe74d0da0",
@@ -25,22 +26,11 @@
       "image": "https://wwd.com/wp-content/uploads/2026/11/split-image-1500.jpg?w=1000&h=563&crop=1",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-24T22:03:23.095Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
-      ]
-    },
-    {
-      "id": "ad0ca1b488f1ca88",
-      "title": "Kyoichi Tsuzuki Goes Behind Closed Doors With Japan’s Most Devoted Fashion Collectors",
-      "url": "https://10magazine.com/kyoichi-tsuzuki-goes-behind-closed-doors-with-japans-most-devoted-fashion-collectors/",
-      "publishedAt": "2026-11-23T15:09:17.000Z",
-      "publisher": null,
-      "image": "https://10magazine.com/wp-content/uploads/2026/11/Copy-of-Artboard-1.psd-1-1.jpg",
-      "feed": "10 Magazine",
-      "fetchedAt": "2026-11-24T22:03:19.002Z",
-      "summary": null,
-      "tags": []
+      ],
+      "importance": 2
     },
     {
       "id": "193a3a5a31c3b412",
@@ -67,11 +57,12 @@
       "image": "https://fashionsnap-assets.com/asset/format=auto,fit=crop,width=300,height=300/article/images/2026/11/e65c7ac0-ead4-4560-954e-40834e7c974e.jpg",
       "feed": "FASHIONSNAP",
       "fetchedAt": "2026-11-24T22:03:08.983Z",
-      "summary": null,
+      "summary": "コム デ ギャルソンがマリメッコとのホリデーカプセルコレクションとしてバッグ全4型を12月1日に発売する。価格は26,400〜27,500円で、路面直営店とTRADING MUSEUMを除く各店で販売される。",
       "tags": [
-        "ショー/コレクション",
-        "新作"
-      ]
+        "新作",
+        "コラボ"
+      ],
+      "importance": 3
     },
     {
       "id": "bc158b9477d2cfef",
@@ -605,11 +596,11 @@
       "image": "https://s.yimg.com/lo/mysterio/api/75c11fd918c6e5d2de46afa79f277c48c8e137e3444e232ff4cb48661c8e7dc9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootwear_news_642%2F15aa4b84d6e3c41e5d267a4ce8ad8e98.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-24T22:03:23.096Z",
-      "summary": null,
+      "summary": "コムデギャルソン・オムとニューバランスのコラボスニーカー「1890A」のブラックとタン2色の写真を紹介する記事。発売日・価格・取扱店舗の記載はない。",
       "tags": [
-        "コラボ",
-        "二次流通"
-      ]
+        "コラボ"
+      ],
+      "importance": 2
     },
     {
       "id": "711317e35ee276d3",
@@ -1960,10 +1951,11 @@
       "image": "https://i0.wp.com/ouispeakfashion.com/wp-content/uploads/2026/10/Comme-des-Garcons-SS27-featured.jpg",
       "feed": "Google News (English)",
       "fetchedAt": "2026-11-24T22:03:23.096Z",
-      "summary": null,
+      "summary": "コムデギャルソンが2026年10月3日のパリ・ファッションウィークで発表した2027年春夏コレクションのルック23点を紹介するフォトギャラリー記事。",
       "tags": [
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "8d8bddf7db0ce757",
@@ -16062,8 +16054,11 @@
       "image": "https://static.fashionpost.jp/article/wp-content/uploads/2018/11/02183808/IMG_0067.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-24T22:03:22.677Z",
-      "summary": null,
-      "tags": []
+      "summary": "2018年公開の連載記事。女優の門脇麦がBLACK COMME des GARÇONSのモノトーンのグラフィカルシャツを中心としたルックを紹介し、足元はナイキとのコラボスニーカーを合わせている。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "2b8c1f366e30ec83",
