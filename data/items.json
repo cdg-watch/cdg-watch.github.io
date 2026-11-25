@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T22:03:29.578Z",
+  "updatedAt": "2026-11-25T22:07:10.199Z",
   "items": [
     {
       "id": "bedfe5f4cae06e3f",
@@ -10,8 +10,11 @@
       "image": "https://10magazine.com/wp-content/uploads/2026/10/Copy-of-Artboard-1.psd-10-1.jpg",
       "feed": "10 Magazine",
       "fetchedAt": "2026-11-25T22:03:10.558Z",
-      "summary": null,
-      "tags": []
+      "summary": "デザイナーのルカ・マリャーノが愛用するコムデギャルソン オム・プリュス1995年春夏のスーツについて語るインタビュー。ナポリの古着市場で見つけたという。",
+      "tags": [
+        "インタビュー"
+      ],
+      "importance": 1
     },
     {
       "id": "90b4e3ff6ffab4ee",
@@ -22,10 +25,13 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/362f30f0308b974c9fadbdb5aa0589b9-landscape-960.b9bd1f36008e.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-11-25T22:02:59.286Z",
-      "summary": null,
+      "summary": "コムデギャルソン×ベアブリックのホリデーキャンペーン「HOLIDAYS WITH BE@RBRICK」が12月1〜28日、青山・丸の内・大阪・京都・福岡(福岡は12月11日から)の路面店で開催。川久保玲デザインのベアブリックを含むアパレル・雑貨全22型を展開。",
       "tags": [
-        "コラボ"
-      ]
+        "コラボ",
+        "店舗"
+      ],
+      "importance": 2,
+      "cluster": "cdg-bearbrick-holidays-2026"
     },
     {
       "id": "a10152049ca0f4e0",
@@ -52,11 +58,13 @@
       "image": "https://media.wwdjapan.com/wp-content/uploads/2026/11/24214250/1124_comme_3-150x150.jpg",
       "feed": "WWD JAPAN",
       "fetchedAt": "2026-11-25T22:03:00.112Z",
-      "summary": null,
+      "summary": "マリメッコとコムデギャルソンのコラボトートバッグが12月1日発売。1963〜2022年のマリメッコのアーカイブ柄を使った全4デザイン・2サイズで、コムデギャルソン店舗限定(国内26店舗やソウル・香港・シンガポールなど)で取り扱う。",
       "tags": [
         "コラボ",
         "新作"
-      ]
+      ],
+      "importance": 2,
+      "cluster": "cdg-marimekko-bag-2026"
     },
     {
       "id": "d82f6a4fe74d0da0",
@@ -82,22 +90,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/7cedb52a-acb7-42aa-bccb-ef7b844e1685.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-25T22:03:14.470Z",
-      "summary": null,
+      "summary": "コムデギャルソンCDG×ジードラゴン(PEACEMINUSONE)のUbermensch Classicフーディ「ブラック」のスニダン出品ページ。定価3万5200円、出品価格は2万円〜。",
       "tags": [
         "二次流通"
-      ]
-    },
-    {
-      "id": "ad0ca1b488f1ca88",
-      "title": "Kyoichi Tsuzuki Goes Behind Closed Doors With Japan’s Most Devoted Fashion Collectors",
-      "url": "https://10magazine.com/kyoichi-tsuzuki-goes-behind-closed-doors-with-japans-most-devoted-fashion-collectors/",
-      "publishedAt": "2026-11-23T15:09:17.000Z",
-      "publisher": null,
-      "image": "https://10magazine.com/wp-content/uploads/2026/11/Copy-of-Artboard-1.psd-1-1.jpg",
-      "feed": "10 Magazine",
-      "fetchedAt": "2026-11-25T22:03:10.558Z",
-      "summary": null,
-      "tags": []
+      ],
+      "importance": 1
     },
     {
       "id": "193a3a5a31c3b412",
@@ -156,10 +153,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20211027032653-0.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-25T22:03:14.470Z",
-      "summary": null,
+      "summary": "コムデギャルソン オムプリュス×ナイキ エアフォームポジット ワン「ホワイト」のスニダン新品/中古フリマページ。2021年11月発売・定価5万7200円、出品価格は7万3000円〜。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "9e4d17431d2e2a96",
@@ -170,10 +168,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/20241129084256-0.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-25T22:03:14.470Z",
-      "summary": null,
+      "summary": "コムデギャルソンCDG×バンズ オールドスクールLX「ブラック/ホワイト」のスニダン出品ページ。2021年2月発売・定価1万6500円、出品価格は1万9000円〜。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "f0256b72f3d21095",
@@ -217,8 +216,11 @@
       "image": "https://images.oceans.tokyo.jp/media/snap/13007/images/main_image_4c9ee668681eb6378ebad63c561bec746d00dda0.jpg?h=1200",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-25T22:03:14.470Z",
-      "summary": null,
-      "tags": []
+      "summary": "渋谷で撮影されたストリートスナップ企画。45歳男性がコムデギャルソン オムのコート・シャツ・コムデギャルソン オム ドゥーのパンツを合わせたトレンチコートコーディネートを紹介(詳細な価格・解説記載なし)。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "06f342d65a257360",
@@ -305,20 +307,6 @@
       "cluster": "cdg-shibuya-parco-popup-2026"
     },
     {
-      "id": "e2fffd19f7d5ccd6",
-      "title": "「コムデギャルソンとの話題コラボでも注目」キッズラブゲイトの春ブーツが旬なコーデの切り札に - Smart Mag Web",
-      "url": "https://smartmag.jp/archives/97179/",
-      "publishedAt": "2026-11-11T08:00:00.000Z",
-      "publisher": "Smart Mag Web",
-      "image": "https://smartmag.jp/official/wp-content/uploads/2025/05/efae4c173ff41adda49827f703858716.jpg",
-      "feed": "Google News (日本語)",
-      "fetchedAt": "2026-11-25T22:03:14.470Z",
-      "summary": null,
-      "tags": [
-        "コラボ"
-      ]
-    },
-    {
       "id": "4b6261e7ada325c0",
       "title": "【Gallery】【おしゃれな大人が愛用「黒ボトム」をレビュー】コム デ ギャルソン・オム プリュスのスラックス、リーバイス505... 買ってよかった私物4選 - UOMO",
       "url": "https://www.webuomo.jp/fashion/matome/3TO5pw/gallery/",
@@ -372,7 +360,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-25T22:03:14.470Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
         "コラボ"
       ]
@@ -419,11 +407,12 @@
       "image": "https://image.sneakerwars.jp/images/7466/files/COMME-des-GARcONS-NIKE-Cortez-platform-2.jpg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-25T22:03:14.470Z",
-      "summary": null,
+      "summary": "2018年秋冬パリ・コレクションで発表されたコム・デ・ギャルソン×ナイキ「コルテッツ プラットフォーム」を紹介する記事。スーザン・ソンタグの『キャンプについてのノート』に着想を得た厚底仕様で、記事執筆時点では発売情報は不明とされている。",
       "tags": [
         "コラボ",
         "ショー/コレクション"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "5ffec4e5c907e84b",
@@ -449,8 +438,11 @@
       "image": "https://images.oceans.tokyo.jp/media/snap/12998/images/main_image_85732d7f0182c0f5e4e7911bbef37dc35f4b434f.jpg?h=1200",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-25T22:03:14.470Z",
-      "summary": null,
-      "tags": []
+      "summary": "ストリートスナップ企画「コムデギャルソンのジャケットコーディネート」。着用アイテム一覧でジャケット・バッグ・シューズがコムデギャルソンと記載されているが、具体的な説明や価格の記載はない。",
+      "tags": [
+        "その他"
+      ],
+      "importance": 1
     },
     {
       "id": "aba2e726637314c3",
@@ -628,10 +620,11 @@
       "image": "https://www.mensnonno.jp/wp-content/uploads/2026/10/02.jpeg",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-25T22:03:14.470Z",
-      "summary": null,
+      "summary": "PLAY COMME des GARÇONSの新作Tシャツが2026年11月7日発売。迷彩柄(カーキ/ブルー)・ドット柄(赤/紺)を含む計12種、価格は税込1万1220円〜2万1450円。PLAY取扱店舗全店(青山店除く)で販売。",
       "tags": [
         "新作"
-      ]
+      ],
+      "importance": 2
     },
     {
       "id": "c506a5a973511350",
@@ -10638,10 +10631,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/5fd90906-8d04-403e-8d63-7db3eec4ee6b.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-25T22:03:14.470Z",
-      "summary": null,
+      "summary": "ザ・ノース・フェイス×コムデギャルソンCDGのスウェットクルーネック(ユニセックス)「TNFブラック」のスニダン出品ページ。定価1万9800円、出品価格は2万1000円〜。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "c57bdb6e6d71aa54",
@@ -10667,10 +10661,11 @@
       "image": "https://cdn.snkrdunk.com/upload_bg_removed/da588adc-6f49-4f12-9667-14aa7a1ec23d.webp",
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-25T22:03:14.470Z",
-      "summary": null,
+      "summary": "コムデギャルソン オム帽子カテゴリーのスニダン一覧ページ。複数の中古/新品帽子がランキング形式で掲載されている(特定商品の記事ではなくカテゴリ一覧)。",
       "tags": [
         "二次流通"
-      ]
+      ],
+      "importance": 1
     },
     {
       "id": "ee1f76f412aef51e",

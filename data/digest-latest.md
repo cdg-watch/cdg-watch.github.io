@@ -1,21 +1,24 @@
-# CDG Watch 日次ダイジェスト 2026-11-25
+# CDG Watch 日次ダイジェスト 2026-11-26
 
-collect.jsで新規7件収集。`summary: null` の7件を処理(要約6件・削除1件[無関係記事])。取得不可1件(WWD、ペイウォール)。
+collect.jsで新規16件収集。`summary: null` の15件を処理(要約13件・削除2件[無関係記事]・取得不可1件[X/Twitter、認証エラーで本文取得不可])。残り1件(The Guardianの2017年記事)は翌日へ回す。
 
 ## 今日の要点
 
-- [コム デ ギャルソン×マリメッコ ホリデーコラボバッグ、12月1日発売 - CDG FREAK](https://cdg-freak.com/news/cdg-marimekko-holiday-bags-2026/) — マリメッコ生地を使ったトート・ショッパーバッグ計4種。価格は26,400〜27,500円、路面直営店とTRADING MUSEUMを除く各店で販売(同コラボはFASHIONSNAPも報道、同一クラスター`cdg-marimekko-bag-2026`)。
-- ⚠古 [コム デ ギャルソン・オムプリュス×ニューバランス「1890A」フォト公開 - Yahoo Shopping(Footwear News)](https://shopping.yahoo.com/style/shoes/articles/comme-des-garcons-balance-1890a-212858658.html) — ブラック/タン2色の写真記事(発売日・価格の記載なし、publishedAt: 2026-11-02)。
-- ⚠古 [2027年春夏コレクション ルック23点公開(パリ) - Oui Speak Fashion](https://ouispeakfashion.com/comme-des-garcons-spring-summer-2027-collection/) — 2026年10月3日のパリ・ファッションウィークで発表されたショーのフォトギャラリー(publishedAt: 2026-10-03)。
+- [コムデギャルソン×ベアブリック ホリデーキャンペーン「HOLIDAYS WITH BE@RBRICK」、12月1日から開催 - CDG FREAK](https://cdg-freak.com/news/cdg-bearbrick-holidays-popup-2026/) — 青山・丸の内・大阪・京都・福岡(福岡は12/11から)の路面店で12/1〜28開催。川久保玲デザインのベアブリックを含むアパレル・雑貨全22型。
+- [「マリメッコ」×「コム デ ギャルソン」コラボトート、12月1日発売 - WWD JAPAN](https://www.wwdjapan.com/articles/2560281) — 既報(cluster `cdg-marimekko-bag-2026`)の続報。マリメッコ店舗限定情報として、国内26店舗に加えソウル・香港・シンガポール・マニラ・バンコク・サンパウロ・ベルリンでも取り扱うと判明。
+- [Luca Magliano On His Favourite Comme Des Garçons Suit - 10 Magazine](https://10magazine.com/luca-magliano-suit-tm64/) — デザイナーのルカ・マリャーノが愛用するコムデギャルソン オム・プリュス1995年春夏のスーツを紹介するインタビュー企画。ナポリの古着市場で見つけたという。
+- ⚠古 [PLAY COMME des GARÇONS新作Tシャツ(ドット・迷彩柄新色) - MEN'S NON-NO WEB](https://www.mensnonno.jp/fashion/new-topics/814774/) — 11月7日発売の新作12種(税込11,220〜21,450円、青山店除く全取扱店)。Google News経由で本日まで新着扱いが遅延(publishedAt: 2026-11-04)。
 
-⚠古(公開日が本日から7日より前): 上記3件中2件(ニューバランス1890A記事・SS27コレクション記事)が該当。いずれもGoogle News経由で初出から日を置いて「新着」表面化したケース。
+⚠古(公開日が本日から7日より前): 上記4件中1件(PLAY新作Tシャツ記事)が該当。他に処理対象のスニダン出品ページ複数件・OCEANSスナップ2件も publishedAt が古く⚠古扱いだが、二次流通・スナップ企画のため「今日の要点」からは除外(下記参照)。
 
-リリースカレンダー: マリメッココラボの発売日(2026-12-01)は既にproductDropsに登録済み(fashion-press.net版)のため追加なし。storeLaunchesは本日(JST 11/25・水曜)が月曜ではないため対象外(更新なし)。過去1年より古い項目の削除もなし。
+二次流通: 本日処理分のうちスニダン(SNKRDUNK)出品ページ5件(CDG×G-DRAGON Ubermenschフーディ、CDGオムプリュス×ナイキ エアフォームポジット、CDG×バンズ オールドスクールLX、ノースフェイス×CDGスウェット、CDGオム帽子カテゴリ一覧)を`二次流通`タグで要約・登録。公式ニュースとは別カテゴリとして分離。
 
-重要度: マリメッココラボ2件(CDG FREAK・FASHIONSNAP)はimportance=3(公式コラボの新作発売)、WWD記事(取得不可)はimportance=2、ニューバランス1890Aフォト記事・SS27コレクション記事はimportance=2、2018年のBLACK CDG編集記事はimportance=1(旧記事・小ネタ)。
+リリースカレンダー: ベアブリックホリデーキャンペーン(2026-12-01開始、cluster `cdg-bearbrick-holidays-2026`)をproductDropsに新規登録。マリメッココラボは既にfashion-press.net版で登録済みのため追加なし。storeLaunchesは本日(JST 11/26・木曜)が月曜ではないため対象外(更新なし)。過去1年より古い項目の削除もなし。
 
-タグ: マリメッココラボ3件(CDG FREAK・WWD・FASHIONSNAP)は`新作`+`コラボ`(ただしFASHIONSNAPは誤爆していた`ショー/コレクション`タグを削除)、ニューバランス1890A記事は`コラボ`(収集時に`shopping.yahoo.com`ドメインが二次流通判定に誤爆していた`二次流通`タグを削除)、SS27コレクション記事は`ショー/コレクション`、2018年のBLACK CDG記事は`その他`。
+重要度: ベアブリックホリデーキャンペーン・マリメッココラボ続報・PLAY新作Tシャツはimportance=2(公式新作・コラボ情報)、インタビュー記事・二次流通5件・OCEANSスナップ2件はimportance=1。
 
-重複整理: 削除1件(10 Magazine「都築響一氏がファッションコレクターに迫る」記事。コムデギャルソンは「買い求める仏教僧」という一文の言及のみで記事の主題ではないため、無関係記事として削除)。新規cluster作成なし(マリメッコ・ニューバランスいずれも既存clusterを再利用)。
+タグ: ベアブリック記事に`店舗`タグを追加(店頭イベントのため)。マリメッコ記事は既存の`コラボ`+`新作`を維持。Luca Maglianoインタビューは`インタビュー`。OCEANSスナップ2件(コート/ジャケットコーディネート)は`その他`。cluster新規作成1件(`cdg-bearbrick-holidays-2026`)、既存cluster再利用1件(`cdg-marimekko-bag-2026`)。
 
-directive: `directive`ラベルのopen Issueは2件(#44, #45)。#45(make-post.js見出しパース)は2026-11-23に対応済みで、完了条件(数日分の実績確認)待ちのため本日は追加対応なし。#44(SNS 2段階クエリ方式)はSNS運用エージェントの担当範囲のため本日の日次収集・要約作業では対応せず。
+重複整理: 削除2件。(1) 10 Magazine「都築響一氏がファッションコレクターに迫る」記事の関連記事扱いで混入した記事(コムデギャルソンは「買い求める仏教僧」という一文の例示のみで主題ではない)。(2) Smart Mag Web「キッズラブゲイトの春ブーツ」記事(CDG HOMME PLUSとの過去コラボが背景紹介で触れられるのみで、コラボ自体の内容説明はなく主題はキッズラブゲイトの新商品)。いずれも「コムデギャルソンと無関係(名前が出るだけ)」に該当するため要約せず削除。
+
+directive: `directive`ラベルのopen Issueは3件(#44, #45, #46)。#45(make-post.js見出しパース)・#44(SNS 2段階クエリ方式)はいずれも2026-11-23/11-16付で既にコード対応済みで、残りは数日分の実績確認待ちのため本日は追加対応なし。#46(SNS運用エージェント11/24分実行漏れの記録Issue)はリポジトリ側の対応なしで、snowの日報確認待ちのクローズ待機中のため本日は対応せず。
