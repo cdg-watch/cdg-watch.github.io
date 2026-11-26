@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T22:07:10.199Z",
+  "updatedAt": "2026-11-26T22:04:08.404Z",
   "items": [
     {
       "id": "bedfe5f4cae06e3f",
@@ -95,6 +95,18 @@
         "二次流通"
       ],
       "importance": 1
+    },
+    {
+      "id": "ad0ca1b488f1ca88",
+      "title": "Kyoichi Tsuzuki Goes Behind Closed Doors With Japan’s Most Devoted Fashion Collectors",
+      "url": "https://10magazine.com/kyoichi-tsuzuki-goes-behind-closed-doors-with-japans-most-devoted-fashion-collectors/",
+      "publishedAt": "2026-11-23T15:09:17.000Z",
+      "publisher": null,
+      "image": "https://10magazine.com/wp-content/uploads/2026/11/Copy-of-Artboard-1.psd-1-1.jpg",
+      "feed": "10 Magazine",
+      "fetchedAt": "2026-11-26T22:03:55.355Z",
+      "summary": null,
+      "tags": []
     },
     {
       "id": "193a3a5a31c3b412",
@@ -305,6 +317,20 @@
       ],
       "importance": 2,
       "cluster": "cdg-shibuya-parco-popup-2026"
+    },
+    {
+      "id": "e2fffd19f7d5ccd6",
+      "title": "「コムデギャルソンとの話題コラボでも注目」キッズラブゲイトの春ブーツが旬なコーデの切り札に - Smart Mag Web",
+      "url": "https://smartmag.jp/archives/97179/",
+      "publishedAt": "2026-11-11T08:00:00.000Z",
+      "publisher": "Smart Mag Web",
+      "image": "https://smartmag.jp/official/wp-content/uploads/2025/05/efae4c173ff41adda49827f703858716.jpg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-11-26T22:04:00.261Z",
+      "summary": null,
+      "tags": [
+        "コラボ"
+      ]
     },
     {
       "id": "4b6261e7ada325c0",
@@ -6944,6 +6970,20 @@
       "importance": 1
     },
     {
+      "id": "cf7547a1779379c2",
+      "title": "コム デ ギャルソン×ベアブリック、水玉模様の限定フィギュアやロゴモチーフのネックレス",
+      "url": "https://www.fashion-press.net/news/148563",
+      "publishedAt": "2026-07-13T04:10:00.000Z",
+      "publisher": "ファッションプレス",
+      "image": "https://www.fashion-press.net/img/news/148563/top.jpg?1783910086",
+      "feed": "Fashion Press",
+      "fetchedAt": "2026-11-26T22:03:59.602Z",
+      "summary": null,
+      "tags": [
+        "コラボ"
+      ]
+    },
+    {
       "id": "c786e5c3fbeb06e8",
       "title": "コムデギャルソン COMME des GARCONS OX-T011 ジャケット - SNKRDUNK",
       "url": "https://snkrdunk.com/apparel-free-used-items/47869560",
@@ -11274,6 +11314,21 @@
       "importance": 1
     },
     {
+      "id": "fb91afca7c82a85f",
+      "title": "ギャルソン・オム2015-16秋冬メンズ、松岡モナインタビュー…【週末のまとめ（2/14、2/15）】 - fashion headline",
+      "url": "https://www.fashion-headline.com/ja/article/2324",
+      "publishedAt": "2026-02-14T08:00:00.000Z",
+      "publisher": "fashion headline",
+      "image": "https://www.fashion-headline.com/images/migration/2015/02/a70947a3a44c993fdc447dbe81926909.jpg",
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-11-26T22:04:00.261Z",
+      "summary": null,
+      "tags": [
+        "ショー/コレクション",
+        "インタビュー"
+      ]
+    },
+    {
       "id": "ecdb155b94968db1",
       "title": "コム デ ギャルソン・シャツ 2026-27年秋冬コレクション - ブラックの中にプレイフルな表現を",
       "url": "https://www.fashion-press.net/news/143303",
@@ -15154,6 +15209,20 @@
       ]
     },
     {
+      "id": "9f575b03c648d248",
+      "title": "川久保玲の現在地⑤なぜ、制服が好きなんですか? - 朝日新聞",
+      "url": "https://www.asahi.com/articles/ASRC25K20RC1ULZU00K.html",
+      "publishedAt": "2023-11-04T07:00:00.000Z",
+      "publisher": "朝日新聞",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-11-26T22:04:00.261Z",
+      "summary": null,
+      "tags": [
+        "インタビュー"
+      ]
+    },
+    {
       "id": "23a167e598c58784",
       "title": "川久保玲の現在地②酒は飲みますか？「逃げるっていうこと、しない」 - 朝日新聞",
       "url": "https://www.asahi.com/articles/ASRC25H16RC1ULZU00G.html",
@@ -15598,6 +15667,21 @@
         "コラボ"
       ],
       "importance": 1
+    },
+    {
+      "id": "84fe584ba986aa47",
+      "title": "PLAY COMME DES GARÇONS x K-WAY のコラボアイテム第2弾が発売 - Hypebeast",
+      "url": "https://hypebeast.com/jp/2022/12/play-comme-des-garcons-k-way-collab-jacket-drop-2-release-info",
+      "publishedAt": "2022-12-15T08:00:00.000Z",
+      "publisher": "Hypebeast",
+      "image": null,
+      "feed": "Google News (日本語)",
+      "fetchedAt": "2026-11-26T22:04:00.261Z",
+      "summary": null,
+      "tags": [
+        "コラボ",
+        "新作"
+      ]
     },
     {
       "id": "c9b9c2656e250f8f",
