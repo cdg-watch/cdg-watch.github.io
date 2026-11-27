@@ -7,6 +7,12 @@ import { createHash } from "node:crypto";
 import { pathToFileURL } from "node:url";
 
 const DATA_PATH = new URL("../data/items.json", import.meta.url).pathname;
+// Issue #47: 恒久除外ログ。SNS運用側が方針上の対象外と判定して記録したURLは
+// 収集時に弾く(再収集→手動再除外の繰り返し防止)。
+const EXCLUDED_LOG_PATH = new URL(
+  "../data/excluded-log.md",
+  import.meta.url
+).pathname;
 // Issue #41: snowの方針(2026-07-09)は「データは削除せず保持する」。
 // 上限はメモリ・ファイルサイズの安全弁として残すが、トリムで要約済みの
 // 完成データを消さないよう trimItems() 側で保護する。上限自体も
@@ -187,6 +193,21 @@ function normalizeUrl(url) {
     return u.origin + u.pathname;
   } catch {
     return url;
+  }
+}
+
+// Issue #47: data/excluded-log.md から恒久除外URLを読み込む。
+// 形式は `YYYY-MM-DD  URL  理由` の行。URLは normalizeUrl() と同じ正規化で
+// 比較する。ファイルが無ければ空集合(除外なし)として扱う。
+export function loadExcludedUrls() {
+  try {
+    const text = readFileSync(EXCLUDED_LOG_PATH, "utf8");
+    const urls = new Set();
+    for (const m of text.matchAll(/https?:\/\/\S+/g))
+      urls.add(normalizeUrl(m[0]));
+    return urls;
+  } catch {
+    return new Set();
   }
 }
 
@@ -535,6 +556,8 @@ async function main() {
   const knownAfricaExpressIds = new Set(
     existing.items.map((i) => africaExpressProductId(i.url)).filter(Boolean)
   );
+  // Issue #47: 恒久除外URL(要約時の手動再除外を繰り返さないための収集側ブロック)
+  const excludedUrls = loadExcludedUrls();
   const added = [];
 
   for (const source of SOURCES) {
@@ -607,6 +630,13 @@ async function main() {
   for (const it of added) {
     if (SPAM_URL_RE.test(it.url)) continue;
     const normalized = normalizeUrl(it.url);
+    // Issue #47: 恒久除外ログに載っているURLは収集しない。Google News経由の
+    // 記事は中継URLで届き、この段階で本物のURLに差し替え済みのため、ここで
+    // 判定する(SPAM_URL_RE と同じ位置)。
+    if (excludedUrls.has(normalized)) {
+      console.error(`[excluded] skip: ${it.title} (${it.url})`);
+      continue;
+    }
     if (knownUrls.has(normalized)) continue;
     const africaExpressId = africaExpressProductId(it.url);
     if (africaExpressId && knownAfricaExpressIds.has(africaExpressId)) {
