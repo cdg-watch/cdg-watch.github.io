@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T22:03:46.650Z",
+  "updatedAt": "2026-11-27T22:06:23.087Z",
   "items": [
     {
       "id": "58038497c47ef2d8",
@@ -10,10 +10,13 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-27T22:03:36.935Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": [
-        "インタビュー"
-      ]
+        "新作",
+        "コラボ"
+      ],
+      "cluster": "cdg-bearbrick-holidays-2026",
+      "importance": 2
     },
     {
       "id": "ff251484038a53b6",
@@ -24,8 +27,12 @@
       "image": "https://www.fashion-press.net/img/news/153961/top.jpg?1795755371",
       "feed": "Fashion Press",
       "fetchedAt": "2026-11-27T22:03:36.186Z",
-      "summary": null,
-      "tags": []
+      "summary": "コム デ ギャルソン・パルファムが、新作「トゥー ベチバー」を含む5種の香水を9mLの小石形ミニボトルに詰めた「ミニチュア セット」(26,400円)を12月1日に直営店先行発売。",
+      "tags": [
+        "新作"
+      ],
+      "cluster": "cdg-wallet-parfums-extrasmall-2026",
+      "importance": 2
     },
     {
       "id": "7ba469b1a447c107",
@@ -36,8 +43,12 @@
       "image": "https://www.fashion-press.net/img/news/153960/top.jpg?1795753088",
       "feed": "Fashion Press",
       "fetchedAt": "2026-11-27T22:03:36.186Z",
-      "summary": null,
-      "tags": []
+      "summary": "ウォレット・コム デ ギャルソンから一回り小さいサイズの新作「エクストラ スモール」シリーズを12月1日発売。フック付きで二つ折りジップ(30,800円)、L字型ジップ(17,600円)、ジップポーチ(16,500円)の3型。",
+      "tags": [
+        "新作"
+      ],
+      "cluster": "cdg-wallet-parfums-extrasmall-2026",
+      "importance": 2
     },
     {
       "id": "089681e7290f2584",
@@ -48,10 +59,12 @@
       "image": "https://media.cdg-freak.com/reader-thumbnails/74a56c2a2d5dab7d3efc290fda17d8a3-landscape-960.f5b7adcc232c.webp",
       "feed": "CDG FREAK",
       "fetchedAt": "2026-11-27T22:03:19.933Z",
-      "summary": null,
+      "summary": "ウォレット・コム デ ギャルソンのフック付き新作小型財布「EXTRA SMALL」と、パルファムの新作含む9ml香水5種セットが12月1日に各正規取扱店で発売。",
       "tags": [
         "新作"
-      ]
+      ],
+      "cluster": "cdg-wallet-parfums-extrasmall-2026",
+      "importance": 2
     },
     {
       "id": "bedfe5f4cae06e3f",
@@ -147,18 +160,6 @@
         "二次流通"
       ],
       "importance": 1
-    },
-    {
-      "id": "ad0ca1b488f1ca88",
-      "title": "Kyoichi Tsuzuki Goes Behind Closed Doors With Japan’s Most Devoted Fashion Collectors",
-      "url": "https://10magazine.com/kyoichi-tsuzuki-goes-behind-closed-doors-with-japans-most-devoted-fashion-collectors/",
-      "publishedAt": "2026-11-23T15:09:17.000Z",
-      "publisher": null,
-      "image": null,
-      "feed": "10 Magazine",
-      "fetchedAt": "2026-11-27T22:03:30.219Z",
-      "summary": null,
-      "tags": []
     },
     {
       "id": "193a3a5a31c3b412",
@@ -859,7 +860,7 @@
       "image": null,
       "feed": "Google News (日本語)",
       "fetchedAt": "2026-11-27T22:03:36.935Z",
-      "summary": null,
+      "summary": "(要約取得不可)",
       "tags": []
     },
     {
